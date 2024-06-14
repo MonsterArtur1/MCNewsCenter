@@ -1,0 +1,53 @@
+{
+	"News": [
+		{
+			"ID": "maintenance11232",
+			"Tags": [
+				"Online"
+			],
+			"PlatformsToShowOn": -1,
+			"StartDateTicks": 638531324000000000,
+			"EndDateTicks": 638542656000000000,
+			"ShouldOpenNewsCenter": false,
+			"PresetImageName": "Maintenance",
+			"RemoteImageName": "",
+			"TitleEntries": [
+				{
+					"Language": "en",
+					"Entry": "Online Maintenance - May 27"
+				}
+			],
+			"ContentEntries": [
+				{
+					"Language": "en",
+					"Entry": "Dear Birders!  On Monday, May 27 from 07:30 until 12:00 CET, we will conduct maintenance works on the Wingspan online server. They are intended to stabilize the execution of work on our games' online servers. During this time, entering online mode will be impossible.  ‼□ IMPORTANT ‼□ Please end all your matches before the maintenance and do not start any new ones close to the maintenance hours. Otherwise, there's a risk of losing ongoing games and karma points.  Let your fellow birders know about online maintenance, so the process can go smoothly.  We apologize for the inconvenience.   PS. Our server provider is also planning to perform maintenance works, scheduled for June 18. It's going to take more time than previous maintenance. We will let you know closer to its starting date."
+				}
+			]
+		},
+		{
+			"ID": "dsadadssaa655vfv",
+			"Tags": [
+				"Patch",
+				"Wingspan"
+			],
+			"PlatformsToShowOn": -1,
+			"StartDateTicks": 638531324000000000,
+			"EndDateTicks": 638542656000000000,
+			"ShouldOpenNewsCenter": false,
+			"PresetImageName": "",
+			"RemoteImageName": "NewsImage_Test.png",
+			"TitleEntries": [
+				{
+					"Language": "en",
+					"Entry": "Woodland Wonders!"
+				}
+			],
+			"ContentEntries": [
+				{
+					"Language": "en",
+					"Entry": "Hi there, Birders!  How have you been? We hope you had a wonderful weekend. We also hope you’re ready to decorate (or redecorate) your Wingspan experience, because there’s an entirely new Decoration Pack landing today! It’s called……and just as the name suggests, this forest-filled and plant-packed bag of wonders includes both backgrounds and avatars representing various iconic forests of the world, as well as the denizens that dwell within. For example, you’ll be able to explore the Boreal Forest - haven amidst the harsh northern frosts and home to the Sable, or take a trip to red-hot Africa, where you'll encounter the long-necked Giraffe in a Baobab Forest full of massive trees. But that’s just a part of what you’ll be able to find hiding in the thicket. The pack contains 6 forest backgrounds and 6 thematic player portraits featuring all kinds of beautiful animals, one for each of the new backdrops. Here’s the full list of what’s included:  Backgrounds Boreal Forest Evergreen Forest Broadleaf Forest Baobab Forest Jungle Rainforest Sequoia Forest  Player Portraits Sable Frog Otter Giraffe Superb Bird of Paradise Opossum  With these, you’ll be able to make your Wingspan experience even greener! And with green being the color associated with feelings such as balance, serenity, and joy, your cozy preserves will become even more relaxing than ever."
+				}
+			]
+		}
+	]
+}
