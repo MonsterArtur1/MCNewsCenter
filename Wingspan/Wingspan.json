@@ -1,1 +1,291 @@
+{
+	"News": [
+		{
+			"ID": "ma332in11232",
+			"Tags": [
+				"Online"
+			],
+			"PlatformsToShowOn": -1,
+			"StartDateTicks": 638431324000000000,
+			"EndDateTicks": 638942656000000000,
+			"Priority": 1,
+			"PresetImageName": "Maintenance",
+			"RemoteImageName": "",
+			"Title": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "Test News"
+					}
+				]
+			},
+			"Header": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "Test News Header"
+					}
+				]
+			},
+			"Content": [
+				{
+					"PlatformsToShowOn": -1,
+					"Text": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "On Tuesday, June 18 at 10 AM UTC, our online service provider, Nakama, is going to conduct server maintenance. Its scheduled duration is 6 hours."
+							}
+						]
+					}
+				},
+				{
+					"PlatformsToShowOn": -1,
+					"Text": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "As with every online maintenance, please end all your matches before the maintenance and do not start any new ones close to the maintenance hours. Otherwise, there's a risk of losing ongoing games and karma points. Let your fellow birders know about online maintenance, so the process can go smoothly.  We apologize for the inconvenience."
+							}
+						]
+					}
+				}
+			],
+			"Actions": [
+				{
+					"ActionType": 0,
+					"PlatformsToShowOn": 271,
+					"Value": "https://monstercouch.com/",
+					"ButtonText": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "Monster Couch website"
+							}
+						]
+					}
+				},
+				{
+					"ActionType": 1,
+					"PlatformsToShowOn": 259,
+					"Value": "OE_DLC",
+					"ButtonText": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "Oceania in store"
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"ID": "hotfi12x1",
+			"Tags": [
+				"Online"
+			],
+			"PlatformsToShowOn": -1,
+			"StartDateTicks": 638511324000000000,
+			"EndDateTicks": 638942656000000000,
+			"Priority": 1,
+			"PresetImageName": "",
+			"RemoteImageName": "NewsImage_Test.png",
+			"Title": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "Hotfix - May 20"
+					}
+				]
+			},
+			"Header": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "Hotfix - May 20"
+					}
+				]
+			},
+			"Content": [
+				{
+					"PlatformsToShowOn": -1,
+					"Text": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "Birders! A fresh hotfix is heading your way!In this one we're introducing minor online fixes, so please make sure to update your game! The hotfix is now available on Steam! Also, it's been a week since the release of the Woodland Wonders Decorative Pack! We hope you're having fun exploring these new enchanting forests! Have a feathery rest of the week!"
+							}
+						]
+					}
+				}
+			],
+			"Actions": []
+		},
+		{
+			"ID": "dsaids124ai23",
+			"Tags": [
+				"Online"
+			],
+			"PlatformsToShowOn": -1,
+			"StartDateTicks": 637531324000000000,
+			"EndDateTicks": 638942656000000000,
+			"Priority": 1,
+			"PresetImageName": "",
+			"RemoteImageName": "NewsImage_Test.png",
+			"Title": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "New Weekly Challenge"
+					}
+				]
+			},
+			"Header": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "New Weekly Challenge - New Background"
+					}
+				]
+			},
+			"Content": [
+				{
+					"PlatformsToShowOn": -1,
+					"Text": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "In addition to yesterday's released Woodland Wonders Decorative Pack a new free cozy background has also landed in Wingspan, dignifying this week's challenge. Have you already had a chance to become a Champ of the Birds in this beautiful scenery? </br>P.S. Remember to update the game if you haven't already done so. It is necessary to get into the online mode and unlock all the new features available in the game."
+							}
+						]
+					}
+				}
+			],
+			"Actions": []
+		},
+		{
+			"ID": "sda2441454145",
+			"Tags": [
+				"Online"
+			],
+			"PlatformsToShowOn": -1,
+			"StartDateTicks": 638531324000000000,
+			"EndDateTicks": 638942656000000000,
+			"Priority": 1,
+			"PresetImageName": "",
+			"RemoteImageName": "NewsImage_Test.png",
+			"Title": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "Hotfix - April 22"
+					}
+				]
+			},
+			"Header": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "Hotfix - April 22"
+					}
+				]
+			},
+			"Content": [
+				{
+					"PlatformsToShowOn": -1,
+					"Text": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "Birders! A new hotfix is flying your way! In this one, we're taking care of several issues with bird powers, encouraging a few birds to fully show their feathers by fixing their animations and more. Also, joining Online matches is now improved. The hotfix is now available on Steam! Check out the changelog below: </br>Fix for nectar appearing in some bird powers when playing without Oceania Expansion. </br>FFix for Turkey Vulture being triggered by Sacred Kingfisher. </br>FFix for players not being able to pay with cached seed while using Kea's power or Grassland bonus conversions.</br>FFixed several birds' animations.</br>Fix for instances of online matches showing two players the same starting hand</br>FOnline matches will now assign joining players to their seats in the correct order. </br>Have a great week and remember: keep your beaks sharp and your game up-to-date!"
+							}
+						]
+					}
+				}
+			],
+			"Actions": []
+		},
+		{
+			"ID": "main886eaasnce11232",
+			"Tags": [
+				"Online"
+			],
+			"PlatformsToShowOn": -1,
+			"StartDateTicks": 638531324000000000,
+			"EndDateTicks": 638942656000000000,
+			"Priority": 1,
+			"PresetImageName": "",
+			"RemoteImageName": "NewsImage_Test.png",
+			"Title": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "Test News"
+					}
+				]
+			},
+			"Header": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "Test News Header"
+					}
+				]
+			},
+			"Content": [
+				{
+					"PlatformsToShowOn": -1,
+					"Text": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "On Tuesday, June 18 at 10 AM UTC, our online service provider, Nakama, is going to conduct server maintenance. Its scheduled duration is 6 hours."
+							}
+						]
+					}
+				},
+				{
+					"PlatformsToShowOn": -1,
+					"Text": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "As with every online maintenance, please end all your matches before the maintenance and do not start any new ones close to the maintenance hours. Otherwise, there's a risk of losing ongoing games and karma points. Let your fellow birders know about online maintenance, so the process can go smoothly.  We apologize for the inconvenience."
+							}
+						]
+					}
+				}
+			],
+			"Actions": [
+				{
+					"ActionType": 0,
+					"PlatformsToShowOn": 271,
+					"Value": "https://monstercouch.com/",
+					"ButtonText": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "Monster Couch website"
+							}
+						]
+					}
+				},
+				{
+					"ActionType": 1,
+					"PlatformsToShowOn": 259,
+					"Value": "OE_DLC",
+					"ButtonText": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "Oceania in store"
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}
 
