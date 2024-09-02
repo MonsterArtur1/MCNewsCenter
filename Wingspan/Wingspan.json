@@ -380,7 +380,7 @@
 			],
 			"PlatformsToShowOn": 16,
 			"StartDateTicks": 638608320000000000,
-			"EndDateTicks": 638608320000000000,
+			"EndDateTicks": 946391904000000000,
 			"Priority": 1,
 			"PresetImageName": "Online",
 			"RemoteImageName": "",
@@ -930,6 +930,370 @@
 				}
 			],
 			"Actions": []
+		},
+		{
+			"ID": "0d6f9dd0-3257-43ce-ab27-4bc967cbd751",
+			"Tags": [
+				"Update",
+				"NewContent"
+			],
+			"PlatformsToShowOn": 303,
+			"StartDateTicks": 638608320000000000,
+			"EndDateTicks": 946391904000000000,
+			"Priority": 1,
+			"PresetImageName": "Online",
+			"RemoteImageName": "",
+			"Title": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "Patch"
+					},
+					{
+						"Language": "pl",
+						"Text": "Łatka"
+					},
+					{
+						"Language": "de",
+						"Text": "Patch"
+					},
+					{
+						"Language": "fr",
+						"Text": "Patch"
+					},
+					{
+						"Language": "es",
+						"Text": "Parche"
+					},
+					{
+						"Language": "pt-BR",
+						"Text": "Patch"
+					},
+					{
+						"Language": "ja",
+						"Text": "パッチ"
+					},
+					{
+						"Language": "ru",
+						"Text": "Обновление"
+					},
+					{
+						"Language": "zh",
+						"Text": "Patch"
+					},
+					{
+						"Language": "zh-Hant",
+						"Text": "補丁"
+					},
+					{
+						"Language": "it",
+						"Text": "Patch"
+					},
+					{
+						"Language": "ko",
+						"Text": "Patch"
+					},
+					{
+						"Language": "uk",
+						"Text": "Патч"
+					}
+				]
+			},
+			"Header": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "A new patch has landed! "
+					},
+					{
+						"Language": "pl",
+						"Text": "Nowa łatka właśnie wylądowała!"
+					},
+					{
+						"Language": "de",
+						"Text": "Ein neuer Patch ist gelandet! "
+					},
+					{
+						"Language": "fr",
+						"Text": "Un nouveau patch a déployé ses ailes ! "
+					},
+					{
+						"Language": "es",
+						"Text": "¡Acaba de aterrizar un parche nuevo! "
+					},
+					{
+						"Language": "pt-BR",
+						"Text": "Um novo patch acaba de pousar! "
+					},
+					{
+						"Language": "ja",
+						"Text": "新たなパッチが到着！ "
+					},
+					{
+						"Language": "ru",
+						"Text": "Вышло свежее обновление! "
+					},
+					{
+						"Language": "zh",
+						"Text": "A new patch has landed! "
+					},
+					{
+						"Language": "zh-Hant",
+						"Text": "全新補丁已上線！"
+					},
+					{
+						"Language": "it",
+						"Text": "Una nuova patch è atterrata!"
+					},
+					{
+						"Language": "ko",
+						"Text": "A new patch has landed! "
+					},
+					{
+						"Language": "uk",
+						"Text": "Патч у гнізді! "
+					}
+				]
+			},
+			"Content": [
+				{
+					"PlatformsToShowOn": 303,
+					"Text": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "We're back with a brand new update!\r\nIn this update, we continue our work to improve Wingspan and bring you the best experience we can. \r\nThank you so much for your reports and feedback! \r\nPlease remember to update your game!\r\n\r\nCheck out the patchnotes here:"
+							},
+							{
+								"Language": "pl",
+								"Text": "Wracamy ze świeżą aktualizacją! Kontynuujemy prace nad ulepszaniem Na Skrzydłach i zapewnieniem Ci możliwie najlepszego doświadczenia. Bardzo dziękujemy za Twoje zgłoszenia i opinie! Pamiętaj, aby zaktualizować grę! Sprawdź zmiany poniżej:"
+							},
+							{
+								"Language": "de",
+								"Text": "Wir sind zurück mit einem ganz neuen Update!\r\nEs enthält weitere Verbesserungen für Wingspan (Flügelschlag) und macht das Spielerlebnis hoffentlich noch angenehmer.\r\nVielen Dank für all die Meldungen und das Feedback!\r\nBitte denk daran, das Spiel zu aktualisieren!\r\n\r\nHier findest du die Infos zum Patch:"
+							},
+							{
+								"Language": "fr",
+								"Text": "Nous revenons avec un nouvelle mise à jour !\r\nCelle-ci nous permet de continuer à améliorer Wingspan pour vous offrir la meilleure expérience possible. \r\nMerci infiniment pour vos retours et vos signalements ! \r\nN’oubliez pas de mettre votre jeu à jour !\r\n\r\nConsultez les notes de patch ci-dessous :"
+							},
+							{
+								"Language": "es",
+								"Text": "¡Hemos vuelto con un parche bien fresquito!\r\nEn él seguimos mejorando Wingspan para ofreceros la mejor experiencia posible.\r\nGracias por todos vuestros informes y opiniones.\r\n¡No olvidéis actualizar vuestro juego!\r\n\r\nEchad un vistazo a las notas del parche que os dejamos aquí abajo:"
+							},
+							{
+								"Language": "pt-BR",
+								"Text": "Estamos de volta com uma nova atualização!\r\nCom ela, continuamos nosso trabalho para melhorar o Wingspan e apresentar a melhor experiência possível.\r\nMuito obrigado por seus relatórios e feedback!\r\nPor favor, lembre-se de atualizar seu jogo!\r\n\r\nConfira aqui as notas do patch:"
+							},
+							{
+								"Language": "ja",
+								"Text": "最新アップデートをお届け！\r\n本アップデートで『ウィングスパン』をより良くし、皆様に最高の体験をお届けいたします！\r\nご報告、ご意見をいただき感謝いたします！\r\nゲームを必ずアップデートしてください。\r\n\r\nパッチノートはこちら："
+							},
+							{
+								"Language": "ru",
+								"Text": "Мы подготовили для вас свежее обновление!\r\nМы продолжаем совершенствовать Wingspan, чтобы игра радовала вас еще больше. \r\nБлагодарим вас за отзывы и сообщения об ошибках! \r\nНе забудьте обновить игру!\r\n\r\nСписок нововведений можно найти здесь:"
+							},
+							{
+								"Language": "zh",
+								"Text": "We're back with a brand new update!\r\nIn this update, we continue our work to improve Wingspan and bring you the best experience we can. \r\nThank you so much for your reports and feedback! \r\nPlease remember to update your game!\r\n\r\nCheck out the patchnotes here:"
+							},
+							{
+								"Language": "zh-Hant",
+								"Text": "遊戲更新現已就緒！\r\n本次更新中，我們繼續優化《展翅翱翔》，盡我們所能地改善其體驗。\r\n感謝各位的反饋與報告！ \r\n請及時更新遊戲！\r\n\r\n更新日誌詳見下文："
+							},
+							{
+								"Language": "it",
+								"Text": "Siamo tornati con un nuovissimo aggiornamento!\r\nCon questo aggiornamento continuiamo a migliorare Wingspan e a proporre l’esperienza migliore possibile.\r\nGrazie mille per le vostre segnalazioni e opinioni!\r\nE ricordatevi di aggiornare il gioco!\r\n\r\nDi seguito riportiamo le note della patch:"
+							},
+							{
+								"Language": "ko",
+								"Text": "We're back with a brand new update!\r\nIn this update, we continue our work to improve Wingspan and bring you the best experience we can. \r\nThank you so much for your reports and feedback! \r\nPlease remember to update your game!\r\n\r\nCheck out the patchnotes here:"
+							},
+							{
+								"Language": "uk",
+								"Text": "Ми повернулися з черговим оновленням!\r\nУ ньому ми попрацювали над поліпшенням «Крил», щоб ви отримали найкращі враження від гри. \r\nЩиро дякуємо за ваші звіти й відгуки! \r\nНе забудьте оновитися!\r\n\r\nДеталі оновлення доступні нижче:"
+							}
+						]
+					}
+				},
+				{
+					"PlatformsToShowOn": 32,
+					"Text": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "- \"News\" section added - game news and updates are now accessible through the game's main menu. \r\n- Empty slots on the bird tray are now visually represented when a power using them is activated.\r\n- Fix for Eurasian Collared-Dove and Common Starling not tucking cards when using nectar as an option to discard.\r\n- Fix for House Wren's power letting players to play a bird in an incorrect habitat.\r\n- Kakapo's power will now inform players that the bonus card deck is empty.\r\n- Minor power fixes for Pukeko, Kea, Greater Flamingo, Common Chaffinch, and Common Chiffchaff. \r\n- Fix for missing Polish and Chinese voiceover.\r\n"
+							},
+							{
+								"Language": "pl",
+								"Text": "- \"News\" section added - game news and updates are now accessible through the game's main menu. \r\n- Empty slots on the bird tray are now visually represented when a power using them is activated.\r\n- Fix for Eurasian Collared-Dove and Common Starling not tucking cards when using nectar as an option to discard.\r\n- Fix for House Wren's power letting players to play a bird in an incorrect habitat.\r\n- Kakapo's power will now inform players that the bonus card deck is empty.\r\n- Minor power fixes for Pukeko, Kea, Greater Flamingo, Common Chaffinch, and Common Chiffchaff. \r\n- Fix for missing Polish and Chinese voiceover.\r\n"
+							},
+							{
+								"Language": "de",
+								"Text": "- \"News\" section added - game news and updates are now accessible through the game's main menu. \r\n- Empty slots on the bird tray are now visually represented when a power using them is activated.\r\n- Fix for Eurasian Collared-Dove and Common Starling not tucking cards when using nectar as an option to discard.\r\n- Fix for House Wren's power letting players to play a bird in an incorrect habitat.\r\n- Kakapo's power will now inform players that the bonus card deck is empty.\r\n- Minor power fixes for Pukeko, Kea, Greater Flamingo, Common Chaffinch, and Common Chiffchaff. \r\n- Fix for missing Polish and Chinese voiceover.\r\n"
+							},
+							{
+								"Language": "fr",
+								"Text": "- \"News\" section added - game news and updates are now accessible through the game's main menu. \r\n- Empty slots on the bird tray are now visually represented when a power using them is activated.\r\n- Fix for Eurasian Collared-Dove and Common Starling not tucking cards when using nectar as an option to discard.\r\n- Fix for House Wren's power letting players to play a bird in an incorrect habitat.\r\n- Kakapo's power will now inform players that the bonus card deck is empty.\r\n- Minor power fixes for Pukeko, Kea, Greater Flamingo, Common Chaffinch, and Common Chiffchaff. \r\n- Fix for missing Polish and Chinese voiceover.\r\n"
+							},
+							{
+								"Language": "es",
+								"Text": "- \"News\" section added - game news and updates are now accessible through the game's main menu. \r\n- Empty slots on the bird tray are now visually represented when a power using them is activated.\r\n- Fix for Eurasian Collared-Dove and Common Starling not tucking cards when using nectar as an option to discard.\r\n- Fix for House Wren's power letting players to play a bird in an incorrect habitat.\r\n- Kakapo's power will now inform players that the bonus card deck is empty.\r\n- Minor power fixes for Pukeko, Kea, Greater Flamingo, Common Chaffinch, and Common Chiffchaff. \r\n- Fix for missing Polish and Chinese voiceover.\r\n"
+							},
+							{
+								"Language": "pt-BR",
+								"Text": "- \"News\" section added - game news and updates are now accessible through the game's main menu. \r\n- Empty slots on the bird tray are now visually represented when a power using them is activated.\r\n- Fix for Eurasian Collared-Dove and Common Starling not tucking cards when using nectar as an option to discard.\r\n- Fix for House Wren's power letting players to play a bird in an incorrect habitat.\r\n- Kakapo's power will now inform players that the bonus card deck is empty.\r\n- Minor power fixes for Pukeko, Kea, Greater Flamingo, Common Chaffinch, and Common Chiffchaff. \r\n- Fix for missing Polish and Chinese voiceover.\r\n"
+							},
+							{
+								"Language": "ja",
+								"Text": "- \"News\" section added - game news and updates are now accessible through the game's main menu. \r\n- Empty slots on the bird tray are now visually represented when a power using them is activated.\r\n- Fix for Eurasian Collared-Dove and Common Starling not tucking cards when using nectar as an option to discard.\r\n- Fix for House Wren's power letting players to play a bird in an incorrect habitat.\r\n- Kakapo's power will now inform players that the bonus card deck is empty.\r\n- Minor power fixes for Pukeko, Kea, Greater Flamingo, Common Chaffinch, and Common Chiffchaff. \r\n- Fix for missing Polish and Chinese voiceover.\r\n"
+							},
+							{
+								"Language": "ru",
+								"Text": "- \"News\" section added - game news and updates are now accessible through the game's main menu. \r\n- Empty slots on the bird tray are now visually represented when a power using them is activated.\r\n- Fix for Eurasian Collared-Dove and Common Starling not tucking cards when using nectar as an option to discard.\r\n- Fix for House Wren's power letting players to play a bird in an incorrect habitat.\r\n- Kakapo's power will now inform players that the bonus card deck is empty.\r\n- Minor power fixes for Pukeko, Kea, Greater Flamingo, Common Chaffinch, and Common Chiffchaff. \r\n- Fix for missing Polish and Chinese voiceover.\r\n"
+							},
+							{
+								"Language": "zh",
+								"Text": "- \"News\" section added - game news and updates are now accessible through the game's main menu. \r\n- Empty slots on the bird tray are now visually represented when a power using them is activated.\r\n- Fix for Eurasian Collared-Dove and Common Starling not tucking cards when using nectar as an option to discard.\r\n- Fix for House Wren's power letting players to play a bird in an incorrect habitat.\r\n- Kakapo's power will now inform players that the bonus card deck is empty.\r\n- Minor power fixes for Pukeko, Kea, Greater Flamingo, Common Chaffinch, and Common Chiffchaff. \r\n- Fix for missing Polish and Chinese voiceover.\r\n"
+							},
+							{
+								"Language": "zh-Hant",
+								"Text": "- \"News\" section added - game news and updates are now accessible through the game's main menu. \r\n- Empty slots on the bird tray are now visually represented when a power using them is activated.\r\n- Fix for Eurasian Collared-Dove and Common Starling not tucking cards when using nectar as an option to discard.\r\n- Fix for House Wren's power letting players to play a bird in an incorrect habitat.\r\n- Kakapo's power will now inform players that the bonus card deck is empty.\r\n- Minor power fixes for Pukeko, Kea, Greater Flamingo, Common Chaffinch, and Common Chiffchaff. \r\n- Fix for missing Polish and Chinese voiceover.\r\n"
+							},
+							{
+								"Language": "it",
+								"Text": "- \"News\" section added - game news and updates are now accessible through the game's main menu. \r\n- Empty slots on the bird tray are now visually represented when a power using them is activated.\r\n- Fix for Eurasian Collared-Dove and Common Starling not tucking cards when using nectar as an option to discard.\r\n- Fix for House Wren's power letting players to play a bird in an incorrect habitat.\r\n- Kakapo's power will now inform players that the bonus card deck is empty.\r\n- Minor power fixes for Pukeko, Kea, Greater Flamingo, Common Chaffinch, and Common Chiffchaff. \r\n- Fix for missing Polish and Chinese voiceover.\r\n"
+							},
+							{
+								"Language": "ko",
+								"Text": "- \"News\" section added - game news and updates are now accessible through the game's main menu. \r\n- Empty slots on the bird tray are now visually represented when a power using them is activated.\r\n- Fix for Eurasian Collared-Dove and Common Starling not tucking cards when using nectar as an option to discard.\r\n- Fix for House Wren's power letting players to play a bird in an incorrect habitat.\r\n- Kakapo's power will now inform players that the bonus card deck is empty.\r\n- Minor power fixes for Pukeko, Kea, Greater Flamingo, Common Chaffinch, and Common Chiffchaff. \r\n- Fix for missing Polish and Chinese voiceover.\r\n"
+							},
+							{
+								"Language": "uk",
+								"Text": "- \"News\" section added - game news and updates are now accessible through the game's main menu. \r\n- Empty slots on the bird tray are now visually represented when a power using them is activated.\r\n- Fix for Eurasian Collared-Dove and Common Starling not tucking cards when using nectar as an option to discard.\r\n- Fix for House Wren's power letting players to play a bird in an incorrect habitat.\r\n- Kakapo's power will now inform players that the bonus card deck is empty.\r\n- Minor power fixes for Pukeko, Kea, Greater Flamingo, Common Chaffinch, and Common Chiffchaff. \r\n- Fix for missing Polish and Chinese voiceover.\r\n"
+							}
+						]
+					}
+				}
+			],
+			"Actions": [
+				{
+					"ActionType": 0,
+					"PlatformsToShowOn": 257,
+					"Value": "https://bit.ly/4gbLcJS",
+					"ButtonText": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "PATCHNOTES"
+							},
+							{
+								"Language": "pl",
+								"Text": "Opis zmian"
+							},
+							{
+								"Language": "de",
+								"Text": "PATCHNOTES"
+							},
+							{
+								"Language": "fr",
+								"Text": "NOTES DE PATCH"
+							},
+							{
+								"Language": "es",
+								"Text": "NOTAS DEL PARCHE"
+							},
+							{
+								"Language": "pt-BR",
+								"Text": "NOTAS DO PATCH"
+							},
+							{
+								"Language": "ja",
+								"Text": "パッチノート"
+							},
+							{
+								"Language": "ru",
+								"Text": "СПИСОК НОВОВВЕДЕНИЙ"
+							},
+							{
+								"Language": "zh",
+								"Text": "PATCHNOTES"
+							},
+							{
+								"Language": "zh-Hant",
+								"Text": "更新日誌"
+							},
+							{
+								"Language": "it",
+								"Text": "NOTE DELLA PATCH"
+							},
+							{
+								"Language": "ko",
+								"Text": "PATCHNOTES"
+							},
+							{
+								"Language": "uk",
+								"Text": "ДЕТАЛІ ОНОВЛЕННЯ"
+							}
+						]
+					}
+				},
+				{
+					"ActionType": 0,
+					"PlatformsToShowOn": 0,
+					"Value": "",
+					"ButtonText": {
+						"LocalizedTexts": []
+					}
+				},
+				{
+					"ActionType": 0,
+					"PlatformsToShowOn": 0,
+					"Value": "",
+					"ButtonText": {
+						"LocalizedTexts": []
+					}
+				},
+				{
+					"ActionType": 0,
+					"PlatformsToShowOn": 0,
+					"Value": "",
+					"ButtonText": {
+						"LocalizedTexts": []
+					}
+				},
+				{
+					"ActionType": 0,
+					"PlatformsToShowOn": 0,
+					"Value": "",
+					"ButtonText": {
+						"LocalizedTexts": []
+					}
+				},
+				{
+					"ActionType": 0,
+					"PlatformsToShowOn": 0,
+					"Value": "",
+					"ButtonText": {
+						"LocalizedTexts": []
+					}
+				},
+				{
+					"ActionType": 0,
+					"PlatformsToShowOn": 0,
+					"Value": "",
+					"ButtonText": {
+						"LocalizedTexts": []
+					}
+				},
+				{
+					"ActionType": 0,
+					"PlatformsToShowOn": 0,
+					"Value": "",
+					"ButtonText": {
+						"LocalizedTexts": []
+					}
+				}
+			]
 		}
 	]
 }
