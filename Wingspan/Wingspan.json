@@ -6,7 +6,7 @@
 				"NewContent"
 			],
 			"PlatformsToShowOn": 16,
-			"StartDateTicks": 638608857000000000,
+			"StartDateTicks": 638608743000000000,
 			"EndDateTicks": 946391904000000000,
 			"Priority": 1,
 			"PresetImageName": "",
@@ -192,7 +192,7 @@
 				"NewContent"
 			],
 			"PlatformsToShowOn": 16,
-			"StartDateTicks": 638608863000000000,
+			"StartDateTicks": 638608752000000000,
 			"EndDateTicks": 946391904000000000,
 			"Priority": 1,
 			"PresetImageName": "",
@@ -379,7 +379,7 @@
 				"NewContent"
 			],
 			"PlatformsToShowOn": 16,
-			"StartDateTicks": 638608860000000000,
+			"StartDateTicks": 638608746000000000,
 			"EndDateTicks": 946391904000000000,
 			"Priority": 1,
 			"PresetImageName": "Online",
@@ -565,7 +565,7 @@
 				"NewContent"
 			],
 			"PlatformsToShowOn": 303,
-			"StartDateTicks": 638608857000000000,
+			"StartDateTicks": 638608743000000000,
 			"EndDateTicks": 946391904000000000,
 			"Priority": 1,
 			"PresetImageName": "",
@@ -751,7 +751,7 @@
 				"NewContent"
 			],
 			"PlatformsToShowOn": 431,
-			"StartDateTicks": 638608863000000000,
+			"StartDateTicks": 638608752000000000,
 			"EndDateTicks": 946391904000000000,
 			"Priority": 1,
 			"PresetImageName": "",
@@ -938,7 +938,7 @@
 				"NewContent"
 			],
 			"PlatformsToShowOn": 303,
-			"StartDateTicks": 638608860000000000,
+			"StartDateTicks": 638608746000000000,
 			"EndDateTicks": 946391904000000000,
 			"Priority": 1,
 			"PresetImageName": "Online",
