@@ -1,17 +1,202 @@
 {
 	"News": [
 		{
-			"ID": "5f141ae6-3242-4347-a318-472a31bd0e6c",
+			"ID": "a5d6f4b5-ef43-48ac-b3fd-f11c9c607572",
 			"Tags": [
-				"Update",
 				"NewContent"
 			],
-			"PlatformsToShowOn": 511,
-			"StartDateTicks": 638590176000000000,
+			"PlatformsToShowOn": 16,
+			"StartDateTicks": 638608320000000000,
 			"EndDateTicks": 946391904000000000,
 			"Priority": 1,
-			"PresetImageName": "MonsterCouch",
-			"RemoteImageName": "",
+			"PresetImageName": "",
+			"RemoteImageName": "Tray.jpg",
+			"Title": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "Empty slots in the bird tray"
+					},
+					{
+						"Language": "pl",
+						"Text": "Puste pola w tacce ptaków"
+					},
+					{
+						"Language": "de",
+						"Text": "Leere Felder in der Vogeltränke"
+					},
+					{
+						"Language": "fr",
+						"Text": "Emplacements vides dans le plateau Oiseaux"
+					},
+					{
+						"Language": "es",
+						"Text": "Espacios vacíos en la bandeja de aves"
+					},
+					{
+						"Language": "pt-BR",
+						"Text": "Espaços vazios na bandeja de aves"
+					},
+					{
+						"Language": "ja",
+						"Text": "カードトレイ上の空きスロット"
+					},
+					{
+						"Language": "ru",
+						"Text": "Пустые ячейки в авиарии"
+					},
+					{
+						"Language": "zh",
+						"Text": "鸟类托盘的空位"
+					},
+					{
+						"Language": "zh-Hant",
+						"Text": "鳥類托盤的空位"
+					},
+					{
+						"Language": "it",
+						"Text": "Slot vuoti nel raccoglitore per gli uccelli"
+					},
+					{
+						"Language": "ko",
+						"Text": "새 트레이의 빈 슬롯"
+					},
+					{
+						"Language": "uk",
+						"Text": "Порожні слоти в лотку з птахами"
+					}
+				]
+			},
+			"Header": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "The bird tray now shows an empty slot after drawing a card."
+					},
+					{
+						"Language": "pl",
+						"Text": "Tacka ptaków pokazuje teraz puste pola po dobraniu karty."
+					},
+					{
+						"Language": "de",
+						"Text": "Die Vogeltränke zeigt nach dem Ziehen von Karten nun die leeren Felder an."
+					},
+					{
+						"Language": "fr",
+						"Text": "Le plateau Oiseaux montre désormais un emplacement vide après le tirage d’une carte."
+					},
+					{
+						"Language": "es",
+						"Text": "La bandeja de aves ahora muestra un espacio vacío tras robar una carta."
+					},
+					{
+						"Language": "pt-BR",
+						"Text": "A bandeja de aves agora mostra um espaço vazio após comprar uma carta."
+					},
+					{
+						"Language": "ja",
+						"Text": "カードを引いた後、カードトレイに空きスロットが表示されるようになりました。"
+					},
+					{
+						"Language": "ru",
+						"Text": "После вытягивания карты в авиарии теперь отображается пустая ячейка."
+					},
+					{
+						"Language": "zh",
+						"Text": "在抽取卡牌后，鸟类托盘上会显示出空缺槽位。"
+					},
+					{
+						"Language": "zh-Hant",
+						"Text": "在抽取卡牌後，鳥類托盤上會顯示出空缺槽位。"
+					},
+					{
+						"Language": "it",
+						"Text": "Il raccoglitore ora mostra uno slot vuoto dopo aver pescato una carta."
+					},
+					{
+						"Language": "ko",
+						"Text": "이제 새 트레이에 카드를 뽑은 후 빈 슬롯이 표시됩니다."
+					},
+					{
+						"Language": "uk",
+						"Text": "У лотку з птахами тепер видно порожній слот після взяття картки."
+					}
+				]
+			},
+			"Content": [
+				{
+					"PlatformsToShowOn": 16,
+					"Text": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "We added a tiny feature to the bird tray. From now on, when you draw cards from the bird tray and then activate a bird power, allowing you to draw again from the tray, you will see the slots you took cards from are shown as empty."
+							},
+							{
+								"Language": "pl",
+								"Text": "Dodaliśmy drobną funkcję do tacki ptaków. Od teraz, kiedy dobierzesz karty z tacki, po czym aktywujesz moc ptaka pozwalającą ponownie dobrać karty z tacki, zobaczysz że miejsca, z których dobrałeś karty, pozostają widoczne jako puste."
+							},
+							{
+								"Language": "de",
+								"Text": "Wir haben eine kleine Neuerung an der Vogeltränke vorgenommen. Wenn du Karten aus der Vogeltränke ziehst und dann eine Vogelfähigkeit einsetzt, wodurch du wieder aus der Vogeltränke ziehen kannst, erscheinen von nun an die Felder leer, von denen die Karten gezogen wurden."
+							},
+							{
+								"Language": "fr",
+								"Text": "Nous avons ajouté une petite nouveauté au plateau Oiseaux. À partir de maintenant, quand vous tirez des cartes sur le plateau avant d’activer le pouvoir d’un oiseau qui vous autorise à tirer à nouveau une carte sur le plateau, vous verrez que les emplacements des cartes que vous avez tirées sont vides."
+							},
+							{
+								"Language": "es",
+								"Text": "Hemos añadido una pequeña característica a la bandeja de aves: a partir de ahora, cuando robéis cartas de la bandeja de aves y activéis un poder, podréis volver a robar de la bandeja y veréis que los espacios de donde cogisteis las cartas ahora aparecerán como espacios vacíos."
+							},
+							{
+								"Language": "pt-BR",
+								"Text": "Adicionamos um pequeno recurso à bandeja de aves. De agora em diante, quando você compra cartas da bandeja de aves e depois ativa um poder de ave que permite comprar novamente da bandeja, você verá os espaços dos quais você tirou cartas mostrados como vazios."
+							},
+							{
+								"Language": "ja",
+								"Text": "カードトレイにちょっとした機能を追加しました。今後は、カードトレイからカードを引き、鳥の能力を発動して再びトレイからカードを引けるようになると、カードを取ったスロットが空きスロットとして表示されるようになります。"
+							},
+							{
+								"Language": "ru",
+								"Text": "Для авиария добавлено небольшое улучшение. Теперь, когда вы вытягиваете карту из авиария и затем активируете свойство птицы, позволяющее снова вытянуть карту из авиария, ячейки, из которых были взяты карты, будут отображаться пустыми."
+							},
+							{
+								"Language": "zh",
+								"Text": "我们为鸟类托盘添加一个新的功能特性。从现在开始，当从鸟类托盘抽取卡牌并激活鸟类能力，允许你再次从托盘抽取鸟类卡牌时，你会看到刚才已抽取的槽位显示为空。"
+							},
+							{
+								"Language": "zh-Hant",
+								"Text": "我們為鳥類托盤添加一個新的功能特性。從現在開始，當從鳥類托盤抽取卡牌並激活鳥類能力，允許你再次從托盤抽取鳥類卡牌時，你會看到剛才已抽取的槽位顯示為空。"
+							},
+							{
+								"Language": "it",
+								"Text": "Abbiamo aggiunto una piccola funzione al raccoglitore per gli uccelli. Da ora in poi, quando peschi le carte dal raccoglitore e attivi l’abilità di un uccello, potrai pescare nuovamente dal raccoglitore e vedrai che gli slot dai quali hai pescato le carte sono vuoti."
+							},
+							{
+								"Language": "ko",
+								"Text": "새 트레이에 작은 기능을 추가했습니다. 이제부터 새 트레이에서 카드를 뽑은 후 새 능력을 활성화하여 트레이에서 다시 카드를 뽑을 수 있게 되면, 카드를 뽑은 슬롯이 비어 있는 것으로 표시됩니다."
+							},
+							{
+								"Language": "uk",
+								"Text": "Ми зовсім трішечки поліпшили лоток із птахами. Відтепер, коли ви берете карти з лотка, а потім активуєте властивість птаха, яка дає змогу взяти ще одну карту, то побачите, що слоти, з яких ви брали карти, позначено як порожні."
+							}
+						]
+					}
+				}
+			],
+			"Actions": []
+		},
+		{
+			"ID": "c121b65a-e469-4866-82b4-d5efd5fe2906",
+			"Tags": [
+				"NewContent"
+			],
+			"PlatformsToShowOn": 16,
+			"StartDateTicks": 638608320000000000,
+			"EndDateTicks": 946391904000000000,
+			"Priority": 1,
+			"PresetImageName": "",
+			"RemoteImageName": "NewsCenter.jpg",
 			"Title": {
 				"LocalizedTexts": [
 					{
@@ -20,51 +205,51 @@
 					},
 					{
 						"Language": "pl",
-						"Text": "The News"
+						"Text": "Aktualności"
 					},
 					{
 						"Language": "de",
-						"Text": "The News"
+						"Text": "Neuigkeitenbereich"
 					},
 					{
 						"Language": "fr",
-						"Text": "The News"
+						"Text": "Nouveautés"
 					},
 					{
 						"Language": "es",
-						"Text": "The News"
+						"Text": "Noticias"
 					},
 					{
 						"Language": "pt-BR",
-						"Text": "The News"
+						"Text": "Novidades"
 					},
 					{
 						"Language": "ja",
-						"Text": "The News"
+						"Text": "ニュース"
 					},
 					{
 						"Language": "ru",
-						"Text": "The News"
+						"Text": "Новости"
 					},
 					{
 						"Language": "zh",
-						"Text": "The News"
+						"Text": "消息中心"
 					},
 					{
 						"Language": "zh-Hant",
-						"Text": "The News"
+						"Text": "消息中心"
 					},
 					{
 						"Language": "it",
-						"Text": "The News"
+						"Text": "Notizie"
 					},
 					{
 						"Language": "ko",
-						"Text": "The News"
+						"Text": "뉴스"
 					},
 					{
 						"Language": "uk",
-						"Text": "The News"
+						"Text": "Новини"
 					}
 				]
 			},
@@ -72,114 +257,673 @@
 				"LocalizedTexts": [
 					{
 						"Language": "en",
-						"Text": "Welcome to The News!"
+						"Text": "Welcome to the News!"
 					},
 					{
 						"Language": "pl",
-						"Text": "Welcome to The News!"
+						"Text": "Witamy w Aktualnościach!"
 					},
 					{
 						"Language": "de",
-						"Text": "Welcome to The News!"
+						"Text": "Willkommen im Neuigkeitenbereich!"
 					},
 					{
 						"Language": "fr",
-						"Text": "Welcome to The News!"
+						"Text": "Bienvenue dans les nouveautés !"
 					},
 					{
 						"Language": "es",
-						"Text": "Welcome to The News!"
+						"Text": "¡Te damos la bienvenida a las novedades!"
 					},
 					{
 						"Language": "pt-BR",
-						"Text": "Welcome to The News!"
+						"Text": "Sejam bem-vindos às Notícias!"
 					},
 					{
 						"Language": "ja",
-						"Text": "Welcome to The News!"
+						"Text": "ニュース機能をご紹介！"
 					},
 					{
 						"Language": "ru",
-						"Text": "Welcome to The News!"
+						"Text": "Встречайте раздел «Новости»!"
 					},
 					{
 						"Language": "zh",
-						"Text": "Welcome to The News!"
+						"Text": "欢迎查看新闻！"
 					},
 					{
 						"Language": "zh-Hant",
-						"Text": "Welcome to The News!"
+						"Text": "歡迎查看新聞！"
 					},
 					{
 						"Language": "it",
-						"Text": "Welcome to The News!"
+						"Text": "Notizie a portata di mano!"
 					},
 					{
 						"Language": "ko",
-						"Text": "Welcome to The News!"
+						"Text": "뉴스에 오신 것을 환영합니다!"
 					},
 					{
 						"Language": "uk",
-						"Text": "Welcome to The News!"
+						"Text": "Вітаємо в «Новинах»!"
 					}
 				]
 			},
 			"Content": [
 				{
-					"PlatformsToShowOn": 511,
+					"PlatformsToShowOn": 16,
 					"Text": {
 						"LocalizedTexts": [
 							{
 								"Language": "en",
-								"Text": "A new feature landed in the main menu - let us introduce The News! From now on you will find here all the crucial updates about patches, upcoming online maintenance, new game content, and other... So keep your eyes peeled for the feather in the main menu indicating more news coming your way!"
+								"Text": "A new feature landed in the main menu - let us introduce the News! From now on you will find there all the crucial updates about patches, upcoming online maintenance works, new game content, and other... So keep your eyes peeled for a shiny feather in the main menu meaning a fresh announcement awaits!"
 							},
 							{
 								"Language": "pl",
-								"Text": "A new feature landed in the main menu - let us introduce The News! From now on you will find here all the crucial updates about patches, upcoming online maintenance, new game content, and other... So keep your eyes peeled for the feather in the main menu indicating more news coming your way!"
+								"Text": "Nowa funkcja wylądowała właśnie w menu głównym - przedstawiamy Aktualności! Znajdziesz tam wszystkie najważniejsze informacje o aktualizacjach, nadchodzących pracach konserwacyjnych trybu online, nowej zawartości w grze i wiele więcej! Wypatruj zatem błyszczącego piórka w menu głównym - da ci znać, że nowe ogłoszenie już czeka."
 							},
 							{
 								"Language": "de",
-								"Text": "A new feature landed in the main menu - let us introduce The News! From now on you will find here all the crucial updates about patches, upcoming online maintenance, new game content, and other... So keep your eyes peeled for the feather in the main menu indicating more news coming your way!"
+								"Text": "Es gibt einen neuen Abschnitt im Hauptmenü – wir führen „Neuigkeiten“ ein! Ab jetzt findest du dort alle wichtigen Updates zu Patches, anstehenden Wartungen, neuen Spielinhalten und mehr … Halte also die Augen offen nach einer glänzenden Feder im Hauptmenü, denn das heißt, eine Ankündigung wartet!"
 							},
 							{
 								"Language": "fr",
-								"Text": "A new feature landed in the main menu - let us introduce The News! From now on you will find here all the crucial updates about patches, upcoming online maintenance, new game content, and other... So keep your eyes peeled for the feather in the main menu indicating more news coming your way!"
+								"Text": "Une nouvelle fonctionnalité a fait son arrivée dans le menu principal : merci d’accueillir les nouveautés ! Maintenant, vous pourrez trouver toutes les actualités majeures concernant les patchs, les opérations de maintenance à venir, les nouveaux contenus du jeu, etc… Ouvrez l’œil, une plume brillante dans le menu principal signifie qu’une toute nouvelle annonce vous attend !"
 							},
 							{
 								"Language": "es",
-								"Text": "A new feature landed in the main menu - let us introduce The News! From now on you will find here all the crucial updates about patches, upcoming online maintenance, new game content, and other... So keep your eyes peeled for the feather in the main menu indicating more news coming your way!"
+								"Text": "Ha llegado una nueva función al menú principal: ¡os presentamos las noticias! De ahora en adelante aquí encontrareis todas las actualizaciones importantes sobre parches, próximas labores de mantenimiento, contenido del juego, entre otros. Así que estad alerta y buscad una pluma brillante en el menú, pues eso significará que hay una novedad esperando."
 							},
 							{
 								"Language": "pt-BR",
-								"Text": "A new feature landed in the main menu - let us introduce The News! From now on you will find here all the crucial updates about patches, upcoming online maintenance, new game content, and other... So keep your eyes peeled for the feather in the main menu indicating more news coming your way!"
+								"Text": "Um novo recurso pousou no menu principal: apresentamos as Notícias! De agora em diante, você encontrará lá todas as atualizações cruciais sobre patches, próximos trabalhos de manutenção online, novos conteúdos do jogo e outras coisas. Então fique de olho em uma pena brilhante no menu principal, indicando que há um novo anúncio!"
 							},
 							{
 								"Language": "ja",
-								"Text": "A new feature landed in the main menu - let us introduce The News! From now on you will find here all the crucial updates about patches, upcoming online maintenance, new game content, and other... So keep your eyes peeled for the feather in the main menu indicating more news coming your way!"
+								"Text": "メインメニューに新機能が追加されました！パッチ、今後のオンラインメンテナンス、新たなゲームコンテンツ等に関する重要なアップデートをすべて確認できます。メインメニューの光る羽根にご注目ください！メインメニューに光る羽根があれば、新しいお知らせがある目印になります！"
 							},
 							{
 								"Language": "ru",
-								"Text": "A new feature landed in the main menu - let us introduce The News! From now on you will find here all the crucial updates about patches, upcoming online maintenance, new game content, and other... So keep your eyes peeled for the feather in the main menu indicating more news coming your way!"
+								"Text": "В главном меню появилась новая функция — встречайте «Новости»! Здесь вы сможете найти все важные сведения об обновлениях, предстоящих технических работах, новом игровом контенте и многом другом. Так что обращайте внимание на сверкающее перо в главном меню — оно означает, что есть свежее объявление!"
 							},
 							{
 								"Language": "zh",
-								"Text": "A new feature landed in the main menu - let us introduce The News! From now on you will find here all the crucial updates about patches, upcoming online maintenance, new game content, and other... So keep your eyes peeled for the feather in the main menu indicating more news coming your way!"
+								"Text": "主菜单新增了一项新功能——新闻！从现在开始，您可以在这里找到所有重要更新信息，包括补丁、即将进行的在线维护、新的游戏内容等……所以当您看到主菜单上闪亮的羽毛时，记得留意，这意味着全新公告已经就绪！"
 							},
 							{
 								"Language": "zh-Hant",
-								"Text": "A new feature landed in the main menu - let us introduce The News! From now on you will find here all the crucial updates about patches, upcoming online maintenance, new game content, and other... So keep your eyes peeled for the feather in the main menu indicating more news coming your way!"
+								"Text": "主菜單新增了一項新功能——新聞！從現在開始，您可以在這裡找到所有重要更新信息，包括補丁、即將進行的在線維護、新的遊戲內容等……所以當您看到主菜單上閃亮的羽毛時，記得留意，這意味著全新公告已經就緒！"
 							},
 							{
 								"Language": "it",
-								"Text": "A new feature landed in the main menu - let us introduce The News! From now on you will find here all the crucial updates about patches, upcoming online maintenance, new game content, and other... So keep your eyes peeled for the feather in the main menu indicating more news coming your way!"
+								"Text": "Siamo felici di presentare la nuova funzione del menu principale: le notizie! Da questo momento in poi, potrai trovare informazioni sugli aggiornamenti più importanti, sulle patch, sui lavori di manutenzione in programma, sui nuovi contenuti di gioco e molto altro ancora... Tieni gli occhi aperti e, quando avvisti una piuma lucente nel menu principale, significa che c’è un nuovo annuncio che ti attende!"
 							},
 							{
 								"Language": "ko",
-								"Text": "A new feature landed in the main menu - let us introduce The News! From now on you will find here all the crucial updates about patches, upcoming online maintenance, new game content, and other... So keep your eyes peeled for the feather in the main menu indicating more news coming your way!"
+								"Text": "메인 메뉴에 새롭게 추가된 기능, 뉴스를 소개합니다! 이제부터 패치, 예정된 온라인 점검, 새로운 게임 콘텐츠, 기타 중요한 업데이트에 대한 모든 정보를 확인할 수 있습니다. 메인 메뉴의 깃털이 반짝이면 새로운 소식이 있다는 뜻이니 눈여겨보세요!"
 							},
 							{
 								"Language": "uk",
-								"Text": "A new feature landed in the main menu - let us introduce The News! From now on you will find here all the crucial updates about patches, upcoming online maintenance, new game content, and other... So keep your eyes peeled for the feather in the main menu indicating more news coming your way!"
+								"Text": "У головному меню з'явилася нова функція: знайомтеся, новини! Відтепер там можна знайти всю важливу інформацію про оновлення й виправлення, заплановані технічні обслуговування, новий ігровий вміст і багато чого ще... Тож пильнуйте, щоб не проґавити блискучу пір'їнку в головному меню: вона вказує на появу нового оголошення!"
+							}
+						]
+					}
+				}
+			],
+			"Actions": []
+		},
+		{
+			"ID": "152580f1-fd52-4bf3-8dad-43c3c455cb62",
+			"Tags": [
+				"Update",
+				"NewContent"
+			],
+			"PlatformsToShowOn": 16,
+			"StartDateTicks": 638608320000000000,
+			"EndDateTicks": 638608320000000000,
+			"Priority": 1,
+			"PresetImageName": "Online",
+			"RemoteImageName": "",
+			"Title": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "Patch"
+					},
+					{
+						"Language": "pl",
+						"Text": "Łatka"
+					},
+					{
+						"Language": "de",
+						"Text": "Patch"
+					},
+					{
+						"Language": "fr",
+						"Text": "Patch"
+					},
+					{
+						"Language": "es",
+						"Text": "Parche"
+					},
+					{
+						"Language": "pt-BR",
+						"Text": "Patch"
+					},
+					{
+						"Language": "ja",
+						"Text": "パッチ"
+					},
+					{
+						"Language": "ru",
+						"Text": "Обновление"
+					},
+					{
+						"Language": "zh",
+						"Text": "补丁"
+					},
+					{
+						"Language": "zh-Hant",
+						"Text": "補丁"
+					},
+					{
+						"Language": "it",
+						"Text": "Patch"
+					},
+					{
+						"Language": "ko",
+						"Text": "패치"
+					},
+					{
+						"Language": "uk",
+						"Text": "Патч"
+					}
+				]
+			},
+			"Header": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "A new patch has landed! "
+					},
+					{
+						"Language": "pl",
+						"Text": "Nowa łatka właśnie wylądowała!"
+					},
+					{
+						"Language": "de",
+						"Text": "Ein neuer Patch ist gelandet! "
+					},
+					{
+						"Language": "fr",
+						"Text": "Un nouveau patch a déployé ses ailes ! "
+					},
+					{
+						"Language": "es",
+						"Text": "¡Acaba de aterrizar un parche nuevo! "
+					},
+					{
+						"Language": "pt-BR",
+						"Text": "Um novo patch acaba de pousar! "
+					},
+					{
+						"Language": "ja",
+						"Text": "新たなパッチが到着！ "
+					},
+					{
+						"Language": "ru",
+						"Text": "Вышло свежее обновление! "
+					},
+					{
+						"Language": "zh",
+						"Text": "全新补丁已上线！"
+					},
+					{
+						"Language": "zh-Hant",
+						"Text": "全新補丁已上線！"
+					},
+					{
+						"Language": "it",
+						"Text": "Una nuova patch è atterrata!"
+					},
+					{
+						"Language": "ko",
+						"Text": "새로운 패치가 출시되었습니다!"
+					},
+					{
+						"Language": "uk",
+						"Text": "Патч у гнізді! "
+					}
+				]
+			},
+			"Content": [
+				{
+					"PlatformsToShowOn": 16,
+					"Text": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "We're back with a brand new update!\r\nIn this update, we continue our work to improve Wingspan and bring you the best experience we can. \r\nThank you so much for your reports and feedback! \r\nPlease remember to update your game!"
+							},
+							{
+								"Language": "pl",
+								"Text": "Wracamy ze świeżą aktualizacją! Kontynuujemy prace nad ulepszaniem Na Skrzydłach i zapewnieniem Ci możliwie najlepszego doświadczenia. Bardzo dziękujemy za Twoje zgłoszenia i opinie! Pamiętaj, aby zaktualizować grę! "
+							},
+							{
+								"Language": "de",
+								"Text": "Wir sind zurück mit einem ganz neuen Update!\r\nEs enthält weitere Verbesserungen für Wingspan (Flügelschlag) und macht das Spielerlebnis hoffentlich noch angenehmer.\r\nVielen Dank für all die Meldungen und das Feedback!\r\nBitte denk daran, das Spiel zu aktualisieren!"
+							},
+							{
+								"Language": "fr",
+								"Text": "Nous revenons avec un nouvelle mise à jour !\r\nCelle-ci nous permet de continuer à améliorer Wingspan pour vous offrir la meilleure expérience possible. \r\nMerci infiniment pour vos retours et vos signalements ! \r\nN’oubliez pas de mettre votre jeu à jour !"
+							},
+							{
+								"Language": "es",
+								"Text": "¡Hemos vuelto con un parche bien fresquito!\r\nEn él seguimos mejorando Wingspan para ofreceros la mejor experiencia posible.\r\nGracias por todos vuestros informes y opiniones.\r\n¡No olvidéis actualizar vuestro juego!"
+							},
+							{
+								"Language": "pt-BR",
+								"Text": "Estamos de volta com uma nova atualização!\r\nCom ela, continuamos nosso trabalho para melhorar o Wingspan e apresentar a melhor experiência possível.\r\nMuito obrigado por seus relatórios e feedback!\r\nPor favor, lembre-se de atualizar seu jogo!"
+							},
+							{
+								"Language": "ja",
+								"Text": "最新アップデートをお届け！\r\n本アップデートで『ウィングスパン』をより良くし、皆様に最高の体験をお届けいたします！\r\nご報告、ご意見をいただき感謝いたします！\r\nゲームを必ずアップデートしてください。"
+							},
+							{
+								"Language": "ru",
+								"Text": "Мы подготовили для вас свежее обновление!\r\nМы продолжаем совершенствовать Wingspan, чтобы игра радовала вас еще больше. \r\nБлагодарим вас за отзывы и сообщения об ошибках! \r\nНе забудьте обновить игру!"
+							},
+							{
+								"Language": "zh",
+								"Text": "游戏更新现已就绪！\r\n本次更新中，我们继续优化《展翅翱翔》，尽我们所能地改善其体验。\r\n感谢各位的反馈与报告！ \r\n请及时更新游戏！"
+							},
+							{
+								"Language": "zh-Hant",
+								"Text": "遊戲更新現已就緒！\r\n本次更新中，我們繼續優化《展翅翱翔》，盡我們所能地改善其體驗。\r\n感謝各位的反饋與報告！ \r\n請及時更新遊戲！"
+							},
+							{
+								"Language": "it",
+								"Text": "Siamo tornati con un nuovissimo aggiornamento!\r\nCon questo aggiornamento continuiamo a migliorare Wingspan e a proporre l’esperienza migliore possibile.\r\nGrazie mille per le vostre segnalazioni e opinioni!\r\nE ricordatevi di aggiornare il gioco!"
+							},
+							{
+								"Language": "ko",
+								"Text": "새로운 업데이트로 돌아왔습니다!\r\n이번 패치는 윙스팬을 개선하고 최고의 경험을 제공하기 위한 노력이 담겼습니다.\r\n여러분의 제보와 피드백에 감사드립니다!\r\n꼭 게임을 업데이트해주세요!"
+							},
+							{
+								"Language": "uk",
+								"Text": "Ми повернулися з черговим оновленням!\r\nУ ньому ми попрацювали над поліпшенням «Крил», щоб ви отримали найкращі враження від гри. \r\nЩиро дякуємо за ваші звіти й відгуки! \r\nНе забудьте оновитися!"
+							}
+						]
+					}
+				}
+			],
+			"Actions": []
+		},
+		{
+			"ID": "1bc0fb10-18b9-47f3-aeac-cc9f2783d74a",
+			"Tags": [
+				"NewContent"
+			],
+			"PlatformsToShowOn": 303,
+			"StartDateTicks": 638608320000000000,
+			"EndDateTicks": 946391904000000000,
+			"Priority": 1,
+			"PresetImageName": "",
+			"RemoteImageName": "Tray.jpg",
+			"Title": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "Empty slots in the bird tray"
+					},
+					{
+						"Language": "pl",
+						"Text": "Puste pola w tacce ptaków"
+					},
+					{
+						"Language": "de",
+						"Text": "Leere Felder in der Vogeltränke"
+					},
+					{
+						"Language": "fr",
+						"Text": "Emplacements vides dans le plateau Oiseaux"
+					},
+					{
+						"Language": "es",
+						"Text": "Espacios vacíos en la bandeja de aves"
+					},
+					{
+						"Language": "pt-BR",
+						"Text": "Espaços vazios na bandeja de aves"
+					},
+					{
+						"Language": "ja",
+						"Text": "カードトレイ上の空きスロット"
+					},
+					{
+						"Language": "ru",
+						"Text": "Пустые ячейки в авиарии"
+					},
+					{
+						"Language": "zh",
+						"Text": "Empty slots in the bird tray"
+					},
+					{
+						"Language": "zh-Hant",
+						"Text": "鳥類托盤的空位"
+					},
+					{
+						"Language": "it",
+						"Text": "Slot vuoti nel raccoglitore per gli uccelli"
+					},
+					{
+						"Language": "ko",
+						"Text": "새 트레이의 빈 슬롯"
+					},
+					{
+						"Language": "uk",
+						"Text": "Порожні слоти в лотку з птахами"
+					}
+				]
+			},
+			"Header": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "The bird tray now shows an empty slot after drawing a card."
+					},
+					{
+						"Language": "pl",
+						"Text": "Tacka ptaków pokazuje teraz puste pola po dobraniu karty."
+					},
+					{
+						"Language": "de",
+						"Text": "Die Vogeltränke zeigt nach dem Ziehen von Karten nun die leeren Felder an."
+					},
+					{
+						"Language": "fr",
+						"Text": "Le plateau Oiseaux montre désormais un emplacement vide après le tirage d’une carte."
+					},
+					{
+						"Language": "es",
+						"Text": "La bandeja de aves ahora muestra un espacio vacío tras robar una carta."
+					},
+					{
+						"Language": "pt-BR",
+						"Text": "A bandeja de aves agora mostra um espaço vazio após comprar uma carta."
+					},
+					{
+						"Language": "ja",
+						"Text": "カードを引いた後、カードトレイに空きスロットが表示されるようになりました。"
+					},
+					{
+						"Language": "ru",
+						"Text": "После вытягивания карты в авиарии теперь отображается пустая ячейка."
+					},
+					{
+						"Language": "zh",
+						"Text": "The bird tray now shows an empty slot after drawing a card."
+					},
+					{
+						"Language": "zh-Hant",
+						"Text": "在抽取卡牌後，鳥類托盤上會顯示出空缺槽位。"
+					},
+					{
+						"Language": "it",
+						"Text": "Il raccoglitore ora mostra uno slot vuoto dopo aver pescato una carta."
+					},
+					{
+						"Language": "ko",
+						"Text": "이제 새 트레이에 카드를 뽑은 후 빈 슬롯이 표시됩니다."
+					},
+					{
+						"Language": "uk",
+						"Text": "У лотку з птахами тепер видно порожній слот після взяття картки."
+					}
+				]
+			},
+			"Content": [
+				{
+					"PlatformsToShowOn": 303,
+					"Text": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "We added a tiny feature to the bird tray. From now on, when you draw cards from the bird tray and then activate a bird power, allowing you to draw again from the tray, you will see the slots you took cards from are shown as empty."
+							},
+							{
+								"Language": "pl",
+								"Text": "Dodaliśmy drobną funkcję do tacki ptaków. Od teraz, kiedy dobierzesz karty z tacki, po czym aktywujesz moc ptaka pozwalającą ponownie dobrać karty z tacki, zobaczysz że miejsca, z których dobrałeś karty, pozostają widoczne jako puste."
+							},
+							{
+								"Language": "de",
+								"Text": "Wir haben eine kleine Neuerung an der Vogeltränke vorgenommen. Wenn du Karten aus der Vogeltränke ziehst und dann eine Vogelfähigkeit einsetzt, wodurch du wieder aus der Vogeltränke ziehen kannst, erscheinen von nun an die Felder leer, von denen die Karten gezogen wurden."
+							},
+							{
+								"Language": "fr",
+								"Text": "Nous avons ajouté une petite nouveauté au plateau Oiseaux. À partir de maintenant, quand vous tirez des cartes sur le plateau avant d’activer le pouvoir d’un oiseau qui vous autorise à tirer à nouveau une carte sur le plateau, vous verrez que les emplacements des cartes que vous avez tirées sont vides."
+							},
+							{
+								"Language": "es",
+								"Text": "Hemos añadido una pequeña característica a la bandeja de aves: a partir de ahora, cuando robéis cartas de la bandeja de aves y activéis un poder, podréis volver a robar de la bandeja y veréis que los espacios de donde cogisteis las cartas ahora aparecerán como espacios vacíos."
+							},
+							{
+								"Language": "pt-BR",
+								"Text": "Adicionamos um pequeno recurso à bandeja de aves. De agora em diante, quando você compra cartas da bandeja de aves e depois ativa um poder de ave que permite comprar novamente da bandeja, você verá os espaços dos quais você tirou cartas mostrados como vazios."
+							},
+							{
+								"Language": "ja",
+								"Text": "カードトレイにちょっとした機能を追加しました。今後は、カードトレイからカードを引き、鳥の能力を発動して再びトレイからカードを引けるようになると、カードを取ったスロットが空きスロットとして表示されるようになります。"
+							},
+							{
+								"Language": "ru",
+								"Text": "Для авиария добавлено небольшое улучшение. Теперь, когда вы вытягиваете карту из авиария и затем активируете свойство птицы, позволяющее снова вытянуть карту из авиария, ячейки, из которых были взяты карты, будут отображаться пустыми."
+							},
+							{
+								"Language": "zh",
+								"Text": "We added a tiny feature to the bird tray. From now on, when you draw cards from the bird tray and then activate a bird power, allowing you to draw again from the tray, you will see the slots you took cards from are shown as empty."
+							},
+							{
+								"Language": "zh-Hant",
+								"Text": "我們為鳥類托盤添加一個新的功能特性。從現在開始，當從鳥類托盤抽取卡牌並激活鳥類能力，允許你再次從托盤抽取鳥類卡牌時，你會看到剛才已抽取的槽位顯示為空。"
+							},
+							{
+								"Language": "it",
+								"Text": "Abbiamo aggiunto una piccola funzione al raccoglitore per gli uccelli. Da ora in poi, quando peschi le carte dal raccoglitore e attivi l’abilità di un uccello, potrai pescare nuovamente dal raccoglitore e vedrai che gli slot dai quali hai pescato le carte sono vuoti."
+							},
+							{
+								"Language": "ko",
+								"Text": "새 트레이에 작은 기능을 추가했습니다. 이제부터 새 트레이에서 카드를 뽑은 후 새 능력을 활성화하여 트레이에서 다시 카드를 뽑을 수 있게 되면, 카드를 뽑은 슬롯이 비어 있는 것으로 표시됩니다."
+							},
+							{
+								"Language": "uk",
+								"Text": "Ми зовсім трішечки поліпшили лоток із птахами. Відтепер, коли ви берете карти з лотка, а потім активуєте властивість птаха, яка дає змогу взяти ще одну карту, то побачите, що слоти, з яких ви брали карти, позначено як порожні."
+							}
+						]
+					}
+				}
+			],
+			"Actions": []
+		},
+		{
+			"ID": "156478a1-421a-4b98-b7d6-e13f782eb5d2",
+			"Tags": [
+				"NewContent"
+			],
+			"PlatformsToShowOn": 431,
+			"StartDateTicks": 638608320000000000,
+			"EndDateTicks": 946391904000000000,
+			"Priority": 1,
+			"PresetImageName": "",
+			"RemoteImageName": "NewsCenter.jpg",
+			"Title": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "The News"
+					},
+					{
+						"Language": "pl",
+						"Text": "Aktualności"
+					},
+					{
+						"Language": "de",
+						"Text": "Neuigkeitenbereich"
+					},
+					{
+						"Language": "fr",
+						"Text": "Nouveautés"
+					},
+					{
+						"Language": "es",
+						"Text": "Noticias"
+					},
+					{
+						"Language": "pt-BR",
+						"Text": "Novidades"
+					},
+					{
+						"Language": "ja",
+						"Text": "ニュース"
+					},
+					{
+						"Language": "ru",
+						"Text": "Новости"
+					},
+					{
+						"Language": "zh",
+						"Text": "The News"
+					},
+					{
+						"Language": "zh-Hant",
+						"Text": "The News"
+					},
+					{
+						"Language": "it",
+						"Text": "Notizie"
+					},
+					{
+						"Language": "ko",
+						"Text": "뉴스"
+					},
+					{
+						"Language": "uk",
+						"Text": "Новини"
+					}
+				]
+			},
+			"Header": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "Welcome to the News!"
+					},
+					{
+						"Language": "pl",
+						"Text": "Witamy w Aktualnościach!"
+					},
+					{
+						"Language": "de",
+						"Text": "Willkommen im Neuigkeitenbereich!"
+					},
+					{
+						"Language": "fr",
+						"Text": "Bienvenue dans les nouveautés !"
+					},
+					{
+						"Language": "es",
+						"Text": "¡Te damos la bienvenida a las novedades!"
+					},
+					{
+						"Language": "pt-BR",
+						"Text": "Sejam bem-vindos às Notícias!"
+					},
+					{
+						"Language": "ja",
+						"Text": "ニュース機能をご紹介！"
+					},
+					{
+						"Language": "ru",
+						"Text": "Встречайте раздел «Новости»!"
+					},
+					{
+						"Language": "zh",
+						"Text": "Welcome to the News!"
+					},
+					{
+						"Language": "zh-Hant",
+						"Text": "Welcome to the News!"
+					},
+					{
+						"Language": "it",
+						"Text": "Notizie a portata di mano!"
+					},
+					{
+						"Language": "ko",
+						"Text": "뉴스에 오신 것을 환영합니다!"
+					},
+					{
+						"Language": "uk",
+						"Text": "Вітаємо в «Новинах»!"
+					}
+				]
+			},
+			"Content": [
+				{
+					"PlatformsToShowOn": 303,
+					"Text": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "A new feature landed in the main menu - let us introduce the News! From now on you will find there all the crucial updates about patches, upcoming online maintenance works, new game content, and other... So keep your eyes peeled for a shiny feather in the main menu meaning a fresh announcement awaits!"
+							},
+							{
+								"Language": "pl",
+								"Text": "Nowa funkcja wylądowała właśnie w menu głównym - przedstawiamy Aktualności! Znajdziesz tam wszystkie najważniejsze informacje o aktualizacjach, nadchodzących pracach konserwacyjnych trybu online, nowej zawartości w grze i wiele więcej! Wypatruj zatem błyszczącego piórka w menu głównym - da ci znać, że nowe ogłoszenie już czeka."
+							},
+							{
+								"Language": "de",
+								"Text": "Es gibt einen neuen Abschnitt im Hauptmenü – wir führen „Neuigkeiten“ ein! Ab jetzt findest du dort alle wichtigen Updates zu Patches, anstehenden Wartungen, neuen Spielinhalten und mehr … Halte also die Augen offen nach einer glänzenden Feder im Hauptmenü, denn das heißt, eine Ankündigung wartet!"
+							},
+							{
+								"Language": "fr",
+								"Text": "Une nouvelle fonctionnalité a fait son arrivée dans le menu principal : merci d’accueillir les nouveautés ! Maintenant, vous pourrez trouver toutes les actualités majeures concernant les patchs, les opérations de maintenance à venir, les nouveaux contenus du jeu, etc… Ouvrez l’œil, une plume brillante dans le menu principal signifie qu’une toute nouvelle annonce vous attend !"
+							},
+							{
+								"Language": "es",
+								"Text": "Ha llegado una nueva función al menú principal: ¡os presentamos las noticias! De ahora en adelante aquí encontrareis todas las actualizaciones importantes sobre parches, próximas labores de mantenimiento, contenido del juego, entre otros. Así que estad alerta y buscad una pluma brillante en el menú, pues eso significará que hay una novedad esperando."
+							},
+							{
+								"Language": "pt-BR",
+								"Text": "Um novo recurso pousou no menu principal: apresentamos as Notícias! De agora em diante, você encontrará lá todas as atualizações cruciais sobre patches, próximos trabalhos de manutenção online, novos conteúdos do jogo e outras coisas. Então fique de olho em uma pena brilhante no menu principal, indicando que há um novo anúncio!"
+							},
+							{
+								"Language": "ja",
+								"Text": "メインメニューに新機能が追加されました！パッチ、今後のオンラインメンテナンス、新たなゲームコンテンツ等に関する重要なアップデートをすべて確認できます。メインメニューの光る羽根にご注目ください！メインメニューに光る羽根があれば、新しいお知らせがある目印になります！"
+							},
+							{
+								"Language": "ru",
+								"Text": "В главном меню появилась новая функция — встречайте «Новости»! Здесь вы сможете найти все важные сведения об обновлениях, предстоящих технических работах, новом игровом контенте и многом другом. Так что обращайте внимание на сверкающее перо в главном меню — оно означает, что есть свежее объявление!"
+							},
+							{
+								"Language": "zh",
+								"Text": "A new feature landed in the main menu - let us introduce the News! From now on you will find there all the crucial updates about patches, upcoming online maintenance works, new game content, and other... So keep your eyes peeled for a shiny feather in the main menu meaning a fresh announcement awaits!"
+							},
+							{
+								"Language": "zh-Hant",
+								"Text": "A new feature landed in the main menu - let us introduce the News! From now on you will find there all the crucial updates about patches, upcoming online maintenance works, new game content, and other... So keep your eyes peeled for a shiny feather in the main menu meaning a fresh announcement awaits!"
+							},
+							{
+								"Language": "it",
+								"Text": "Siamo felici di presentare la nuova funzione del menu principale: le notizie! Da questo momento in poi, potrai trovare informazioni sugli aggiornamenti più importanti, sulle patch, sui lavori di manutenzione in programma, sui nuovi contenuti di gioco e molto altro ancora... Tieni gli occhi aperti e, quando avvisti una piuma lucente nel menu principale, significa che c’è un nuovo annuncio che ti attende!"
+							},
+							{
+								"Language": "ko",
+								"Text": "메인 메뉴에 새롭게 추가된 기능, 뉴스를 소개합니다! 이제부터 패치, 예정된 온라인 점검, 새로운 게임 콘텐츠, 기타 중요한 업데이트에 대한 모든 정보를 확인할 수 있습니다. 메인 메뉴의 깃털이 반짝이면 새로운 소식이 있다는 뜻이니 눈여겨보세요!"
+							},
+							{
+								"Language": "uk",
+								"Text": "У головному меню з'явилася нова функція: знайомтеся, новини! Відтепер там можна знайти всю важливу інформацію про оновлення й виправлення, заплановані технічні обслуговування, новий ігровий вміст і багато чого ще... Тож пильнуйте, щоб не проґавити блискучу пір'їнку в головному меню: вона вказує на появу нового оголошення!"
 							}
 						]
 					}
