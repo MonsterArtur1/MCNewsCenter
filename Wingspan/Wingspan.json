@@ -1430,7 +1430,7 @@
 			"PlatformsToShowOn": 8,
 			"StartDateTicks": 638609184000000000,
 			"EndDateTicks": 946391904000000000,
-			"Priority": 2,
+			"Priority": 1,
 			"PresetImageName": "Online",
 			"RemoteImageName": "",
 			"Title": {
