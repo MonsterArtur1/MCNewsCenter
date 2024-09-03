@@ -1493,55 +1493,55 @@
 				"LocalizedTexts": [
 					{
 						"Language": "en",
-						"Text": "Regarding the Online mode issue. "
+						"Text": "An update on the Online mode issue."
 					},
 					{
 						"Language": "pl",
-						"Text": "Regarding the Online mode issue. "
+						"Text": "An update on the Online mode issue."
 					},
 					{
 						"Language": "de",
-						"Text": "Regarding the Online mode issue. "
+						"Text": "An update on the Online mode issue."
 					},
 					{
 						"Language": "fr",
-						"Text": "Regarding the Online mode issue. "
+						"Text": "An update on the Online mode issue."
 					},
 					{
 						"Language": "es",
-						"Text": "Regarding the Online mode issue. "
+						"Text": "An update on the Online mode issue."
 					},
 					{
 						"Language": "pt-BR",
-						"Text": "Regarding the Online mode issue. "
+						"Text": "An update on the Online mode issue."
 					},
 					{
 						"Language": "ja",
-						"Text": "Regarding the Online mode issue. "
+						"Text": "An update on the Online mode issue."
 					},
 					{
 						"Language": "ru",
-						"Text": "Regarding the Online mode issue. "
+						"Text": "An update on the Online mode issue."
 					},
 					{
 						"Language": "zh",
-						"Text": "Regarding the Online mode issue. "
+						"Text": "An update on the Online mode issue."
 					},
 					{
 						"Language": "zh-Hant",
-						"Text": "Regarding the Online mode issue. "
+						"Text": "An update on the Online mode issue."
 					},
 					{
 						"Language": "it",
-						"Text": "Regarding the Online mode issue. "
+						"Text": "An update on the Online mode issue."
 					},
 					{
 						"Language": "ko",
-						"Text": "Regarding the Online mode issue. "
+						"Text": "An update on the Online mode issue."
 					},
 					{
 						"Language": "uk",
-						"Text": "Regarding the Online mode issue. "
+						"Text": "An update on the Online mode issue."
 					}
 				]
 			},
@@ -1552,55 +1552,55 @@
 						"LocalizedTexts": [
 							{
 								"Language": "en",
-								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+								"Text": "Dear iOS Birders! \r\n\r\nRight now, we're still fighting with the issue regarding disappearing GameCenter accounts and preparing a proper fix for that. \r\n<b>We know the core of the issue and your original accounts should be back with our next update.</b>\r\n\r\nUntil that happens, we ask for your patience. In the meantime, you can temporarily play on new accounts, it should not affect the retrieval of the previous ones.\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
 							},
 							{
 								"Language": "pl",
-								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+								"Text": "Dear iOS Birders! \r\n\r\nRight now, we're still fighting with the issue regarding disappearing GameCenter accounts and preparing a proper fix for that. \r\n<b>We know the core of the issue and your original accounts should be back with our next update.</b>\r\n\r\nUntil that happens, we ask for your patience. In the meantime, you can temporarily play on new accounts, it should not affect the retrieval of the previous ones.\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
 							},
 							{
 								"Language": "de",
-								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+								"Text": "Dear iOS Birders! \r\n\r\nRight now, we're still fighting with the issue regarding disappearing GameCenter accounts and preparing a proper fix for that. \r\n<b>We know the core of the issue and your original accounts should be back with our next update.</b>\r\n\r\nUntil that happens, we ask for your patience. In the meantime, you can temporarily play on new accounts, it should not affect the retrieval of the previous ones.\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
 							},
 							{
 								"Language": "fr",
-								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+								"Text": "Dear iOS Birders! \r\n\r\nRight now, we're still fighting with the issue regarding disappearing GameCenter accounts and preparing a proper fix for that. \r\n<b>We know the core of the issue and your original accounts should be back with our next update.</b>\r\n\r\nUntil that happens, we ask for your patience. In the meantime, you can temporarily play on new accounts, it should not affect the retrieval of the previous ones.\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
 							},
 							{
 								"Language": "es",
-								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+								"Text": "Dear iOS Birders! \r\n\r\nRight now, we're still fighting with the issue regarding disappearing GameCenter accounts and preparing a proper fix for that. \r\n<b>We know the core of the issue and your original accounts should be back with our next update.</b>\r\n\r\nUntil that happens, we ask for your patience. In the meantime, you can temporarily play on new accounts, it should not affect the retrieval of the previous ones.\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
 							},
 							{
 								"Language": "pt-BR",
-								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+								"Text": "Dear iOS Birders! \r\n\r\nRight now, we're still fighting with the issue regarding disappearing GameCenter accounts and preparing a proper fix for that. \r\n<b>We know the core of the issue and your original accounts should be back with our next update.</b>\r\n\r\nUntil that happens, we ask for your patience. In the meantime, you can temporarily play on new accounts, it should not affect the retrieval of the previous ones.\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
 							},
 							{
 								"Language": "ja",
-								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+								"Text": "Dear iOS Birders! \r\n\r\nRight now, we're still fighting with the issue regarding disappearing GameCenter accounts and preparing a proper fix for that. \r\n<b>We know the core of the issue and your original accounts should be back with our next update.</b>\r\n\r\nUntil that happens, we ask for your patience. In the meantime, you can temporarily play on new accounts, it should not affect the retrieval of the previous ones.\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
 							},
 							{
 								"Language": "ru",
-								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+								"Text": "Dear iOS Birders! \r\n\r\nRight now, we're still fighting with the issue regarding disappearing GameCenter accounts and preparing a proper fix for that. \r\n<b>We know the core of the issue and your original accounts should be back with our next update.</b>\r\n\r\nUntil that happens, we ask for your patience. In the meantime, you can temporarily play on new accounts, it should not affect the retrieval of the previous ones.\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
 							},
 							{
 								"Language": "zh",
-								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+								"Text": "Dear iOS Birders! \r\n\r\nRight now, we're still fighting with the issue regarding disappearing GameCenter accounts and preparing a proper fix for that. \r\n<b>We know the core of the issue and your original accounts should be back with our next update.</b>\r\n\r\nUntil that happens, we ask for your patience. In the meantime, you can temporarily play on new accounts, it should not affect the retrieval of the previous ones.\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
 							},
 							{
 								"Language": "zh-Hant",
-								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+								"Text": "Dear iOS Birders! \r\n\r\nRight now, we're still fighting with the issue regarding disappearing GameCenter accounts and preparing a proper fix for that. \r\n<b>We know the core of the issue and your original accounts should be back with our next update.</b>\r\n\r\nUntil that happens, we ask for your patience. In the meantime, you can temporarily play on new accounts, it should not affect the retrieval of the previous ones.\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
 							},
 							{
 								"Language": "it",
-								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+								"Text": "Dear iOS Birders! \r\n\r\nRight now, we're still fighting with the issue regarding disappearing GameCenter accounts and preparing a proper fix for that. \r\n<b>We know the core of the issue and your original accounts should be back with our next update.</b>\r\n\r\nUntil that happens, we ask for your patience. In the meantime, you can temporarily play on new accounts, it should not affect the retrieval of the previous ones.\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
 							},
 							{
 								"Language": "ko",
-								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+								"Text": "Dear iOS Birders! \r\n\r\nRight now, we're still fighting with the issue regarding disappearing GameCenter accounts and preparing a proper fix for that. \r\n<b>We know the core of the issue and your original accounts should be back with our next update.</b>\r\n\r\nUntil that happens, we ask for your patience. In the meantime, you can temporarily play on new accounts, it should not affect the retrieval of the previous ones.\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
 							},
 							{
 								"Language": "uk",
-								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+								"Text": "Dear iOS Birders! \r\n\r\nRight now, we're still fighting with the issue regarding disappearing GameCenter accounts and preparing a proper fix for that. \r\n<b>We know the core of the issue and your original accounts should be back with our next update.</b>\r\n\r\nUntil that happens, we ask for your patience. In the meantime, you can temporarily play on new accounts, it should not affect the retrieval of the previous ones.\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
 							}
 						]
 					}
