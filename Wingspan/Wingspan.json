@@ -1421,6 +1421,192 @@
 					}
 				}
 			]
+		},
+		{
+			"ID": "eb63e598-5f36-4e7c-8515-450de4174fe0",
+			"Tags": [
+				"Online"
+			],
+			"PlatformsToShowOn": 8,
+			"StartDateTicks": 638609184000000000,
+			"EndDateTicks": 946391904000000000,
+			"Priority": 2,
+			"PresetImageName": "Online",
+			"RemoteImageName": "",
+			"Title": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "Important announcement for iOS Players\r\n"
+					},
+					{
+						"Language": "pl",
+						"Text": "Important announcement for iOS Players\r\n"
+					},
+					{
+						"Language": "de",
+						"Text": "Important announcement for iOS Players\r\n"
+					},
+					{
+						"Language": "fr",
+						"Text": "Important announcement for iOS Players\r\n"
+					},
+					{
+						"Language": "es",
+						"Text": "Important announcement for iOS Players\r\n"
+					},
+					{
+						"Language": "pt-BR",
+						"Text": "Important announcement for iOS Players\r\n"
+					},
+					{
+						"Language": "ja",
+						"Text": "Important announcement for iOS Players\r\n"
+					},
+					{
+						"Language": "ru",
+						"Text": "Important announcement for iOS Players\r\n"
+					},
+					{
+						"Language": "zh",
+						"Text": "Important announcement for iOS Players\r\n"
+					},
+					{
+						"Language": "zh-Hant",
+						"Text": "Important announcement for iOS Players\r\n"
+					},
+					{
+						"Language": "it",
+						"Text": "Important announcement for iOS Players\r\n"
+					},
+					{
+						"Language": "ko",
+						"Text": "Important announcement for iOS Players\r\n"
+					},
+					{
+						"Language": "uk",
+						"Text": "Important announcement for iOS Players\r\n"
+					}
+				]
+			},
+			"Header": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "Regarding the Online mode issue. "
+					},
+					{
+						"Language": "pl",
+						"Text": "Regarding the Online mode issue. "
+					},
+					{
+						"Language": "de",
+						"Text": "Regarding the Online mode issue. "
+					},
+					{
+						"Language": "fr",
+						"Text": "Regarding the Online mode issue. "
+					},
+					{
+						"Language": "es",
+						"Text": "Regarding the Online mode issue. "
+					},
+					{
+						"Language": "pt-BR",
+						"Text": "Regarding the Online mode issue. "
+					},
+					{
+						"Language": "ja",
+						"Text": "Regarding the Online mode issue. "
+					},
+					{
+						"Language": "ru",
+						"Text": "Regarding the Online mode issue. "
+					},
+					{
+						"Language": "zh",
+						"Text": "Regarding the Online mode issue. "
+					},
+					{
+						"Language": "zh-Hant",
+						"Text": "Regarding the Online mode issue. "
+					},
+					{
+						"Language": "it",
+						"Text": "Regarding the Online mode issue. "
+					},
+					{
+						"Language": "ko",
+						"Text": "Regarding the Online mode issue. "
+					},
+					{
+						"Language": "uk",
+						"Text": "Regarding the Online mode issue. "
+					}
+				]
+			},
+			"Content": [
+				{
+					"PlatformsToShowOn": 8,
+					"Text": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+							},
+							{
+								"Language": "pl",
+								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+							},
+							{
+								"Language": "de",
+								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+							},
+							{
+								"Language": "fr",
+								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+							},
+							{
+								"Language": "es",
+								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+							},
+							{
+								"Language": "pt-BR",
+								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+							},
+							{
+								"Language": "ja",
+								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+							},
+							{
+								"Language": "ru",
+								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+							},
+							{
+								"Language": "zh",
+								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+							},
+							{
+								"Language": "zh-Hant",
+								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+							},
+							{
+								"Language": "it",
+								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+							},
+							{
+								"Language": "ko",
+								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+							},
+							{
+								"Language": "uk",
+								"Text": "Hi, everyone! We have encountered a problem with the Online mode, which upon logging in does not recognise GameCenter accounts and will automatically create a new empty account for the player. \r\n\r\n<b>We highly advise you <u>not to log into the Online mode</u> for now as we’re working on a fix as fast as we can. Please stay tuned for future updates.</b>\r\n\r\nWe are sorry for this inconvenience and we thank you for your understanding.\r\n"
+							}
+						]
+					}
+				}
+			],
+			"Actions": []
 		}
 	]
 }
