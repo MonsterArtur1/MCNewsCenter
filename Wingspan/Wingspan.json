@@ -547,7 +547,7 @@
 							},
 							{
 								"Language": "ko",
-								"Text": "We're back with a brand new update!\r\nIn this update, we continue our work to improve Wingspan and bring you the best experience we can. \r\nThank you so much for your reports and feedback! \r\nPlease remember to update your game!\r\n\r\nCheck out the patchnotes here:"
+								"Text": "새로운 업데이트로 돌아왔습니다!\r\n이번 패치는 윙스팬을 개선하고 최고의 경험을 제공하기 위한 노력이 담겼습니다.\r\n여러분의 제보와 피드백에 감사드립니다!\r\n꼭 게임을 업데이트해주세요!\r\n\r\n업데이트 내역은 아래를 확인해주세요."
 							},
 							{
 								"Language": "uk",
@@ -1055,7 +1055,7 @@
 				"Update"
 			],
 			"PlatformsToShowOn": 319,
-			"StartDateTicks": 638612028000000000,
+			"StartDateTicks": 638610912000000000,
 			"EndDateTicks": 946391904000000000,
 			"Priority": 1,
 			"PresetImageName": "Online",
