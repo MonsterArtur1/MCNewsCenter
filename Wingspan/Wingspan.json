@@ -1538,6 +1538,255 @@
 					}
 				}
 			]
+		},
+		{
+			"ID": "651ae4c5-47a8-448a-88c1-2bfd1fe3edfe",
+			"Tags": [
+				"MonsterCouch",
+				"Events"
+			],
+			"PlatformsToShowOn": 319,
+			"StartDateTicks": 638615952000000000,
+			"EndDateTicks": 946391904000000000,
+			"Priority": 1,
+			"PresetImageName": "",
+			"RemoteImageName": "AnniversaryBG.jpg",
+			"Title": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "Happy Wingspan Anniversary! "
+					},
+					{
+						"Language": "pl",
+						"Text": "Pozdrowienia z okazji rocznicy Na Skrzydłach!"
+					},
+					{
+						"Language": "de",
+						"Text": "Frohes „Wingspan“-Jubiläum! "
+					},
+					{
+						"Language": "fr",
+						"Text": "Joyeux anniversaire Wingspan ! "
+					},
+					{
+						"Language": "es",
+						"Text": "¡Feliz aniversario de Wingspan! "
+					},
+					{
+						"Language": "pt-BR",
+						"Text": "Feliz aniversário, Wingspan! "
+					},
+					{
+						"Language": "ja",
+						"Text": "デジタル版『ウィングスパン』4周年記念！ "
+					},
+					{
+						"Language": "ru",
+						"Text": "Поздравляем с годовщиной! "
+					},
+					{
+						"Language": "zh",
+						"Text": "《展翅翱翔》周年庆快乐！"
+					},
+					{
+						"Language": "zh-Hant",
+						"Text": "《展翅翱翔》周年慶快樂！"
+					},
+					{
+						"Language": "it",
+						"Text": "Buon anniversario di Wingspan! "
+					},
+					{
+						"Language": "ko",
+						"Text": "윙스팬 기념일!"
+					},
+					{
+						"Language": "uk",
+						"Text": "З днем народження «Крил»! "
+					}
+				]
+			},
+			"Header": {
+				"LocalizedTexts": [
+					{
+						"Language": "en",
+						"Text": "Celebrate with us and reveal a special surprise! "
+					},
+					{
+						"Language": "pl",
+						"Text": "Świętuj z nami i odkryj specjalną niespodziankę."
+					},
+					{
+						"Language": "de",
+						"Text": "Feiert mit uns, eine besondere Überraschung wartet! "
+					},
+					{
+						"Language": "fr",
+						"Text": "Fêtez ce moment avec nous pour découvrir une surprise ! "
+					},
+					{
+						"Language": "es",
+						"Text": "¡Celébralo con nosotros y descubre una sorpresa especial! "
+					},
+					{
+						"Language": "pt-BR",
+						"Text": "Comemore conosco para revelar uma surpresa especial! "
+					},
+					{
+						"Language": "ja",
+						"Text": "記念日を祝い、特別サプライズを解き明かそう！ "
+					},
+					{
+						"Language": "ru",
+						"Text": "Отпразднуйте с нами и откройте особый сюрприз! "
+					},
+					{
+						"Language": "zh",
+						"Text": "值此重要时刻，我们将宣布特别惊喜！"
+					},
+					{
+						"Language": "zh-Hant",
+						"Text": "值此重要時刻，我們將宣布特別驚喜！"
+					},
+					{
+						"Language": "it",
+						"Text": "Festeggia con noi e scopri una sorpresa speciale! "
+					},
+					{
+						"Language": "ko",
+						"Text": "기념일을 함께 축하하고 특별한 깜짝 선물을 확인하세요!"
+					},
+					{
+						"Language": "uk",
+						"Text": "Святкуйте з нами й відкривайте особливий сюрприз! "
+					}
+				]
+			},
+			"Content": [
+				{
+					"PlatformsToShowOn": 319,
+					"Text": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "It’s hard to believe that our digital adaptation of Wingspan is already four years old! \r\nWe would like to thank you for all the love and support we’ve been receiving from you through all these years. Your feedback means the world to us and it truly inspires us to make more great games for you!\r\n\r\nTo celebrate this lovely occasion we have prepared a special something for you, dear Birders - a unique Wingspan Anniversary Background! \r\n\r\n<b>It will be available for you to enjoy from September 10 to September 24.</b>\r\n\r\nSpeaking of feedback, we also have a small request for you. \r\n\r\nAs it’s been already four years since the release, we would love to get to know the “current” you. We have prepared a short survey to get a better understanding of your needs and expectations - we would be super grateful if you could find a while to send us your answers! \r\n\r\nYou can click the button below to fill the survey! \r\n\r\nThank you for this amazing time together. We’re so excited for what’s to come! \r\nCheers! \r\n"
+							},
+							{
+								"Language": "pl",
+								"Text": "Trudno uwierzyć, że nasza cyfrowa adaptacja Na Skrzydłach ma już cztery lata! \r\n\r\nChcielibyśmy podziękować za całą miłość i wsparcie, które otrzymywaliśmy od Was przez te wszystkie lata. Wasze opinie znaczą dla nas naprawdę wiele i inspirują nas do tworzenia kolejnych świetnych gier! \r\n\r\nAby uczucić tę cudowną okazję, przygotowaliśmy dla Was, naszych drogich Ptasiarzy, specjalne tło rocznicowe Na Skrzydłach!\r\n\r\n<b>Tło będzie dostępne od 10 września do 24 września.</b>\r\n\r\nA skoro wspomnieliśmy o informacjach zwrotnych, mamy do Was małą prośbę.\r\nPonieważ od premiery gry minęły już cztery lata, chcielibyśmy lepiej poznać \"obecnych\" was. W tym celu przygotowaliśmy króetką ankietę, aby lepiej poznać Was, Wasze potrzeby i oczekiwania. Bylibyśmy bardzi wdzięczni, gdybyście znaleźli chwilę na przesłanie nam swoich odpowiedzi. \r\nWystarczy kliknąć przycisk poniżej, aby wypełnić ankietę. \r\n\r\nDziękujemy za ten niesamowity czas spędzony razem. Z ekscytacją wyczekujemy tego, co jeszcze przed nami! Dzięki!\r\n"
+							},
+							{
+								"Language": "de",
+								"Text": "Es ist unglaublich, dass unsere digitale Version von Flügelschlag schon seit vier Jahren draußen ist!\r\nWir möchten euch allen für euer Interesse und eure Unterstützung über all diese Jahre hinweg danken. Euer Feedback bedeutet uns viel und treibt uns an, weitere tolle Spiele zu entwickeln!\r\n\r\nLiebste Vogelfreunde, diesen wundervollen Anlass wollen wir mit etwas Speziellem feiern: einem einzigartigen Jubiläumshintergrund!\r\n\r\n<b>Ihr könnt ihn vom 10. bis zum 24. September nutzen.</b>\r\n\r\nZum Thema Feedback haben wir außerdem eine kleine Bitte.\r\n\r\nDa seit der Veröffentlichung schon vier Jahre vergangen sind, wollen wir etwas nach dem „neusten Stand“ sehen. Deshalb haben wir eine kurze Umfrage vorbereitet, um ein besseres Bild von euren aktuellen Anforderungen und Erwartungen zu bekommen. Wir wären sehr dankbar, wenn ihr euch die Zeit nehmen würdet, sie auszufüllen!\r\n\r\nÜber die Schaltfläche unten gelangt ihr zur Umfrage!\r\n\r\nDanke für die wundervolle Zeit. Wir freuen uns schon auf die Zukunft!\r\nMacht’s gut!\r\n"
+							},
+							{
+								"Language": "fr",
+								"Text": "Difficile de croire que notre adaptation numérique de Wingspan a déjà quatre ans !\r\n\r\nNous tenons à vous remercier pour tout l’amour et le soutien que nous avons reçu de votre part toutes ces années. Vos retours comptent énormément pour nous et nous poussent à créer de nouveaux bons jeux pour vous !\r\n\r\nPour fêter cette occasion si particulière, nous vous avons préparé quelque chose de spécial, chers ornithologues : un arrière-plan anniversaire Wingspan unique !\r\n\r\n<b>Vous pourrez en profiter du 10 au 24 septembre.</b>\r\n\r\nEn parlant de retours, nous avons également des choses à vous demander.\r\n\r\nComme cela fait déjà quatre ans que le jeu est sorti, nous voudrions en apprendre plus sur le « vous » actuel. Nous avons préparé un petit questionnaire afin de mieux comprendre vos besoins et vos attentes. Si vous trouvez un moment pour nous envoyer vos réponses, nous vous en serions très reconnaissants !\r\n\r\nN’hésitez pas à cliquer sur le bouton ci-dessous pour répondre au questionnaire !\r\n\r\nMerci d’avoir partagé ces merveilleux instants avec nous. Nous avons hâte d’en vivre d’autres !\r\nSalut !\r\n"
+							},
+							{
+								"Language": "es",
+								"Text": "¡Cuesta creer que nuestra adaptación digital de Wingspan ya tenga cuatro añitos!\r\n\r\nNos gustaría agradeceros todo el amor y el apoyo que hemos recibido durante estos años. Vuestras opiniones son muy importantes para nosotros y nos sirven de inspiración para crear más juegos para vosotros.\r\n\r\nPara celebrar esta estupenda ocasión, hemos preparado algo especial para vosotros, aficionados a las aves: ¡un fondo de aniversario de Wingspan!\r\n\r\n<b>Estará disponible a partir del 10 de septiembre hasta el 24 de septiembre.</b>\r\n\r\nY hablando de opiniones, también queremos pediros algo.\r\n\r\nYa han pasado cuatro años desde el lanzamiento y nos encantaría redescubriros, así que hemos preparado una breve encuesta para comprender mejor cuáles son vuestras necesidades y expectativas. Os agradeceríamos mucho que le dedicarais un ratito a enviarnos vuestras respuestas.\r\n\r\nPodéis hacer clic en el botón de abajo para rellenar la encuesta.\r\n\r\n¡Gracias por todo este tiempo a nuestro lado, ha sido increíble y estamos deseando ver qué hay por llegar!\r\n¡Saludos!\r\n"
+							},
+							{
+								"Language": "pt-BR",
+								"Text": "É difícil acreditar que nossa adaptação digital de Wingspan já tem quatro anos!\r\n\r\nGostaríamos de agradecer por todo o amor e apoio que recebemos de vocês ao longo de todos esses anos. Seu feedback significa tudo para nós e realmente nos inspira a fazer mais jogos excelentes para vocês!\r\n\r\nPara celebrar esta ocasião tão signigicativa, preparamos algo especial para vocês, queridos observadores: um plano de fundo exclusivo de aniversário do Wingspan!\r\n\r\n<b>Ele estará disponível para vocês aproveitarem de 10 a 24 de setembro.</b>\r\n\r\nFalando em feedback, também temos um pequeno pedido.\r\n\r\nComo já se passaram quatro anos desde o lançamento, adoraríamos conhecer o você \"atual\". Preparamos uma breve pesquisa para entender melhor a suas necessidades e expectativas, e ficaríamos muito gratos se vocês pudessem reservar um tempo para nos enviar suas respostas!\r\n\r\nÉ só clicar no botão abaixo para preencher a pesquisa!\r\n\r\nObrigado por este tempo incrível juntos. Estamos muito animados com o que está por vir!\r\nViva!\r\n"
+							},
+							{
+								"Language": "ja",
+								"Text": "デジタル版『ウィングスパン』の配信からすでに4年が経ちました！\r\n\r\nこの数年間、皆様からいただいた愛とご支援に感謝いたします。皆様からのご意見は、我々にとってかけがえのないものであり、皆様のためにもっと素晴らしいゲームを作ろうという原動力になっております！\r\n\r\nこの素晴らしい記念日を祝して、野鳥観察家の皆様に特別サプライズをご用意しました ― 「『ウィングスパン』4周年記念背景」です！\r\n\r\n<b>9月10日から24日までお楽しみいただけます。</b>\r\n\r\nまた、これまでたくさんのご意見を頂きましたが、ここで1つお願いがございます。\r\n配信から4年が経った今、ゲームについてどのようにお考えか、お聞かせ願えますでしょうか。 皆様のご要望やご期待にお応えするため、簡単なアンケートをご用意しました。ご回答いただけますと幸いです。\r\n\r\n以下のボタンを押すことでアンケートにご回答いただけます。\r\n日頃からプレイしていただきありがとうございます。今後のアップデートにご期待ください。\r\n\r\n今後ともよろしくお願いいたします。\r\n"
+							},
+							{
+								"Language": "ru",
+								"Text": "Трудно поверить, что цифровой версии «Крыльев» уже целых четыре года! \r\nХотим поблагодарить вас за любовь и поддержку на протяжении всех этих лет. Ваши отзывы для нас очень много значат и дарят нам вдохновение на создание новых интересных игр!\r\nВ честь этой знаменательной даты мы приготовили для вас кое-что особенное — уникальный памятный фон годовщины Wingspan! \r\nЕго можно будет получить с 10 по 24 сентября.\r\nКстати об отзывах: у нас есть к вам небольшая просьба. \r\nТак как с момента выхода игры прошло уже четыре года, мы хотели бы узнать, что интересно вам сегодня. Мы подготовили короткий опрос, чтобы лучше понять ваши потребности и ожидания, и были бы очень признательны, если бы вы уделили минутку, чтобы ответить на него! \r\nОпрос можно пройти, нажав кнопку ниже! \r\nСпасибо за то, что были с нами все это время. То ли еще будет! \r\nВсего наилучшего! "
+							},
+							{
+								"Language": "zh",
+								"Text": "《展翅翱翔》的电子移植版本已经发布四年了，真是令人难以置信！\r\n我们衷心感谢各位多年来给予的关爱和支持。你们的反馈对我们意义重大，激励了我们制作出更多优秀的游戏作品！\r\n为庆祝这个特别的时刻，我们为亲爱的鸟类爱好者准备了一份特别礼物——一款独特的《展翅翱翔》周年纪念背景！\r\n这款背景将于9月10日到9月24日期间开放。\r\n提到反馈，我们也有一个小小的要求，希望得到大家的帮助。 \r\n游戏已经发布了四年，我们很想了解玩家们目前的想法。我们准备了一个简短的问卷，希望能了解你们的需求和期待——如果大家能抽出宝贵时间问答我们的问题，我们会非常感激！ \r\n点击下面的按钮来填写问卷！ \r\n感谢大家一同来庆祝这个特殊时刻。我们无比期待之后的精彩旅程！\r\n欢呼！"
+							},
+							{
+								"Language": "zh-Hant",
+								"Text": "《展翅翱翔》的電子移植版本已經發布四年了，真是令人難以置信！\r\n我們衷心感謝各位多年來給予的關愛和支持。你們的反饋對我們意義重大，激勵了我們製作出更多優秀的遊戲作品！\r\n為慶祝這個特別的時刻，我們為親愛的鳥類愛好者準備了一份特別禮物——一款獨特的《展翅翱翔》周年紀念背景！\r\n這款背景將於9月10日到9月24日期間開放。\r\n提到反饋，我們也有一個小小的要求，希望得到大家的幫助。 \r\n遊戲已經發布了四年，我們很想了解玩家們目前的想法。我們準備了一個簡短的問卷，希望能了解你們的需求和期待——如果大家能抽出寶貴時間問答我們的問題，我們會非常感激！ \r\n點擊下面的按鈕來填寫問卷！ \r\n感謝大家一同來慶祝這個特殊時刻。我們無比期待之後的精彩旅程！\r\n歡呼！ "
+							},
+							{
+								"Language": "it",
+								"Text": "È incredibile che l’adattamento digitale di Wingspan abbia già compiuto quattro anni!\r\nVogliamo ringraziare te e tutti gli altri giocatori per tutto l’affetto e il supporto che ci avete dimostrato in tutti questi anni. La vostra opinione conta tantissimo per noi e ci spinge a creare giochi sempre migliori!\r\nPer festeggiare questa lieta ricorrenza, abbiamo una sorpresa speciale in serbo per tutti i nostri cari birdwatcher: uno sfondo unico a tema anniversario di Wingspan!\r\nSarà disponibile dal 10 al 24 settembre.\r\nE a proposito di opinioni, abbiamo una piccola richiesta per te.\r\nDal momento che sono già trascorsi quattro anni dall’uscita del gioco, vorremmo saperne di più sui giocatori “di oggi”. Ecco perché abbiamo preparato un breve sondaggio per comprendere al meglio le esigenze e le aspettative dei nostri giocatori: ti saremmo grati se potessi farci pervenire le tue risposte!\r\nClicca il pulsante qui sotto per compilare il questionario!\r\nGrazie per il meraviglioso tempo trascorso insieme. Non vediamo l’ora di vedere cosa ci riserverà il futuro!\r\nA presto!"
+							},
+							{
+								"Language": "ko",
+								"Text": "윙스팬의 디지털 버전이 벌써 4년이 되었다는 사실이 믿기지 않습니다!\r\n그동안 보내주신 여러분의 사랑과 성원에 진심으로 감사드립니다. 여러분의 피드백 덕에 더 좋은 게임을 만들 영감을 받았습니다!\r\n이 멋진 날을 기념하기 위해 탐조가분들을 위한 특별한 선물을 준비했습니다. 바로 유니크한 윙스팬 기념일 배경입니다!\r\n9월 10일부터 9월 24일까지 즐길 수 있습니다.\r\n피드백 얘기가 나와서 말씀드리자면, 작은 부탁도 하나 있습니다.\r\n출시 후 벌써 4년이 지났으니 '현재의' 여러분을 알아보고 싶습니다. 요구와 기대를 더 잘 이해하기 위해 간단한 설문조사를 준비했으니 잠시 시간을 내어 답변을 보내주시면 대단히 감사하겠습니다!\r\n아래 버튼을 클릭하여 설문조사에 참여하실 수 있습니다!\r\n이 놀라운 시간을 함께 해주셔서 감사합니다. 앞으로가 기대됩니다!\r\n건배!"
+							},
+							{
+								"Language": "uk",
+								"Text": "Важко повірити, що цифровій адаптації «Крил» уже чотири роки! \r\nМи хочемо подякувати вам за любов і підтримку, яку ви даруєте нам увесь цей час. Важливість ваших відгуків переоцінити неможливо: щиро, вони надихають нас робити для вас іще більше чудових ігор!\r\nНа це свято ми підготували для вас дещо особливе, любі друзі.Це унікальне тло до дня народження «Крил»! \r\nВоно буде доступне з 10 до 24 вересня.\r\nДо речі, щодо відгуків. Маємо до вас невеличке прохання. \r\nПозаяк гру ми випустили аж чотири роки тому, нам було б дуже приємно познайомитися з вами «теперішніми». Ми підготували коротке опитування, щоб краще зрозуміти ваші потреби й очікування, і були б дуже-дуже вдячні, якби ви приділили йому трохи часу й надіслали нам свої відповіді! \r\nЗаповнити опитувальник можна, натиснувши кнопку нижче! \r\nДякуємо за ці надзвичайні проведені разом роки. З нетерпінням чекаємо на нові відкриття! \r\nЗі святом! "
+							}
+						]
+					}
+				}
+			],
+			"Actions": [
+				{
+					"ActionType": 0,
+					"PlatformsToShowOn": 319,
+					"Value": "https://bit.ly/3AXwEO5",
+					"ButtonText": {
+						"LocalizedTexts": [
+							{
+								"Language": "en",
+								"Text": "Survey"
+							},
+							{
+								"Language": "pl",
+								"Text": "Ankieta"
+							},
+							{
+								"Language": "de",
+								"Text": "Umfrage"
+							},
+							{
+								"Language": "fr",
+								"Text": "Questionnaire"
+							},
+							{
+								"Language": "es",
+								"Text": "Encuesta"
+							},
+							{
+								"Language": "pt-BR",
+								"Text": "Pesquisa"
+							},
+							{
+								"Language": "ja",
+								"Text": "アンケート"
+							},
+							{
+								"Language": "ru",
+								"Text": "Опрос"
+							},
+							{
+								"Language": "zh",
+								"Text": "调查问卷"
+							},
+							{
+								"Language": "zh-Hant",
+								"Text": "調查問卷"
+							},
+							{
+								"Language": "it",
+								"Text": "Sondaggio"
+							},
+							{
+								"Language": "ko",
+								"Text": "설문 조사"
+							},
+							{
+								"Language": "uk",
+								"Text": "Опитування"
+							}
+						]
+					}
+				}
+			]
 		}
 	]
 }
