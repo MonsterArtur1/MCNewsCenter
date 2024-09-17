@@ -5,7 +5,7 @@
 			"Tags": [
 				"NewContent"
 			],
-			"PlatformsToShowOn": 319,
+			"PlatformsToShowOn": 511,
 			"StartDateTicks": 638608752000000000,
 			"EndDateTicks": 946391904000000000,
 			"Priority": 1,
@@ -191,7 +191,7 @@
 			"Tags": [
 				"NewContent"
 			],
-			"PlatformsToShowOn": 319,
+			"PlatformsToShowOn": 511,
 			"StartDateTicks": 638608743000000000,
 			"EndDateTicks": 946391904000000000,
 			"Priority": 1,
@@ -1545,7 +1545,7 @@
 				"MonsterCouch",
 				"Events"
 			],
-			"PlatformsToShowOn": 319,
+			"PlatformsToShowOn": 511,
 			"StartDateTicks": 638615952000000000,
 			"EndDateTicks": 946391904000000000,
 			"Priority": 1,
@@ -1727,7 +1727,7 @@
 			"Actions": [
 				{
 					"ActionType": 0,
-					"PlatformsToShowOn": 319,
+					"PlatformsToShowOn": 271,
 					"Value": "https://bit.ly/3AXwEO5",
 					"ButtonText": {
 						"LocalizedTexts": [
