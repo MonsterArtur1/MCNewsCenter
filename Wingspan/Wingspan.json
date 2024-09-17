@@ -125,7 +125,7 @@
 			},
 			"Content": [
 				{
-					"PlatformsToShowOn": 319,
+					"PlatformsToShowOn": 511,
 					"Text": {
 						"LocalizedTexts": [
 							{
@@ -311,7 +311,7 @@
 			},
 			"Content": [
 				{
-					"PlatformsToShowOn": 319,
+					"PlatformsToShowOn": 511,
 					"Text": {
 						"LocalizedTexts": [
 							{
@@ -1665,7 +1665,7 @@
 			},
 			"Content": [
 				{
-					"PlatformsToShowOn": 319,
+					"PlatformsToShowOn": 511,
 					"Text": {
 						"LocalizedTexts": [
 							{
