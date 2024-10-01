@@ -2217,7 +2217,7 @@
                 {
                     "ActionType": 1,
                     "PlatformsToShowOn": 257,
-                    "Value": "https://store.steampowered.com/app/1816700 ",
+                    "Value": "WWP_DLC",
                     "ButtonText": {
                         "LocalizedTexts": [
                             {
@@ -2278,7 +2278,7 @@
                 {
                     "ActionType": 1,
                     "PlatformsToShowOn": 2,
-                    "Value": "https://www.gog.com/game/wingspan_seasonal_decorative_pack",
+                    "Value": "WWP_DLC",
                     "ButtonText": {
                         "LocalizedTexts": [
                             {
