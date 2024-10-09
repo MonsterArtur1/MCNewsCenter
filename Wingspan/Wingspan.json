@@ -2337,6 +2337,192 @@
                     }
                 }
             ]
+        },
+        {
+            "ID": "6ea03563-0ee2-425b-b555-4a4bc17a07b0",
+            "Tags": [
+                "Online"
+            ],
+            "PlatformsToShowOn": 303,
+            "StartDateTicks": 638640720000000000,
+            "EndDateTicks": 638646768000000000,
+            "Priority": 1,
+            "PresetImageName": "Online",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Online Server Issue - October 9\r\n"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Online Server Issue - October 9\r\n"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Online Server Issue - October 9\r\n"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Online Server Issue - October 9\r\n"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Online Server Issue - October 9\r\n"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Online Server Issue - October 9\r\n"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "Online Server Issue - October 9\r\n"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Online Server Issue - October 9\r\n"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "Online Server Issue - October 9\r\n"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "Online Server Issue - October 9\r\n"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Online Server Issue - October 9\r\n"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "Online Server Issue - October 9\r\n"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Online Server Issue - October 9\r\n"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Regarding lost games and server connection errors "
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Regarding lost games and server connection errors "
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Regarding lost games and server connection errors "
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Regarding lost games and server connection errors "
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Regarding lost games and server connection errors "
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Regarding lost games and server connection errors "
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "Regarding lost games and server connection errors "
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Regarding lost games and server connection errors "
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "Regarding lost games and server connection errors "
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "Regarding lost games and server connection errors "
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Regarding lost games and server connection errors "
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "Regarding lost games and server connection errors "
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Regarding lost games and server connection errors "
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 303,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Everyone, \r\n\r\nUnfortunately, we have encountered an unexpected issue with the Online servers this morning, causing problems with server connection and, as a result, loss of multiplayer games. \r\n<b>Games that started before 11:17:00 have been affected by this error and unfortunately, we are unable to bring them back.</b>\r\nWe are very sorry for this inconvenience. \r\n\r\n<b>We have now introduced a fix so this problem won’t happen again in the future.</b> \r\n\r\nWe ask for your understanding regarding this very unfortunate incident.\r\n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Everyone, \r\n\r\nUnfortunately, we have encountered an unexpected issue with the Online servers this morning, causing problems with server connection and, as a result, loss of multiplayer games. \r\n<b>Games that started before 11:17:00 have been affected by this error and unfortunately, we are unable to bring them back.</b>\r\nWe are very sorry for this inconvenience. \r\n\r\n<b>We have now introduced a fix so this problem won’t happen again in the future.</b> \r\n\r\nWe ask for your understanding regarding this very unfortunate incident.\r\n"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Everyone, \r\n\r\nUnfortunately, we have encountered an unexpected issue with the Online servers this morning, causing problems with server connection and, as a result, loss of multiplayer games. \r\n<b>Games that started before 11:17:00 have been affected by this error and unfortunately, we are unable to bring them back.</b>\r\nWe are very sorry for this inconvenience. \r\n\r\n<b>We have now introduced a fix so this problem won’t happen again in the future.</b> \r\n\r\nWe ask for your understanding regarding this very unfortunate incident.\r\n"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Everyone, \r\n\r\nUnfortunately, we have encountered an unexpected issue with the Online servers this morning, causing problems with server connection and, as a result, loss of multiplayer games. \r\n<b>Games that started before 11:17:00 have been affected by this error and unfortunately, we are unable to bring them back.</b>\r\nWe are very sorry for this inconvenience. \r\n\r\n<b>We have now introduced a fix so this problem won’t happen again in the future.</b> \r\n\r\nWe ask for your understanding regarding this very unfortunate incident.\r\n"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Everyone, \r\n\r\nUnfortunately, we have encountered an unexpected issue with the Online servers this morning, causing problems with server connection and, as a result, loss of multiplayer games. \r\n<b>Games that started before 11:17:00 have been affected by this error and unfortunately, we are unable to bring them back.</b>\r\nWe are very sorry for this inconvenience. \r\n\r\n<b>We have now introduced a fix so this problem won’t happen again in the future.</b> \r\n\r\nWe ask for your understanding regarding this very unfortunate incident.\r\n"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Everyone, \r\n\r\nUnfortunately, we have encountered an unexpected issue with the Online servers this morning, causing problems with server connection and, as a result, loss of multiplayer games. \r\n<b>Games that started before 11:17:00 have been affected by this error and unfortunately, we are unable to bring them back.</b>\r\nWe are very sorry for this inconvenience. \r\n\r\n<b>We have now introduced a fix so this problem won’t happen again in the future.</b> \r\n\r\nWe ask for your understanding regarding this very unfortunate incident.\r\n"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "Everyone, \r\n\r\nUnfortunately, we have encountered an unexpected issue with the Online servers this morning, causing problems with server connection and, as a result, loss of multiplayer games. \r\n<b>Games that started before 11:17:00 have been affected by this error and unfortunately, we are unable to bring them back.</b>\r\nWe are very sorry for this inconvenience. \r\n\r\n<b>We have now introduced a fix so this problem won’t happen again in the future.</b> \r\n\r\nWe ask for your understanding regarding this very unfortunate incident.\r\n"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Everyone, \r\n\r\nUnfortunately, we have encountered an unexpected issue with the Online servers this morning, causing problems with server connection and, as a result, loss of multiplayer games. \r\n<b>Games that started before 11:17:00 have been affected by this error and unfortunately, we are unable to bring them back.</b>\r\nWe are very sorry for this inconvenience. \r\n\r\n<b>We have now introduced a fix so this problem won’t happen again in the future.</b> \r\n\r\nWe ask for your understanding regarding this very unfortunate incident.\r\n"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "Everyone, \r\n\r\nUnfortunately, we have encountered an unexpected issue with the Online servers this morning, causing problems with server connection and, as a result, loss of multiplayer games. \r\n<b>Games that started before 11:17:00 have been affected by this error and unfortunately, we are unable to bring them back.</b>\r\nWe are very sorry for this inconvenience. \r\n\r\n<b>We have now introduced a fix so this problem won’t happen again in the future.</b> \r\n\r\nWe ask for your understanding regarding this very unfortunate incident.\r\n"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "Everyone, \r\n\r\nUnfortunately, we have encountered an unexpected issue with the Online servers this morning, causing problems with server connection and, as a result, loss of multiplayer games. \r\n<b>Games that started before 11:17:00 have been affected by this error and unfortunately, we are unable to bring them back.</b>\r\nWe are very sorry for this inconvenience. \r\n\r\n<b>We have now introduced a fix so this problem won’t happen again in the future.</b> \r\n\r\nWe ask for your understanding regarding this very unfortunate incident.\r\n"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Everyone, \r\n\r\nUnfortunately, we have encountered an unexpected issue with the Online servers this morning, causing problems with server connection and, as a result, loss of multiplayer games. \r\n<b>Games that started before 11:17:00 have been affected by this error and unfortunately, we are unable to bring them back.</b>\r\nWe are very sorry for this inconvenience. \r\n\r\n<b>We have now introduced a fix so this problem won’t happen again in the future.</b> \r\n\r\nWe ask for your understanding regarding this very unfortunate incident.\r\n"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "Everyone, \r\n\r\nUnfortunately, we have encountered an unexpected issue with the Online servers this morning, causing problems with server connection and, as a result, loss of multiplayer games. \r\n<b>Games that started before 11:17:00 have been affected by this error and unfortunately, we are unable to bring them back.</b>\r\nWe are very sorry for this inconvenience. \r\n\r\n<b>We have now introduced a fix so this problem won’t happen again in the future.</b> \r\n\r\nWe ask for your understanding regarding this very unfortunate incident.\r\n"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Everyone, \r\n\r\nUnfortunately, we have encountered an unexpected issue with the Online servers this morning, causing problems with server connection and, as a result, loss of multiplayer games. \r\n<b>Games that started before 11:17:00 have been affected by this error and unfortunately, we are unable to bring them back.</b>\r\nWe are very sorry for this inconvenience. \r\n\r\n<b>We have now introduced a fix so this problem won’t happen again in the future.</b> \r\n\r\nWe ask for your understanding regarding this very unfortunate incident.\r\n"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
         }
     ]
 }
