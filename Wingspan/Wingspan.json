@@ -2523,6 +2523,192 @@
                 }
             ],
             "Actions": []
+        },
+        {
+            "ID": "0b555944-dcb9-4a3e-81b0-3fb083fb4a91",
+            "Tags": [
+                "Update"
+            ],
+            "PlatformsToShowOn": 192,
+            "StartDateTicks": 638646552000000000,
+            "EndDateTicks": 638658072600000000,
+            "Priority": 1,
+            "PresetImageName": "Online",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Hotfix - October 15"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Hotfix - October 15"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Hotfix - October 15"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Hotfix - October 15"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Hotfix - October 15"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Hotfix - October 15"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "Hotfix - October 15"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Hotfix - October 15"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "Hotfix - October 15"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "Hotfix - October 15"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Hotfix - October 15"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "Hotfix - October 15"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Hotfix - October 15"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Birders!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Birders!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Birders!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Birders!"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Birders!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Birders!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "Birders!"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Birders!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "Birders!"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "Birders!"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Birders!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "Birders!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Birders!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 192,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
         }
     ]
 }
