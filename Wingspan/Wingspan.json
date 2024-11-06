@@ -2895,6 +2895,442 @@
                 }
             ],
             "Actions": []
+        },
+        {
+            "ID": "59314170-c62f-4baa-819a-bcc2da554ff4",
+            "Tags": [
+                "Update",
+                "NewContent"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638664480000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 2,
+            "PresetImageName": "",
+            "RemoteImageName": "WS_NewsCenter_Automarazzi_800x300.jpg",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Automarazzi is here!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Automarazzi jest już dostępne!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Automarazzi ist da!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Automarazzi est disponible !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Ya está aquí el Automarazzi!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "O Automarazzi chegou!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "オートマラッチが登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Доступен режим «Автомарацци»!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "自动鸟狗仔队来啦！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "自動鳥狗仔隊來啦！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "È arrivata Automarazzi!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "오토마라치 출시!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Автомарацці вже тут!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Face a common foe! Automarazzi - the new coop mode - is here!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Staw czoła wspólnemu przeciwnikowi! Automarazzi - nowy tryb kooperacyjny - jest już dostępny!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Bekämpft einen gemeinsamen Feind! Der neue Koop-Modus Automarazzi ist da!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Affrontez un adversaire commun ! Automarazzi, le nouveau mode coopératif, est disponible !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Haced frente a un enemigo común! ¡Ya está aquí el Automarazzi, el nuevo modo cooperativo!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Enfrentem um inimigo em comum! Automarazzi – o novo modo cooperativo – chegou!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "仲間とともに立ち向かおう！新しい協力モード「オートマラッチ」が登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Сражайтесь с общим врагом — Автомарацци — в новом режиме совместной игры!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": " 面对共同的敌人！自动鸟狗仔队 - 全新的合作模式 - 登场！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "面對共同的敵人！自動鳥狗仔隊 - 全新的合作模式 - 登場！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Affrontate un nemico comune! È arrivata Automarazzi, la nuova modalità cooperativa!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "공동의 적과 맞서세요! 새로운 협동 모드인 오토마라치가 출시되었습니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Боріться проти спільного ворога! Автомарацці — новий кооперативний режим — вже тут!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "We’re thrilled to introduce a new game mode in Wingspan Digital - Automarazzi!\n\nAutomarazzi is a cooperative experience where human players play together against a common opponent - the Automarazzi.\n\nThe Automarazzi make a fortune selling photographs of interesting and rare birds to bird tabloids and television shows. They couldn’t care less about the impact of their fumbling and stomping around the birds’ habitats.\n\nYou and your fellow bird enthusiasts unite to stand against this evil photographer. Your mission: to outsmart the greedy Automarazzi and protect our feathered friends and their habitats! Work together and outscore your opponent and enjoy Wingspan Digital like never before!\n\nThe Automarazzi mode brings you an entirely new exchange system to manage resources with other players and help each other in the game. You can give away bird cards, and take eggs from other players. If you play with the Automa’s Hoard variant, you can additionally give away food. You can do it anytime during your turn, but remember: these actions have their costs! To help you navigate through the new rules, with this update we’re introducing another new feature - the Automa Rulebook! Check the News for more information! \n\nThe Automarazzi comes as a part of the Oceania Expansion but it’s available for everyone in the Online mode.\n\nWe hope you’ll enjoy Automarazzi mode with your friends or solo, and discover a new way to challenge yourself. Share your scores with us where you can! \n\nHappy gaming, and may your scores soar high!\n\""
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Z radością przedstawiamy nowy tryb gry w Na Skrzydłach: Wersji Cyfrowej - Automarazzi!\r\n\r\nAutomarazzi to tryb kooperacyjny dla graczy przeciwko wspólnemu przeciwnikowi.\r\n\r\nAutomarazzi zarabia fortunę na sprzedaży zdjęć ptaków do amatorskich ptasich tabloidów i programów rozrywkowych. Nie przejmuje się tym, że zakłóca spokój ptakom, przeczesując i zdeptując ich siedliska. Zależy mu jedynie na zrobieniu zdjęcia, które sprzeda temu, kto zaoferuje najwyższą cenę. \r\n\r\nRazem z innymi miłośnikami ptaków zrobicie wszystko, aby ukrócić ten proceder. Wasza misja: przechytrzyć chciwego Automarazzi i ochronić naszych pierzastych przyjaciół i ich siedliska! Współpracujcie, pokonajcie przeciwnika i cieszcie się Na Skrzydłach: Wersją Cyfrową jak nigdy dotąd!\r\n\r\nTryb Automarazzi oferuje zupełnie nowy system wymiany, który pozwala zarządzać zasobami z innymi graczami i pomagać sobie nawzajem w grze. Możesz rozdawać karty ptaków i odbierać jaja innym graczom, a jeśli grasz z wariantem Zapasy Automy, dodatkowo rozdawaj też jedzenie. Możesz to zrobić w dowolnym momencie swojej tury, ale pamiętaj: te akcje mają swoje koszty! Aby ułatwić ci poruszanie się po nowych zasadach, wraz z tą aktualizacją wprowadzamy kolejną nowość - Księgę Zasad Automy! Więcej informacji w Aktualnościach! \r\n\r\nAutomarazzi jest częścią dodatku Ptaki Oceanii, ale w trybie Online jest dostępny dla wszystkich.\r\n\r\nMamy nadzieję, że tryb Automarazzi spodoba się Tobie i Twoim znajomym i odkryjecie nowy sposób na sprawdzenie swoich umiejętności w grze. Podziel się z nami swoimi wynikami, gdzie tylko możesz! \r\n\r\nDobrej zabawy i niech wasze wyniki szybują wysoko!\r\n"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Mit Freude stellen wir einen neuen Spielmodus für Wingspan Digital vor: Automarazzi.\n\nIn diesem kooperativen Erlebnis stellen sich menschliche Spieler einem gemeinsamen Gegner, dem Automarazzi.\n\nDer Automarazzi macht mit dem Verkauf von Fotos interessanter und seltener Vögel an Vogelzeitschriften und TV-Shows ein Vermögen. Ihm sind die schädlichen Auswirkungen auf die Lebensräume der Vögel völlig egal.\n\nGemeinsam mit gleichgesinnten Vogelfreunden stellst du dich dem Übeltäter entgegen. Es gilt, den gierigen Automarazzi zu überlisten und eure gefiederten Freunde und ihren Lebensraum zu schützen. Arbeitet zusammen und sammelt mehr Punkte als euer Gegner. Erlebe Wingspan Digital wie nie zuvor!\n\nDer Automarazzi-Modus führt ein völlig neues Tauschsystem für die Ressourcenverwaltung ein, damit sich Spieler gegenseitig helfen können. Ihr könnt Vogelkarten geben und Eier von Mitspielern nehmen. Wenn ihr mit der Variante „Automas Futterspeicher“ spielt, könnt ihr zusätzlich Futter geben. Dies ist jederzeit während eines Zugs möglich, aber nicht vergessen: diese Aktionen haben ihren Preis! Damit du dich mit den neuen Regeln zurechtfindest, führen wir ein weiteres neues Feature ein: die Automa-Anleitung. In den Neuigkeiten erfährst du mehr!\n\nAutomarazzi ist Teil der Ozeanien-Erweiterung, im Online-Modus hat jedoch jeder darauf Zugriff.\n\nWir hoffen, du hast Spaß dabei, den Automarazzi-Modus allein oder mit Freunden zu spielen und findest eine neue Herausforderung. Teile uns gerne deine Punktstände mit!\n\nViel Spaß beim Spielen – mögen deine Punkte in höchste Höhen aufsteigen!\""
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Nous avons la joie d'introduire un nouveau mode de jeu dans l'édition numérique de Wingspan : Automarazzi !\n\nAutomarazzi est une expérience coopérative où les joueurs humains font équipe contre un adversaire commun, Automarazzi.\n\nL'Automarazzi fait fortune en vendant des photos d'oiseaux rares et remarquables à des magazines et des émissions de télévision spécialisés. Il se moque complètement de l'impact de sa maladresse et de ses piétinements sur l'habitat des oiseaux.\n\nVous et vos camarades passionnés devez vous unir pour lutter contre ce photographe malveillant. Votre mission : déjouer les plans de l'Automarazzi cupide et protéger nos amis à plumes et leurs habitats ! Collaborez, dépassez le score de votre adversaire et jouez à Wingspan d'une toute nouvelle manière !\n\nLe mode Automarazzi introduit un nouveau système d'échange pour gérer vos ressources avec les autres joueurs et vous entraider pendant la partie. Vous pouvez donner des cartes Oiseau et prendre des œufs aux autres joueurs. Si vous jouez avec la variante Automate Prévoyant, vous pouvez aussi donner de la nourriture. Vous pouvez le faire n'importe quand pendant votre tour, mais attention : ces actions ont un coût ! Pour vous aider à vous y retrouver parmi ces nouvelles règles, nous avons également inclus dans cette mise à jour une autre fonctionnalité : les règles d'Automa ! Consultez les nouveautés pour plus d'informations !\n\nLa variante Automarazzi fait partie de l'extension Océanie, mais elle est disponible pour tout le monde dans le mode en ligne.\n\nNous espérons que vous aimerez jouer au mode Automarazzi avec vos amis ou en solo, et découvrir une nouvelle façon de vous mettre au défi. Partagez vos scores sur la plateforme de votre choix !\n\nAmusez-vous bien, et que vos scores atteignent des sommets !\""
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Nos morimos de ganas de presentar un nuevo modo de juego de Wingspan Digital: ¡Automarazzi!\n\nSe trata de una experiencia cooperativa en la que los jugadores humanos deben colaborar para hacer frente a un rival común, el Automarazzi.\n\nEl Automarazzi está haciendo una fortuna vendiendo fotos de aves interesantes y raras a los tabloides del sector y a programas de televisión. Le importan muy poco las consecuencias de su torpe intromisión y desastrosa invasión de los hábitats de las aves: solo quiere sacar fotos para venderlas al mejor postor.\n\nTus amigos entusiastas de las aves y tú debéis poner freno a este malvado fotógrafo. Para ello, ¡tendréis que ser más listos que el avaricioso Automarazzi y proteger a nuestras queridas aves y sus hábitats! ¡Trabajad codo con codo para obtener una mayor puntuación que vuestro rival y jugad a Wingspan Digital como nunca lo habíais hecho hasta ahora!\n\nEl modo Automarazzi ofrece un novedoso sistema de intercambio para gestionar tus recursos con los demás jugadores y ayudaros mutuamente. Podrás dar cartas de ave y coger huevos de otros jugadores, y si juegas con la variante Botín del Automa, también podrás dar alimentos. Estas acciones pueden hacerse en cualquier momento de tu turno, pero ¡no olvides que tienen un coste! Hemos añadido otra nueva herramienta en esta actualización para ayudar a entender mejor las reglas: ¡el reglamento del Automa! ¡Echa un vistazo a las noticias para obtener más información!\n\nEl Automarazzi forma parte de la Expansión de Oceanía, pero está disponible para todo el mundo en el modo en línea.\n\nEsperamos que disfrutes del modo Automarazzi tanto con amigos como en solitario y que descubras una nueva forma de ponerte a prueba. ¡Comparte tus puntuaciones con nosotros!\n\n¡Disfruta jugando y lleva tu puntuación a lo más alto!\""
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Estamos empolgados em apresentar um novo modo de jogo no Wingspan Digital – Automarazzi!\n\nAutomarazzi é uma experiência cooperativa onde os jogadores humanos se unem para enfrentar um oponente em comum, o Automarazzi.\n\nO Automarazzi faz fortuna vendendo fotos de aves raras e interessantes para tabloides e programas de televisão. Ele não se importa com o impacto de suas trapalhadas e pisoteios nos habitats das aves.\n\nVocê e seus amigos entusiastas de aves se unem para enfrentar esse fotógrafo inescrupuloso. A missão de vocês: superar o ganancioso Automarazzi e proteger nossos amigos emplumados e seus habitats! Trabalhem juntos para superar o oponente e aproveitem o Wingspan Digital como nunca antes!\n\nO modo Automarazzi traz um sistema de troca completamente novo para você gerenciar recursos com outros jogadores e ajudar uns aos outros durante o jogo. Vocês podem doar cartas de aves e pegar ovos de outros jogadores. Se estiverem jogando com a variante Acúmulo do Automa, vocês também poderão doar comida. Isso pode ser feito a qualquer momento durante os seus turnos, mas lembrem-se: essas ações têm um custo! Para ajudar vocês a navegar pelas novas regras, estamos introduzindo outro recurso com esta atualização – o Livro de Regras do Automa! Confiram as novidades para mais informações! \n\nO Automarazzi faz parte da Expansão Oceania, mas está disponível para todos no modo Online.\n\nEsperamos que vocês curtam o modo Automarazzi jogando com amigos ou solo e descubram uma nova forma de se desafiar. Compartilhem suas pontuações com a gente onde puder!\n\nBoa partida, e que suas pontuações alcancem grandes alturas!\""
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "『ウイングスパン』デジタル版に新ゲームモード「オートマラッチ」が登場しました！\r\n\r\nオートマラッチは、プレイヤー同士が協力して共通の対戦相手「オートマラッチ」と対戦し、協力プレイが楽しめるモードです。\r\n\r\nオートマラッチは、興味深い希少な鳥の写真を撮影し、鳥のタブロイド紙やTV番組に売って金儲けをしています。オートマラッチは鳥への影響など気にもせず、生息地を台無しにしたり踏み荒らしたりしています。\r\n\r\n仲間の鳥類愛好家とともに、この悪しき写真家に立ち向かいましょう。あなたのミッションは、貪欲なオートマラッチを出し抜いて、鳥たちと生息地を守ること！協力して対戦相手を超えるスコアを叩き出し、『ウイングスパン』デジタル版で今までとは異なるゲームプレイをお楽しみください！\r\n\r\nオートマラッチモードでは、ゲーム内で全く新しい交換システムで他のプレイヤーとリソースを管理し、お互いに助け合います。鳥カードを渡す、他のプレイヤーから卵を受け取るといったことも可能です。「オートマ貯蔵」のバリアントでプレイする場合は、追加で餌を渡すこともできます。自分の手番の間であれば、この行動はいつでも可能ですが、これらの行動にはコストがかかりますのでご注意ください！新ルールに馴染んでいただけるように、今回のアップデートと一緒に、もうひとつの新機能『オートマ・ルールブック』を導入します！詳細に関してはニュースをご確認ください！\r\n\r\nオートマラッチは『大洋の翼』の一部として登場しますが、オンラインモードで全ての人が利用可能です。\r\n\r\nフレンドと一緒に、またはソロプレイで、新鮮な手ごたえのオートマラッチモードをお楽しみください。お好きな方法で自分のスコアをシェアしましょう！\r\n\r\n楽しくゲームをプレイして、あなたのスコアが空高く舞い上がらんことを！\r\n"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Мы рады сообщить, что в цифровой версии «Крыльев» появился новый режим под названием «Автомарацци».\n\nВ этом режиме игрокам предстоит выступить против общего соперника — Автомарацци.\n\nАвтомарацци получает баснословные гонорары, продавая фотографии редких птиц тематическим таблоидам и телеканалам. Его совершенно не волнует, что в погоне за снимками он разрушает естественную среду обитания птиц.\n\nВместе с другими неравнодушными любителями птиц вы бросаете вызов этому беспринципному фотографу. Ваша задача — перехитрить жадного Автомарацци и защитить пернатых друзей, а также среду их обитания. Сыграйте в «Крылья» по-новому, объединив усилия против общего соперника!\n\nВ режиме «Автомарацци» действует полностью переработанная система взаимопомощи и обмена ресурсами: вы сможете отдавать карточки другим игрокам и забирать у них яйца птиц. А если вы играете с припасами Автомы, сможете ещё и делиться кормом. Все эти действия разрешено совершать в любой ход, однако помните: они имеют свою цену! Чтобы помочь вам разобраться с новыми правилами, мы добавили в «Крылья» цифровое руководство по игре с Автомой. Подробнее об этом читайте в разделе «Новости».\n\nНовый режим «Автомарацци» включён в дополнение «Птицы Океании», но для сетевой игры доступен всем желающим.\n\nНадеемся, что вам понравится играть против Автомарацци вместе с друзьями или в одиночном режиме по новым правилам! По возможности рассказывайте нам о своих успехах.\n\nЖелаем вам приятной игры и заоблачного количества очков!\""
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "我们很高兴在《展翅翱翔》数字版中推出全新的游戏模式——自动鸟狗仔队！\n\n自动鸟狗仔队是一个全新的合作体验，玩家们将一起对抗共同的敌人——自动鸟狗仔队。\n\n自动鸟狗仔队通过向鸟类小报和电视节目销售有趣和稀有鸟类的照片赚取巨额利润。他们根本不在乎自己的行为对鸟类栖息地的影响。\n\n你需要和你的鸟类爱好者伙伴们团结起来，抵御这些邪恶的摄影师。你的任务：靠智慧战胜贪婪的自动鸟狗仔队，保护我们的羽毛朋友们和它们的栖息地！一起合作，超越对手，享受前所未有的《展翅翱翔》数字版体验！\n\n\n自动鸟狗仔队模式带来了全新的资源交换系统，允许玩家之间相互管理资源，互相帮助。你可以赠送鸟类卡，并从其他玩家那里获取蛋。如果你使用自动鸟存粮的变体，你还可以赠送食物。你可以在你回合的任何时候进行这些操作，但要记住：这些行动是有代价的！为了帮助你理解新规则，此次更新还引入了另一个新功能——自动鸟规则书！请查看新闻以获取更多信息！\n\n自动鸟狗仔队是大洋洲扩展的一部分，但在在线模式下对所有人开放。\n\n我们希望你能与朋友或自己享受自动鸟狗仔队这个模式，发现挑战自我的新方式。欢迎与我们分享你的得分！\n\n祝你游戏愉快，得分高飞！\""
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "我們很高興在《展翅翱翔》數字版中推出全新的遊戲模式——自動鳥狗仔隊！\n\n自動鳥狗仔隊是一個全新的合作體驗，玩家們將一起對抗共同的敵人——自動鳥狗仔隊。\n\n自動鳥狗仔隊通過向鳥類小報和電視節目銷售有趣和稀有鳥類的照片賺取巨額利潤。他們根本不在乎自己的行為對鳥類棲息地的影響。\n\n你需要和你的鳥類愛好者夥伴們團結起來，抵禦這些邪惡的攝影師。你的任務：靠智慧戰勝貪婪的自動鳥狗仔隊，保護我們的羽毛朋友們和它們的棲息地！一起合作，超越對手，享受前所未有的《展翅翱翔》數字版體驗！\n\n\n自動鳥狗仔隊模式帶來了全新的資源交換系統，允許玩家之間相互管理資源，互相幫助。你可以贈送鳥類卡，並從其他玩家那裡獲取蛋。如果你使用自動鳥存糧的變體，你還可以贈送食物。你可以在你回合的任何時候進行這些操作，但要記住：這些行動是有代價的！為了幫助你理解新規則，此次更新還引入了另一個新功能——自動鳥規則書！請查看新聞以獲取更多信息！\n\n自動鳥狗仔隊是大洋洲擴展的一部分，但在在線模式下對所有人開放。\n\n我們希望你能與朋友或自己享受自動鳥狗仔隊這個模式，發現挑戰自我的新方式。歡迎與我們分享你的得分！\n\n祝你遊戲愉快，得分高飛！\""
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Siamo lieti di annunciare una nuova modalità di gioco nella versione digitale di Wingspan: Automarazzi!\n\nAutomarazzi è un'esperienza cooperativa in cui i giocatori umani devono affrontare un avversario comune, l'Automarazzi.\n\nGli Automarazzi fanno una fortuna vendendo fotografie di uccelli interessanti e rari a tabloid di uccelli e show televisivi. Armeggiano e calpestano gli habitat degli uccelli totalmente incuranti del loro impatto.\n\nTu e gli altri amanti dei volatili dovete fare squadra per affrontare uno di questi fotografi malvagi. La vostra missione: battere l'avido Automarazzi e proteggere i nostri amici pennuti e i loro habitat! Collaborate, fate più punti del vostro avversario e divertitevi con la versione digitale di Wingspan come mai prima d'ora!\n\nLa modalità Automarazzi introduce un sistema di scambio completamente nuovo per gestire le risorse con gli altri giocatori e aiutarvi a vicenda. Puoi dare via carte uccello e prendere uova dagli altri giocatori. Se decidi di giocare con la variante Scorta dell'Automa, puoi dare via anche il cibo. Puoi compiere queste azioni in qualsiasi momento durante il tuo turno, ma ricorda che hanno un costo! Per aiutarti a prendere dimestichezza con le nuove regole, questo aggiornamento include anche un'altra nuova funzione: il regolamento dell'Automa! Dai un'occhiata alla sezione \"\"Novità\"\" per maggiori informazioni!\n\nL'Automarazzi fa parte dell'Espansione Oceania, ma è disponibile per tutti i giocatori nella modalità online.\n\nDivertiti con la modalità Automarazzi, con i tuoi amici o in solitaria, e scopri un nuovo modo per metterti alla prova. Se lo desideri, puoi condividere i tuoi punteggi con noi!\n\nBuon divertimento e che i tuoi punteggi siano sempre più alti!\""
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "윙스팬 디지털의 새로운 게임 모드인 오토마라치를 소개하게 되어 매우 기쁩니다!\n\n오토마라치는 인간 플레이어가 오토마라치라는 공통의 적을 상대로 함께 플레이하는 협동 모드입니다.\n\n오토마라치는 흥미롭고 희귀한 새들의 사진을 조류 타블로이드와 텔레비전 쇼에 팔아 큰돈을 벌고 있습니다. 새들의 서식지를 더듬고 쿵쿵 밟는 행위가 새들에게 미치는 영향은 전혀 신경 쓰지 않는 채 말이죠.\n\n새 애호가 여러분은 이 사악한 사진사와 맞서기 위해 힘을 모아야 합니다. 여러분의 임무는 탐욕스러운 오토마라치를 물리치고 새들의 서식지를 보호하는 것입니다! 함께 협력하여 상대를 물리치고 이전과는 다른 방식으로 윙스팬 디지털을 즐기세요!\n\n오토마라치 모드에서는 완전히 새로운 교환 시스템을 통해 다른 플레이어와 자원을 관리하고 게임에서 서로를 도울 수 있습니다. 새 카드를 나눠주고 다른 플레이어로부터 알을 받을 수 있습니다. 아니면 식량을 추가로 나눠줄 수도 있습니다. 자신의 차례에 언제든지 할 수 있지만, 이러한 행동에는 비용이 든다는 점을 기억하세요! 새로운 규칙을 쉽게 이해할 수 있도록 이번 업데이트에서 또 다른 새로운 기능인 오토마 규칙서가 추가되었습니다! 자세한 내용은 뉴스를 확인하세요!\n\n오토마라치는 오세아니아 확장팩의 일부로 제공되지만, 온라인 모드에서 누구나 이용할 수 있습니다.\n\n친구와 함께 또는 혼자서 오토마라치 모드를 즐기고 새로운 도전법을 발견해보세요. 여러분의 점수를 공유해 주세요!\n\n즐거운 게임되기실 바라며, 고득점하세요!\""
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Раді представити новий режим гри у цифровій версії «Крил» — Автомарацці!\n\nАвтомарацці — це кооперативний режим для гравців-людей, які гратимуть разом проти спільного ворога-автомарацці.\n\nАвтомарацці заробляє статки, продаючи світлини цікавих і рідкісних птахів у пташині таблоїди й телевізійні шоу. Йому байдуже, якої шкоди він завдає ареалам птахів своєю метушнею й тупотінням.\n\nРазом зі своїми друзями-любителями птахів ви повинні протистояти цьому лихому фотографу. Ваше завдання: перехитрити жадібного автомарацці й захистити наших пернатих друзів і їхні ареали проживання! Співпрацюйте, перевершуйте суперника й насолоджуйтеся цифровою версією «Крил», як ніколи раніше!\n\nРежим «Автомарацці» пропонує вам абсолютно нову систему обміну ресурсами з іншими гравцями й взаємодопомоги у грі. Ви можете віддавати карти птахів і брати яйця в інших гравців. Якщо ви граєте з функцією «Запас Автоми», то додатково можете віддавати корм. Можете робити це будь-коли під час свого ходу, але пам'ятайте: ці дії мають свою ціну! Щоб допомогти вам розібратися з новими правилами, в цьому оновленні ми також представляємо нову функцію — Правила Автоми! Шукайте подробиці в новинах! \n\nРежим «Автомарацці» включений у склад доповнення «Птахи Океанії», але доступний для всіх в онлайн-режимі.\n\nСподіваємося, що вам сподобається грати в режим «Автомарацці» як наодинці, так і з друзями, і випробувати себе по-новому. Діліться вашими результатами з нами, де тільки можете! \n\nВеселої гри, і нехай ваші результати злетять до небес!\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 257,
+                    "Value": "https://store.steampowered.com/news/app/1054490/view/4474982933237596178?l=english",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "CHECK FULL PATCHNOTES"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "OPIS ZMIAN"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "ZU DEN VOLLSTÄNDIGEN PATCHNOTES"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "CONSULTER LES NOTES DE PATCH"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "CONSULTAR LAS NOTAS DEL PARCHE COMPLETAS"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "CONFIRA AS NOTAS COMPLETAS DE ATUALIZAÇÃO"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "パッチノートの完全版をチェック"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "ЧИТАЙТЕ ПОЛНОЕ ОПИСАНИЕ ОБНОВЛЕНИЯ"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "查看完整补丁说明"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "查看完整補丁說明"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "LEGGI LE NOTE DELLA PATCH COMPLETE"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "전체 패치노트 확인"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "ЧИТАТИ ПОВНІ ПРИМІТКИ ДО ПАТЧУ"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "ID": "16e9ad17-0c9b-46bc-a136-e3264d094dc6",
+            "Tags": [
+                "Update",
+                "NewContent"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638664480000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 1,
+            "PresetImageName": "",
+            "RemoteImageName": "WS_NewsCenter_Rulebook_800x300.jpg",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "One Book to rule them all"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Jedna Księga, by wszystkimi rządzić\r\n"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Alle Regeln in einer Anleitung"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Vous n'échapperez pas aux règles !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Un reglamento para gobernarlos a todos"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Um Livro para a todos governar"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "全てを網羅する一冊の書"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Книга самых честных правил"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "一本规则书掌握所有"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "一本規則書掌握所有"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Un libro per domarli tutti"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "한 권으로 알아보는 윙스팬"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Одна книга, що править усіма"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "The Automa Rulebook lands in Wingspan Digital!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Księga Zasad Automy ląduje w Na Skrzydłach: Wersji Cyfrowej!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Jetzt bei Wingspan Digital: die Automa-Anleitung!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Les règles d'Automa arrivent dans l'édition numérique de Wingspan !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Llega a Wingspan Digital el reglamento del Automa!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "O Livro de Regras do Automa chega ao Wingspan Digital!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『オートマ・ルールブック』が『ウイングスパン』デジタル版に登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "В цифровой версии «Крыльев» появилось руководство по правилам Автомы!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "自动鸟规则书登陆《展翅翱翔》数字版！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "自動鳥規則書登陸《展翅翱翔》數字版！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Il regolamento dell'Automa è arrivato nella versione digitale di Wingspan!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "오토마 규칙서가 윙스팬 디지털에 추가되었습니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Правила Автоми тепер у цифровій версії «Крил»!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "To help you manage the new rules and give you quick access to your knowledge, we are also introducing a new feature: an in-game Automa Rulebook!\n\nIt’s a comprehensive guide to help you navigate through every Automa variant, including newly added Automarazzi, and maximize your strategy. You can access it in the Automa menu, and throughout the game against any Automa variant - including the Online Challenge. \n\nThe rulebook is now available for everyone, so make sure to update your game!\n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Aby pomóc ci w opanowaniu nowych zasad i zapewnić szybki dostęp do wiedzy, wprowadzamy nową funkcję w grze: Księgę Zasad Automy!\r\n\r\nJest to kompleksowy przewodnik, który pomoże ci grać wykorzystując każdy wariant Automy, w tym nowo dodanym Automarazzi, i ulepszyć swoją strategię. Dostęp do niego można uzyskać w menu wyboru trybu Automy, a także podczas gry z dowolnym wariantem Automy - w tym w wyzwaniu Online. \r\n\r\nKsięga Zasad jest już dostępny dla wszystkich, więc koniecznie zaktualizuj swoją grę!\r\n"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Damit du dich mit den neuen Regeln zurechtfindest und schnell etwas nachschlagen kannst, gibt es noch ein neues Feature: die Automa-Anleitung im Spiel.\n\nDieser umfassende Leitfaden führt dich durch jede Automa-Variante, einschließlich des neuen Automarazzi-Modus. Maximiere deine Strategie! Du kannst beim Spiel gegen jede Automa-Variante – einschließlich der Online-Herausforderung – im Automa-Menü darauf zugreifen.\n\nDie Anleitung ist jetzt für alle verfügbar, also stelle sicher, dass dein Spiel auf dem aktuellen Stand ist!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Afin de vous aider à gérer les nouvelles règles et à y accéder rapidement, nous avons également ajouté une nouvelle fonctionnalité : les règles d'Automa dans le jeu !\n\nIl s'agit d'un guide complet qui vous permettra de vous y retrouver parmi toutes les variantes d'Automa (y compris la nouvelle variante Automarazzi), ainsi que d'optimiser votre stratégie. Vous pouvez les consulter dans le menu Automa et pendant une partie contre n'importe quelle variante d'Automa, y compris le Défi en ligne.\n\nLes règles sont désormais disponibles pour tous, alors assurez-vous que votre jeu est à jour !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Para ayudarte a entender mejor las nuevas reglas y poner a tu disposición un acceso rápido a los conocimientos, también hemos introducido una nueva herramienta: ¡el reglamento del Automa!\n\nEs una extensa guía que te ayudará a comprender todas las variantes del Automa, incluido el nuevo Automarazzi, y a optimizar tu estrategia. Podrás acceder al reglamento desde el menú del Automa y durante las partidas contra cualquier variante del Automa, incluido el desafío en línea.\n\nEl reglamento ya está disponible para todos, ¡así que no olvides actualizar el juego!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Para ajudar a entender as novas regras e ter acesso rápido ao seu conhecimento, estamos também introduzindo um novo recurso: um Livro de Regras do Automa no jogo!\n\nEsse é um guia completo para orientar você em cada variante do Automa, incluindo o recém-adicionado Automarazzi, e maximizar sua estratégia. Você pode acessá-lo no menu do Automa e durante uma partida contra as variantes do Automa – incluindo o Desafio Online. \n\nO livro de regras já está disponível para todos, então não deixe de atualizar o seu jogo!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "新ルールを管理し、知識に素早くアクセスできるように、新機能『ゲーム内オートマ・ルールブック』を導入します！\n\n新規追加のオートマラッチを含む、全てのオートマバリアントを理解する助けとなり、あなたの戦略を最大限に広げる網羅的なガイドとなっています。このガイドはオートマメニューからアクセスが可能です。また、オンラインチャレンジを含むあらゆるオートマバリアントとのゲーム中に利用可能です。\n\nルールブックは誰でも利用可能ですので、これを使ってあなたのゲームプレイをアップデートしましょう!"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Теперь прямо во время игры можно открыть цифровое руководство, чтобы освоить новые правила и быстро найти нужную информацию.\n\nПолное руководство поможет подобрать лучшую стратегию, а также разобраться со всеми вариантами игры против Автомы — в том числе и в новейшем режиме «Автомарацци». Руководство находится в меню Автомы и доступно во время матча в любом режиме с ней, включая «Игру по сети».\n\nРуководство уже опубликовано для всех, так что скорее обновите игру!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "为了帮助您掌握新规则并快速访问知识点，我们还引入了一个新功能：游戏内的自动鸟规则手册！\n\n这是一本覆盖全方位的指南，帮助您了解每个自动鸟变体，包括新添加的自动鸟狗仔队，并最大化您的策略。您可以在自动鸟菜单中访问它，并在与任何自动鸟变体的游戏中使用，包括在线挑战。\n\n规则手册现在对所有人开放，所以请确保更新您的游戏！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "為了幫助您掌握新規則並快速訪問知識點，我們還引入了一個新功能：遊戲內的自動鳥規則手冊！\r\n\r\n這是一本覆蓋全方位的指南，幫助您了解每個自動鳥變體，包括新添加的自動鳥狗仔隊，並最大化您的策略。您可以在自動鳥菜單中訪問它，並在與任何自動鳥變體的遊戲中使用，包括在線挑戰。\r\n\r\n規則手冊現在對所有人開放，所以請確保更新您的遊戲！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Per aiutarti a prendere dimestichezza con le nuove regole, abbiamo introdotto anche una nuova funzione: il regolamento dell'Automa all'interno del gioco!\n\nSi tratta di una guida esaustiva a ogni variante dell'Automa, compresa la recente modalità Automarazzi, per aiutarti a ottimizzare la strategia. Puoi accedervi dal menu Automa e durante ogni partita con una qualsiasi variante dell'Automa, compresa la Sfida online.\n\nIl regolamento è ora disponibile per tutti, quindi assicurati di aggiornare il gioco!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "새로운 규칙을 정리하고 지식을 빠르게 확인할 수 있도록 게임 내 오토마 규칙서라는 새로운 기능이 도입됩니다!\n\n새로 추가된 오토마라치를 포함한 모든 오토마 변종을 탐색하고 전략을 극대화하는 데 도움이 되는 종합 안내서입니다. 오토마 메뉴에서 이용할 수 있으며, 온라인 도전을 포함한 모든 오토마 변종을 상대로 게임을 진행하는 동안에도 이용할 수 있습니다.\n\n규칙서는 누구나 이용할 수 있으니 게임을 업데이트하세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Щоб допомогти вам розібратися з новими правилами й надати легкий спосіб перевірити свої знання, ми також представляємо нову функцію: внутрішньоігровий посібник «Правила Автоми»!\n\nЦей вичерпний довідник допоможе вам орієнтуватися в кожному з варіантів гри проти Автоми, зокрема в новісінькому режимі «Автомарацці», та вибудувати максимально ефективну стратегію. Ви можете відкрити його з меню Автоми, а також під час гри проти будь-якого варіанта Автоми, зокрема в онлайн-змаганні. \n\nПосібник вже доступний для всіх, тож обов'язково оновіть гру!"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
         }
     ]
 }
