@@ -3270,7 +3270,60 @@
                     "PlatformsToShowOn": 8,
                     "Value": "https://apps.apple.com/us/app/wingspan-the-board-game/id1459520638",
                     "ButtonText": {
-                        "LocalizedTexts": []
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "CHECK FULL PATCHNOTES"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "OPIS ZMIAN"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "ZU DEN VOLLSTÄNDIGEN PATCHNOTES"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "CONSULTER LES NOTES DE PATCH"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "CONSULTAR LAS NOTAS DEL PARCHE COMPLETAS"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "CONFIRA AS NOTAS COMPLETAS DE ATUALIZAÇÃO"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "パッチノートの完全版をチェック"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "ЧИТАЙТЕ ПОЛНОЕ ОПИСАНИЕ ОБНОВЛЕНИЯ"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "查看完整补丁说明"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "查看完整補丁說明"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "LEGGI LE NOTE DELLA PATCH COMPLETE"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "전체 패치노트 확인"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "ЧИТАТИ ПОВНІ ПРИМІТКИ ДО ПАТЧУ"
+                            }
+                        ]
                     }
                 }
             ]
