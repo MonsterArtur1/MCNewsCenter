@@ -3207,7 +3207,7 @@
                 {
                     "ActionType": 0,
                     "PlatformsToShowOn": 4,
-                    "Value": "https://play.google.com/store/apps/details?id=com.MonsterCouch.Wingspan\r",
+                    "Value": "https://play.google.com/store/apps/details?id=com.MonsterCouch.Wingspan",
                     "ButtonText": {
                         "LocalizedTexts": [
                             {
