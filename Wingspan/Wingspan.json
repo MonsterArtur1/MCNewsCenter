@@ -3888,7 +3888,7 @@
             },
             "Content": [
                 {
-                    "PlatformsToShowOn": 511,
+                    "PlatformsToShowOn": 319,
                     "Text": {
                         "LocalizedTexts": [
                             {
@@ -3942,6 +3942,65 @@
                             {
                                 "Language": "uk",
                                 "Text": "Ми повернулися зі свіженьким виправленням!\nУ цьому патчі ми попрацювали над поліпшенням «Крил», щоб ви отримали найкращі враження від гри. \nЩиро дякуємо за ваші звіти й відгуки! \nНе забудьте оновитися!\n\nДеталі оновлення доступні нижче:\n"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 192,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "We're back with a fresh hotfix!\nWith this patch, we continue our work to improve Wingspan and to bring you the best experience we can. \nThank you so much for your reports and feedback! \nPlease remember to update your game!\n\n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Powracamy ze świeżą poprawką! Wraz z tą łatką kontynuujemy prace nad ulepszaniem Na Skrzydłach, aby dostarczyć wam najwyższej jakości doświadczenie. Bardzo dziękujemy Wam za zgłoszenia i informacje zwrotne. Pamiętajcie, aby zaktualizować grę!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Wir sind zurück mit einem frischen Hotfix!\nDieser Patch bringt weitere Verbesserungen für Wingspan (Flügelschlag) und macht das Spielerlebnis hoffentlich noch angenehmer.\nVielen Dank für all die Meldungen und das Feedback!\nBitte denk daran, das Spiel zu aktualisieren!\n\n"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Nous revenons avec un nouveau correctif !\nGrâce à lui, nous continuons d’améliorer Wingspan pour vous offrir la meilleure expérience possible. \nMerci infiniment pour vos retours et vos signalements ! \nN’oubliez pas de mettre votre jeu à jour !\n\n"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Hemos vuelto con un parche bien fresquito!\nEn él seguimos mejorando Wingspan para ofreceros la mejor experiencia posible.\nGracias por todos vuestros informes y opiniones.\n¡No olvidéis actualizar vuestro juego!\n\n"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Estamos de volta com um novo hotfix!\nCom este patch, continuamos nosso trabalho para melhorar o Wingspan e apresentar a melhor experiência possível.\nMuito obrigado por seus relatórios e feedback! \nPor favor, lembre-se de atualizar seu jogo!\n"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "できたてのホットフィックスをお届け！\n本パッチで『ウィングスパン』をより良くし、皆様に最高の体験をお届けいたします！\nご報告、ご意見をいただき感謝いたします！\nゲームを必ずアップデートしてください。\n\n"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Мы подготовили новое исправление!\nМы продолжаем совершенствовать Wingspan, чтобы игра радовала вас еще больше. \nБлагодарим вас за отзывы и сообщения об ошибках! \nНе забудьте обновить игру!\n\n"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "新的紧急修复更新已经就绪！\n本次补丁中，我们继续优化《展翅翱翔》，尽我们所能地改善其体验。\n感谢各位的反馈与报告！ \n请及时更新游戏！\n\n"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "新的緊急修復更新已經就緒！\n本次補丁中，我們繼續優化《展翅翱翔》，盡我們所能地改善其體驗。\n感謝各位的反饋與報告！ \n請及時更新遊戲！\n\n"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Siamo tornati con un hotfix nuovo di zecca!\nCon questa patch continuiamo a migliorare Wingspan e a proporre l’esperienza migliore possibile.\nGrazie mille per le vostre segnalazioni e opinioni!\nE ricordatevi di aggiornare il gioco!\n\n"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "새로운 핫픽스로 돌아왔습니다!\n이번 패치는 윙스팬을 개선하고 최고의 경험을 제공하기 위한 노력이 담겼습니다.\n여러분의 제보와 피드백에 감사드립니다!\n꼭 게임을 업데이트해주세요!\n\n"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Ми повернулися зі свіженьким виправленням!\nУ цьому патчі ми попрацювали над поліпшенням «Крил», щоб ви отримали найкращі враження від гри. \nЩиро дякуємо за ваші звіти й відгуки! \nНе забудьте оновитися!\n\n"
                             }
                         ]
                     }
