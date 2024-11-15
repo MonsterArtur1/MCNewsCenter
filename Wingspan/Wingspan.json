@@ -3762,6 +3762,437 @@
                     }
                 }
             ]
+        },
+        {
+            "ID": "7b3175d0-6bb3-46f7-922f-e74d18628c19",
+            "Tags": [
+                "Update"
+            ],
+            "PlatformsToShowOn": 463,
+            "StartDateTicks": 638672256000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 1,
+            "PresetImageName": "Update",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Hotfix"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Poprawka"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Hotfix"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Correctif"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Parche"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Hotfix"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "ホットフィックス"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Исправление"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "紧急修复"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "緊急修復"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Hotfix"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "핫픽스"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Виправлення"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "A new hotfix is flying your way! "
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Nowa poprawka nadlatuje!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Ein neuer Hotfix fliegt schon herbei! "
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Un nouveau correctif va bientôt atterrir ! "
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Os va volando un parche nuevo! "
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Um novo hotfix já está voando até você! "
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "新たなホットフィックスが向かっています！ "
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "К вам летит новое исправление! "
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "新的紧急修复更新已经向你飞来！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "新的緊急修復更新已經向你飛來！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Nuovo hotfix in arrivo in un batter d’ali! "
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "새로운 핫픽스가 곧 출시됩니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "А зараз вилетить виправлення! "
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "We're back with a fresh hotfix!\nWith this patch, we continue our work to improve Wingspan and to bring you the best experience we can. \nThank you so much for your reports and feedback! \nPlease remember to update your game!\n\nCheck out the patchnotes below:"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Powracamy ze świeżą poprawką! Wraz z tą łatką kontynuujemy prace nad ulepszaniem Na Skrzydłach, aby dostarczyć wam najwyższej jakości doświadczenie. Bardzo dziękujemy Wam za zgłoszenia i informacje zwrotne. Pamiętajcie, aby zaktualizować grę! Sprawdźcie listę zmian poniżej:"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Wir sind zurück mit einem frischen Hotfix!\nDieser Patch bringt weitere Verbesserungen für Wingspan (Flügelschlag) und macht das Spielerlebnis hoffentlich noch angenehmer.\nVielen Dank für all die Meldungen und das Feedback!\nBitte denk daran, das Spiel zu aktualisieren!\n\nHier findest du die Infos zum Patch:\n"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Nous revenons avec un nouveau correctif !\nGrâce à lui, nous continuons d’améliorer Wingspan pour vous offrir la meilleure expérience possible. \nMerci infiniment pour vos retours et vos signalements ! \nN’oubliez pas de mettre votre jeu à jour !\n\nConsultez les notes de patch ci-dessous :\n"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Hemos vuelto con un parche bien fresquito!\nEn él seguimos mejorando Wingspan para ofreceros la mejor experiencia posible.\nGracias por todos vuestros informes y opiniones.\n¡No olvidéis actualizar vuestro juego!\n\nEchad un vistazo a las notas del parche que os dejamos aquí abajo:\n"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Estamos de volta com um novo hotfix!\nCom este patch, continuamos nosso trabalho para melhorar o Wingspan e apresentar a melhor experiência possível.\nMuito obrigado por seus relatórios e feedback! \nPor favor, lembre-se de atualizar seu jogo!\n\nConfira abaixo as notas do patch:\n"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "できたてのホットフィックスをお届け！\n本パッチで『ウィングスパン』をより良くし、皆様に最高の体験をお届けいたします！\nご報告、ご意見をいただき感謝いたします！\nゲームを必ずアップデートしてください。\n\nパッチノートはこちら：\n"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Мы подготовили новое исправление!\nМы продолжаем совершенствовать Wingspan, чтобы игра радовала вас еще больше. \nБлагодарим вас за отзывы и сообщения об ошибках! \nНе забудьте обновить игру!\n\nСписок нововведений можно найти ниже:\n"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "新的紧急修复更新已经就绪！\n本次补丁中，我们继续优化《展翅翱翔》，尽我们所能地改善其体验。\n感谢各位的反馈与报告！ \n请及时更新游戏！\n\n更新日志详见下文：\n"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "新的緊急修復更新已經就緒！\n本次補丁中，我們繼續優化《展翅翱翔》，盡我們所能地改善其體驗。\n感謝各位的反饋與報告！ \n請及時更新遊戲！\n\n更新日誌詳見下文：\n"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Siamo tornati con un hotfix nuovo di zecca!\nCon questa patch continuiamo a migliorare Wingspan e a proporre l’esperienza migliore possibile.\nGrazie mille per le vostre segnalazioni e opinioni!\nE ricordatevi di aggiornare il gioco!\n\nDi seguito riportiamo le note della patch:\n"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "새로운 핫픽스로 돌아왔습니다!\n이번 패치는 윙스팬을 개선하고 최고의 경험을 제공하기 위한 노력이 담겼습니다.\n여러분의 제보와 피드백에 감사드립니다!\n꼭 게임을 업데이트해주세요!\n\n업데이트 내역은 아래를 확인해주세요."
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Ми повернулися зі свіженьким виправленням!\nУ цьому патчі ми попрацювали над поліпшенням «Крил», щоб ви отримали найкращі враження від гри. \nЩиро дякуємо за ваші звіти й відгуки! \nНе забудьте оновитися!\n\nДеталі оновлення доступні нижче:\n"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 257,
+                    "Value": "https://store.steampowered.com/news/app/1054490/view/6467826493922738294?l=english",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "PATCHNOTES"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Lista Zmian"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "PATCHNOTES"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "NOTES DE PATCH"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "NOTAS DEL PARCHE"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "NOTAS DO PATCH"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "パッチノート"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "СПИСОК НОВОВВЕДЕНИЙ"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "更新日志"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "更新日誌"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "NOTE DELLA PATCH"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "패치노트"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "ДЕТАЛІ ОНОВЛЕННЯ"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 2,
+                    "Value": "https://www.gogdb.org/product/1404732312/releasenotes",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "PATCHNOTES"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Lista Zmian"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "PATCHNOTES"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "NOTES DE PATCH"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "NOTAS DEL PARCHE"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "NOTAS DO PATCH"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "パッチノート"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "СПИСОК НОВОВВЕДЕНИЙ"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "更新日志"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "更新日誌"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "NOTE DELLA PATCH"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "패치노트"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "ДЕТАЛІ ОНОВЛЕННЯ"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 4,
+                    "Value": "https://play.google.com/store/apps/details?id=com.MonsterCouch.Wingspan",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "PATCHNOTES"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Lista Zmian"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "PATCHNOTES"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "NOTES DE PATCH"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "NOTAS DEL PARCHE"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "NOTAS DO PATCH"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "パッチノート"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "СПИСОК НОВОВВЕДЕНИЙ"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "更新日志"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "更新日誌"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "NOTE DELLA PATCH"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "패치노트"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "ДЕТАЛІ ОНОВЛЕННЯ"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 8,
+                    "Value": "https://apps.apple.com/us/app/wingspan-the-board-game/id1459520638",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "PATCHNOTES"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Lista Zmian"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "PATCHNOTES"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "NOTES DE PATCH"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "NOTAS DEL PARCHE"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "NOTAS DO PATCH"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "パッチノート"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "СПИСОК НОВОВВЕДЕНИЙ"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "更新日志"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "更新日誌"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "NOTE DELLA PATCH"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "패치노트"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "ДЕТАЛІ ОНОВЛЕННЯ"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
