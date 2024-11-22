@@ -4252,6 +4252,139 @@
                     }
                 }
             ]
+        },
+        {
+            "ID": "311c96a0-3fbf-4e18-ab16-a97f8c8af14c",
+            "Tags": [
+                "Events"
+            ],
+            "PlatformsToShowOn": 12,
+            "StartDateTicks": 638678304000000000,
+            "EndDateTicks": 638708544000000000,
+            "Priority": 1,
+            "PresetImageName": "NewContent3",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Wingspan expansions are 30% off!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "30% zniżki na dodatki do \"Na Skrzydłach\"!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Flügelschlag-Erweiterungen sind 30 % günstiger!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Les extensions de À tire d'ailes bénéficient de 30 % de réduction !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Las expansiones de Wingspan tienen un 30 % de descuento!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "As expansões de Wingspan estão com 30% de desconto!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "ウイングスパンの拡張版が30%オフ！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Дополнения для Крылья со скидкой 30 %!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "Wingspan expansions are 30% off!"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "Wingspan expansions are 30% off!"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Le espansioni di Wingspan sono scontate del 30%!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "Wingspan 확장이 30% 할인 중!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Розширення для Крила зі знижкою 30%!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Get both expansions to Wingspan Digital at 30% off until November 26th - grab them before they fly away!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Zdobądź oba dodatki do \"Na Skrzydłach\" z 30% rabatem do 26 listopada – złap je, zanim odlecą!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Holt euch beide Erweiterungen für Flügelschlag Digital mit 30 % Rabatt bis zum 26. November – schnappt sie euch, bevor sie wegfliegen!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Obtenez les deux extensions de À tire d'ailes Digital avec 30 % de réduction jusqu’au 26 novembre – attrapez-les avant qu’elles ne s’envolent !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Consigue ambas expansiones de Wingspan Digital con un 30 % de descuento hasta el 26 de noviembre. ¡Aprovecha antes de que vuelen!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Adquira as duas expansões de Wingspan Digital com 30% de desconto até 26 de novembro – aproveite antes que elas voem!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "ウイングスパン の2つの拡張版が11月26日まで30%オフ！飛び去る前に手に入れよう！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Получите оба дополнения для Крылья Digital со скидкой 30 % до 26 ноября – успейте, пока они не улетели!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "Get both expansions to Wingspan Digital at 30% off until November 26th - grab them before they fly away!"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "Get both expansions to Wingspan Digital at 30% off until November 26th - grab them before they fly away!"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Ottieni entrambe le espansioni di Wingspan Digital con il 30% di sconto fino al 26 novembre. Prendile prima che volino via!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "Wingspan Digital의 두 가지 확장을 11월 26일까지 30% 할인된 가격에 만나보세요. 날아가기 전에 서둘러 잡으세요!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Придбайте обидва розширення для Крила Digital зі знижкою 30% до 26 листопада – встигніть, поки вони не відлетіли!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": []
+                    }
+                }
+            ],
+            "Actions": []
         }
     ]
 }
