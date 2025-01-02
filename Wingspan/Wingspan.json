@@ -4259,8 +4259,8 @@
                 "Events"
             ],
             "PlatformsToShowOn": 12,
-            "StartDateTicks": 638678304000000000,
-            "EndDateTicks": 638682624000000000,
+            "StartDateTicks": 638701632000000000,
+            "EndDateTicks": 638713728000000000,
             "Priority": 1,
             "PresetImageName": "NewContent3",
             "RemoteImageName": "",
@@ -4385,6 +4385,254 @@
                 }
             ],
             "Actions": []
+        },
+        {
+            "ID": "a89c0684-3948-4a39-967b-30d0ce97d9e6",
+            "Tags": [
+                "Events"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638701632000000000,
+            "EndDateTicks": 638712401400000000,
+            "Priority": 1,
+            "PresetImageName": "",
+            "RemoteImageName": "WS_WINTER_BG.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Happy Holiday!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Wesołych Świąt!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Frohe Feiertage!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Joyeuses fêtes !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Felices fiestas!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Boas Festas!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "ハッピー・ホリデー！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Счастливых праздников!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "节日快乐！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "節日快樂！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Buone feste!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "즐거운 연말!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Зі святом!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Holiday Background is back!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Tło świąteczne wróciło!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Der Feiertag-Hintergrund ist wieder da!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "L'arrière-plan des fêtes est de retour !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Vuelve el fondo de Navidad!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "O fundo de Festas de Fim de Ano está de volta!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "ホリデー背景が戻ってきました！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Праздничный фон снова в игре!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "节日背景返场了！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "節日背景返場了！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Lo sfondo Festivo è tornato!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "연말 배경이 돌아왔습니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Святковий фон повертається!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Can you feel the festive vibes? It’s the Holiday Background coming back to Wingspan! \n\nSettle in with your birds in a snowy and festive nature preserve, find hidden interactions, and feel the holiday spirit!\n\nThe background is available until December 31st or without limits with the Seasonal Decorative Pack. \n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Czujesz klimat świąt? Świąteczne tło powraca do Na Skrzydłach! \n\nRozgość się ze swoimi ptakami w zaśnieżonym i świątecznym rezerwacie przyrody, znajdź ukryte interakcje i poczuj świąteczny nastrój!\n\nTło jest dostępne do 31 grudnia lub bez ograniczeń z Sezonowym Zestawem Dekoracyjnym."
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Spürst du die festlichen Vibes? Der Feiertag-Hintergrund kehrt zu Wingspan zurück! \n\nMach es dir mit deinen Vögeln in einem verschneiten und festlichen Naturschutzpark gemütlich, finde versteckte Interaktionen und genieße die Feiertagsstimmung!\n\n Der Hintergrund ist bis zum 31. Dezember verfügbar – oder unbegrenzt im Jahreszeiten-Dekopaket."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Ressentez-vous l'ambiance festive ? C'est le retour de l'arrière-plan des fêtes sur Wingspan !\n\nInstallez-vous avec vos oiseaux dans une réserve naturelle festive et enneigée, découvrez des interactions cachées, et profitez des fêtes !\n\nL'arrière-plan est disponible jusqu'au 31 décembre, ou en permanence avec le pack décoratif saisonnier."
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¿Notas el ambiente festivo? ¡Es el fondo de Navidad, que vuelve a Wingspan!\n\nRelájate junto a tus aves en una reserva natural alegre y nevada, descubre interacciones ocultas y siente el espíritu navideño.\n\nEl fondo estará disponible hasta el 31 de diciembre o de forma ilimitada con el paquete decorativo estacional."
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Consegue sentir o clima festivo? O Fundo de Festas de Fim de Ano está de volta ao Wingspan! \n\nAcomode-se com suas aves em uma reserva natural nevada e festiva, descubra interações ocultas e sinta o espírito de fim de ano!\n\nO fundo estará disponível até 31 de dezembro ou sem limites com o Pacote Decorativo Sazonal."
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "お祭りの雰囲気に気付きましたか？　ホリデー背景がウイングスパンに戻ってきました！\n\n鳥たちと一緒に雪景色とお祭りの保護区に腰を落ちつけて、隠されたインタラクションを探し、祝日の気分を味わいましょう！\n\n背景は12月31日まで使用可能です。または、季節の装飾パックがあれば制限なしに使用できます。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Чувствуете праздничную атмосферу? В игре «Крылья» снова появился праздничный фон!\n\nУстраивайтесь вместе со своими птицами в украшенном снежном заповеднике, ищите интерактивные действия и заряжайтесь праздничным настроением!\n\nФон останется в игре до 31 декабря, а для владельцев декоративного набора «Времена года» — навсегда."
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "你能感受到节日的氛围吗？《展翅翱翔》的节日背景返场了！\n\n在一个白雪皑皑且充满节日气氛的自然保护区里，和你的鸟儿们一起安顿下来，发现隐藏的互动，感受节日的氛围！\n\n此背景在 12 月 31 日前可用，或者购买季节性装饰包永久使用。"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "你能感受到節日的氛圍嗎？《展翅翱翔》的節日背景返場了！\n\n在一個白雪皚皚且充滿節日氣氛的自然保護區里，和你的鳥兒們一起安頓下來，發現隱藏的互動，感受節日的氛圍！\n\n此背景在 12 月 31 日前可用，或者購買季節性裝飾包永久使用。"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Senti l'atmosfera delle feste? Lo sfondo Festivo è tornato su Wingspan!\n\nSistemati insieme ai tuoi uccelli in una riserva naturale innevata e festiva, scopri interazioni segrete e vivi lo spirito delle feste!\n\nLo sfondo è disponibile fino al 31 dicembre oppure può essere tuo per sempre acquistando il pacchetto decorativo stagionale."
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "축제 분위기가 느껴지시나요? 윙스팬에 연말 배경이 돌아왔습니다!\n\n눈 덮인 축제 분위기의 자연 보호구역에서 새들과 함께 숨은 교감을 나누며 연말 분위기를 느껴보세요!\n\n배경은 12월 31일까지 사용 가능하며, 계절 장식 팩을 구입하면 제한 없이 사용할 수 있습니다."
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Свято наближається, чи не так? До «Крил» повертається святковий фон! \n\nОселіться зі своїми птахами в сніжному й ошатному заповіднику, знайдіть приховані взаємодії й відчуйте дух свята!\n\nФон доступний до 31 грудня або без обмежень за умови придбання декоративного набору «Пори року»."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 257,
+                    "Value": "https://store.steampowered.com/app/1816700/Wingspan_Seasonal_Decorative_Pack/",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Check out Decorative DLC"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Sprawdź dekoracyjne DLC"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Sieh dir den Deko-DLC an"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Voir le DLC décoratif"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Ver DLC decorativo"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Conferir o DLC Decorativo"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "装飾DLCをチェックしましょう"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Посмотреть декоративный набор"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "查看装饰包DLC"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "查看裝飾包DLC"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Dai un'occhiata al DLC decorativo"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "장식 DLC 확인"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Ознайомтеся з декоративним доповненням"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
