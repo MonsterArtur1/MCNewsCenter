@@ -2,14 +2,56 @@
   "LocalDisabledBirds": [],
   "OnlineDisabledBirds": [],
   "GlobalServerMaintenance": false,
-  "SteamMaintenance": false,
-  "GogMaintenance": false,
-  "AndroidMaintenance": false,
-  "IOSMaintenance": false,
-  "SwitchMaintenance": false,
-  "XboxMaintenance": false,
-  "PS4Maintenance": false,
-  "PS5Maintenance": false,
+  "PlatformMaintenances": [
+    {
+      "PlatformName": "DrmFree",
+      "Maintenance": false
+    },
+    {
+      "PlatformName": "Steam_win",
+      "Maintenance": false
+    },
+    {
+      "PlatformName": "Steam_mac",
+      "Maintenance": false
+    },
+    {
+      "PlatformName": "Gog_win",
+      "Maintenance": false
+    },
+    {
+      "PlatformName": "Gog_mac",
+      "Maintenance": false
+    },
+    {
+      "PlatformName": "Android",
+      "Maintenance": false
+    },
+    {
+      "PlatformName": "iOS",
+      "Maintenance": false
+    },
+    {
+      "PlatformName": "Switch",
+      "Maintenance": false
+    },
+    {
+      "PlatformName": "GDKXboxOne",
+      "Maintenance": false
+    },
+    {
+      "PlatformName": "GDKXboxSeries",
+      "Maintenance": false
+    },
+    {
+      "PlatformName": "PS4",
+      "Maintenance": false
+    },
+    {
+      "PlatformName": "PS5",
+      "Maintenance": false
+    }
+  ],
   "SeasonalBackgroundsData": [
     {
       "EventType": 1,
