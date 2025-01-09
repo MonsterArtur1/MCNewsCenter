@@ -4633,6 +4633,433 @@
                     }
                 }
             ]
+        },
+        {
+            "ID": "9fe5de9e-99a5-4d6b-a419-9c43b84fb066",
+            "Tags": [
+                "NewContent"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638719776000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 2,
+            "PresetImageName": "",
+            "RemoteImageName": "SDP2_Newscenter.jpg",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "New Seasonal Decorative Pack 2 Now Available!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Sezonowy Zestaw Dekoracyjny 2 już dostępny!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Neu: Jahreszeiten-Dekopaket 2 jetzt verfügbar!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Le pack décoratif saisonnier 2 est désormais disponible !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡El nuevo paquete decorativo estacional 2 ya está disponible!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Novo Pacote Decorativo Sazonal 2: Já Disponível!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "新しい「季節の装飾パック2」が好評販売中！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Новый декоративный набор «Времена года 2» уже в продаже!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "全新《季節性裝飾包2》 現已推出！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "全新《季节性装饰包2》 现已推出！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Il nuovo pacchetto decorativo stagionale 2 è ora disponibile!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "새로운 계절 장식 팩 2가 출시되었습니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Новий другий декоративний набір «Пори року» вже у продажу!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Enhance your Wingspan Digital experience with the brand-new Seasonal Decorative Pack 2!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Wzbogać swoje doświadczenie z Na Skrzydłach o zupełnie nowy Sezonowy Zestaw Dekoracyjny 2!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Mach dein Wingspan Digital-Erlebnis noch besser – mit dem nagelneuen Jahreszeiten-Dekopaket 2!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Améliorez votre expérience Wingspan avec le nouveau pack décoratif saisonnier 2 !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Mejora tu experiencia en Wingspan Digital con el nuevo paquete decorativo estacional 2!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Aprimore sua experiência no Wingspan Digital com o novíssimo Pacote Decorativo Sazonal 2!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "新しい「季節の装飾パック2」で、『ウイングスパン』デジタル版をさらに楽しくプレイしましょう！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "С новым декоративным набором «Времена года 2» играть в цифровую версию «Крыльев» станет ещё приятнее!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "用全新的《季節性裝飾包2》 增強你的電子版《展翅翱翔》遊戲體驗！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "用全新的《季节性装饰包2》 增强你的电子版《展翅翱翔》游戏体验！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Migliora la tua esperienza con la versione digitale di Wingspan con il nuovo pacchetto decorativo stagionale 2!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "새로운 계절 장식 팩 2로 윙스팬 디지털 경험을 향상시켜 보세요!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Розширте можливості цифрової версії «Крил» із новим другим декоративним набором «Пори року»!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "This exclusive set not only brings back familiar vistas but also adds fresh landscapes to your collection. And there’s a bunch of brand-new player portraits, too! \n\nThere’s a lot to choose from! Visit the newly refined Automa background or embrace the thrill of a new adventure in the Scout forest from the Online Challenge. Celebrate the Lunar New Year and commemorate Wingspan’s anniversary - or your own birthday - with festivities and fireflies. \n\nFor more cute vibes, snuggle up to the Quilts and Cats of Calico background, a comfy tribute to all things cozy! \nFinally, venture into a misty swamp where mystery and beauty come together in an enchanting landscape, unlike anything before.\n\nWhether you’re starting or completing your collection, these beautiful backgrounds and player portraits will embellish every game of Wingspan Digital.\n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Ten ekskluzywny zestaw nie tylko przywraca znajome widoki, ale także dodaje nowe krajobrazy do twojej kolekcji. Jest też kilka zupełnie nowych portretów graczy! \n\nJest w czym wybierać! Odwiedź nowo udoskonalone tło Automy lub przeżyj nową przygodę w lesie harcerskim z wyzwania online. Świętuj Księżycowy Nowy Rok i upamiętnij rocznicę Na Skrzydłach - lub własne urodziny - festynami i fajerwerkami. \n\n\nJeśli potrzebujesz czegoś jeszcze bardziej uroczego, zatop się w tle Quilts and Cats of Calico, mięciutkiego hołdu dla wszystkiego, co przytulne! \nNa koniec udaj się na mgliste bagna, gdzie tajemnica i piękno łączą się w czarującym krajobrazie, niepodobnym do niczego wcześniej.\n\nNiezależnie od tego, czy zaczynasz, czy uzupełniasz swoją kolekcję, te piękne tła i portrety graczy upiększą każdą grę Na Skrzydłach."
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Dieses exklusive Set bringt vertraute Ausblicke zurück und erweitert deine Sammlung um ganz neue Landschaften. Und einen ganzen Haufen nagelneuer Spielerprofilbilder gibt es noch obendrauf! \n\nDie Auswahl ist groß! Besuche den frisch optimierten Automa-Hintergrund oder erliege der Spannung eines neuen Abenteuers im Späherwald der Online-Herausforderung. Feiere das Mond-Neujahr und begehe Wingspans Jahrestag – oder deinen eigenen Geburtstag – mit Festlichkeiten und Glühwürmchen. \n\nWenn es hyggelig werden soll, mach es dir mit dem Hintergrund „Quilts and Cats of Calico“ kuschelig – ein Hoch auf die Gemütlichkeit! \nWage dich zum Schluss noch in einen nebelverhangenen Sumpf, wo sich Geheimnisse und Schönheit in einer bezaubernden Landschaft zusammenfinden wie nie zuvor.\n\nGanz gleich, ob du deine Sammlung startest oder vervollständigst: Diese wunderschönen Hintergründe und Spielerprofilbilder bereichern jedes deiner Wingspan Digital-Spiele."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Cet ensemble exclusif n'est pas seulement composé de panoramas familiers, il ajoute également de nouveaux paysages à votre collection. Sans oublier de tout nouveaux portraits !\n\nVous avez l'embarras du choix ! Visitez le nouvel arrière-plan Automa retouché ou laissez-vous emporter par le frisson d'une nouvelle aventure dans la Forêt des scouts du Défi en ligne. Célébrez le Nouvel An lunaire et fêtez l'anniversaire de Wingspan, ou le vôtre, avec des festivités et des lucioles.\n\nSi vous voulez une touche plus mignonne, blottissez-vous dans l'arrière-plan Quilts and Cats of Calico, un hommage douillet au confort !\nEnfin, aventurez-vous dans un marais brumeux où le mystère s'allie à la beauté pour créer un paysage envoûtant et unique en son genre.\n\nQue vous commenciez ou complétiez votre collection, ces magnifiques arrière-plans et portraits embelliront chacune de vos parties de l'édition numérique de Wingspan."
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Este conjunto exclusivo no solo contiene lugares que te resultarán familiares, ¡sino que también añade nuevos paisajes y retratos de jugador a tu colección!\n\n¡Hay un montón entre los que elegir! Visita el mejorado fondo del Automa o déjate llevar por la emoción de una nueva aventura en el bosque de los exploradores del desafío en línea. Celebra el Año Nuevo lunar y conmemora el aniversario de Wingspan, o tu propio cumpleaños, entre festejos y luciérnagas.\n\nSi buscas algo más mono, hazte un ovillo en el fondo de Quilts and Cats of Calico, ¡un acogedor tributo a las cosas adorables!\nPor último, puedes adentrarte en un pantano neblinoso donde el misterio y la belleza se unen para crear un fascinante paisaje distinto a cualquier otro que hayas visto antes.\n\nTanto si quieres empezar tu colección como si la quieres completar, estos bellos fondos y retratos de jugador engalanarán tus partidas de Wingspan Digital."
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Este conjunto exclusivo não só traz de volta paisagens familiares, mas também adiciona novos cenários à sua coleção. E ainda vem com imagens inéditas de jogador! \n\nSão muitas opções! Visite o recém-aprimorado fundo do Automa ou abrace a emoção de uma nova aventura na floresta dos escoteiros do Desafio Online. Celebre o Ano Novo Lunar e comemore o aniversário do Wingspan — ou o seu próprio — com festividades e vaga-lumes. \n\nPara um clima mais fofo, aconchegue-se com o fundo Quilts and Cats of Calico, uma confortável homenagem a tudo o que é acolhedor! \nPor fim, aventure-se em um charco enevoado, onde mistério e beleza se unem em uma paisagem encantadora, diferente de tudo o que você já viu.\n\nSeja começando ou completando sua coleção, esses belos fundos e imagens de jogador vão enriquecer cada partida de Wingspan Digital."
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "この限定セットでは懐かしい風景が蘇り、新しい風景もあなたのコレクションに加わります。また、全く新しいプレイヤーポートレイトも多数含まれています！\n\n新たに洗練されたオートマ背景を訪れたり、オンラインチャレンジでスカウトの森で新しい冒険のスリルを楽しんだり、選択肢は様々。祝祭やホタルで、旧正月、ウイングスパンの記念の年、あなたの誕生日をお祝いしましょう。\n\nもっと可愛らしい雰囲気がお好みなら、まったりしたムードをフィーチャーした『キャリコ～陽だまりネコとパッチワーク～』の背景をお試しください！\nそして最後に、今までの風景とは全く違う、魅惑的な風景に神秘性と美しさが同居する、霧がかかった沼地に足を踏み入れてみましょう。\n\nコレクションをこれから始めるにしても、完成させるにしても、この美しい背景とプレイヤーポートレイトは『ウイングスパン』デジタル版のプレイをさらに魅力的に彩ってくれるでしょう。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Этот уникальный набор не только возвращает в игру знакомые пейзажи, но и пополняет вашу коллекцию совершенно новыми видами и портретами игрока.\n\nВыбор очень богатый! Сыграйте на обновлённом фоне Автомы или отправьтесь на поиски приключений в лес Разведчиков в режиме «Игра по сети». Отпразднуйте Лунный Новый год, юбилей игры или свой день рождения на фоне, красиво украшенном и подсвеченном светлячками.\n\nА если хочется чего-то умилительного — выберите фон Quilts and Cats of Calico, который мы сделали максимально уютным!\nНаконец, вы можете отправиться на туманное болото и полюбоваться чарующей красотой его видов.\n\nКакую бы коллекцию фонов вы уже ни собрали, этот набор украсит любой матч в цифровой версии «Крыльев»."
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "這個獨家套裝不僅帶回了熟悉的風景，還為你的收藏增添了新的景觀。而且還有一堆全新的玩家頭像！\n\n這裡有很多選擇！是遊覽經過全新改良的自動鳥背景，或者在來自在線挑戰的偵察兵森林中擁抱新的冒險與刺激。用慶典和螢火蟲來慶祝農曆新年，以及紀念《展翅翱翔》周年紀念日 —— 或者你自己的生日。\n\n如果喜歡可愛的氛圍，可以依偎在《貓與花毯》的背景中，這是對所有舒適事物的溫馨致敬！\n最後，進入一個霧氣瀰漫的沼澤，在那裡，神秘與美麗在一個迷人的景觀中融為一體，與以往任何事物都不同。\n\n無論你是剛開始還是已經完成你的收藏，這些美麗的背景和玩家頭像都將點綴每一局電子版《展翅翱翔》。"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "这个独家套装不仅带回了熟悉的风景，还为你的收藏增添了新的景观。而且还有一堆全新的玩家头像！\n\n这里有很多选择！是游览经过全新改良的自动鸟背景，或者在来自在线挑战的侦察兵森林中拥抱新的冒险与刺激。用庆典和萤火虫来庆祝农历新年，以及纪念《展翅翱翔》周年纪念日 —— 或者你自己的生日。\n\n如果喜欢可爱的氛围，可以依偎在《猫与花毯》的背景中，这是对所有舒适事物的温馨致敬！\n最后，进入一个雾气弥漫的沼泽，在那里，神秘与美丽在一个迷人的景观中融为一体，与以往任何事物都不同。\n\n无论你是刚开始还是已经完成你的收藏，这些美丽的背景和玩家头像都将点缀每一局电子版《展翅翱翔》。"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Questo set esclusivo, oltre a reintrodurre dei panorami già noti, aggiunge anche dei nuovi paesaggi alla tua raccolta. E ci sono anche dei nuovi ritratti del giocatore!\n\nC'è così tanto tra cui scegliere! Visita lo sfondo Automa perfezionato di recente o vivi il brivido di una nuova avventura nella foresta dello Scout direttamente dalle sfide online. Celebra il Capodanno lunare e commemora l'anniversario di Wingspan, o il tuo compleanno, con festeggiamenti e lucciole.\n\n\nSe preferisci un'atmosfera più tenera, accoccolati vicino allo sfondo Quilts and Cats of Calico, un confortevole tributo alla comodità!\nInfine, avventurati in una palude nebbiosa dove mistero e bellezza s'incontrano in un paesaggio incantevole, mai visto prima d'ora.\n\nChe tu stia iniziando o completando la tua raccolta, questi bellissimi sfondi e ritratti del giocatore abbelliranno ogni partita della versione digitale di Wingspan."
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "이 특별 세트는 익숙한 풍경을 재현할 뿐만 아니라 컬렉션에 새로운 풍경을 추가합니다. 그리고 새로운 플레이어 초상화도 많이 더했습니다!\n\n선택의 폭은 넓답니다! 새롭게 개선된 오토마 배경을 방문하거나 온라인 도전의 스카우트 숲에서 새로운 모험의 스릴을 느껴보세요. 설날을 축하하고 축제와 반딧불이로 윙스팬의 기념일이나 자신의 생일을 기념하세요.\n\n더 귀여운 분위기를 원한다면 아늑함의 결정체, 캘리코의 퀼트와 고양이 배경에 빠져들어 보세요!\n아니면, 신비와 아름다움이 어우러진 매혹적인 풍경이 펼쳐지는 안개가 자욱한 늪으로 모험을 떠나보세요.\n\n컬렉션을 시작하거나 완성할 때 아름다운 배경과 플레이어 초상화는 모든 윙스팬 디지털 게임을 더욱 돋보이게 해줄 것입니다."
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Цей ексклюзивний набір не лише повертає знайомі краєвиди, але й додає до вашої колекції свіжі пейзажі. А ще в ньому є купа абсолютно нових портретів гравців! \n\nЄ з чого вибрати! Відвідайте нещодавно доопрацьований фон Автоми або прийміть виклик і візьміть участь у новій пригоді в Скаутському лісі з онлайн-змагання. Відсвяткуйте китайський Новий рік і відзначте річницю «Крил» — або свій власний день народження — урочистостями й світлячками. \n\nЩоб зробити атмосферу ще милішою, встановіть фон Quilts and Cats of Calico — затишну данину комфорту! \nІ нарешті, вирушайте в туманне болото, де таємничість і краса поєднуються в чарівному ландшафті, несхожому ні на що інше.\n\nНезалежно від того, починаєте ви чи завершуєте свою колекцію, ці чудові фони й портрети гравців прикрасять кожну гру цифрової версії «Крил»."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 479,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Head over to the store to grab Seasonal Decorative Pack 2 today!\n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Już dziś udaj się do sklepu po Sezonowy Zestaw Dekoracyjny 2!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Geh zum Store und hol dir noch heute das Jahreszeiten-Dekopaket 2!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Rendez-vous dans la boutique dès aujourd'hui pour vous procurer le pack décoratif saisonnier 2 !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Ve a la tienda y compra ya el paquete decorativo estacional 2!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Visite a loja e adquira o Pacote Decorativo Sazonal 2 hoje mesmo!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "ストアをチェックして、『季節の装飾パック2』を今すぐ入手しましょう！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Купить декоративный набор «Времена года 2» в магазине можно уже сегодня!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "今天就前往商店獲取季節性裝飾包 2 吧！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "今天就前往商店获取季节性装饰包 2 吧！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Vai al negozio per acquistare subito il pacchetto decorativo stagionale 2!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "지금 바로 상점에서 계절 장식 팩 2를 구매하세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Завітайте до магазину, щоб отримати другий декоративний набір «Пори року» вже сьогодні!"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 32,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Head over to the Nintendo eShop to grab Seasonal Decorative Pack 2 today!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Już dziś udaj się do Nintendo eShop po Sezonowy Zestaw Dekoracyjny 2!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Geh zum Nintendo eShop und hol dir noch heute das Jahreszeiten-Dekopaket 2!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Rendez-vous sur le Nintendo eShop dès aujourd'hui pour vous procurer le pack décoratif saisonnier 2 !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Ve a la Nintendo eShop y compra ya el paquete decorativo estacional 2!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Visite a Nintendo eShop e adquira o Pacote Decorativo Sazonal 2 hoje mesmo!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "ニンテンドーeショップをチェックして、『季節の装飾パック2』を今すぐ入手しましょう！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Купить декоративный набор «Времена года 2» в Nintendo eShop можно уже сегодня!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "今天就前往任天堂eShop獲取季節性裝飾包 2 吧！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "今天就前往任天堂eShop获取季节性装饰包 2 吧！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Vai al Nintendo eShop per acquistare subito il pacchetto decorativo stagionale 2!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "지금 바로 닌텐도 e숍에서 계절 장식 팩 2를 구매하세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Завітайте до Nintendo eShop, щоб отримати другий декоративний набір «Пори року» вже сьогодні!"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 1,
+                    "PlatformsToShowOn": 257,
+                    "Value": "https://store.steampowered.com/app/3320750/Wingspan_Seasonal_Decorative_Pack_2/",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Grab the new Decorative Pack!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Sprawdź dekoracyjne DLC"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Sieh dir den Deko-DLC an"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Voir le DLC décoratif"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Ver DLC decorativo"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Conferir o DLC Decorativo"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "装飾DLCをチェックしましょう"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Посмотреть декоративный набор"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "查看裝飾性 DLC"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "查看装饰性 DLC"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Dai un'occhiata al DLC decorativo"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "장식 DLC 확인"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Ознайомтеся з декоративним доповненням"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "ActionType": 1,
+                    "PlatformsToShowOn": 2,
+                    "Value": "https://www.gog.com/en/game/wingspan_seasonal_decorative_pack_2",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Grab the new Decorative Pack!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Sprawdź dekoracyjne DLC"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Sieh dir den Deko-DLC an"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Voir le DLC décoratif"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Ver DLC decorativo"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Conferir o DLC Decorativo"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "装飾DLCをチェックしましょう"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Посмотреть декоративный набор"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "查看裝飾性 DLC"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "查看装饰性 DLC"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Dai un'occhiata al DLC decorativo"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "장식 DLC 확인"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Ознайомтеся з декоративним доповненням"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
