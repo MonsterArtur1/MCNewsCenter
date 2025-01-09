@@ -161,6 +161,12 @@
           "StartMonth": 3,
           "EndDay": 15,
           "EndMonth": 3
+        },
+        {
+          "StartDay": 7,
+          "StartMonth": 1,
+          "EndDay": 15,
+          "EndMonth": 1
         }
       ]
     },
