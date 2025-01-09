@@ -52,6 +52,12 @@
       "Maintenance": false
     }
   ],
+  "LocalizationParams": [
+    {
+      "ParamName": "RC_SHORT_TIME",
+      "ParamValue": "5"
+    }
+  ],
   "SeasonalBackgroundsData": [
     {
       "EventType": 1,
