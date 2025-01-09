@@ -2905,7 +2905,7 @@
             "PlatformsToShowOn": 511,
             "StartDateTicks": 638664480000000000,
             "EndDateTicks": 946391904000000000,
-            "Priority": 2,
+            "Priority": 1,
             "PresetImageName": "",
             "RemoteImageName": "WS_NewsCenter_Automarazzi_800x300.jpg",
             "Title": {
@@ -4639,7 +4639,7 @@
             "Tags": [
                 "NewContent"
             ],
-            "PlatformsToShowOn": 511,
+            "PlatformsToShowOn": 495,
             "StartDateTicks": 638719776000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 2,
