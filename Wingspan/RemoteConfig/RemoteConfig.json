@@ -1,7 +1,7 @@
 {
   "LocalDisabledBirds": [10,102,200,69],
   "OnlineDisabledBirds": [33, 66, 99],
-  "GlobalServerMaintenance": true,
+  "GlobalServerMaintenance": false,
   "PlatformMaintenances": [
     {
       "PlatformName": "DrmFree",
@@ -9,7 +9,7 @@
     },
     {
       "PlatformName": "Steam_win",
-      "Maintenance": true
+      "Maintenance": false
     },
     {
       "PlatformName": "Steam_mac",
