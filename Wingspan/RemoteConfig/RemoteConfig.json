@@ -172,12 +172,6 @@
           "StartMonth": 9,
           "EndDay": 24,
           "EndMonth": 9
-        },
-        {
-          "StartDay": 9,
-          "StartMonth": 1,
-          "EndDay": 15,
-          "EndMonth": 1
         }
       ]
     }
