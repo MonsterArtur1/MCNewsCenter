@@ -13,7 +13,7 @@
     },
     {
       "PlatformName": "Steam_mac",
-      "Maintenance": true
+      "Maintenance": false
     },
     {
       "PlatformName": "Gog_win",
