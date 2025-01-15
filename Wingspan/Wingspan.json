@@ -4938,7 +4938,7 @@
             ],
             "Actions": [
                 {
-                    "ActionType": 1,
+                    "ActionType": 0,
                     "PlatformsToShowOn": 257,
                     "Value": "https://store.steampowered.com/app/3320750/Wingspan_Seasonal_Decorative_Pack_2/",
                     "ButtonText": {
