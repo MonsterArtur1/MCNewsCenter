@@ -4639,7 +4639,7 @@
             "Tags": [
                 "NewContent"
             ],
-            "PlatformsToShowOn": 495,
+            "PlatformsToShowOn": 511,
             "StartDateTicks": 638719776000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 2,
@@ -4999,7 +4999,7 @@
                     }
                 },
                 {
-                    "ActionType": 1,
+                    "ActionType": 0,
                     "PlatformsToShowOn": 2,
                     "Value": "https://www.gog.com/en/game/wingspan_seasonal_decorative_pack_2",
                     "ButtonText": {
