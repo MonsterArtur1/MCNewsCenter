@@ -4639,10 +4639,10 @@
             "Tags": [
                 "NewContent"
             ],
-            "PlatformsToShowOn": 495,
+            "PlatformsToShowOn": 511,
             "StartDateTicks": 638719776000000000,
             "EndDateTicks": 946391904000000000,
-            "Priority": 1,
+            "Priority": 2,
             "PresetImageName": "",
             "RemoteImageName": "SDP2_Newscenter.jpg",
             "Title": {
@@ -4938,9 +4938,9 @@
             ],
             "Actions": [
                 {
-                    "ActionType": 1,
+                    "ActionType": 0,
                     "PlatformsToShowOn": 257,
-                    "Value": "SDP2_DLC",
+                    "Value": "https://store.steampowered.com/app/3320750/Wingspan_Seasonal_Decorative_Pack_2/",
                     "ButtonText": {
                         "LocalizedTexts": [
                             {
@@ -4999,7 +4999,7 @@
                     }
                 },
                 {
-                    "ActionType": 1,
+                    "ActionType": 0,
                     "PlatformsToShowOn": 2,
                     "Value": "https://www.gog.com/en/game/wingspan_seasonal_decorative_pack_2",
                     "ButtonText": {
@@ -5007,6 +5007,563 @@
                             {
                                 "Language": "en",
                                 "Text": "Grab the new Decorative Pack!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Sprawdź dekoracyjne DLC"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Sieh dir den Deko-DLC an"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Voir le DLC décoratif"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Ver DLC decorativo"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Conferir o DLC Decorativo"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "装飾DLCをチェックしましょう"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Посмотреть декоративный набор"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "查看裝飾性 DLC"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "查看装饰性 DLC"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Dai un'occhiata al DLC decorativo"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "장식 DLC 확인"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Ознайомтеся з декоративним доповненням"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "ID": "f658579c-3939-4742-b04d-f1d62115707c",
+            "Tags": [
+                "Events"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638730144000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 1,
+            "PresetImageName": "",
+            "RemoteImageName": "Wingspan_LNY.jpg",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Happy Lunar New Year!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Szczęśliwego Księżycowego Nowego Roku!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Alles Gute zum chinesischen Neujahr!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Joyeux Nouvel An chinois !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Feliz Año Nuevo chino!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Feliz Ano Novo Chinês!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "旧正月おめでとう！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Поздравляем с китайским Новым годом!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "春節快樂！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "春节快乐！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Buon Capodanno cinese!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "새해 복 많이 받으세요!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Вітаємо з китайським Новим роком!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Celebrate with the Lunar New Year Background!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Świętuj z Księżycowym Noworocznym Tłem!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Feiere das chinesische Neujahrsfest mit dem Hintergrund „Chinesisches Neujahr“!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Faites la fête avec l'arrière-plan Nouvel An chinois !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Celébralo con el fondo del Año Nuevo chino!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Comemore com o plano de fundo do Ano Novo Chinês!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "旧正月の背景でお祝いしよう！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Отпразднуйте китайский Новый год с новым фоном!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "用春節背景來慶祝這個時刻！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "用春节背景来庆祝这个时刻！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Festeggia con lo sfondo Capodanno cinese!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "구정 배경과 함께 새해를 축하하세요!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Відсвяткуйте китайський Новій рік з новим фоном!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Join the flock and celebrate Lunar New Year with a stunning seasonal background in Wingspan! Watch as lanterns float, decorations sparkle, and the spirit of renewal fills the air in your bird-filled preserve.\n\nThis limited background will be available until [February 12] or permanently in the Seasonal Decorative Pack 2. Let’s make this Lunar New Year one to remember!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Dołącz do stada i uczcij Księżycowy Nowy Rok z oszałamiającym sezonowym tłem w Na Skrzydłach! Obserwuj, jak lampiony unoszą się w powietrzu, dekoracje błyszczą, a duch odnowy wypełnia powietrze w twoim rezerwacie pełnym ptaków.\n\nTo limitowane tło będzie dostępne do [12 lutego] lub na stałe w Sezonowym Zestawie Dekoracyjnym 2. Sprawmy, by ten Księżycowy Nowy Rok był niezapomniany!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Schließe dich dem Schwarm an und feiere das chinesische Neujahrsfest mit einem atemberaubenden Jahreszeiten-Hintergrund in Wingspan! Lass dich davon verzaubern, wie die Laternen schweben, die Dekorationen funkeln und der Geist der Erneuerung die Luft erfüllt, während du dein Reservat voller Vögel aufbaust.\n\nDieser limitierte Hintergrund ist bis zum [12. Februar] verfügbar – oder dauerhaft im Jahreszeiten-Dekopaket 2. Lass uns dieses Mond-Neujahr unvergesslich machen!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Volez avec nous et célébrez le Nouvel An chinois dans Wingspan avec un magnifique arrière-plan saisonnier ! Admirez les lanternes s'envoler, les décorations scintiller, et l'esprit du renouveau emplir l'atmosphère de votre volière.\n\nCet arrière-plan à durée limitée sera disponible jusqu'au [12 février] ou définitivement dans le pack décoratif saisonnier 2. Rendons ce Nouvel An lunaire inoubliable !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Únete a la bandada y celebra el Año Nuevo chino con un impresionante fondo estacional de Wingspan! Disfruta viendo cómo flotan los faroles entre brillantes adornos mientras un espíritu renovador impregna el aire de tu aviario.\n\nEste fondo por tiempo limitado estará disponible hasta el [12 de febrero] o de forma permanente con el paquete decorativo estacional 2. ¡Hagamos que este Año Nuevo lunar sea inolvidable!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Junte-se ao bando e comemore o Ano Novo Chinês com um fundo sazonal deslumbrante no Wingspan! Observe as lanternas flutuar, as decorações brilhar e o espírito de renovação encher o ar em sua reserva repleta de aves.\n\nEste plano de fundo limitado estará disponível até [12 de fevereiro] ou permanentemente no Pacote Decorativo Sazonal 2. Vamos fazer com que este Ano Novo Lunar fique na memória!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "鳥たちと一緒に、魅力的な季節の背景で『ウイングスパン』の旧正月をお祝いしよう！浮かぶ灯篭、煌めく装飾、鳥でいっぱいの保護区に満ちる、生まれ変わるような雰囲気を見て楽しもう。\n\nこの限定背景は[2月12日]まで利用できる。また、「季節の装飾パック2」の購入でずっと利用可能になる。今年の旧正月を忘れられない思い出にしよう！\n"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Присоединяйтесь к стае и отмечайте китайский Новый год с великолепным новым фоном в «Крыльях»! Пусть вас порадуют парящие фонарики и блеск украшений, а в атмосфере вашего птичьего заповедника почувствуется дух обновления!\n\nЭтот ограниченный по времени фон будет в игре до [12 февраля], а в декоративном наборе «Времена года 2» он доступен постоянно. Сделаем этот Лунный Новый год незабываемым!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "加入鳥群，一起慶祝春節吧！在《展翅翱翔》美麗的季節性背景中感受春節的氛圍！觀賞燈籠飄揚、裝飾閃耀，全新的氛圍將充滿你的鳥類棲息地。\n\n這個限時背景將持續開放至 [2月12日]，或可通過購買「季節性裝飾包2」永久獲得。讓我們一起創造一個難忘的春節吧!"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "加入鸟群，一起庆祝春节吧！在《展翅翱翔》美丽的季节性背景中感受春节的氛围！观赏灯笼飘扬、装饰闪耀，全新的氛围将充满你的鸟类栖息地。\n\n这个限时背景将持续开放至 [2月12日]，或可通过购买“季节性装饰包2”永久获得。让我们一起创造一个难忘的春节吧！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Unisciti allo stormo e festeggia il Capodanno cinese con un meraviglioso sfondo stagionale su Wingspan! Osserva le lanterne fluttuare, le decorazioni brillare e lo spirito di rinnovamento riempire l'aria nella tua voliera piena di uccelli.\n\nQuesto sfondo a tempo limitato sarà disponibile fino al [12 febbraio] o permanentemente nel pacchetto decorativo stagionale 2. Rendi indimenticabile questo Capodanno lunare!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "윙스팬의 멋진 계절 배경과 함께 새들의 무리에 합류해 구정을 축하해 보세요! 등불이 떠다니고, 장식이 반짝이며, 새들이 가득한 보존 지역에 새로운 기운이 가득 차는 것을 지켜보세요.\n\n이 한정 배경은 [2월 12일]까지 한시적으로 사용하거나, 계절 장식 팩 2에서 영구적으로 사용할 수 있습니다. 이번 설날을 멋진 추억으로 남겨보세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Приєднуйтесь до зграї і святкуйте китайський Новий рік з чудовим новим фоном в «Крилах»! Нехай вас порадують ширяючі у повітрі ліхтарики і блиск прикрас, а у атмосфері вашого пташиного заповідника панує відчуття оновлення!\n\nЦей обмежений по часу фон буде у грі до [12 лютого], а в декоративному наборі «Пори року 2» він доступний постійно. Зробимо цей китайський Новий рік незабутнім!"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 257,
+                    "Value": "https://store.steampowered.com/app/3320750?utm_source=wingspan&utm_medium=in_game",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Check out Decorative DLC"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Sprawdź dekoracyjne DLC"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Sieh dir den Deko-DLC an"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Voir le DLC décoratif"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Ver DLC decorativo"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Conferir o DLC Decorativo"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "装飾DLCをチェックしましょう"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Посмотреть декоративный набор"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "查看裝飾性 DLC"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "查看装饰性 DLC"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Dai un'occhiata al DLC decorativo"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "장식 DLC 확인"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Ознайомтеся з декоративним доповненням"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 2,
+                    "Value": "https://www.gog.com/en/game/wingspan_seasonal_decorative_pack_2",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Check out Decorative DLC"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Sprawdź dekoracyjne DLC"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Sieh dir den Deko-DLC an"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Voir le DLC décoratif"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Ver DLC decorativo"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Conferir o DLC Decorativo"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "装飾DLCをチェックしましょう"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Посмотреть декоративный набор"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "查看裝飾性 DLC"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "查看装饰性 DLC"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Dai un'occhiata al DLC decorativo"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "장식 DLC 확인"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Ознайомтеся з декоративним доповненням"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "ID": "2e2b5e78-c53d-400d-ac15-9b35688761fb",
+            "Tags": [
+                "Events"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638730144000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 1,
+            "PresetImageName": "",
+            "RemoteImageName": "Wingspan_ValentinesDay.jpg",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Love is in the Air!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Miłość unosi się w powietrzu!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Die Liebe liegt in der Luft!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Il y a de l'amour dans l'air !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Se respira amor en el aire!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "O amor está no ar!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "恋の予感があふれてる！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Воздух дышит любовью!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "愛意瀰漫！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "爱意弥漫！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "L'amore è nell'aria!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "사랑은 바람을 타고!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Любов відчувається у повітрі!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "The Valentine's Day Background is back in Wingspan!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Walentynkowe Tło wraca do Wingspan!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Der Valentinstag-Hintergrund ist wieder in Wingspan verfügbar!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "L'arrière-plan Saint-Valentin est de retour dans Wingspan !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Vuelve el fondo de San Valentín a Wingspan!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "O plano de fundo do Dia dos Namorados está de volta no Wingspan!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "バレンタインデー背景が『ウイングスパン』に再登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Фон, посвящённый Дню святого Валентина, снова доступен в «Крыльях»!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "情人節背景重返《展示翱翔》了！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "情人节背景重返《展示翱翔》了！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Lo sfondo San Valentino è tornato su Wingspan!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "윙스팬에 발렌타인 배경이 돌아왔습니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Фон, присвячений Дню святого Валентина, знову доступний у «Крилах»!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Get ready for all things lovely and feathery! Wingspan’s Valentine’s Day background has returned, filling your preserve with heartwarming vibes, sweet pink hues, and touches of romance. Can you spot the little details we’ve added to get you in the spirit?\n\nPlay with this limited-time background until [February 28], or keep it year-round with the Seasonal Decorative Pack. It’s a season of love - for birds, for nature, for Wingspan!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Przygotuj się na wszystko, co urocze i pierzaste! Walentynkowe Tło jest znów dostępne w Na Skrzydłach, wypełniając twój rezerwat ciepłą atmosferą, słodkimi różowymi odcieniami i romantycznymi akcentami. Czy zauważysz drobne detale, które dodaliśmy, by wprowadzić cię w walentynkowy klimat?\n\nGraj z tym limitowanym tłem do [28 lutego] lub zachowaj je na stałe dzięki Sezonowemu Zestawowi Dekoracyjnemu. To sezon miłości – do ptaków, natury i Na Skrzydłach!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Mach dich bereit für alles Liebreizende und Federleichte! Wingspans Valentinstag-Hintergrund ist wieder da und erfüllt dein Reservat mit einer herzerwärmenden Stimmung, zartrosa Farbtönen und einem Hauch Romantik. Entdeckst du die Details, die wir hinzugefügt haben, um dich in Stimmung zu bringen?\n\nSpiele bis zum [28. Februar] mit diesem limitierten Hintergrund – oder behalte ihn für das ganze Jahr mit dem Jahreszeiten-Dekopaket. Es ist die Zeit der Liebe – für die Vögel, die Natur und für Wingspan!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Préparez-vous pour une avalanche d'amour duveteux ! L'arrière-plan Saint-Valentin fait son retour dans Wingspan, emplissant votre volière d'une atmosphère réconfortante, de douces nuances de rose, et d'une touche de romance. Trouverez-vous les petits détails que nous avons ajoutés pour vous mettre dans l'ambiance ?\n\nJouez avec cet arrière-plan à durée limitée jusqu'au [28 février], ou gardez-le l'année entière avec le pack décoratif saisonnier. C'est la saison de l'amour, pour les oiseaux, la nature et Wingspan !\n"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Prepárate para disfrutar del amor y las plumas! Ya está aquí otra vez el fondo de San Valentín de Wingspan para hacer de tu aviario un lugar más acogedor, con unas suaves pinceladas de rosa y un toque más romántico. ¿Ves los detallitos que hemos añadido para que te embargue el espíritu del amor?\n\nJuega con este fondo por tiempo limitado hasta el [28 de febrero] o consérvalo durante todo el año con el paquete decorativo estacional. Es la época del amor: ¡amor por las aves, por la naturaleza y por Wingspan!\n"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Prepare-se para coisas lindas e cheias de penas! O fundo do Dia dos Namorados do Wingspan voltou, trazendo à sua reserva vibrações acolhedoras, suaves tons de rosa e toques de romance. Você consegue perceber os pequenos detalhes que adicionamos para entrar no clima?\n\nAproveite este fundo por tempo limitado até [28 de fevereiro] ou fique com ele o ano todo com o Pacote Decorativo Sazonal. É uma temporada de amor - pelas aves, pela natureza, pelo Wingspan!\n"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "羽の生えた愛らしい存在を迎えに行こう！『ウイングスパン』のバレンタインデー背景が戻ってきた。心温まる雰囲気、甘いピンクの色、ロマンスの予感で保護区を満たそう。プレイヤーの気分を盛り上げるために、ちょっとしたディティールを追加。見つけられるかな？\n\nこの限定背景を使って[2月28日]までプレイできる。また、「季節の装飾パック」を購入すれば通年利用が可能。鳥、自然、『ウイングスパン』への愛を伝えよう！\n"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Готовьтесь ко всему милому и пушистому! Фон в честь Дня святого Валентина возвращается в «Крылья». Ваш заповедник наполнится нежностью, романтикой и всеми оттенками розового! Разыщите все милые маленькие сюрпризы, которые мы спрятали для вас в честь праздника.\n\nЭтот фон доступен в игре только до [28 февраля], но с декоративным набором «Времена года» — хоть весь год напролёт. Это время любви — к птицам, к природе и к «Крыльям»!\n"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "準備好迎接所有可愛切似羽毛輕軟的裝飾吧！《展翅翱翔》的情人節背景回歸了，為你的鳥類棲息地注入溫馨氛圍、柔和粉紅色調和一些浪漫點綴。你能發現那些為了增添節日氣息而特別加入的小細節嗎？\n\n這個限時背景將在 [2月28日] 前可用，或者通過購買「季節性裝飾包」永久獲得。這是愛的季節——愛鳥類，愛自然，愛《展翅翱翔》！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "准备好迎接所有可爱切似羽毛轻软的装饰吧！《展翅翱翔》的情人节背景回归了，为你的鸟类栖息地注入温馨氛围、柔和粉红色调和一些浪漫点缀。你能发现那些为了增添节日气息而特别加入的小细节吗？\n\n这个限时背景将在 [2月28日] 前可用，或者通过购买“季节性装饰包”永久获得。这是爱的季节——爱鸟类，爱自然，爱《展翅翱翔》！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Preparati per qualcosa di adorabile e soffice! Lo sfondo San Valentino di Wingspan è tornato, animando la tua voliera con un'atmosfera che scalda il cuore, tinte rosa e un pizzico di romanticismo. Riesci a individuare i piccoli dettagli che abbiamo aggiunto per aiutarti a entrare nello spirito giusto?\n\nUsa questo sfondo a tempo limitato fino al [28 febbraio] o tienilo per tutto l'anno con il pacchetto decorativo stagionale. È la stagione degli amori: per i volatili, per la natura e per Wingspan!\n"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "사랑스러운 깃털 친구들을 위해 준비하세요! 윙스팬의 발렌타인 데이 배경이 돌아와서 따뜻한 분위기와 달콤한 핑크색, 로맨틱한 감성으로 보존 지역을 가득 채웠습니다. 기분을 돋우기 위해 추가한 작은 디테일이 보이시나요?\n\n이 기간 한정 배경을 [2월 28일]까지 한시적으로 사용하거나, 계절 장식 팩으로 일 년 내내 보관하세요. 새와 자연, 윙스팬을 위한 사랑의 계절입니다!\n"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Готуйтеся до усього милого й пухнастого! Фон на честь Дня святого Валентина повертається у «Крила». Ваш заповідник наповниться ніжністю, романтикою й усіма відтінками рожевого! Відшукайте всі маленькі милі сюрпризи, які ми підготували для вас на честь свята.\n\nЦей фон доступний у грі тільки до [28 лютого], але з декоративним набором «Пори року» — весь рік. Це час кохання — до птахів, до природи і до «Крил»!\n"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 1,
+                    "PlatformsToShowOn": 257,
+                    "Value": "SB_DLC",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Check out Decorative DLC"
                             },
                             {
                                 "Language": "pl",
