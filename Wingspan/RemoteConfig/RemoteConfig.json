@@ -58,6 +58,12 @@
       "ParamValue": "5"
     }
   ],
+  "RemoteShopElements": [
+    {
+      "DlcKey": "AE_DLC",
+      "Enabled": true
+    }
+  ],
   "SeasonalBackgroundsData": [
     {
       "EventType": 1,
