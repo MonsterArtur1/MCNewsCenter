@@ -55,11 +55,11 @@
   "LocalizationParams": [
     {
       "ParamName": "RC_SHORT_TIME",
-      "ParamValue": "5"
+      "ParamValue": "10"
     },
     {
       "ParamName": "RC_LONG_TIME",
-      "ParamValue": "72"
+      "ParamValue": "30"
     }
   ],
   "RemoteShopElements": [
