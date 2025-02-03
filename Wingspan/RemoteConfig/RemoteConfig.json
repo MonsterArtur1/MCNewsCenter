@@ -65,7 +65,7 @@
   "RemoteShopElements": [
     {
       "DlcKey": "AE_DLC",
-      "Enabled": true
+      "Enabled": false
     }
   ],
   "SeasonalBackgroundsData": [
