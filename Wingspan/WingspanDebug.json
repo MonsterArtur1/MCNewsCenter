@@ -5617,6 +5617,1554 @@
                     }
                 }
             ]
+        },
+        {
+            "ID": "fe5316d2-6ac3-49cf-8d4f-a4ac91fa360e",
+            "Tags": [
+                "Update",
+                "Events",
+                "NewContent"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638743968000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 1,
+            "PresetImageName": "Events1",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Wingspan: Asia Expansion Announcement "
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Ogłoszenie Na Skrzydłach: Ptaki Azji"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Ankündigung: „Wingspan: Asien-Erweiterung“"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Annonce de Wingspan : Extension Asie"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Anuncio de Wingspan: Expansión de Asia"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Atualização Wingspan: Expansão da Ásia"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『ウイングスパン拡張：東洋の翼』に関する発表"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Анонс дополнения «Крылья: Птицы Азии»"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《展翅翱翔：亞洲篇》發布公告"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《展翅翱翔：亚洲篇》发布公告"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Annuncio Wingspan: Espansione Asia "
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "윙스팬: 아시아 확장팩 발표"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Анонс доповнення «Крила: Птахи Азії»"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Wingspan: Asia Expansion is on Its Way!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Na Skrzydłach: Ptaki Azji nadchodzi!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "„Wingspan: Asien-Erweiterung“ ist unterwegs!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Wingspan (À tire d'ailes) : Extension Asie arrive bientôt !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Wingspan: Expansión de Asia está en camino!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Wingspan: Expansão da Ásia disponível em breve!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『ウイングスパン拡張：東洋の翼』がまもなく登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Дополнение «Крылья: Птицы Азии» скоро выйдет!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《展翅翱翔：亞洲篇》即將登場！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《展翅翱翔：亚洲篇》即将登场！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Wingspan: Espansione Asia sta per arrivare!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "윙스팬: 아시아 확장이 시작됩니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Доповнення «Крила: Птахи Азії» скоро вийде!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "\"We’re thrilled to announce that Wingspan is soaring to a new continent with the Wingspan: Asia Expansion! Prepare to explore a world of vibrant, diverse, and intriguing birds from the East that bring new strategies, powers, and challenges. With this expansion, you’ll encounter unique birds and bonus cards, get lost in beautiful, region-inspired backgrounds, and add new player portraits that immerse you in the enchanting atmosphere of Asia.\n\nDiscover Duet Mode: A New Journey for Two!\nWingspan: Asia Expansion introduces a brand-new two-player experience - Duet Mode! \nIn Duet Mode, you’ll compete on a special Duet Map and claim habitat spaces with your tokens, all while working toward unique end-of-round goals. This new game mode will challenge you to think and strategize differently every time you play!\n\nExpand Your Flock with New Birds & Bonus Cards\nWingspan: Asia Expansion comes with a fresh batch of birds, each bringing their own twist to your preserve! Discover fun facts, unique calls, and distinct powers as you get to know each of these avian wonders. Plus, 13 new bonus cards (including 2 just for Automa) are here to shake things up and add even more depth to your strategy.\n\nA Visual & Musical Feast\nLet your screen become a window to the East with 4 new, breathtaking backgrounds and 8 player portraits inspired by local Asian cultures. On top of that, the magic continues with 4 new relaxing music tracks composed by Paweł Górniak, designed to keep you immersed and focused as you build your bird sanctuary.\n\nAll the Features You Love and More!\nWingspan: Asia Expansion is fully compatible with everything you love about the base version of Wingspan. Challenge friends and new opponents in cross-platform multiplayer, perfect your game in weekly challenges or take on the Automa in solo play - with or without the new features.\n\nThe magical landscapes of Asia and its magnificent birds are calling! \nMake sure to subscribe to our newsletter so you don’t miss a single update. More sneak peeks, release details, and news are coming soon. \nStay tuned and get ready to take flight on an unforgettable journey with Wingspan: Asia Expansion!\n\""
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "\"Z radością ogłaszamy, że Na Skrzydłach leci na nowy kontynent dzięki rozszerzeniu Na Skrzydłach: Ptaki Azji! Przygotuj się na odkrywanie świata barwnych, różnorodnych i intrygujących ptaków z Azji, które wprowadzają nowe strategie, moce i wyzwania. Dzięki temu rozszerzeniu napotkasz unikalne ptaki i karty bonusowe, zanurzysz się w pięknych tłach inspirowanych regionem oraz dodasz nowe portrety graczy, które przeniosą Cię w czarującą atmosferę Azji.\n\nPoznaj tryb Duet: Nowa przygoda dla dwojga! Na Skrzydłach: Ptaki Azji wprowadza zupełnie nowe doświadczenie dla dwóch graczy – tryb Duet! W trybie Duet rywalizujesz na specjalnej mapie, zajmując przestrzenie w siedliskach swoimi żetonami i dążąc do wyjątkowych celów na koniec rundy. Ten nowy tryb gry zmusi Cię do świeżego spojrzenia na strategię za każdym razem, gdy grasz!\n\nRozbuduj swoją kolekcję o nowe ptaki i karty bonusowe Na Skrzydłach: Ptaki Azji zawiera kolejną porcję ptaków, z których każdy wnosi coś wyjątkowego do Twojego rezerwatu! Odkryj ciekawostki, unikalne głosy i specjalne zdolności, poznając te niezwykłe stworzenia. Dodatkowo, 13 nowych kart bonusowych (w tym 2 dla trybu Automy) jeszcze bardziej urozmaici Twoją strategię.\n\nUczta wizualna i muzyczna Niech Twój ekran stanie się oknem na Wschód dzięki 4 nowym, zapierającym dech w piersiach tłom i 8 portretom graczy inspirowanym kulturami Azji. Co więcej, magia trwa dzięki 4 nowym, relaksującym utworom muzycznym skomponowanym przez Pawła Górniaka, które pomogą Ci się wczuć i skupić podczas budowania ptasiego sanktuarium.\n\nWszystkie funkcje, które uwielbiasz, i jeszcze więcej! Na Skrzydłach: Ptaki Azji jest w pełni kompatybilne ze wszystkim, co znasz i kochasz w podstawowej wersji Na Skrzydłach. Rywalizuj z przyjaciółmi lub nowymi przeciwnikami w trybie wieloosobowym, doskonal się w cotygodniowych wyzwaniach lub zmierz się z Automą w grze solo - z nowymi funkcjami lub bez nich.\n\nMagiczne krajobrazy Azji i jej wspaniałe ptaki czekają na Ciebie! Zapisz się do naszego newslettera, aby nie przegapić żadnej aktualizacji. Wkrótce pojawią się kolejne zapowiedzi, szczegóły premiery i nowości. Pozostań na bieżąco i przygotuj się na niezapomnianą podróż z Na Skrzydłach: Ptaki Azji!\""
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "\"Wir freuen uns sehr, ankündigen zu können, dass Wingspan Kurs auf einen neuen Kontinent genommen hat mit „Wingspan: Asien-Erweiterung“! Mach dich bereit, eine Welt voller lebensfroher, vielfältiger und interessanter Vögel des Ostens zu erkunden, die dir zusätzlich neue Strategien, Fähigkeiten und Herausforderungen bringt. In dieser Erweiterung triffst du auf einzigartige Vögel und Bonuskarten, erlebst wunderschöne, von der Region inspirierte Hintergründe und erhältst neue Spielerprofilbilder, die dich in die verzaubernde Atmosphäre Asiens eintauchen lassen.\n\nEntdecke den Duett-Modus: Eine neue Reise für zwei!\n„Wingspan: Asien-Erweiterung“ bringt ein völlig neues Zwei-Spieler-Erlebnis: den Duett-Modus! \nIm Duett-Modus trittst du auf einer speziellen Duettkarte gegen deinen Mitspieler an. Dabei beanspruchst du Lebensräume mit deinen Marken und arbeitest gleichzeitig auf einzigartige Rundenziele hin. Dieser neue Spielmodus sorgt dafür, dass du bei jedem Spielen anders denken und andere Strategien entwickeln musst!\n\nVergrößere deinen Schwarm mit neuen Vögeln und Bonuskarten\n„Wingspan: Asien-Erweiterung“ kommt mit einem neuen Schwung Vögel zu dir, von denen jeder auf seine Art zu deinem Reservat beiträgt! Entdecke interessante Informationen, einzigartige Vogelstimmen und verschiedenste Fähigkeiten, während du dich mit diesen Flugwundern vertraut machst. Plus: 13 neue Bonuskarten (darunter 2 nur für Automa) warten darauf, frischen Wind in dein Spiel und zusätzliche Tiefe in deine Strategien zu bringen.\n\nEin Fest für Augen und Ohren\nLass deinen Bildschirm zu einem Fenster in die östlichen Reiche werden mit 4 neuen umwerfenden Hintergründen und 8 Spielerprofilbildern, die von asiatischen Kulturen inspiriert wurden. Und die Magie geht weiter: 4 neue entspannende Musikstücke, komponiert von Paweł Górniak, lassen dich tief im Spiel versinken, während du dich auf den Aufbau deines Vogelreservats konzentrierst.\n\nAll die Funktionen, die du liebst, und mehr!\n„Wingspan: Asien-Erweiterung“ ist vollständig kompatibel mit allem, was du am Wingspan-Hauptspiel so liebst. Fordere Freunde und neue Gegner in einem plattformübergreifenden Mehrspielermodus heraus, perfektioniere dein Spiel in wöchentlichen Herausforderungen oder stelle dich Automa im Einzelspiel – mit oder ohne neue Funktionen.\n\nDie magischen Landschaften Asiens und ihre prächtigen Vögel rufen nach dir! \nVergiss nicht, unseren Newsletter zu abonnieren, damit du kein einziges Update verpasst. Bald gibt es mehr Ausblicke, Details zu Veröffentlichungen und Neuigkeiten. \nBleib dran und mach dich bereit für eine unvergessliche Flugreise mit „Wingspan: Asien-Erweiterung!“\""
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "\"Nous avons la joie d'annoncer que Wingspan s'envole pour un nouveau continent avec Wingspan : Extension Asie ! Préparez-vous à explorer un monde rempli d'oiseaux asiatiques colorés, variés et intrigants, qui apportent des stratégies, des pouvoirs et des défis inédits. Avec cette extension, vous découvrirez des cartes Oiseau et bonus uniques, vous vous perdrez dans des arrière-plans magnifiques inspirés de la région, et vous obtiendrez de nouveaux portraits qui vous plongeront dans l'atmosphère merveilleuse de l'Asie.\n\nDécouvrez le mode Duo : un nouveau voyage en tête-à-tête !\nWingspan : Extension Asie ajoute une toute nouvelle expérience à deux joueurs : le mode Duo !\nDans le mode Duo, vous jouez sur un plateau Duo spécial et capturez des habitats avec vos jetons, tout en accomplissant des objectifs de fin de manche uniques. Ce nouveau mode de jeu vous poussera à réfléchir et à élaborer des stratégies différentes à chaque partie !\n\nAjoutez de nouvelles cartes Oiseau et bonus à votre nuée\nWingspan : Extension Asie est accompagnée de nouveaux oiseaux, chacun apportant sa propre touche à votre réserve ! Découvrez des anecdotes, des chants uniques et des pouvoirs spéciaux en vous familiarisant avec chacune de ces merveilles ailées. De plus, 13 nouvelles cartes bonus (dont 2 uniquement pour Automa) viennent faire bouger les choses et ajouter encore plus de profondeur à votre stratégie.\n\nUn plaisir visuel et auditif\nTransformez votre écran en fenêtre sur l'Asie avec 4 nouveaux arrière-plans et 8 portraits magnifiques, tous inspirés des cultures locales. En plus de cela, la magie continue avec 4 nouvelles pistes musicales relaxantes composées par Paweł Górniak et conçues pour vous aider à vous concentrer sur la construction de votre sanctuaire aviaire.\n\nToutes vos fonctionnalités préférées, et plus encore !\nWingspan : Extension Asie est entièrement compatible avec tout ce que vous aimez dans la version de base de Wingspan. Défiez vos amis et de nouveaux adversaires dans le mode multijoueur multiplateforme, perfectionnez votre stratégie dans les défis hebdomadaires, ou affrontez l'automate en mode solo, avec ou sans les nouvelles fonctionnalités.\n\nLes paysages enchanteurs de l'Asie et ses magnifiques oiseaux vous attendent !\nN'oubliez pas de vous inscrire à notre newsletter pour ne manquer aucune mise à jour. D'autres aperçus, détails sur les sorties et actualités seront bientôt disponibles.\nRestez à l'écoute et préparez-vous à vous envoler pour un voyage inoubliable avec Wingspan : Extension Asie !\""
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "\"¡Es todo un placer anunciar que Wingspan ha volado hasta un nuevo continente con Wingspan: Expansión de Asia! Prepárate para explorar un mundo lleno de todo tipo de coloridas y misteriosas aves orientales que trae consigo nuevas estrategias, poderes y desafíos. Con esta expansión, encontrarás cartas de bonificación y aves únicas, te abstraerás en los bellos fondos inspirados en la región y añadirás nuevos retratos de jugador que te sumergirán en la cautivadora atmósfera de Asia.\n\n¡Descubre el modo Dúo, un nuevo viaje para dos!\nWingspan: Expansión de Asia presenta una nueva experiencia para dos jugadores: ¡el modo Dúo!\nEn él, podrás competir en un mapa de dúo especial y conseguir espacios de hábitat con tus fichas mientras tratas de cumplir los objetivos de final de ronda únicos. ¡Este nuevo modo de juego te obligará a replantearte tu estrategia cada vez que juegues!\n\nAmplía tu bandada con nuevas aves y cartas de bonificación\nWingspan: Expansión de Asia trae consigo un nuevo surtido de aves, ¡y todas ellas dan un toque original a tu aviario! Descubre datos curiosos, cantos únicos y poderes diferentes mientras vas conociendo a estas maravillosas aves. Además, también encontrarás 13 nuevas cartas de bonificación (2 de ellas solo para el Automa) que revolucionarán las partidas y aportarán más profundidad.\n\nUn deleite visual y sonoro\nConvierte tu pantalla en una ventana a Oriente con 4 nuevos fondos arrebatadores y 8 retratos de jugador inspirados en las culturas autóctonas de Asia. Además, la magia continúa gracias a las 4 nuevas y apacibles pistas musicales compuestas por Paweł Górniak, pensadas para ayudarte a sumergirte y concentrarte mientras construyes tu santuario para aves.\n\n¡Todas tus características favoritas y muchas más!\nWingspan: Expansión de Asia es totalmente compatible con todo lo que te gusta de la versión base de Wingspan. Enfréntate a tus amigos y a nuevos rivales en partidas multijugador multiplataforma, pule tus habilidades en desafíos semanales o juega una partida en solitario contra el Automa, con o sin las nuevas características.\n\n¡Los mágicos paisajes de Asia y sus magníficas aves te llaman!\nNo olvides suscribirte a nuestro boletín para no perderte ninguna actualización. Más adelantos, detalles de lanzamiento y otras novedades próximamente.\n¡Mantente al tanto y prepárate para echar a volar en un viaje inolvidable con Wingspan: Expansión de Asia!\""
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "\"Estamos empolgados em anunciar que Wingspan está voando para um novo continente com Wingspan: Expansão da Ásia! Prepare-se para explorar um mundo das vibrantes, diversas e fascinantes aves do oriente, trazendo novas estratégias, poderes e desafios. Com esta expansão, você encontrará aves e cartas bônus exclusivas, se perderá em belos fundos inspirados na região e adicionará novas imagens de jogadores que imergem você na atmosfera encantadora da Ásia.\n\nDescubra o Modo Dueto: uma nova jornada à dois!\nWingspan: Expansão da Ásia apresenta uma nova experiência para dois jogadores - o Modo Dueto! \nNo Modo Dueto, você competirá em um mapa especial de Dueto e conquistará espaços de habitat com suas fichas, enquanto trabalha para alcançar objetivos de final de rodada exclusivos. Este novo modo de jogo desafiará você a pensar e a planejar de maneira diferente a cada partida!\n\nAmplie seu bando com novas aves e cartas bônus\nWingspan: Expansão da Ásia chega com um novo grupo de aves, cada uma trazendo uma própria reviravolta única para sua reserva! Descubra curiosidades divertidas, cantos únicos e poderes distintos ao conhecer cada uma dessas maravilhas aviárias. Além disso, 13 cartas bônus novas (incluindo 2 exclusivas para o Automa) chegaram para agitar as coisas e adicionar ainda mais profundidade à sua estratégia.\n\nUm banquete visual e musical\nDeixe sua tela se tornar uma janela para o oriente com 4 novos fundos deslumbrantes e 8 imagens de jogadores inspiradas nas culturas asiáticas. Além disso, a magia continua com 4 novas faixas musicais relaxantes compostas por Paweł Górniak, criadas para manter sua imersão e concentração enquanto constrói um santuário de aves.\n\nTodos os recursos que você já conhece e muito mais!\nWingspan: Expansão da Ásia é totalmente compatível com tudo o que você gosta da versão base de Wingspan. Desafie amigos e novos oponentes no modo multijogador entre plataformas, aperfeiçoe seu jogo em desafios semanais ou enfrente o Automa no modo solo - com ou sem os novos recursos.\n\nAs paisagens mágicas da Ásia e suas magníficas aves estão chamando! \nInscreva-se na nossa newsletter para não perder nenhuma atualização. Mais prévias, detalhes de lançamento e novidades estão chegando em breve. \nFique de olho nas novidades e prepare-se para decolar em uma jornada inesquecível com Wingspan: Expansão da Ásia!\""
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "\"『ウイングスパン拡張：東洋の翼』で、新たな大陸へと飛び立とう！活き活きとして多様性に富む、魅力的なアジアの鳥を探す旅に出よう。新たな鳥たちが、新しい戦略、能力、チャレンジを運んでくる。この拡張版には、ユニークな鳥カードやボーナスカードが含まれている。アジアの景色に着想を得た美しい背景を楽しもう。また、アジアの魅力的な雰囲気に包まれるような、新しいプレイヤーポートレイトも追加されている。\n\n2人用の新たな旅「つがいモード」が登場！\n『ウイングスパン拡張：東洋の翼』では、全く新しい2人プレイ用のゲーム体験：つがいモードが登場！\nつがいモードでは、特殊なつがいマップを使って競い合う。生息地のスペースに自分のトークンを置きつつ、ラウンド終了時目的の達成を目指そう。新しいゲームモードでは、プレイするたびに新たな戦略と思考が必要になる！\n\n新しい鳥カード＆ボーナスカードで群れを拡大しよう\n『ウイングスパン拡張：東洋の翼』には、保護区に独自の魅力をプラスする新しい鳥の群れが登場！アジアの鳥の不思議な魅力を発見して、鳥にまつわる面白い話、ユニークな鳴き声、独特な能力を知ろう。さらに、新登場の13枚のボーナスカード（うち2枚はオートマ用）がゲームに変化をもたらし、戦略により一層の深みを加える。\n\nビジュアルと音楽の祝宴\n新たに用意された息を呑むような4種類の背景と、アジアの文化に着想を得た8種類のプレイヤーポートレイトでスクリーンを東洋への窓に変えよう。さらに、Paweł Górniakが手掛けた新しい4曲の落ち着きのあるBGMが魔法のような雰囲気をもたらし、鳥の聖域づくりに没頭し、集中できる。\n\nお気に入りの要素なども全て楽しめる！\n『ウイングスパン拡張：東洋の翼』は、『ウイングスパン』の基本バージョンの各要素と完全な互換性を実現。クロスプラットフォームマルチプレイヤーモードで、フレンドと新たな対戦相手に挑戦し、ウィークリーチャレンジで完璧なゲームを展開し、ソロプレイでオートマと対戦しよう。新たな要素を使うか使わないかは自由だ。\n\nアジアの魅力的な景観と、素晴らしい鳥たちが呼んでいる！\nニュースレターを購読して、アップデートを見逃さないようにしよう。リリース前のプレビューや詳細情報、新情報もまもなく発表予定。\n新情報をチェックして、『ウイングスパン拡張：東洋の翼』で忘れられない旅へと飛び立つ準備をしよう！\""
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "\"Мы рады сообщить, что дополнение «Крылья: Птицы Азии» вот-вот перенесёт вас на новый континент! Перед вами распахнётся удивительный мир ярких и разнообразных птиц Востока — с новыми стратегиями, свойствами и испытаниями. В этом дополнении вы сможете познакомиться с уникальными птицами, изучить новые карты бонусов, полюбоваться фонами в азиатском стиле, обновить свой портрет игрока и почувствовать, будто вы уже в прекрасной Азии.\n\nИграйте один на один в режиме дуэта!\nДополнение «Крылья: Птицы Азии» добавляет в игру новый режим для двух игроков — режим дуэта! \nВ нём вам предстоит состязаться на особой карте «Дуэт», захватывая ареалы с помощью жетонов и выполняя уникальные задачи раунда. Каждая партия в режиме дуэта потребует от вас новой стратегии!\n\nНовые птицы и карты бонусов для вашей стаи\nВ дополнении «Крылья: Птицы Азии» вас ждёт множество новых птиц, каждая из которых станет чудесным украшением вашего заповедника! Узнайте интересные факты о новых видах, научитесь распознавать птиц по их голосам и ознакомьтесь с особыми свойствами этих удивительных пернатых созданий. А 13 новых карт бонусов (среди которых есть две отдельные карты для игры с Автомой) сделают партии интереснее и помогут вам улучшить свою стратегию.\n\nОтрада глаз, для слуха сладость\nЧетыре роскошных новых фона и восемь портретов игрока в восточном стиле превратят ваш экран в настоящее окно в Азию. А четыре новые волшебные композиции Павла Горняка помогут вам успокоить разум и сосредоточиться, пока вы выбираете птиц для своего заповедника.\n\nВсе ваши любимые механики!\nВ дополнении «Крылья: Птицы Азии» есть все механики, знакомые вам по базовой версии игры. Играйте с друзьями и новыми соперниками в кроссплатформенном многопользовательском режиме, совершенствуйте своё мастерство в еженедельных испытаниях и соревнуйтесь с Автомой один на один — с новыми механиками или без них.\n\nУдивительные птицы Азии приглашают вас полюбоваться красотой Востока! \nПодпишитесь на нашу рассылку, чтобы быть в курсе всех событий. Скоро мы поделимся с вами новыми подробностями о дополнении. \nОставайтесь с нами и готовьтесь взлететь к облакам и отправиться в незабываемое путешествие с дополнением «Крылья: Птицы Азии»!\""
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "\"我們很高興地宣布，《展翅翱翔》將飛向新的大陸——《展翅翱翔：亞洲篇》即將到來！準備好探索東方豐富多彩、神秘多樣的鳥類世界，迎接全新的策略、能力和挑戰吧。在這次擴展中，你將遇到獨特的鳥類和獎勵卡，沉浸於優美的亞洲風情背景中，還可以使用新增的玩家頭像，感受亞洲的迷人氛圍。\n\n探索對決模式：全新雙人之旅！\n《展翅翱翔：亞洲篇》引入了全新的對決模式！在雙人模式中，你將與對手在專屬雙人地圖上競逐，通過標記占領棲息空間，並努力完成回合目標。每次遊戲都將激發你的智慧，帶來全新的策略體驗！\n\n新增鳥類和獎勵卡，擴充你的鳥群\n《展翅翱翔：亞洲篇》帶來了全新鳥類，每隻鳥都將為你的棲息地增添獨特的玩法！探索趣味知識、獨特叫聲和能力，深入了解這些奇妙的鳥類。此外，還新增了13張獎勵卡（其中2張專為自動鳥模式設計），為你的策略增添深度，帶來更多變化。\n\n視覺與聽覺盛宴\n讓你的屏幕成為通往東方的窗口，欣賞4個令人震撼的新背景和8個靈感源於亞洲文化的玩家頭像。此外，作曲家Paweł Górniak精心打造了4首舒緩的新曲目，讓你在建造鳥類保護區時放鬆身心，盡情沉浸其中。\n\n你喜歡的功能依然都在\n《展翅翱翔：亞洲篇》與基礎版完全兼容，支持跨平台多人遊戲模式，可以在每周挑戰中提高你的技術，或在自動鳥模式中獨自挑戰——無論是否使用新功能，均可體驗。\n\n亞洲的奇幻風景與壯麗的鳥類世界正在呼喚你！\n立即訂閱我們的新聞通訊，確保不會錯過任何更新。更多預告、發售細節和資訊即將揭曉。敬請期待，準備好與《展翅翱翔：亞洲篇》一起展開一段難忘的飛行之旅吧！\""
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "\"我们很高兴地宣布，《展翅翱翔》将飞向新的大陆——《展翅翱翔：亚洲篇》即将到来！准备好探索东方丰富多彩、神秘多样的鸟类世界，迎接全新的策略、能力和挑战吧。在这次扩展中，你将遇到独特的鸟类和奖励卡，沉浸于优美的亚洲风情背景中，还可以使用新增的玩家头像，感受亚洲的迷人氛围。\n\n探索对决模式：全新双人之旅！\n《展翅翱翔：亚洲篇》引入了全新的对决模式！在双人模式中，你将与对手在专属双人地图上竞逐，通过标记占领栖息空间，并努力完成回合目标。每次游戏都将激发你的智慧，带来全新的策略体验！\n\n新增鸟类和奖励卡，扩充你的鸟群\n《展翅翱翔：亚洲篇》带来了全新鸟类，每只鸟都将为你的栖息地增添独特的玩法！探索趣味知识、独特叫声和能力，深入了解这些奇妙的鸟类。此外，还新增了13张奖励卡（其中2张专为自动鸟模式设计），为你的策略增添深度，带来更多变化。\n\n视觉与听觉盛宴\n让你的屏幕成为通往东方的窗口，欣赏4个令人震撼的新背景和8个灵感源于亚洲文化的玩家头像。此外，作曲家Paweł Górniak精心打造了4首舒缓的新曲目，让你在建造鸟类保护区时放松身心，尽情沉浸其中。\n\n你喜欢的功能依然都在\n《展翅翱翔：亚洲篇》与基础版完全兼容，支持跨平台多人游戏模式，可以在每周挑战中提高你的技术，或在自动鸟模式中独自挑战——无论是否使用新功能，均可体验。\n\n亚洲的奇幻风景与壮丽的鸟类世界正在呼唤你！\n立即订阅我们的新闻通讯，确保不会错过任何更新。更多预告、发售细节和资讯即将揭晓。敬请期待，准备好与《展翅翱翔：亚洲篇》一起展开一段难忘的飞行之旅吧！\""
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "\"Siamo felici di annunciare che Wingspan sta solcando i cieli di un nuovo continente con Wingspan: Espansione Asia! Preparati a esplorare un mondo di volatili intriganti, variegati e dai colori vivaci provenienti dall'Oriente che porteranno con sé nuove strategie, abilità e sfide. Con questa espansione, incontrerai uccelli unici e carte bonus, ti perderai nei bellissimi sfondi ispirati a questa regione e aggiungerai nuovi ritratti del giocatore che ti faranno immergere nell'irresistibile atmosfera dell'Asia.\n\nScopri la modalità Duetto: un nuovo viaggio per due!\nWingspan: Espansione Asia introduce una nuovissima esperienza per due giocatori: la modalità Duetto! \nNella modalità Duetto, vi sfiderete in una speciale mappa Duetto e userete i vostri segnalini per conquistare spazi habitat, il tutto cercando di soddisfare degli obiettivi di fine round unici. In questa nuova modalità di gioco dovrai pensare e pianificare la tua strategia in maniera differente in ogni partita!\n\nEspandi il tuo stormo con nuovi uccelli e carte bonus\nWingspan: Espansione Asia arriva con una nuova serie di uccelli, ognuno dei quali darà un tocco unico alla tua voliera! Scopri simpatiche curiosità, richiami unici e abilità specifiche man mano che imparerai a conoscere queste meraviglie piumate. Inoltre, ci sono 13 nuove carte bonus (tra cui 2 esclusive per Automa) per cambiare un po' le cose e approfondire la strategia ancora di più.\n\nUno spettacolo per gli occhi e le orecchie\nLascia che il tuo schermo diventi una finestra sull'Oriente con 4 nuovi sfondi mozzafiato e 8 ritratti del giocatore ispirati alle culture locali dell'Asia. E come se non bastasse, la magia continua con 4 nuove tracce musicali rilassanti composte da Paweł Górniak, pensate per mantenere viva l'atmosfera e la concentrazione mentre crei la tua riserva per uccelli.\n\nTutte le funzioni che ami e molto altro!\nWingspan: Espansione Asia è interamente compatibile con tutto ciò che ami della versione base di Wingspan. Sfida amici e nuovi avversari nella modalità multigiocatore multipiattaforma, perfeziona le tue strategie con le sfide settimanali o sfida l'Automa in solitaria, con o senza le nuove funzioni.\n\nI magici sfondi dell'Asia e i suoi magnifici volatili ti stanno chiamando! \nAssicurati di iscriverti alla nostra newsletter per non perderti nessuna novità. Presto ci saranno altre anteprime, dettagli sul lancio e notizie. \nContinua a seguirci e preparati a prendere il volo per un viaggio indimenticabile con Wingspan: Espansione Asia!\""
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "\"윙스팬이 아시아 확장팩을 통해 새로운 대륙으로 날아오른다는 기쁜 소식을 알려드리게 되어 매우 기쁩니다! 새로운 전략, 능력, 도전을 가져다주는 활기차고 다양하며 흥미로운 동양의 새들로 가득한 세계를 탐험할 준비를 하세요. 이 확장팩에서는 독특한 새와 보너스 카드를 만나고, 아시아 지역에서 영감을 받은 아름다운 배경에서 길을 잃고, 아시아의 매혹적인 분위기에 몰입할 수 있는 새로운 플레이어 초상화를 추가할 수 있습니다.\n\n듀엣 모드: 둘만의 새로운 여정을 만나보세요!\n윙스팬: 아시아 확장팩에 새로운 2인 모드인 듀엣 모드가 도입되었습니다!\n듀엣 모드에서는 특별한 듀엣 맵에서 경쟁하고 토큰으로 서식지 공간을 차지하며 독특한 라운드 종료 목표를 향해 노력하게 됩니다. 이 새로운 게임 모드는 매번 다른 방식으로 생각하고 전략을 세우도록 도전합니다!\n\n새로운 새와 보너스 카드로 무리를 확장하세요\n윙스팬: 아시아 확장팩에는 새로운 새들이 등장하며, 각 새들은 저마다의 개성을 가지고 있습니다! 이 경이로운 조류들을 하나하나 알아가면서 재미있는 사실, 독특한 울음소리, 능력을 발견해 보세요. 또한 13장의 새로운 보너스 카드(오토마 전용 카드 2장 포함)가 추가되어 전략에 변화를 주고 깊이를 더할 수 있습니다.\n\n시각 및 음악의 향연\n아시아 현지 문화에서 영감을 받은 4가지의 새로운 배경과 8가지 플레이어 초상화를 통해 동양의 기운을 느껴보세요. 또한, 새 보호구역을 건설하는 동안 몰입감과 집중력을 유지할 수 있도록 Paweł Górniak이 작곡한 4곡의 새로운 편안한 곡으로 마법이 계속됩니다.\n\n좋아하는 모든 기능 및 그 이상!\n윙스팬: 아시아 확장팩은 기본 버전의 윙스팬에서 좋아하는 모든 기능과 완벽하게 호환됩니다. 크로스 플랫폼 멀티플레이에서 친구나 새로운 상대에게 도전하고, 주간 도전에서 게임을 클리어하거나, 새로운 기능의 유무에 관계없이 솔로 플레이에서 오토마에 도전해 보세요.\n\n아시아의 마법 같은 풍경과 장엄한 새들이 부르고 있습니다!\n뉴스레터를 구독하여 업데이트 소식을 놓치지 마세요. 더 많은 프리뷰, 출시 세부 정보, 뉴스가 곧 제공될 예정입니다.\n계속 지켜봐 주시고 윙스팬: 아시아 확장팩과 함께 잊지 못할 여행을 떠날 준비를 하세요!\""
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "\"Ми раді повідомити, що доповнення «Крила: Птахи Азії» скоро перенесе вас на новий континент! Перед вами розкриється дивовижний світ яскравих і різноманітних птахів Сходу — з новими стратегіями, властивостями й випробуваннями. В цьому доповненні ви зможете познайомитися з унікальними птахами, вивчити нові карти бонусів, подивитися на фони в азіатському стилі, оновити свій портрет гравця й відчути, наче ви вже у прекрасній Азії.\n\nГрайте один на один в режимі дуету!\nДоповнення «Крила: Птахи Азії» додає у гру новий режим для двох гравців — режим дуету! \nТут вам належить змагатися на особливій карті «Дует», захоплюючи ареали з допомогою жетонів і виконуючи унікальні задачі раунду. Кожна партія в режимі дуету потребує від вас нової стратегії!\n\nНові птахи й карти бонусів для вашої зграї\nВ доповненні «Крила: Птахи Азії» на вас чекає безліч нових птахів, кожна з яких стане чудовою прикрасою вашого заповідника! Дізнайтеся цікаві факти про нові види, навчіться розпізнавати птахів за голосами й познайомтесь з особливими властивостями цих дивовижних крилатих створінь. А 13 нових карт бонусів (серед яких є дві окремі карти для гри з Автомою) зроблять партії цікавіше й допоможуть вам покращити свою стратегію.\n\nРадість для очей і вух\nЧотири розкішних нових фони й вісім портретів гравця у східному стилі перетворять ваш екран на справжнє вікно у Азію. А чотири нові чарівні композиції Павла Горняка допоможуть вам заспокоїти розум і зосередитися, поки ви обираєте птахів для свого заповідника.\n\nВсі ваші улюблені механіки!\nВ доповненні «Крила: Птахи Азії» є всі механіки, знайомі вам по базовій версії гри. Грайте з друзями й новими суперниками в кросплатформному багатокористувацькому режимі, удосконалюйте свою майстерність у щотижневих випробуваннях і змагайтесь з Автомою один на один — з новими механіками або без них.\n\nДивовижні птахи Азії запрошують вас насолодитися красою Сходу! \nПідпишіться на розсилку, щоб залишатися в курсі всіх подій. Скоро ми поділимося з вами новими подробицями про доповнення. \nЗалишайтесь з нами й готуйтесь летіти до хмар й вирушити у незабутню подорож з доповненням «Крила: Птахи Азії»!\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 257,
+                    "Value": "aaaaaa",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "SUBSCRIBE TO NEWSLETTER"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "ZASUBSKRYBUJ NEWSLETTER"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "NEWSLETTER ABONNIEREN"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "S'INSCRIRE À LA NEWSLETTER"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "SUSCRIBIRTE AL BOLETÍN"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "INSCREVA-SE NA NEWSLETTER"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "ニュースレターを購読"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "ПОДПИСАТЬСЯ НА РАССЫЛКУ"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "訂閱新聞通訊"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "订阅新闻通讯"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "ISCRIVITI ALLA NEWSLETTER"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "뉴스레터 구독"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "ПІДПИСАТИСЯ НА РОЗСИЛКУ"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "ID": "7a38fa50-f2f5-461f-a6ed-cbe61336d43c",
+            "Tags": [
+                "Update"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638743968000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 1,
+            "PresetImageName": "Events2",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Less Waiting, More Playing!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Mniej czekania, więcej grania!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Weniger warten, mehr spielen!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Moins d'attente, plus de jeu !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Más jugar y menos esperar!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Menos espera e mais jogo!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "少ない待ち時間で、もっとたくさんプレイ！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Меньше задержек, больше игры!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "更少等待時間，更多歡樂體驗！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "更少等待时间，更多欢乐体验！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Attendere di meno e giocare di più!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "기다림은 줄이고, 플레이는 더 많이!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Менше затримок, більше гри!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "We’re excited to announce a change that many of you have been chirping about! "
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Z radością ogłaszamy zmianę, na którą wielu z Was czekało!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Wir freuen uns sehr, eine Änderung anzukündigen, die viele von euch schon flügelschlagend erwartet haben! "
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Nous avons le plaisir d'annoncer un changement que vous attendiez avec impatience ! "
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Nos complace anunciar un cambio que muchos nos habéis estado pidiendo! "
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Estamos felizes em anunciar uma mudança sobre a qual a comunidade chilreava sem parar! "
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "プレイヤーがよく話題にしている変更に関してお知らせです！ "
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "С радостью сообщаем, что внесли в игру изменение, о котором многие из вас щебетали уже давно! "
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "我們非常興奮地宣布一個大家期待很久的變化！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "我们非常兴奋地宣布一个大家期待很久的变化！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Siamo felici di annunciare un cambiamento su cui molti di voi hanno cinguettato! "
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "많은 분들이 궁금해하셨던 업데이트를 발표하게 되어 기쁩니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Ми раді повідомити вам про зміну, про яку багато хто з вас вже давно цвірінькав! "
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "\"We’ve heard your feedback loud and clear: the 5-minute turn timer in real-time multiplayer was slowing down the flock. So, starting now, turns will be trimmed to 3 minutes - just the right amount of time to make those strategic moves without slowing down the game!\n\nWe hope this change keeps the game flying along smoothly, so you can spend more time hatching plans and less time watching the clock tick. \nThanks for sharing your thoughts and helping us make Wingspan even better!\n\nHere’s to faster games and higher scores! Enjoy!\n\""
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "\"Słyszymy Was głośno i wyraźnie: 5-minutowy limit czasu na turę w trybie wieloosobowym w czasie rzeczywistym spowalniał grę. Dlatego od teraz tury zostaną skrócone do 3 minut - idealnego czasu na strategiczne posunięcia bez spowalniania rozgrywki!\n\nMamy nadzieję, że ta zmiana sprawi, że gra będzie płynniejsza, dzięki czemu spędzicie więcej czasu na planowaniu, a mniej na obserwowaniu upływających sekund.\nDziękujemy za Wasze uwagi i za pomoc w ulepszaniu Na Skrzydłach!\n\nNiech wasze rozgrywki będą szybsze, a wyniki jeszcze wyższe! Miłej zabawy!\""
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "\"Wir haben euer Feedback laut und deutlich vernommen: Der 5-Minuten-Zugtimer im Echtzeit-Mehrspielermodus hat den ganzen Schwarm aufgehalten. Deswegen wird ab sofort die für jeden Zug verfügbare Zeit auf 3 Minuten gestutzt – genau richtig, um Strategien umzusetzen, ohne den Spielfluss zu verlangsamen!\n\nWir hoffen, dass das Spiel mit dieser Änderung seinen Höhenflug beibehält und ihr mehr Zeit damit verbringt, neue Pläne auszubrüten, anstatt der Uhr beim Ticken zuzuhören. \nDanke, dass ihr uns Rückmeldung gebt und dabei helft, Wingspan noch besser zu machen!\n\nAuf schnelleres Spielen und höhere Punktzahlen! Viel Spaß!\n\""
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "\"Nous avons bien noté vos retours : le minuteur de 5 minutes pour les tours du mode multijoueur en temps réel était un frein à votre essor. Désormais, les tours dureront donc 3 minutes. La durée idéale pour effectuer vos coups stratégiques sans ralentir la partie !\n\nNous espérons que ce changement rendra vos parties plus fluides, afin que vous puissiez consacrer plus de temps à élaborer vos plans qu'à faire le pied de grue.\nMerci de nous avoir fait part de vos commentaires et de nous aider à perfectionner Wingspan !\n\nÀ des parties plus rapides et des scores toujours plus hauts ! Amusez-vous bien!\n\""
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "\"Hemos recibido vuestros comentarios: los turnos de 5 minutos del modo multijugador en tiempo real estaban enlenteciendo demasiado las cosas. Así que, a partir de ahora, los turnos durarán 3 minutos, ¡que es el tiempo justo para realizar movimientos estratégicos sin ralentizar la partida!\n\nEsperamos que con este cambio el juego fluya mejor para que podáis pasar más tiempo elaborando tácticas y menos viendo como pasan los segundos en la cuenta atrás.\n¡Muchas gracias por compartir vuestras opiniones y ayudarnos a que Wingspan sea aún mejor!\n\n¡A jugar partidas más rápidas y ganar muchos puntos! Disfrutad!\n\""
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "\"Ouvimos o feedback de vocês em alto e bom som: os 5 minutos de tempo de turno no modo multijogador em tempo real estava atrasando o bando. Então, a partir de agora, os turnos serão limitados a 3 minutos – o tempo exato para realizar aquelas jogadas estratégicas sem diminuir o ritmo do jogo!\n\nEsperamos que essa mudança mantenha o jogo voando sem interrupções para que vocês passem mais tempo bolando planos e menos tempo olhando para os ponteiros do relógio.\nAgradecemos por compartilharem suas ideias e nos ajudarem a tornar o Wingspan ainda melhor!\n\nQue venham jogos mais rápidos e pontuações maiores! Divirtam-se!\n\""
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "\"プレイヤーのみなさまのフィードバックにより、これまでリアルタイムマルチプレイヤーでの5分間の手番タイマーが原因で、ゲームのペースが落ちていたことがわかりました。そこで、今後は手番の時間が3分間となります。ゲームの進行ペースを落とすことなく、戦略的な動きを考えるのには最適な時間です！\n\n今回の変更によってゲーム進行がよりスムーズになり、より多くの時間を使ってふ化の計画を立てられるようになり、時計の針を眺めているだけの時間が減ることが期待されます。\n『ウイングスパン』の改善への協力に感謝します！\n\nより速くなったゲーム展開とハイスコアに乾杯！ゲームを楽しんでくださいね。\n\""
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "\"Мы услышали вас чётко и ясно: из-за пятиминутного таймера хода в сетевой игре замедлялась вся стая. С этого момента длительность хода будет сокращена до трёх минут. Этого хватит, чтобы сделать продуманный ход, не заставляя других ждать!\n\nНадеемся, что это изменение задаст нужный темп игры и позволит вам вынашивать новые планы вместо того, чтобы следить за стрелкой часов.\nСпасибо за ваши отзывы, они помогают нам сделать «Крылья» ещё лучше!\n\nЗа быстрые партии и высокие результаты! Приятной игры!\n\""
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "\"我們已經清楚地聽到了大家的反饋：實時多人遊戲中，5分鐘回合計時器拖慢了遊戲節奏。因此，從現在開始，每回合時間將縮短為3分鐘——足夠你進行有策略的操作，同時又不會讓遊戲變得過於拖沓！\n\n我們希望這一調整能讓遊戲變得更加流暢，讓你有更多時間制定計劃，而不是盯着計時器苦苦等待。\n\n感謝你們分享意見，幫助我們不斷優化《展翅翱翔》！\n\n祝大家遊戲體驗更好，得分更高！玩得開心。\""
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "\"我们已经清楚地听到了大家的反馈：实时多人游戏中，5分钟回合计时器拖慢了游戏节奏。因此，从现在开始，每回合时间将缩短为3分钟——足够你进行有策略的操作，同时又不会让游戏变得过于拖沓！\n\n我们希望这一调整能让游戏变得更加流畅，让你有更多时间制定计划，而不是盯着计时器苦苦等待。\n\n感谢你们分享意见，帮助我们不断优化《展翅翱翔》！\n\n祝大家游戏体验更好，得分更高！玩得开心。\""
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "\"Abbiamo sentito le vostre opinioni forte e chiaro: il timer dei turni di 5 minuti nella modalità multigiocatore in tempo reale rallentava lo stormo. Quindi, d'ora in avanti, la durata dei turni sarà ridotta a 3 minuti: il tempo necessario per effettuare delle mosse strategiche senza rallentare il gioco!\n\nCi auguriamo che questo cambiamento faccia sfrecciare il gioco senza turbolenze, così potrete impiegare più tempo a far schiudere strategie e meno a fissare l'orologio. \nGrazie per aver condiviso i vostri pareri e per averci aiutato a migliorare Wingspan ancora di più!\n\nVi auguriamo partite più rapide e punteggi più alti! Buon divertimento!\n\""
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "\"실시간 멀티플레이에서 5분의 턴 타이머가 게임의 속도를 늦춘다는 여러분의 피드백을 잘 들었습니다. 이제부터 턴 타이머가 3분으로 단축되어 게임 템포가 쳐지지 않는 전략적인 움직임을 취하기에 딱 알맞은 시간이 될 것입니다!\n\n이번 변경으로 게임이 원활하게 진행되어 여러분이 계획을 세우는 데 더 많은 시간을 할애하고 시계를 기다리는 시간을 줄일 수 있기를 바랍니다.\n여러분의 의견을 공유해 주시고 더 나은 윙스팬을 만드는 데 도움을 주셔서 감사합니다!\n\n더 빠른 게임과 더 높은 점수를 위해! 즐거운 게임 되세요.\""
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "\"Ми почули ваші відгуки — через п'ятихвилинний таймер ходу в мережевій грі уся зграя летіла недостатньо швидко. Відтепер тривалість ходу буде скорочено до трьох хвилин. Цього вистачить, щоб зробити найбільш зважений хід, не змушуючи інших чекати!\n\nСподіваємося, що ця зміна допоможе прискорити гру і дозволить вам більше складати плани, а не спостерігати за годинником.\nДякуємо за ваші відгуки, вони допомагають зробити «Крила» ще краще!\n\nЗа швидкі ігри й найкращі результати! Насолоджуйтесь грою!\n\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
+        },
+        {
+            "ID": "0969e562-72d8-411c-a9d3-5b91d3de085a",
+            "Tags": [],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638744352000000000,
+            "EndDateTicks": 638756448000000000,
+            "Priority": 1,
+            "PresetImageName": "Events3",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Ramadan Celebration is back!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "aaa"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Die Ramadan-Feier ist wieder da!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "La célébration du ramadan est de retour !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Vuelve el fondo del Ramadán!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "A celebração do Ramadã está de volta!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "ラマダンのお祝いが再登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Мы снова празднуем Рамадан!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "齋月慶典回歸！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "斋月庆典回归！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Il Ramadan è tornato!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "라마단 축하가 돌아왔습니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Ми знову святкуємо Рамадан!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Wingspan’s Ramadan Background is Here to Celebrate!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "aaa"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Wingspans Ramadan-Hintergrund ist wieder da, um zu feiern!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Célébrez le ramadan dans Wingspan avec cet arrière-plan !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Celebra esta época con el fondo del Ramadán de Wingspan!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "O plano de fundo do Ramadã do Wingspan está aqui para comemorar!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『ウイングスパン』のラマダン背景が戻ってきた！ラマダンをお祝いしよう！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Фон для «Крыльев» готов к празднованию Рамадана!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《展翅翱翔》的齋月背景現已上線，一起慶祝吧！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《展翅翱翔》的斋月背景现已上线，一起庆祝吧！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Lo sfondo Ramadan è qui su Wingspan!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "윙스팬의 라마단 배경이 축하와 함께 왔습니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Фон для «Крил» готовий до святкування Рамадану!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "\"This season, Wingspan invites you to reflect and gather in the calm, starry glow of our Ramadan background. Watch your preserve come to life under a serene, moonlit sky that shines brighter as each day passes. \r\n\r\nEnjoy this background until [March 29], or make it a permanent part of your experience with the Seasonal Decorative Pack. Step into the peaceful magic of Ramadan with your birds!\r\n\""
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "aaaa"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "\"In dieser Zeit des Jahres lädt Wingspan dich dazu ein, dich zu besinnen und im Strahlen der Sterne unseres Ramadan-Hintergrunds zur Ruhe zu kommen. Beobachte, wie dein Reservat unter einem friedlichen Himmel voller Mondschein zum Leben erwacht, der mit jedem Tag heller wird. \n\nGenieße diesen Hintergrund bis zum [29. März] – oder mach ihn mit dem Jahreszeiten-Dekopaket zu einem bleibenden Teil deines Erlebnisses. Begib dich mit deinen Vögeln in die friedliche Magie des Ramadan!\n\""
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "\"Cette saison, Wingspan vous invite à l'introspection et au rassemblement avec le paisible éclat étoilé de notre arrière-plan Ramadan. Observez votre volière prendre vie sous un clair de lune serein qui brille de plus en plus fort au fil des jours.\n\nProfitez de cet arrière-plan jusqu'au [29 mars], ou ajoutez-le définitivement à votre expérience grâce au pack décoratif saisonnier. Découvrez la paisible magie du ramadan avec vos oiseaux !\n\""
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "\"Esta temporada, Wingspan te invita a la reflexión y la calma bajo el apacible y estrellado resplandor de nuestro fondo del Ramadán. Observa cómo cobra vida tu aviario bajo un cielo tranquilo y bañado por la luz de la luna, que cada día brilla con más intensidad.\n\nDisfruta del fondo hasta el [29 de marzo] o añádelo de forma permanente a tu experiencia con el paquete decorativo estacional. ¡Sumérgete junto a tus aves en la plácida magia del Ramadán!\n\""
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "\"Nesta temporada, Wingspan convida você a refletir e se reunir sob o brilho calmo e estrelado do nosso plano de fundo do Ramadã. Veja sua reserva ganhar vida sob um céu sereno e iluminado pela lua, que brilha cada vez mais a cada dia que passa. \n\nAproveite este fundo até [29 de março] ou fique com ele permanentemente com o Pacote Decorativo Sazonal. Entre na magia pacífica do Ramadã com suas aves!\n\""
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "\"この季節、『ウイングスパン』のラマダン背景のもとに集まって、落ち着きのある星明かりの輝きの下で内省しよう。日が経つごとに輝きを増す、月明かりに照らされた空の下で活気づく保護区を楽しもう。\n\nこの背景は[3月29日]まで楽しめる。「季節の装飾パック」を購入すれば、ずっと利用することが可能。鳥たちと一緒に、ラマダンの穏やかな魔法に足を踏み入れよう！\n\""
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "\"В этом сезоне «Крылья» приглашают вас к спокойному созерцанию на фоне звёздного неба Рамадана. Полюбуйтесь, как ваш заповедник оживает под безмятежным ночным небом, которое будет светиться ярче с каждым днём.\n\nИграйте с этим фоном до [29 марта] — или сохраните его навсегда с декоративным набором «Времена года». Погрузитесь в спокойное волшебство Рамадана вместе с вашими птицами!\n\""
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "\"在齋月季，《展翅翱翔》邀請你在靜謐星光的陪伴下，沉思與團聚。欣賞你的鳥類棲息地在祥和的月光下煥發生機。隨着時間推移，夜空愈發璀璨。\n\n這個背景將持續開放至 [3月29日]，或通過購買「季節性裝飾包」永久獲得。與鳥兒們一起踏入齋月的寧靜魔法吧！\""
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "\"在斋月季，《展翅翱翔》邀请你在静谧星光的陪伴下，沉思与团聚。欣赏你的鸟类栖息地在祥和的月光下焕发生机。随着时间推移，夜空愈发璀璨。\n\n这个背景将持续开放至 [3月29日]，或通过购买“季节性装饰包”永久获得。与鸟儿们一起踏入斋月的宁静魔法吧！\""
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "\"Questa stagione, Wingspan ti invita a riflettere e meditare nel bagliore rilassante e stellato del nostro sfondo Ramadan. Guarda la tua voliera prendere vita sotto un cielo sereno e illuminato dalla luna, che brilla ogni giorno di più.\n\nGoditi questo sfondo fino al [29 marzo] o rendilo parte stabile della tua esperienza con il pacchetto decorativo stagionale. Vivi la rilassante magia del Ramadan con i tuoi uccelli!\n\""
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "\"이번 시즌 윙스팬은 라마단을 배경으로 고요하고 별이 빛나는 밤하늘에서의 사색으로 여러분을 초대합니다. 날이 갈수록 더 밝게 빛나는 고요한 달빛 아래에서 여러분의 보존 지역이 살아나는 모습을 지켜보세요.\n\n[3월 29일]까지 이 배경을 한시적으로 즐기거나, 계절 장식 팩으로 영구적으로 경험의 일부로 만들어 보세요. 새들과 함께 라마단의 평화로운 마법 속으로 들어가 보세요!\n\""
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "\"У цьому сезоні «Крила» запрошують вас спокійно спостерігати на фоні зоряного неба Рамадану. Погляньте, як ваш заповідник оживає під безтурботним нічним небом, яке буде світитися все яскравіше з кожним днем. \n\nГрайте з цим фоном до [29 березня] — або збережіть його назавжди з декоративним набором «Пори року». Зануріться до спокійної чарівної атмосфери Рамадану разом з вашими птахами!\n\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
+        },
+        {
+            "ID": "ddeeab15-4dbc-4bb7-a571-224084c433d9",
+            "Tags": [
+                "Events"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638743968000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 1,
+            "PresetImageName": "MonsterCouch",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Happy Anniversary, Quilts and Cats of Calico!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "aaa"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Alles Gute zum Jahrestag, Quilts and Cats of Calico!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Joyeux anniversaire, Quilts and Cats of Calico !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Feliz aniversario, Quilts and Cats of Calico!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Feliz aniversário, Quilts and Cats of Calico!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『キャリコ～陽だまりネコとパッチワーク～』のハッピーアニバーサリー！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "С днём рождения, Quilts and Cats of Calico!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "周年快樂，貓與花毯！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "周年快乐，猫与花毯！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Buon anniversario, Quilts and Cats of Calico!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "캘리코의 퀄트와 고양이의 주년을 축하합니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "З днем народження, Quilts and Cats of Calico!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Special Calico Anniversary Background in Wingspan!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "aaa"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Ein besonderer Calico-Jahrestag-Hintergrund wartet in Wingspan!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Arrière-plan spécial Anniversaire de Calico dans Wingspan !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Llega a Wingspan el fondo especial del aniversario de Calico!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Plano de fundo especial Aniversário de Calico no Wingspan!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『キャリコ』の特別な記念背景が『ウイングスパン』に登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Особый юбилейный фон «Котиков» в «Крыльях»!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《展翅翱翔》有了特別的《貓與花毯》周年背景！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《展翅翱翔》有了特别的《猫与花毯》周年背景！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Sfondo speciale Anniversario di Calico su Wingspan!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "윙스팬의 특별한 캘리코 주년 기념 배경!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Особливий ювілейний фон «Каліко» у «Крилах»!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "\"We’re celebrating our purr-fect friends at Quilts and Cats of Calico with a cozy, quilted anniversary background in Wingspan! Imagine your preserve surrounded by patchwork charm and a little extra coziness.\r\n\r\nThe limited-time Calico background will be available until [March 15], or you can snuggle up with it all year in the Seasonal Decorative Pack 2. Let’s make your preserve as comfy as a quilt!\r\""
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "aaa"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "\"Wir feiern unsere pfotastischen Freunde von Quilts and Cats of Calico mit einem kuscheligen gesteppten Jahrestag-Hintergrund in Wingspan! Male dir dein Reservat aus, umhüllt von Patchwork-Charme und ein wenig Extra-Gemütlichkeit.\n\nDer zeitlich limitierte Calico-Hintergrund ist bis zum [15. März] verfügbar – oder du kuschelst dich das ganze Jahr darin ein, mit dem Jahreszeiten-Dekopaket 2. Mach dein Reservat so gemütlich wie die kuscheligste Steppdecke!\n\""
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "\"Nos miaougnifiques amis de Quilts and Cats of Calico sont à l'honneur dans Wingspan avec cet arrière-plan d'anniversaire douillet ! Imaginez votre volière pleine de patchworks confortables.\n\nCet arrière-plan Calico à durée limitée sera disponible jusqu'au [15 mars], ou vous pouvez vous blottir dedans toute l'année grâce au pack décoratif saisonnier 2. Rendez votre volière aussi confortable qu'un duvet !\n\""
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "\"¡Queremos homenajear a nuestros amigos gatunos de Quilts and Cats of Calico con un acogedor y acolchado fondo de aniversario de Wingspan! Imagina tu aviario un pelín más calentito y lleno de encantadores retales.\n\nEl fondo por tiempo limitado de Calico estará disponible hasta el [15 de marzo], pero, si quieres hacerte un ovillo todo el año, también puedes conseguir el paquete decorativo estacional 2. ¡Haz que tu aviario sea tan confortable como una colcha!\n\""
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "\"Estamos celebrando nossos perfeitos amigos felpudos de Quilts and Cats of Calico com um fundo de aniversário aconchegante e acolchoado no Wingspan! Imagine sua reserva cercada por um charme acolhedor e um toque extra de aconchego.\n\nO fundo limitado de Calico estará disponível até [15 de março], ou você pode se aconchegar com ele o ano todo no Pacote Decorativo Sazonal 2. Vamos deixar sua reserva tão confortável quanto uma colcha!\n\""
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "\"『キャリコ～陽だまりネコとパッチワーク～』の登場を記念した『ウイングスパン』のキルト背景で、\"\"ニャーフェクト\"\"な友達をお祝いしよう！可愛らしいパッチワークとちょっとしたくつろぎ感がプラスされた保護区を想像してみよう。\n\n期間限定の『キャリコ』背景は[3月15日]まで利用できる予定。または、「季節の装飾パック2」を購入すれば、1年じゅうこの気持ち良さを楽しめる。保護区をキルトと同じくらい心地良くしよう！\n\""
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "\"Отмечаем день рождения наших чудесных друзей-мурлык из Quilts and Cats of Calico с уютным ситцевым фоном для «Крыльев»! Представьте, что ваш заповедник укутан милыми и тёплыми одеялками!\n\nФон «Котики» будет доступен в игре только до [15 марта], но с декоративным набором «Времена года 2» он будет радовать вас хоть круглый год! Добавьте вашему заповеднику домашнего уюта!\n\""
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "\"我們正在為《貓與花毯》中的貓咪夥伴們慶祝，特別推出溫馨的周年背景！你的鳥類棲息地被花毯的魅力包圍，增添了一份舒適與愜意。\n\n限時《貓與花毯》背景將開放至 [3月15日]，或通過購買「季節性裝飾包2」永久獲得。讓你的棲息地像拼布一樣溫暖舒適吧！\""
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "\"我们正在为《猫与花毯》中的猫咪伙伴们庆祝，特别推出温馨的周年背景！你的鸟类栖息地被花毯的魅力包围，增添了一份舒适与惬意。\n\n限时《猫与花毯》背景将开放至 [3月15日]，或通过购买“季节性装饰包2”永久获得。让你的栖息地像拼布一样温暖舒适吧！\""
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "\"Su Wingspan, festeggiamo i nostri amici purr-fetti di Quilts and Cats of Calico con uno sfondo per l'anniversario caldo e trapuntato! Immagina la tua voliera circondata dal fascino della trapunta e un po' di tepore in più!\n\nQuesto sfondo di Calico a tempo limitato sarà disponibile fino al [15 marzo] o puoi farlo tuo per tutto l'anno con il pacchetto decorativo stagionale 2. Rendi la tua voliera confortevole come una trapunta!\n\""
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "\"캘리코의 퀄트와 고양이의 포근한 퀼트 주년 기념 배경을 윙스팬에서 만들어 친구들을 축하합시다! 퀼트의 매력과 약간의 아늑함으로 둘러싸인 보존 지역을 상상해 보세요.\n\n기간 한정으로 제공되는 캘리코 배경은 [3월 15일]까지 한정적으로 사용할 수 있으며, 계절 장식 팩 2에서 일 년 내내 사용할 수 있습니다. 이불처럼 포근한 보존 지역을 만들어 보세요!\n\""
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "\"Святкуємо день народження наших чудових котячих друзів з Quilts and Cats of Calico із затишним ситцевим фоном для «Крил»! Уявіть, що ваш заповідник загорнутий у милі й теплі ковдри!\n\nФон «Каліко» буде доступний у грі тільки до [15 березня], але з декоративним набором «Пори року 2» він буде радувати вас весь рік! Додайте домашньої затишності вашому заповіднику!\n\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
+        },
+        {
+            "ID": "27d2e844-bb0e-4f59-91fb-bd10c0ae72c5",
+            "Tags": [],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638743968000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 1,
+            "PresetImageName": "MonsterCouch2",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Sakura Season is Here!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "aaa"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Die Sakura-Jahreszeit ist da!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "La saison des cerisiers est arrivée !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Ya está aquí la época de los cerezos!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "A temporada de Sakura chegou!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "桜の季節がやって来た！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Пришло время цветения сакуры!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "櫻花季來了！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "樱花季来了！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "La stagione dei ciliegi è qui!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "벚꽃 시즌이 왔습니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Настав час цвітіння сакури!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Cherry Blossom Background Blooming in Wingspan!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "aaa"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Unser Kirschblüten-Hintergrund erblüht in Wingspan!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Un arrière-plan aux fleurs de cerisier éclot dans Wingspan !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Llega a Wingspan el fondo de los cerezos en flor!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "O plano de fundo Florescer da Cerejeira brotou no Wingspan!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "桜の背景が『ウイングスパン』に登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Цветки сакуры распустятся на фоне для «Крыльев»!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "盛開的櫻花在《展翅翱翔》中怒放！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "盛开的樱花在《展翅翱翔》中怒放！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Lo sfondo Ciliegio sboccia su Wingspan!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "윙스팬에 피어나는 벚꽃 배경!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Квітки сакури розпустяться на фоні для «Крил»!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "\"Spring has arrived in all its delicate beauty! Wingspan’s Sakura background will take your birdwatching to a whole new level with cherry blossoms in full bloom. Can you spot the petals dancing in the breeze?\r\n\r\nPlay in the Sakura season from [March 25] to [April 26], or keep those blossoms blooming year-round with the Seasonal Decorative Pack. Embrace the beauty of nature’s most colorful season!\r\""
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "aaa"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "\"Der Frühling in all seiner zarten Schönheit ist da! Wingspans Sakura-Hintergrund hebt mit seinen wunderschönen Kirschblüten deine Vogelbeobachtungen auf eine ganz neue Ebene. Entdeckst du die Blütenblätter, die im Windhauch tanzen?\n\nSpiele in der Sakura-Jahreszeit vom [25. März] bis zum [26. April] – oder lass die Blüten mit dem Jahreszeiten-Dekopaket das ganz Jahr über blühen. Tauche ein in die Schönheit der Natur in der farbenfrohesten Jahreszeit!\n\""
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "\"Le printemps fait son entrée dans toute sa délicate splendeur ! L'arrière-plan Sakura de Wingspan vous permettra d'observer des oiseaux parmi les cerisiers en fleur. Regardez les pétales danser au gré du vent !\n\nParticipez à la saison des cerisiers du [25 mars] au [26 avril], ou conservez ces fleurs toute l'année avec le pack décoratif saisonnier. Appréciez la beauté de la saison la plus colorée de l'année !\n\""
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "\"¡La primavera llama a la puerta con toda su delicada hermosura! Con el fondo de los cerezos de Wingspan, observarás a tus aves mejor que nunca entre un sinfín de cerezos en flor. ¿Ves cómo bailan los pétalos al son de la brisa?\n\nJuega en la época de los cerezos del [25 de marzo] al [26 de abril] o haz que sigan en flor durante todo el año con el paquete decorativo estacional. ¡Disfruta de la belleza de la época más colorida de la naturaleza!\n\""
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "\"A primavera chegou com toda a sua delicada beleza! O fundo de Sakura do Wingspan levará sua observação de aves a um nível totalmente novo com flores de cerejeira em plena floração. Você consegue ver as pétalas dançando na brisa?\n\nJogue na temporada de Sakura de [25 de março] a [26 de abril] ou mantenha as flores florescendo o ano todo com o Pacote Decorativo Sazonal. Abrace a beleza da estação mais colorida da natureza!\n\""
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "\"繊細な美しさが春を彩る！春もたけなわな『ウイングスパン』の桜の背景で、今まで経験したことのないようなバードウォッチングを楽しもう。そよ風に踊る花びらを見つけられるかな？\n\n桜の季節は[3月25日]から[4月26日]まで楽しめる。または「季節の装飾パック」を購入して、1年じゅう桜を楽しむこともできる。満開に咲き誇る自然の美しさに包まれよう！\n\""
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "\"Наступила нежная весна! Цветки сакуры, распустившиеся на фоне для «Крыльев», сделают ваш птичий заповедник ещё прекраснее! Сумеете разглядеть лепестки, танцующие на ветру?\n\nИграйте на фоне цветущей сакуры с [25 марта] по [26 апреля] — или даже весь год, если у вас есть декоративный набор «Времена года». Любуйтесь красотой самого яркого времени года!\n\""
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "\"春天以其溫柔之美悄然來臨！《展翅翱翔》的櫻花背景將為你的觀鳥體驗抬到一個全新高度，滿樹櫻花競相綻放。你能發現隨風飛舞的花瓣嗎？\n\n櫻花季將從 [3月25日] 持續到 [4月26日]，或者通過購買「季節性裝飾包」讓這些櫻花全年盛開。擁抱自然界最繽紛的季節之美吧！\""
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "\"春天以其温柔之美悄然来临！《展翅翱翔》的樱花背景将为你的观鸟体验抬到一个全新高度，满树樱花竞相绽放。你能发现随风飞舞的花瓣吗？\n\n樱花季将从 [3月25日] 持续到 [4月26日]，或者通过购买“季节性装饰包”让这些樱花全年盛开。拥抱自然界最缤纷的季节之美吧！\""
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "\"La primavera è arrivata in tutta la sua delicata bellezza! Con lo sfondo Ciliegio di Wingspan il tuo birdwatching non sarà più lo stesso, grazie ai ciliegi in fiore. Riesci a individuare i petali che danzano al vento?\n\nUsa questo sfondo stagionale dal [25 marzo] al [26 aprile] o fai fiorire i ciliegi tutto l'anno con il pacchetto decorativo stagionale. Lasciati travolgere dalla bellezza della stagione più colorata della natura!\n\""
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "\"섬세한 아름다움이 가득한 봄이 찾아왔어요! 윙스팬의 벚꽃 배경은 만개한 벚꽃으로 조류 관찰을 완전히 새로운 차원으로 끌어올립니다. 산들바람에 흩날리는 꽃잎이 보이시나요?\n\n[3월 25일]부터 [4월 26일]까지 벚꽃 시즌에 플레이하거나, 계절 장식 팩으로 일 년 내내 꽃을 피워보세요. 자연의 가장 화려한 계절의 아름다움을 만끽하세요!\n\""
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "\"Наступила ніжна весна! Квітки сакури, що розпустилися на фоні для «Крил», зроблять ваш пташиний заповідник ще чарівнішим! Чи зможете ви побачити пелюстки, що танцюють з вітром?\n\nГрайте на фоні квітучої сакури з [25 березня] по [26 квітня] — або навіть весь рік, якщо у вас є декоративний набір «Пори року». Спостерігайте за красою найяскравішої пори року!\n\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
+        },
+        {
+            "ID": "a36d5737-d5a3-405b-86fd-bf9732a0fd5d",
+            "Tags": [
+                "Events"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638743968000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 1,
+            "PresetImageName": "NewContent",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Happy Easter!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "aaa"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Frohe Ostern!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Joyeuses Pâques !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Feliz Pascua!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Feliz Páscoa!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "ハッピー・イースター！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "С Пасхой!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "復活節快樂！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "复活节快乐！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Buona Pasqua!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "행복한 부활절 보내세요!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Щасливого Великодня!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Easter Background is Back in Wingspan!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "aaa"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Der Ostern-Hintergrund ist wieder in Wingspan verfügbar!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "L'arrière-plan Pâques fait son retour dans Wingspan !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Vuelve el fondo de Pascua a Wingspan!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "O plano de fundo de Páscoa está de volta ao Wingspan!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "イースター背景が『ウイングスパン』に再登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "В «Крыльях» снова доступен пасхальный фон!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "復活節背景重返《展翅翱翔》！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "复活节背景重返《展翅翱翔》！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Lo sfondo Pasqua è tornato su Wingspan!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "부활절 배경이 윙스팬으로 돌아왔습니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Фон, присвячений Великодню, знову доступний у «Крилах»!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "\"Spring surprises and hidden treats await! Our Easter background is hopping back into Wingspan, complete with blooming flowers, pastel colors, and even some festive eggs. Find the playful, egg-citing details we’ve hidden just for you!\r\n\r\nEnjoy this background from [April 18] to [April 27] or keep it going with the Seasonal Decorative Pack. This season, hop into the fun with Wingspan!\r\""
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "aaa"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "\"Der Frühling überrascht uns und verborgene Schätze warten! Unser Oster-Hintergrund hoppelt in Wingspan hinein – mit blühenden Blumen, Pastellfarben und sogar einigen festlichen Eiern. Ei-nzigartige verspielte Details warten darauf, von dir entdeckt zu werden. Findest du sie?\n\nGenieße diesen Hintergrund vom [18. April] bis zum [27. April] oder bewahre ihn dir dauerhaft mit dem Jahreszeiten-Dekopaket. Hüpfe in dieser Jahreszeit in den Wingspan-Spaß!\n\""
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "\"Des surprises printanières et des friandises cachées vous attendent ! Notre arrière-plan Pâques revient dans Wingspan, accompagné de fleurs, de couleurs pastel, et même d'œufs festifs. Découvrez les fabul-œufs détails que nous avons cachés rien pour vous !\n\nProfitez de cet arrière-plan du [18 avril] au [27 avril], ou conservez-le avec le pack décoratif saisonnier. Bondissez dans cette saison de Wingspan !\n\""
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "\"¡Te esperan toda clase de sorpresas primaverales y regalos ocultos! Nuestro fondo de Pascua regresa de un brinco a Wingspan con bellas flores, colores pastel y hasta algunos huevos festivos. ¡Encuentra los curiosos detallitos que hemos escondido!\n\nDisfruta de este fondo del [18] al [27 de abril] o consérvalo con el paquete decorativo estacional. ¡Da saltos de alegría durante esta época con Wingspan!\n\""
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "\"Surpresas de primavera e guloseimas escondidas aguardam! O fundo de Páscoa está voltando ao Wingspan, com flores desabrochando, cores suaves e até alguns ovos festivos. Descubra os detalhes divertidos e ovacionantes que escondemos especialmente para você!\n\nAproveite este fundo de [18 de abril] a [27 de abril] ou fique com ele o ano todo com o Pacote Decorativo Sazonal. Nesta temporada, entre na diversão com Wingspan!\n\""
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "\"春のサプライズと秘密のご褒美が待っている！咲き誇る花、パステルカラー、お祭りの卵と一緒に、イースター背景が足取りも軽く『ウイングスパン』に戻ってきた。楽しくて\"\"エッグィサイティング\"\"な秘密のディティールを探してみよう！\n\nこの背景は[4月18日]から[4月27日]まで楽しめる。または「季節の装飾パック」を購入すれば、それ以降も利用できる。『ウイングスパン』でイースターの季節を楽しもう！\n\""
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "\"Вы готовы к весеннему празднику и к спрятанным сюрпризам? Пасхальный фон возвращается в «Крылья», неся с собой весенние цветы, пастельные краски и праздничные яйца. Попробуйте отыскать все сюрпризы, которыми мы украсили заповедник специально для вас!\n\nИграйте с этим фоном с [18 по 27 апреля] или сохраните его навсегда с декоративным набором «Времена года». Заходите в «Крылья», у нас весело!\n\""
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "\"春日驚喜與隱藏的樂趣等待着你！我們的復活節背景再次回歸《展翅翱翔》，伴隨着盛開的花朵、柔和的色調，甚至還有一些節日彩蛋。快來發現我們為你特別隱藏的細節吧！\n\n這個背景可在 [4月18日] 至 [4月27日] 期間體驗，或者通過購買「季節性裝飾包」永久保留。這個季節，與《展翅翱翔》一起沉浸在歡樂之中吧！\""
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "\"春日惊喜与隐藏的乐趣等待着你！我们的复活节背景再次回归《展翅翱翔》，伴随着盛开的花朵、柔和的色调，甚至还有一些节日彩蛋。快来发现我们为你特别隐藏的细节吧！\n\n这个背景可在 [4月18日] 至 [4月27日] 期间体验，或者通过购买“季节性装饰包”永久保留。这个季节，与《展翅翱翔》一起沉浸在欢乐之中吧！\""
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "\"Ti attendono sorprese primaverili e regali nascosti! Il nostro sfondo Pasqua torna saltellando su Wingspan, completo di fiori che sbocciano, colori pastello e anche alcune uova festive. Trova gli allegri e tuorlosi dettagli che abbiamo nascosto solo per te!\n\nGoditi questo sfondo dal [18 aprile] al [27 aprile] oppure fallo tuo per sempre con il pacchetto decorativo stagionale. Questa stagione, salta nel divertimento con Wingspan!\n\""
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "\"봄의 놀라움과 숨겨진 간식이 기다리고 있습니다! 윙스팬의 부활절 배경이 활짝 핀 꽃과 파스텔 색상, 그리고 축제 달걀로 완성되어 다시 돌아왔습니다. 당신만을 위해 숨겨둔 알랑까모를 디테일을 찾아보세요!\n\n[4월 18일]부터 [4월 27일]까지 이 배경을 한정적으로 즐기거나, 계절 장식 팩으로 계속 사용하세요. 올 부활절, 윙스팬과 함께 즐거운 시간 보내세요!\n\""
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "\"Готуйтесь до весняного свята й прихованих сюрпризів! Великодній фон повертається у «Крила» і несе з собою весняні квіти, світлі фарби й святкові яйця. Спробуйте відшукати всі сюрпризи, які ми приховали у заповіднику спеціально для вас!\n\nГрайте з цим фоном з [18 по 27 квітня] або збережіть його назавжди з декоративним набором «Пори року». Заходьте до «Крил», у нас тут весело!\n\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
+        },
+        {
+            "ID": "9dc68085-b555-414c-8857-7ba05b81617b",
+            "Tags": [
+                "Events"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638743968000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 1,
+            "PresetImageName": "NewContent2",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Happy Summer Solstice!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "aaa"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Fröhliche Sommersonnenwende!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Joyeux solstice d'été !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Feliz solsticio de verano!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Feliz Solstício de Verão!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "夏至をお祝いしよう！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "С летним солнцестоянием!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "夏至快樂！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "夏至快乐！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Buon solstizio d'estate!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "즐거운 하지!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "З літнім сонцестоянням!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Soak Up the Sun with the Summer Solstice Background!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "aaa"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Aale dich in der Sonne mit dem Sommersonnenwende-Hintergrund!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Prélassez-vous au soleil avec l'arrière-plan Solstice d'été !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Disfruta de la cálida luz del sol con el fondo del solsticio de verano!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Aproveite o sol com o plano de fundo Solstício de Verão!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "夏至の背景で太陽をたっぷり浴びよう！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Наслаждайтесь теплом солнца с праздничным фоном летнего солнцестояния!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "在《展翅翱翔》的夏至背景中沐浴陽光吧！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "在《展翅翱翔》的夏至背景中沐浴阳光吧！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Goditi il sole con lo sfondo Solstizio d'estate!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "하지 배경에서 태양을 만끽하세요!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Насолодіться сонячним теплом з фоном літнього сонцестояння!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "\"Long days, warm breezes, and nature at its peak - the Summer Solstice is here! \r\nWingspan’s summer background captures the vibrant energy of the season, with lush greenery, folk festivities and birds basking in the warmth of the longest days of the year.\r\n\r\nCelebrate summer from June 20 to July 4, or keep the sunshine all year with the Seasonal Decorative Pack. Dive into nature’s peak and let your birds soar!\r\n\""
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "aaa"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "\"Lange Tage, warme Brisen und die Natur gibt alles – die Sommersonnenwende ist da! \nWingspans Sommer-Hintergrund fängt die lebendige Energie dieser Jahreszeit ein mit üppigem Grün, Volksfesten und Vögeln, die in der Wärme der längsten Tage des Jahres baden.\n\nFeiere den Sommer vom 20. Juni bis zum 4. Juli – oder genieße den Sonnenschein das ganze Jahr über mit dem Jahreszeiten-Dekopaket. Tauche ein in die Natur zu ihrer üppigsten Zeit und lass deine Vögel fliegen!\n\""
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "\"Les longues journées, les hautes températures et la nature à son apogée : le solstice d'été est arrivé !\nL'arrière-plan estival de Wingspan reflète l'énergie vibrante de la saison, avec sa verdure luxuriante, ses fêtes populaires et ses oiseaux profitant de la chaleur des jours les plus longs de l'année.\n\nCélébrez l'été du 20 juin au 4 juillet, ou laissez le soleil briller toute l'année avec le pack décoratif saisonnier. Plongez au cœur de la nature et laissez vos oiseaux s'envoler !\n\""
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "\"¡Ya está aquí el solsticio de verano con sus largos días, sus cálidas brisas y su naturaleza en pleno apogeo!\nEl fondo de verano de Wingspan transmite la potente energía de esta estación, repleta de frondosa vegetación, festejos populares y aves que disfrutan del calor de los días más largos del año.\n\nCelebra el verano del 20 de junio al 4 de julio o conserva la luz del sol durante todo el año con el paquete decorativo estacional. ¡Sumérgete en el esplendor de la naturaleza y deja que tus aves alcen el vuelo!\n\""
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "\"Dias longos, brisas quentes e a natureza no seu auge: o Solstício de Verão chegou! \nO fundo de verão de Wingspan captura a energia vibrante da estação, com uma vegetação exuberante, festividades folclóricas e aves aproveitando o calor dos dias mais longos do ano.\n\nCelebre o verão de 20 de junho a 4 de julho, ou mantenha o clima de sol o ano todo com o Pacote Decorativo Sazonal. Mergulhe no auge da natureza e deixe suas aves voarem!\n\""
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "\"長い昼間、暖かいそよ風、自然が最も美しい時期……夏至の季節がやって来た！\n草木は青々と茂り、伝統のお祭りが行なわれ、鳥たちは1年で最も長い昼間の暖かい日差しを浴びて楽しんでいる。『ウイングスパン』の夏至の背景で、この季節だけのあふれるエネルギーを貰おう。\n\n6月20日から7月4日まで夏をお祝いしよう。または「季節の装飾パック」を購入して、1年じゅう太陽の光を浴びよう。一番輝いている自然の中に飛び込んで、空高く鳥を舞い上がらせよう！\n\""
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "\"Долгие дни, тёплый ветерок, расцветающая природа — наступило летнее солнцестояние! \nНовый фон для «Крыльев» передаёт яркую атмосферу лета. Здесь и пышная зелень, и народные гуляния, и птицы, которые радуются летнему теплу и краткой ночной прохладе…\n\nОтпразднуйте макушку лета с 20 июня по 4 июля — или продолжайте купаться в лучах солнца весь год с декоративным набором «Времена года». Окунитесь в цветущий мир природы и выпустите своих птиц на волю!\n\""
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "\"漫長的白天、和煦的微風、大自然已然達到它的巔峰——夏至來臨了！《展翅翱翔》的夏季背景捕捉了這個季節的勃勃生機，鬱鬱蔥蔥的綠意、民間慶典和鳥兒們在一年中最漫長的白天裡享受溫暖的陽光。\n\n從6月20日到7月4日一起慶祝夏天，或者通過購買「季節性裝飾包」讓陽光照耀全年。融入大自然的巔峰時刻，讓你的鳥兒自由飛翔吧！\""
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "\"漫长的白天、和煦的微风、大自然已然达到它的巅峰——夏至来临了！《展翅翱翔》的夏季背景捕捉了这个季节的勃勃生机，郁郁葱葱的绿意、民间庆典和鸟儿们在一年中最漫长的白天里享受温暖的阳光。\n\n从6月20日到7月4日一起庆祝夏天，或者通过购买“季节性装饰包”让阳光照耀全年。融入大自然的巅峰时刻，让你的鸟儿自由飞翔吧！\""
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "\"Giornate più lunghe, venti caldi e la natura al suo culmine: è arrivato il solstizio d'estate!\nLo sfondo estivo di Wingspan cattura l'energia vivace di questa stagione, con vegetazione rigogliosa, feste popolari e uccelli che si crogiolano al calore delle giornate più lunghe dell'anno.\n\nFesteggia l'estate dal 20 giugno al 4 luglio oppure fallo tutto l'anno con il pacchetto decorativo stagionale. Vivi la natura nel suo periodo migliore e fai volare i tuoi uccelli in alto nei cieli!\n\""
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "\"긴 낮, 따끈한 바람, 절정에 달한 자연 - 여름이 다가왔습니다!\n윙스팬의 여름 배경은 무성한 녹지, 민속 축제, 일 년 중 가장 긴 낮의 따스함을 만끽하는 새들과 함께 계절의 활기찬 에너지를 담아냅니다.\n\n[6월 20일]부터 [7월 4일]까지 여름을 기념하거나, 계절 장식 팩으로 일 년 내내 햇살을 간직하세요. 자연의 절정 속으로 뛰어들어 새들이 날아오르게 해 보세요!\n\""
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "\"Довгі дні, теплий вітер, квітуча природа — літнє сонцестояння вже тут! \nНовий фон для «Крил» передає яскраву атмосферу літа, де на вас чекає пишна зелена рослинність, народні святкування і птахи, що радіють літньому теплу найдовших днів у році.\n\nВідсвяткуйте літо з 20 червня до 4 липня — або збережіть сонячне світло на весь рік з декоративним набором «Пори року». Зануріться до квітучого світу природи й випустіть на волю своїх птахів!\n\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
+        },
+        {
+            "ID": "57686b3f-4b40-4b28-bfe3-982fd6ae0226",
+            "Tags": [
+                "Events"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638743968000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 1,
+            "PresetImageName": "NewContent3",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Happy Anniversary, Wingspan!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "aaa"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Alles Gute zum Jahrestag, Wingspan!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Joyeux anniversaire, Wingspan !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Feliz aniversario, Wingspan!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Feliz Aniversário, Wingspan!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『ウイングスパン』の記念日をお祝いしよう！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "С днём рождения, «Крылья»!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《展翅翱翔》周年慶快樂！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《展翅翱翔》周年庆快乐！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Buon anniversario, Wingspan!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "생일 축하 합니다, 윙스팬!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "З днем народження, «Крила»!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Celebrate Wingspan’s Anniversary with a Special Background!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "aaa"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Feiere Wingspans Jahrestag mit einem ganz besonderen Hintergrund!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Fêtez l'anniversaire de Wingspan avec un arrière-plan spécial !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Celebra el aniversario de Wingspan con un fondo especial!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Comemore o aniversário do Wingspan com um Fundo Especial!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "特別な背景で『ウイングスパン』の記念日をお祝いしよう！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Отпразднуйте юбилей «Крыльев» с особым фоном!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "與我們一起慶祝《展翅翱翔》的周年紀念，享受特別背景！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "与我们一起庆祝《展翅翱翔》的周年纪念，享受特别背景！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Festeggia l'anniversario di Wingspan con uno sfondo speciale!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "특별한 배경과 함께 윙스팬의 주년을 축하하세요!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Відсвяткуйте ювілей «Крил» з особливим фоном!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "\"It’s a celebration of birds and strategy as Wingspan marks another fantastic year!\r\nTo celebrate, we’ve brought back the Wingspan Anniversary background, with a festive look and surprises hidden in every corner of your preserve.\r\n\r\nPlay in this limited background from September 10 to September 24, or add it to your collection with the Seasonal Decorative Pack. Raise your wings and join the flock for this special occasion - thank you for being part of the Wingspan community!\r\""
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "aaa"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "\"Wir feiern die Vögel und die Strategie – Wingspan hat ein weiteres fantastisches Jahr erlebt!\nAus diesem Anlass haben wir den Wingspan-Jahrestag-Hintergrund zurückgebracht, der deinem Reservat ein festliches Aussehen und Überraschungen in jeder versteckten Ecke bringt.\n\nSpiele mit diesem limitierten Hintergrund vom 10. September bis zum 24. Dezember – oder füge ihn mit dem Jahreszeiten-Dekopaket deiner Sammlung hinzu. Breite deine Flügel aus und schließe dich für ein besonderes Fest dem Schwarm an – danke, dass du Teil der Wingspan-Community bist!\n\""
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "\"Les oiseaux et la stratégie sont à l'honneur à l'occasion d'une nouvelle année fantastique avec Wingspan !\nPour fêter cela, l'arrière-plan Anniversaire de Wingspan est de retour avec un style festif et des surprises cachées aux quatre coins de votre volière.\n\nJouez avec cet arrière-plan à durée limitée du 10 septembre au 24 septembre, ou ajoutez-le à votre collection avec le pack décoratif saisonnier. Déployez vos ailes et envolez-vous avec nous pour cette occasion spéciale. Merci de faire partie de la communauté Wingspan !\n\""
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "\"¡Es un homenaje a las aves y la estrategia ahora que concluye otro fantástico año de Wingspan!\nPara celebrarlo, hemos recuperado el fondo del aniversario de Wingspan, con un aspecto festivo y sorpresas ocultas por todo el aviario.\n\nJuega en este fondo por tiempo limitado del 10 al 24 de septiembre o añádelo a tu colección con el paquete decorativo estacional. Abre las alas y únete a la bandada en esta ocasión especial. ¡Gracias por formar parte de la comunidad de Wingspan!\n\""
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "\"Essa é uma celebração de aves e de estratégias, já que Wingspan comemora mais um ano fantástico!\nPara celebrar, trouxemos de volta o fundo de Aniversário do Wingspan, com um visual festivo e surpresas escondidas em cada canto da sua reserva.\n\nJogue com este fundo limitado de 10 a 24 de setembro, ou adicione-o à sua coleção com o Pacote Decorativo Sazonal. Levante suas asas e junte-se ao bando para esta ocasião especial – obrigado por fazer parte da comunidade Wingspan!\n\""
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "\"『ウイングスパン』がまた素晴らしい1年を刻んだ。鳥と戦略をお祝いしよう！\nこれを記念して、祝祭の雰囲気をたたえた『ウイングスパン』の記念背景が再登場。保護区のあちこちにサプライズも隠されている。\n\nこの背景は、9月10日から9月24日まで期間限定で楽しめる。また「季節の装飾パック」を購入すれば、コレクションに加えることもできる。この特別な機会に、羽根を広げて群れに加わろう。『ウイングスパン』コミュニティーの一員になってくれてありがとう！\n\""
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "\"Для «Крыльев» это был фантастический год! Да здравствуют птицы и стратегия!\nМы вновь представляем праздничный фон в честь дня рождения «Крыльев». Сюрпризы ждут в каждом укромном уголке вашего заповедника!\n\nИграйте с этим фоном с 10 по 24 сентября или добавьте его к себе в постоянную коллекцию с декоративным набором «Времена года». Расправьте крылья и присоединяйтесь к стае, ведь сегодня особый день! Спасибо, что играете в «Крылья»!\n\""
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "\"這是一個慶祝鳥類與策略的時刻，《展翅翱翔》又迎來了一個精彩的年度里程碑！為此，我們帶回了《展翅翱翔》周年慶背景，節慶氣氛濃厚，驚喜藏匿在你棲息地的每個角落。\n\n這個限時背景將於 [9月10日] 至 [9月24日] 期間可用，或者通過購買「季節性裝飾包」將它永久加入你的收藏。張開翅膀，和我們一起慶祝這一特別時刻——感謝你成為《展翅翱翔》社區的一員！\""
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "\"这是一个庆祝鸟类与策略的时刻，《展翅翱翔》又迎来了一个精彩的年度里程碑！为此，我们带回了《展翅翱翔》周年庆背景，节庆气氛浓厚，惊喜藏匿在你栖息地的每个角落。\n\n这个限时背景将于 [9月10日] 至 [9月24日] 期间可用，或者通过购买“季节性装饰包”将它永久加入你的收藏。张开翅膀，和我们一起庆祝这一特别时刻——感谢你成为《展翅翱翔》社区的一员！\""
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "\"Wingspan compie un altro fantastico anno e noi festeggiamo i volatili e la strategia!\nPer farlo, abbiamo reintrodotto lo sfondo Anniversario di Wingspan, con un aspetto festivo e con delle sorprese nascoste in ogni angolo della tua voliera.\n\nGioca in questo sfondo a tempo limitato dal 10 al 24 settembre oppure aggiungilo alla tua raccolta con il pacchetto decorativo stagionale. Spiega le ali e unisciti allo stormo per questa occasione speciale: grazie per essere parte della comunità di Wingspan!\n\""
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "\"윙스팬이 또 한 번의 환상적인 한 해를 맞이하였습니다. 새와 전략의 축제날입니다!\n이를 기념하기 위해 윙스팬 1주년 기념 배경을 다시 선보이며, 보존 지역 구석구석에 숨겨진 축제 분위기와 깜짝 선물을 준비했습니다.\n\n[9월 10일]부터 [9월 24일]까지 한정적으로 즐기거나, 계절 장식 팩으로 컬렉션에 추가하세요. 윙스팬 커뮤니티의 일원이 되어 주셔서 감사합니다. 이 특별한 날을 위해 날개를 펴고 무리에 합류하세요!\n\""
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "\"Для «Крил» це був фантастичний рік! Це свято, присвячене птахам і стратегії!\nНа честь дня народження «Крил» ми знову представляємо святковий фон. Сюрпризи чекають на вас у кожному куточку вашого заповідника!\n\nГрайте з цим фоном з 10 по 24 вересня або додайте його до своєї постійної колекції з декоративним набором «Пори року». Розгорніть крила і приєднуйтесь до зграї, адже сьогодні особливий день! Дякуємо, що граєте в «Крила»!\n\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
         }
     ]
 }
