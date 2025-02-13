@@ -2177,9 +2177,9 @@
             ],
             "Actions": [
                 {
-                    "ActionType": 0,
+                    "ActionType": 1,
                     "PlatformsToShowOn": 257,
-                    "Value": "https://store.steampowered.com/app/1816700/Wingspan_Seasonal_Decorative_Pack/",
+                    "Value": "SB_DLC",
                     "ButtonText": {
                         "LocalizedTexts": [
                             {
