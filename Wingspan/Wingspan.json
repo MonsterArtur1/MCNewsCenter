@@ -3409,9 +3409,9 @@
             ],
             "Actions": [
                 {
-                    "ActionType": 0,
+                    "ActionType": 1,
                     "PlatformsToShowOn": 257,
-                    "Value": "https://store.steampowered.com/app/3362880",
+                    "Value": "AE_DLC",
                     "ButtonText": {
                         "LocalizedTexts": [
                             {
