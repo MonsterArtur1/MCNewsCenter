@@ -1,0 +1,124 @@
+{
+  "SeasonalEventDates": [
+    {
+      "EventName": "Halloween",
+      "Type": 1,
+      "Date": {
+        "_eventDateType": 0,
+        "_eventStart": {
+          "Day": 1,
+          "Month": 10
+        },
+        "_eventEnd": {
+          "Day": 3,
+          "Month": 11
+        }
+      }
+    },
+    {
+      "EventName": "Winter",
+      "Type": 2,
+      "Date": {
+        "_eventDateType": 0,
+        "_eventStart": {
+          "Day": 6,
+          "Month": 12
+        },
+        "_eventEnd": {
+          "Day": 31,
+          "Month": 12
+        }
+      }
+    },
+    {
+      "EventName": "Valentines",
+      "Type": 3,
+      "Date": {
+        "_eventDateType": 0,
+        "_eventStart": {
+          "Day": 14,
+          "Month": 2
+        },
+        "_eventEnd": {
+          "Day": 28,
+          "Month": 2
+        }
+      }
+    },
+    {
+      "EventName": "Sakura",
+      "Type": 4,
+      "Date": {
+        "_eventDateType": 0,
+        "_eventStart": {
+          "Day": 25,
+          "Month": 3
+        },
+        "_eventEnd": {
+          "Day": 15,
+          "Month": 4
+        }
+      }
+    },
+    {
+      "EventName": "Easter",
+      "Type": 5,
+      "Date": {
+        "_eventDateType": 0,
+        "_eventStart": {
+          "Day": 11,
+          "Month": 4
+        },
+        "_eventEnd": {
+          "Day": 30,
+          "Month": 4
+        }
+      }
+    },
+    {
+      "EventName": "Ramadan",
+      "Type": 6,
+      "Date": {
+        "_eventDateType": 0,
+        "_eventStart": {
+          "Day": 1,
+          "Month": 3
+        },
+        "_eventEnd": {
+          "Day": 30,
+          "Month": 3
+        }
+      }
+    },
+    {
+      "EventName": "Solstice",
+      "Type": 7,
+      "Date": {
+        "_eventDateType": 0,
+        "_eventStart": {
+          "Day": 13,
+          "Month": 6
+        },
+        "_eventEnd": {
+          "Day": 4,
+          "Month": 7
+        }
+      }
+    },
+    {
+      "EventName": "Chinese New Year",
+      "Type": 8,
+      "Date": {
+        "_eventDateType": 0,
+        "_eventStart": {
+          "Day": 2,
+          "Month": 2
+        },
+        "_eventEnd": {
+          "Day": 24,
+          "Month": 2
+        }
+      }
+    }
+  ]
+}
