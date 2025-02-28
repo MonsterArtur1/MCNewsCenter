@@ -3777,6 +3777,1114 @@
                     }
                 }
             ]
+        },
+        {
+            "ID": "acaa1871-827c-4001-86bf-3fea826cb592",
+            "Tags": [
+                "Events"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638762976000000000,
+            "EndDateTicks": 638788032000000000,
+            "Priority": 1,
+            "PresetImageName": "",
+            "RemoteImageName": "Wingspan_Ramadan_Newscenter.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Ramadan Celebration is back!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Ramadan powraca! "
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Die Ramadan-Feier ist wieder da!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "La célébration du ramadan est de retour !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Vuelve el fondo del Ramadán!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "A celebração do Ramadã está de volta!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "ラマダンのお祝いが再登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Мы снова празднуем Рамадан!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "齋月慶典回歸！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "斋月庆典回归！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Il Ramadan è tornato!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "라마단 축하가 돌아왔습니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Ми знову святкуємо Рамадан!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Wingspan’s Ramadan Background is Here to Celebrate!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Świętuj Ramadan w Na Skrzydłach z sezonowym tłem! "
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Wingspans Ramadan-Hintergrund ist wieder da, um zu feiern!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Célébrez le ramadan dans Wingspan avec cet arrière-plan !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Celebra esta época con el fondo del Ramadán de Wingspan!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "O plano de fundo do Ramadã do Wingspan está aqui para comemorar!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『ウイングスパン』のラマダン背景が戻ってきた！ラマダンをお祝いしよう！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Фон для «Крыльев» готов к празднованию Рамадана!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《展翅翱翔》的齋月背景現已上線，一起慶祝吧！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《展翅翱翔》的斋月背景现已上线，一起庆祝吧！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Lo sfondo Ramadan è qui su Wingspan!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "윙스팬의 라마단 배경이 축하와 함께 왔습니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Фон для «Крил» готовий до святкування Рамадану!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "This season, Wingspan invites you to reflect and gather in the calm, starry glow of our Ramadan background. Watch your preserve come to life under a serene, moonlit sky that shines brighter as each day passes. \n\nEnjoy this background until [March 29], or make it a permanent part of your experience with the Seasonal Decorative Pack. Step into the peaceful magic of Ramadan with your birds!\n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Tym razem Na Skrzydłach zaprasza do refleksji i zebrania się w spokojnym, gwiaździstym blasku naszego tła na Ramadan. Zobacz, jak Twój rezerwat ożywa pod pogodnym, księżycowym niebem, które jaśnieje z każdym dniem. \nCiesz się tym tłem do <b>29 marca</b> lub uczyń je stałą częścią swojej gry dzięki Sezonowemu Zestawowi Dekoracyjnemu. Wleć w spokojną magię Ramadanu ze swoim stadem!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "In dieser Zeit des Jahres lädt Wingspan dich dazu ein, dich zu besinnen und im Strahlen der Sterne unseres Ramadan-Hintergrunds zur Ruhe zu kommen. Beobachte, wie dein Reservat unter einem friedlichen Himmel voller Mondschein zum Leben erwacht, der mit jedem Tag heller wird. \n\nGenieße diesen Hintergrund bis zum [29. März] – oder mach ihn mit dem Jahreszeiten-Dekopaket zu einem bleibenden Teil deines Erlebnisses. Begib dich mit deinen Vögeln in die friedliche Magie des Ramadan!\n"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Cette saison, Wingspan vous invite à l'introspection et au rassemblement avec le paisible éclat étoilé de notre arrière-plan Ramadan. Observez votre volière prendre vie sous un clair de lune serein qui brille de plus en plus fort au fil des jours.\n\nProfitez de cet arrière-plan jusqu'au [29 mars], ou ajoutez-le définitivement à votre expérience grâce au pack décoratif saisonnier. Découvrez la paisible magie du ramadan avec vos oiseaux !\n"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Esta temporada, Wingspan te invita a la reflexión y la calma bajo el apacible y estrellado resplandor de nuestro fondo del Ramadán. Observa cómo cobra vida tu aviario bajo un cielo tranquilo y bañado por la luz de la luna, que cada día brilla con más intensidad.\n\nDisfruta del fondo hasta el [29 de marzo] o añádelo de forma permanente a tu experiencia con el paquete decorativo estacional. ¡Sumérgete junto a tus aves en la plácida magia del Ramadán!\n"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Nesta temporada, Wingspan convida você a refletir e se reunir sob o brilho calmo e estrelado do nosso plano de fundo do Ramadã. Veja sua reserva ganhar vida sob um céu sereno e iluminado pela lua, que brilha cada vez mais a cada dia que passa. \n\nAproveite este fundo até [29 de março] ou fique com ele permanentemente com o Pacote Decorativo Sazonal. Entre na magia pacífica do Ramadã com suas aves!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "この季節、『ウイングスパン』のラマダン背景のもとに集まって、落ち着きのある星明かりの輝きの下で内省しよう。日が経つごとに輝きを増す、月明かりに照らされた空の下で活気づく保護区を楽しもう。\n\nこの背景は[3月29日]まで楽しめる。「季節の装飾パック」を購入すれば、ずっと利用することが可能。鳥たちと一緒に、ラマダンの穏やかな魔法に足を踏み入れよう！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "В этом сезоне «Крылья» приглашают вас к спокойному созерцанию на фоне звёздного неба Рамадана. Полюбуйтесь, как ваш заповедник оживает под безмятежным ночным небом, которое будет светиться ярче с каждым днём.\n\nИграйте с этим фоном до [29 марта] — или сохраните его навсегда с декоративным набором «Времена года». Погрузитесь в спокойное волшебство Рамадана вместе с вашими птицами!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "在齋月季，《展翅翱翔》邀請你在靜謐星光的陪伴下，沉思與團聚。欣賞你的鳥類棲息地在祥和的月光下煥發生機。隨着時間推移，夜空愈發璀璨。\n\n這個背景將持續開放至 [3月29日]，或通過購買「季節性裝飾包」永久獲得。與鳥兒們一起踏入齋月的寧靜魔法吧！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "在斋月季，《展翅翱翔》邀请你在静谧星光的陪伴下，沉思与团聚。欣赏你的鸟类栖息地在祥和的月光下焕发生机。随着时间推移，夜空愈发璀璨。\n\n这个背景将持续开放至 [3月29日]，或通过购买“季节性装饰包”永久获得。与鸟儿们一起踏入斋月的宁静魔法吧！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Questa stagione, Wingspan ti invita a riflettere e meditare nel bagliore rilassante e stellato del nostro sfondo Ramadan. Guarda la tua voliera prendere vita sotto un cielo sereno e illuminato dalla luna, che brilla ogni giorno di più.\n\nGoditi questo sfondo fino al [29 marzo] o rendilo parte stabile della tua esperienza con il pacchetto decorativo stagionale. Vivi la rilassante magia del Ramadan con i tuoi uccelli!\n"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "이번 시즌 윙스팬은 라마단을 배경으로 고요하고 별이 빛나는 밤하늘에서의 사색으로 여러분을 초대합니다. 날이 갈수록 더 밝게 빛나는 고요한 달빛 아래에서 여러분의 보존 지역이 살아나는 모습을 지켜보세요.\n\n[3월 29일]까지 이 배경을 한시적으로 즐기거나, 계절 장식 팩으로 영구적으로 경험의 일부로 만들어 보세요. 새들과 함께 라마단의 평화로운 마법 속으로 들어가 보세요!\n"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "У цьому сезоні «Крила» запрошують вас спокійно спостерігати на фоні зоряного неба Рамадану. Погляньте, як ваш заповідник оживає під безтурботним нічним небом, яке буде світитися все яскравіше з кожним днем. \n\nГрайте з цим фоном до [29 березня] — або збережіть його назавжди з декоративним набором «Пори року». Зануріться до спокійної чарівної атмосфери Рамадану разом з вашими птахами!\n"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 1,
+                    "PlatformsToShowOn": 257,
+                    "Value": "SB_DLC",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Check out Decorative DLC"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Sprawdź dekoracyjne DLC"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Sieh dir den Deko-DLC an"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Voir le DLC décoratif"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Ver DLC decorativo"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Conferir o DLC Decorativo"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "装飾DLCをチェックしましょう"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Посмотреть декоративный набор"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "查看装饰包DLC"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "查看裝飾包DLC"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Dai un'occhiata al DLC decorativo"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "장식 DLC 확인"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Ознайомтеся з декоративним доповненням"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "ID": "f0089d0b-d562-498b-b659-1c40e7940fba",
+            "Tags": [
+                "Events"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638763840000000000,
+            "EndDateTicks": 638775936000000000,
+            "Priority": 1,
+            "PresetImageName": "",
+            "RemoteImageName": "CalicoBG_Newscenter.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Happy Anniversary, Quilts and Cats of Calico!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Wszystkiego najlepszego z okazji rocznicy, Quilts i Cats of Calico!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Alles Gute zum Jahrestag, Quilts and Cats of Calico!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Joyeux anniversaire, Quilts and Cats of Calico !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Feliz aniversario, Quilts and Cats of Calico!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Feliz aniversário, Quilts and Cats of Calico!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『キャリコ～陽だまりネコとパッチワーク～』のハッピーアニバーサリー！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "С днём рождения, Quilts and Cats of Calico!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "周年快樂，貓與花毯！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "周年快乐，猫与花毯！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Buon anniversario, Quilts and Cats of Calico!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "캘리코의 퀄트와 고양이의 주년을 축하합니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "З днем народження, Quilts and Cats of Calico!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Special Calico Anniversary Background in Wingspan!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Specjalne rocznicowe tło Calico w Na Skrzydłach powraca!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Ein besonderer Calico-Jahrestag-Hintergrund wartet in Wingspan!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Arrière-plan spécial Anniversaire de Calico dans Wingspan !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Llega a Wingspan el fondo especial del aniversario de Calico!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Plano de fundo especial Aniversário de Calico no Wingspan!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『キャリコ』の特別な記念背景が『ウイングスパン』に登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Особый юбилейный фон «Котиков» в «Крыльях»!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《展翅翱翔》有了特別的《貓與花毯》周年背景！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《展翅翱翔》有了特别的《猫与花毯》周年背景！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Sfondo speciale Anniversario di Calico su Wingspan!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "윙스팬의 특별한 캘리코 주년 기념 배경!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Особливий ювілейний фон «Каліко» у «Крилах»!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "We’re celebrating our purr-fect friends at Quilts and Cats of Calico with a cozy, quilted anniversary background in Wingspan! Imagine your preserve surrounded by patchwork charm and a little extra coziness.\n\nThe limited-time Calico background will be available until [March 15], or you can snuggle up with it all year in the Seasonal Decorative Pack 2. Let’s make your preserve as comfy as a quilt!\n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Świętujemy z naszymi mruczącymi przyjaciółmi z Quilts and Cats of Calico z przytulnym, pikowanym tłem rocznicowym w Na Skrzydłach! Wyobraź sobie swój dom otoczony patchworkowym urokiem i odrobiną dodatkowej przytulności.\nLimitowane tło Calico będzie dostępne do <b>15 marca</b>, ale można się w nie wtulać przez cały rok w ramach Sezonowego Zestawu Dekoracyjnego 2. Spraw, by Twój rezerwat był przytulny jak kołderka!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Wir feiern unsere pfotastischen Freunde von Quilts and Cats of Calico mit einem kuscheligen gesteppten Jahrestag-Hintergrund in Wingspan! Male dir dein Reservat aus, umhüllt von Patchwork-Charme und ein wenig Extra-Gemütlichkeit.\n\nDer zeitlich limitierte Calico-Hintergrund ist bis zum [15. März] verfügbar – oder du kuschelst dich das ganze Jahr darin ein, mit dem Jahreszeiten-Dekopaket 2. Mach dein Reservat so gemütlich wie die kuscheligste Steppdecke!\n"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Nos miaougnifiques amis de Quilts and Cats of Calico sont à l'honneur dans Wingspan avec cet arrière-plan d'anniversaire douillet ! Imaginez votre volière pleine de patchworks confortables.\n\nCet arrière-plan Calico à durée limitée sera disponible jusqu'au [15 mars], ou vous pouvez vous blottir dedans toute l'année grâce au pack décoratif saisonnier 2. Rendez votre volière aussi confortable qu'un duvet !\n"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Queremos homenajear a nuestros amigos gatunos de Quilts and Cats of Calico con un acogedor y acolchado fondo de aniversario de Wingspan! Imagina tu aviario un pelín más calentito y lleno de encantadores retales.\n\nEl fondo por tiempo limitado de Calico estará disponible hasta el [15 de marzo], pero, si quieres hacerte un ovillo todo el año, también puedes conseguir el paquete decorativo estacional 2. ¡Haz que tu aviario sea tan confortable como una colcha!\n"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Estamos celebrando nossos perfeitos amigos felpudos de Quilts and Cats of Calico com um fundo de aniversário aconchegante e acolchoado no Wingspan! Imagine sua reserva cercada por um charme acolhedor e um toque extra de aconchego.\n\nO fundo limitado de Calico estará disponível até [15 de março], ou você pode se aconchegar com ele o ano todo no Pacote Decorativo Sazonal 2. Vamos deixar sua reserva tão confortável quanto uma colcha!\n"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "『キャリコ～陽だまりネコとパッチワーク～』の登場を記念した『ウイングスパン』のキルト背景で、\"ニャーフェクト\"な友達をお祝いしよう！可愛らしいパッチワークとちょっとしたくつろぎ感がプラスされた保護区を想像してみよう。\n\n期間限定の『キャリコ』背景は[3月15日]まで利用できる予定。または、「季節の装飾パック2」を購入すれば、1年じゅうこの気持ち良さを楽しめる。保護区をキルトと同じくらい心地良くしよう！\n"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Отмечаем день рождения наших чудесных друзей-мурлык из Quilts and Cats of Calico с уютным ситцевым фоном для «Крыльев»! Представьте, что ваш заповедник укутан милыми и тёплыми одеялками!\n\nФон «Котики» будет доступен в игре только до [15 марта], но с декоративным набором «Времена года 2» он будет радовать вас хоть круглый год! Добавьте вашему заповеднику домашнего уюта!\n"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "我們正在為《貓與花毯》中的貓咪夥伴們慶祝，特別推出溫馨的周年背景！你的鳥類棲息地被花毯的魅力包圍，增添了一份舒適與愜意。\n\n限時《貓與花毯》背景將開放至 [3月15日]，或通過購買「季節性裝飾包2」永久獲得。讓你的棲息地像拼布一樣溫暖舒適吧！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "我们正在为《猫与花毯》中的猫咪伙伴们庆祝，特别推出温馨的周年背景！你的鸟类栖息地被花毯的魅力包围，增添了一份舒适与惬意。\n\n限时《猫与花毯》背景将开放至 [3月15日]，或通过购买“季节性装饰包2”永久获得。让你的栖息地像拼布一样温暖舒适吧！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Su Wingspan, festeggiamo i nostri amici purr-fetti di Quilts and Cats of Calico con uno sfondo per l'anniversario caldo e trapuntato! Immagina la tua voliera circondata dal fascino della trapunta e un po' di tepore in più!\n\nQuesto sfondo di Calico a tempo limitato sarà disponibile fino al [15 marzo] o puoi farlo tuo per tutto l'anno con il pacchetto decorativo stagionale 2. Rendi la tua voliera confortevole come una trapunta!\n"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "캘리코의 퀄트와 고양이의 포근한 퀼트 주년 기념 배경을 윙스팬에서 만들어 친구들을 축하합시다! 퀼트의 매력과 약간의 아늑함으로 둘러싸인 보존 지역을 상상해 보세요.\n\n기간 한정으로 제공되는 캘리코 배경은 [3월 15일]까지 한정적으로 사용할 수 있으며, 계절 장식 팩 2에서 일 년 내내 사용할 수 있습니다. 이불처럼 포근한 보존 지역을 만들어 보세요!\n"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Святкуємо день народження наших чудових котячих друзів з Quilts and Cats of Calico із затишним ситцевим фоном для «Крил»! Уявіть, що ваш заповідник загорнутий у милі й теплі ковдри!\n\nФон «Каліко» буде доступний у грі тільки до [15 березня], але з декоративним набором «Пори року 2» він буде радувати вас весь рік! Додайте домашньої затишності вашому заповіднику!\n"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 1,
+                    "PlatformsToShowOn": 257,
+                    "Value": "SDP2_DLC",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Check out Decorative DLC"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Sprawdź dekoracyjne DLC"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Sieh dir den Deko-DLC an"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Voir le DLC décoratif"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Ver DLC decorativo"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Conferir o DLC Decorativo"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "装飾DLCをチェックしましょう"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Посмотреть декоративный набор"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "查看裝飾性 DLC"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "查看装饰性 DLC"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Dai un'occhiata al DLC decorativo"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "장식 DLC 확인"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Ознайомтеся з декоративним доповненням"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "ID": "a57a6a92-5f92-4c3f-9dcd-e01deb00d380",
+            "Tags": [],
+            "PlatformsToShowOn": 4,
+            "StartDateTicks": 638763732000000000,
+            "EndDateTicks": 638772480000000000,
+            "Priority": 1,
+            "PresetImageName": "",
+            "RemoteImageName": "Calico_Newscenter_Mobile.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "A New Cozy Adventure Awaits!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Nowa Przytulna Przygoda Czeka!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Ein neues, kuscheliges Abenteuer wartet!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Une nouvelle aventure douillette vous attend !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Llega una nueva y acogedora aventura!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Uma nova aventura aconchegante espera por você!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "ほのぼのとした、新たな冒険が待っている！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Новое уютное приключение!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "一場全新的溫馨冒險即將開啟！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "一场全新的温馨冒险即将开启！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Una nuova confortevole avventura ti attende!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "새로운 아늑한 모험이 기다립니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Нова чарівна пригода чекає!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Quilts and Cats of Calico is Coming to Android March 11th!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Quilts and Cats of Calico pojawi się na Androidzie 11 marca!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Am 11. März kommt „Quilts and Cats of Calico“ für Android!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Quilts and Cats of Calico arrive sur Android le 11 mars !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Quilts and Cats of Calico estará disponible en Android el 11 de marzo!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Quilts and Cats of Calico estará disponível no Android em 11 de março!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "3月11日、『キャリコ～陽だまりネコとパッチワーク～』がAndroidに登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "11 марта выйдет версия Quilts and Cats of Calico для Android!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《貓與花毯》將於3月11日登陸Android！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《猫与花毯》将于3月11日登陆Android！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Quilts and Cats of Calico arriverà su Android l'11 marzo!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "캘리코의 퀼트와 고양이가 3월 11일 안드로이드에 출시됩니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "11 березня вийде версія Quilts and Cats of Calico для Android!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Hey birders! If you love relaxing strategy games, we’ve got something purr-fectly cozy for you. Quilts and Cats of Calico is coming to Google Play Store, and you can pre-register it now!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Hej ptasiarze! Jeśli lubicie relaksujące gry strategiczne, mamy dla was coś idealnie przytulnego. Quilts and Cats of Calico pojawi się niedługo w Google Play Store i już teraz możesz skorzystać z wcześniejszej rejestracji!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Hallo, Vogelbeobachter! Wenn ihr entspannende Strategiespiele (und Katzen) mögt, haben wir miaufregende Neuigkeiten für euch: „Quilts and Cats of Calico“ kommt in den Google Play Store und ihr könnt euch jetzt schon vorregistrieren!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Bonjour, les ornithologues ! Si vous aimez les jeux de stratégie relaxants, nous avons quelque chose qui ronronne de douceur pour vous. Quilts and Cats of Calico arrive sur Google Play, et vous pouvez déjà vous préinscrire !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Hola, fans de las aves! Si os encantan los juegos de estrategia relajantes, os traemos unos mininos que harán vuestras delicias. ¡Quilts and Cats of Calico llega a Google Play Store y ya lo podéis reservar!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Olá, observadores de pássaros! Se você adora jogos de estratégia relaxantes, temos algo miauravilhosamente aconchegante para você. Quilts and Cats of Calico estará disponível em breve na Google Play Store, e você já pode fazer o pré-registro!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "リラックスできる戦略ゲームが好きな愛鳥家の皆さんに、ニャーフェクトで心地良いゲームをご用意しました。『キャリコ～陽だまりネコとパッチワーク～』がGoogle Play Storeに登場！　現在事前登録受付中！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Привет птицеловам! Если вы любите расслабляющие стратегические игры, у нас есть кое-что уютно-лоскутное для вас! Игра Quilts and Cats of Calico скоро появится в Google Play, и вы уже можете пройти предварительную регистрацию!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "嘿，觀鳥者們！如果你喜歡輕鬆治癒的策略遊戲，我們為你準備了一款溫暖療愈的佳作！《貓與花毯》即將登陸Google Play商店，現在即可預注冊！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "嘿，观鸟者们！如果你喜欢轻松治愈的策略游戏，我们为你准备了一款温暖治愈的佳作！《猫与花毯》即将登陆Google Play商店，现在即可预注册！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Ehi, birdwatcher! Se ti piacciono i giochi di strategia rilassanti, abbiamo qualcosa di purr-fettamente adatto a te. Quilts and Cats of Calico è in arrivo su Google Play e puoi preregistrarti ora!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "새 애호가 여러분! 편안한 전략 게임을 좋아하시는 분들을 위해 아주 아늑한 게임을 준비했습니다. 캘리코의 퀼트와 고양이가 Google Play Store에 출시 예정이며, 지금 사전 예약할 수 있습니다!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Привіт птахоловам! Якщо ви полюбляєте розслаблюючі стратегічні ігри, ми маємо для вас дещо котяче й чарівне! Гра Quilts and Cats of Calico скоро з'явиться у магазині Google Play, і ви вже можете пройти попередню реєстрацію!"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 0,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "It’s a delightful mix of strategy and comfort - sew colorful quilts, attract the cutest cats, and enjoy a game that’s cozy yet challenging. If you love Wingspan’s thoughtful gameplay, you might just fall for this one too!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "To zachwycająca mieszanka strategii i wygody - szyj kolorowe kołdry, przyciągaj najsłodsze koty i ciesz się grą, która jest przytulna, ale stanowi wyzwanie. Jeśli uwielbiasz przemyślaną rozgrywkę Wingspan, ta gra również może przypaść ci do gustu!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Euch erwartet ein herrlicher Mix aus Strategie und Gemütlichkeit – näht farbenfrohe Quilts, lockt die süßesten Katzen an und vergnügt euch mit einem Spiel, das Behaglichkeit und Herausforderung zugleich bietet. Wenn euch das durchdachte Gameplay von Wingspan gefällt, könnte dieses Spiel genau das richtige für euch sein!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "C'est un savoureux mélange de stratégie et de confort : composez des couvertures colorées, attirez les chats les plus adorables et profitez d'un jeu à la fois douillet et stimulant. Si vous appréciez la réflexion stratégique de Wingspan, ce jeu aussi pourrait bien vous faire craquer !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Es una mezcla encantadora de estrategia y confort donde coseréis colchas coloridas, atraeréis a gatos monísimos y disfrutaréis de un juego acogedor pero desafiante. Si os gusta el estilo reflexivo de Wingspan, ¡seguro que este también os enamorará!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "É uma mistura encantadora de estratégia e aconchego. Costure colchas coloridas, atraia os gatos mais fofos e divirta-se em um jogo que é ao mesmo tempo acolhedor e desafiador. Se você gosta da jogabilidade inteligente de Wingspan, vai se apaixonar por este também!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "本作は、戦略性と心地良さのバランスが魅力的な、ほのぼのとしたゲーム。カラフルなキルトを縫って可愛らしいネコちゃんの興味を惹いて、心地良くも手応えのあるゲームを楽しもう。『Wingspan』の戦略的なゲーム性が好きなら、きっと本作も気に入るはず！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Сшейте разноцветное одеяло и приманите милых котиков в этой уютной игре-головоломке. Если вам понравился продуманный до мелочей игровой процесс «Крыльев», Quilts and Cats of Calico также может вас увлечь!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "這是一款融合策略與舒適感的遊戲——縫製色彩斑斕的布料，吸引最可愛的貓咪們，體驗溫馨而富有挑戰性的玩法。如果你喜歡《展翅翱翔》那令人沉浸於思索的玩法，相信也會愛上這款遊戲！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "这是一款融合策略与舒适感的游戏——缝制色彩斑斓的布料，吸引最可爱的猫咪们，体验温馨而富有挑战性的玩法。如果你喜欢《展翅翱翔》那令人沉浸于思索的玩法，相信也会爱上这款游戏！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "È un delizioso mix di strategia e comfort: cuci coperte colorate, attrai i gattini più carini e goditi un gioco confortevole e allo stesso tempo impegnativo. Se ami le partite ragionate di Wingspan, potresti innamorarti anche di questo gioco!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "알록달록한 퀼트를 꿰매고, 귀여운 고양이들을 끌어들이고, 아늑하면서도 도전적인 게임을 즐겨보세요. 윙스팬의 깊은 게임 플레이를 좋아하신다면 이 게임도 마음에 드실 거예요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Зшийте різнокольорову ковдру й приманіть чарівних котів! У цій грі потрібно думати й прораховувати стратегію, а її атмосфера душе затишна й допомагає відпочити. Якщо вам сподобався ретельно продуманий ігровий процес «Крил», Quilts and Cats of Calico теж може захопити вас!"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 4,
+                    "Value": "https://play.google.com/store/apps/details?id=com.MonsterCouch.Calico&hl=en",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Pre-register now! "
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Skorzystaj z wcześniejszej rejestracji!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Jetzt vorregistrieren! "
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Se préinscrire maintenant ! "
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Registraos ya! "
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Faça o pré-registro agora! "
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "今すぐ事前登録！ "
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Пройти предрегистрацию "
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "立即預注冊！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "立即预注册！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Preregistrati ora! "
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "지금 등록하세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Пройти попередню реєстрацію "
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "ID": "44b9ae43-7bda-4344-b433-a5628856730e",
+            "Tags": [
+                "MonsterCouch"
+            ],
+            "PlatformsToShowOn": 8,
+            "StartDateTicks": 638763732000000000,
+            "EndDateTicks": 638772480000000000,
+            "Priority": 1,
+            "PresetImageName": "",
+            "RemoteImageName": "Calico_Newscenter_Mobile.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "A New Cozy Adventure Awaits!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Nowa Przytulna Przygoda Czeka!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Ein neues, kuscheliges Abenteuer wartet!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Une nouvelle aventure douillette vous attend !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Llega una nueva y acogedora aventura!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Uma nova aventura aconchegante espera por você!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "ほのぼのとした、新たな冒険が待っている！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Новое уютное приключение!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "一場全新的溫馨冒險即將開啟！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "一场全新的温馨冒险即将开启！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Una nuova confortevole avventura ti attende!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "새로운 아늑한 모험이 기다립니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Нова чарівна пригода чекає!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Quilts and Cats of Calico is Coming to iOS March 11th!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Quilts and Cats of Calico pojawi się na iOS 11 marca!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Am 11. März kommt „Quilts and Cats of Calico“ für iOS!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Quilts and Cats of Calico arrive sur iOS le 11 mars !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Quilts and Cats of Calico estará disponible en iOS el 11 de marzo!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Quilts and Cats of Calico estará disponível no iOS em 11 de março!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "3月11日、『キャリコ～陽だまりネコとパッチワーク～』がiOSに登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "11 марта выйдет версия Quilts and Cats of Calico для iOS!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《貓與花毯》將於3月11日登陸iOS！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《猫与花毯》将于3月11日登陆iOS！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Quilts and Cats of Calico arriverà su iOS l'11 marzo!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "캘리코의 퀼트와 고양이가 3월 11일 iOS에 출시됩니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "11 березня вийде версія Quilts and Cats of Calico для iOS!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Hey birders! If you love relaxing strategy games, we’ve got something purr-fectly cozy for you. Quilts and Cats of Calico is coming to App Store, and you can pre-order it now!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Hej ptasiarze! Jeśli lubicie relaksujące gry strategiczne, mamy dla was coś idealnie przytulnego. Quilts and Cats of Calico pojawi się niedługo w App Store i już teraz możesz zamówić ją w przedsprzedaży!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Hallo, Vogelbeobachter! Wenn ihr entspannende Strategiespiele (und Katzen) mögt, haben wir miaufregende Neuigkeiten für euch: „Quilts and Cats of Calico“ kommt in den App Store und ihr könnt es jetzt schon vorbestellen!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Bonjour, les ornithologues ! Si vous aimez les jeux de stratégie relaxants, nous avons quelque chose qui ronronne de douceur pour vous. Quilts and Cats of Calico arrive sur l'App Store, et vous pouvez déjà le précommander !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Hola, fans de las aves! Si os encantan los juegos de estrategia relajantes, os traemos unos mininos que harán vuestras delicias. ¡Quilts and Cats of Calico llega al App Store y ya lo podéis reservar!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Olá, observadores de pássaros! Se você adora jogos de estratégia relaxantes, temos algo miauravilhosamente aconchegante para você. Quilts and Cats of Calico estará disponível em breve na App Store, e você já pode adquirir na pré-venda!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "リラックスできる戦略ゲームが好きな愛鳥家の皆さんに、ニャーフェクトで心地良いゲームをご用意しました。『キャリコ～陽だまりネコとパッチワーク～』がApp Storeに登場！　現在予約受付中！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Привет птицеловам! Если вы любите расслабляющие стратегические игры, у нас есть кое-что уютно-лоскутное для вас! Игра Quilts and Cats of Calico скоро появится в App Store, и вы уже можете оформить предзаказ!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "嘿，觀鳥者們！如果你喜歡輕鬆治癒的策略遊戲，我們為你準備了一款溫暖治癒的佳作！《貓與花毯》即將登陸App Store，現在即可預約！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "嘿，观鸟者们！如果你喜欢轻松治愈的策略游戏，我们为你准备了一款温暖治愈的佳作！《猫与花毯》即将登陆App Store，现在即可预约！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Ehi, birdwatcher! Se ti piacciono i giochi di strategia rilassanti, abbiamo qualcosa di purr-fettamente adatto a te. Quilts and Cats of Calico è in arrivo sull'App Store e puoi preordinarlo ora!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "새 애호가 여러분! 편안한 전략 게임을 좋아하시는 분들을 위해 아주 아늑한 게임을 준비했습니다. 캘리코의 퀼트와 고양이가 App Store에 출시 예정이며, 지금 사전 예약할 수 있습니다!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Привіт птахоловам! Якщо ви полюбляєте розслаблюючі стратегічні ігри, ми маємо для вас дещо котяче й чарівне! Гра Quilts and Cats of Calico скоро з'явиться в App Store, і ви вже можете оформити передзамовлення!"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 0,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "It’s a delightful mix of strategy and comfort - sew colorful quilts, attract the cutest cats, and enjoy a game that’s cozy yet challenging. If you love Wingspan’s thoughtful gameplay, you might just fall for this one too!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "To zachwycająca mieszanka strategii i wygody - szyj kolorowe kołdry, przyciągaj najsłodsze koty i ciesz się grą, która jest przytulna, ale stanowi wyzwanie. Jeśli uwielbiasz przemyślaną rozgrywkę Wingspan, ta gra również może przypaść ci do gustu!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Euch erwartet ein herrlicher Mix aus Strategie und Gemütlichkeit – näht farbenfrohe Quilts, lockt die süßesten Katzen an und vergnügt euch mit einem Spiel, das Behaglichkeit und Herausforderung zugleich bietet. Wenn euch das durchdachte Gameplay von Wingspan gefällt, könnte dieses Spiel genau das richtige für euch sein!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "C'est un savoureux mélange de stratégie et de confort : composez des couvertures colorées, attirez les chats les plus adorables et profitez d'un jeu à la fois douillet et stimulant. Si vous appréciez la réflexion stratégique de Wingspan, ce jeu aussi pourrait bien vous faire craquer !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Es una mezcla encantadora de estrategia y confort donde coseréis colchas coloridas, atraeréis a gatos monísimos y disfrutaréis de un juego acogedor pero desafiante. Si os gusta el estilo reflexivo de Wingspan, ¡seguro que este también os enamorará!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "É uma mistura encantadora de estratégia e aconchego. Costure colchas coloridas, atraia os gatos mais fofos e divirta-se em um jogo que é ao mesmo tempo acolhedor e desafiador. Se você gosta da jogabilidade inteligente de Wingspan, vai se apaixonar por este também!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "本作は、戦略性と心地良さのバランスが魅力的な、ほのぼのとしたゲーム。カラフルなキルトを縫って可愛らしいネコちゃんの興味を惹いて、心地良くも手応えのあるゲームを楽しもう。『Wingspan』の戦略的なゲーム性が好きなら、きっと本作も気に入るはず！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Сшейте разноцветное одеяло и приманите милых котиков в этой уютной игре-головоломке. Если вам понравился продуманный до мелочей игровой процесс «Крыльев», Quilts and Cats of Calico также может вас увлечь!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "這是一款融合策略與舒適感的遊戲——縫製色彩斑斕的布料，吸引最可愛的貓咪們，體驗溫馨而富有挑戰性的玩法。如果你喜歡《展翅翱翔》那令人沉浸於思索的玩法，相信也會愛上這款遊戲！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "这是一款融合策略与舒适感的游戏——缝制色彩斑斓的布料，吸引最可爱的猫咪们，体验温馨而富有挑战性的玩法。如果你喜欢《展翅翱翔》那令人沉浸于思索的玩法，相信也会爱上这款游戏！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "È un delizioso mix di strategia e comfort: cuci coperte colorate, attrai i gattini più carini e goditi un gioco confortevole e allo stesso tempo impegnativo. Se ami le partite ragionate di Wingspan, potresti innamorarti anche di questo gioco!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "알록달록한 퀼트를 꿰매고, 귀여운 고양이들을 끌어들이고, 아늑하면서도 도전적인 게임을 즐겨보세요. 윙스팬의 깊은 게임 플레이를 좋아하신다면 이 게임도 마음에 드실 거예요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Зшийте різнокольорову ковдру й приманіть чарівних котів! У цій грі потрібно думати й прораховувати стратегію, а її атмосфера душе затишна й допомагає відпочити. Якщо вам сподобався ретельно продуманий ігровий процес «Крил», Quilts and Cats of Calico теж може захопити вас!"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 8,
+                    "Value": "https://apps.apple.com/us/app/quilts-and-cats-of-calico/id1634779760",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Pre-order now! "
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Zamów w przedsprzedaży!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Jetzt vorbestellen! "
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Précommander maintenant ! "
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Reservadlo ya! "
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Compre na pré-venda agora! "
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "今すぐ予約！ "
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Оформить предзаказ "
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "立即預約！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "立即预约！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Preordinalo ora! "
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "지금 예약하세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Оформити передзамовлення "
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
