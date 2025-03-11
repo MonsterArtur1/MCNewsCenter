@@ -4275,11 +4275,13 @@
             ]
         },
         {
-            "ID": "a57a6a92-5f92-4c3f-9dcd-e01deb00d380",
-            "Tags": [],
+            "ID": "19139c4d-4fde-44b0-9fcf-252830a19789",
+            "Tags": [
+                "MonsterCouch"
+            ],
             "PlatformsToShowOn": 4,
-            "StartDateTicks": 638763732000000000,
-            "EndDateTicks": 638772480000000000,
+            "StartDateTicks": 638773092000000000,
+            "EndDateTicks": 946391904000000000,
             "Priority": 1,
             "PresetImageName": "",
             "RemoteImageName": "Calico_Newscenter_Mobile.png",
@@ -4287,55 +4289,55 @@
                 "LocalizedTexts": [
                     {
                         "Language": "en",
-                        "Text": "A New Cozy Adventure Awaits!"
+                        "Text": "Quilts and Cats of Calico – Now on Android!"
                     },
                     {
                         "Language": "pl",
-                        "Text": "Nowa Przytulna Przygoda Czeka!"
+                        "Text": "Quilts and Cats of Calico - teraz na Androida!"
                     },
                     {
                         "Language": "de",
-                        "Text": "Ein neues, kuscheliges Abenteuer wartet!"
+                        "Text": "Quilts and Cats of Calico – jetzt auf Android!"
                     },
                     {
                         "Language": "fr",
-                        "Text": "Une nouvelle aventure douillette vous attend !"
+                        "Text": "Quilts and Cats of Calico – Disponible sur Android !"
                     },
                     {
                         "Language": "es",
-                        "Text": "¡Llega una nueva y acogedora aventura!"
+                        "Text": "¡Quilts and Cats of Calico, ya disponible en Android!"
                     },
                     {
                         "Language": "pt-BR",
-                        "Text": "Uma nova aventura aconchegante espera por você!"
+                        "Text": "Quilts and Cats of Calico - Disponível no Android!"
                     },
                     {
                         "Language": "ja",
-                        "Text": "ほのぼのとした、新たな冒険が待っている！"
+                        "Text": "『キャリコ～陽だまりネコとパッチワーク～』がAndroidに！"
                     },
                     {
                         "Language": "ru",
-                        "Text": "Новое уютное приключение!"
+                        "Text": "Quilts and Cats of Calico доступна для Android!"
                     },
                     {
                         "Language": "zh",
-                        "Text": "一場全新的溫馨冒險即將開啟！"
+                        "Text": "《猫与花毯》现已登陆安卓平台！"
                     },
                     {
                         "Language": "zh-Hant",
-                        "Text": "一场全新的温馨冒险即将开启！"
+                        "Text": "《貓與花毯》現已登陸安卓平台！"
                     },
                     {
                         "Language": "it",
-                        "Text": "Una nuova confortevole avventura ti attende!"
+                        "Text": "Quilts and Cats of Calico è ora disponibile su Android!"
                     },
                     {
                         "Language": "ko",
-                        "Text": "새로운 아늑한 모험이 기다립니다!"
+                        "Text": "캘리코의 퀼트와 고양이 - 안드로이드 출시!"
                     },
                     {
                         "Language": "uk",
-                        "Text": "Нова чарівна пригода чекає!"
+                        "Text": "Quilts and Cats of Calico доступна для Android!"
                     }
                 ]
             },
@@ -4343,173 +4345,114 @@
                 "LocalizedTexts": [
                     {
                         "Language": "en",
-                        "Text": "Quilts and Cats of Calico is Coming to Android March 11th!"
+                        "Text": "Hey birders! Quilts and Cats of Calico is now available on Google Play!"
                     },
                     {
                         "Language": "pl",
-                        "Text": "Quilts and Cats of Calico pojawi się na Androidzie 11 marca!"
+                        "Text": "Quilts and Cats of Calico jest już dostępne w Google Play!"
                     },
                     {
                         "Language": "de",
-                        "Text": "Am 11. März kommt „Quilts and Cats of Calico“ für Android!"
+                        "Text": "Hallo, Vogelbeobachter! „Quilts and Cats of Calico“ ist jetzt auf Google Play verfügbar!"
                     },
                     {
                         "Language": "fr",
-                        "Text": "Quilts and Cats of Calico arrive sur Android le 11 mars !"
+                        "Text": "Bonjour, les ornithologues ! Quilts and Cats of Calico est désormais disponible sur Google Play !"
                     },
                     {
                         "Language": "es",
-                        "Text": "¡Quilts and Cats of Calico estará disponible en Android el 11 de marzo!"
+                        "Text": "¡Hola, fans de las aves! ¡Quilts and Cats of Calico ya está disponible en Google Play!"
                     },
                     {
                         "Language": "pt-BR",
-                        "Text": "Quilts and Cats of Calico estará disponível no Android em 11 de março!"
+                        "Text": "Olá, observadores de pássaros! Quilts and Cats of Calico já está disponível no Google Play!"
                     },
                     {
                         "Language": "ja",
-                        "Text": "3月11日、『キャリコ～陽だまりネコとパッチワーク～』がAndroidに登場！"
+                        "Text": "愛鳥家の方々に朗報！　『キャリコ～陽だまりネコとパッチワーク～』がGoogle Playに登場！"
                     },
                     {
                         "Language": "ru",
-                        "Text": "11 марта выйдет версия Quilts and Cats of Calico для Android!"
+                        "Text": "Привет птицеловам! Игра Quilts and Cats of Calico уже доступна в Google Play!"
                     },
                     {
                         "Language": "zh",
-                        "Text": "《貓與花毯》將於3月11日登陸Android！"
+                        "Text": "你好，观鸟者！《猫与花毯》现已在安卓平台发售！"
                     },
                     {
                         "Language": "zh-Hant",
-                        "Text": "《猫与花毯》将于3月11日登陆Android！"
+                        "Text": "你好，觀鳥者！《貓與花毯》現已在安卓平台發售！"
                     },
                     {
                         "Language": "it",
-                        "Text": "Quilts and Cats of Calico arriverà su Android l'11 marzo!"
+                        "Text": "Ehi, birdwatcher! Quilts and Cats of Calico è ora disponibile su Google Play!"
                     },
                     {
                         "Language": "ko",
-                        "Text": "캘리코의 퀼트와 고양이가 3월 11일 안드로이드에 출시됩니다!"
+                        "Text": "안녕하세요! 캘리코의 퀼트와 고양이가 Google Play에 출시되었습니다!"
                     },
                     {
                         "Language": "uk",
-                        "Text": "11 березня вийде версія Quilts and Cats of Calico для Android!"
+                        "Text": "Привіт птахоловам! Гра Quilts and Cats of Calico вже доступна в Google Play!"
                     }
                 ]
             },
             "Content": [
                 {
-                    "PlatformsToShowOn": 511,
+                    "PlatformsToShowOn": 4,
                     "Text": {
                         "LocalizedTexts": [
                             {
                                 "Language": "en",
-                                "Text": "Hey birders! If you love relaxing strategy games, we’ve got something purr-fectly cozy for you. Quilts and Cats of Calico is coming to Google Play Store, and you can pre-register it now!"
+                                "Text": "Sew colorful quilts, attract the cutest cats, and unwind with this cozy yet brain-teasing puzzle game. Enjoy free seasonal content, weekly challenges and original Story mode! \nIt’s a charming blend of strategy and comfort - perfect for a quiet moment.\nSounds fun? Give it a go!  "
                             },
                             {
                                 "Language": "pl",
-                                "Text": "Hej ptasiarze! Jeśli lubicie relaksujące gry strategiczne, mamy dla was coś idealnie przytulnego. Quilts and Cats of Calico pojawi się niedługo w Google Play Store i już teraz możesz skorzystać z wcześniejszej rejestracji!"
+                                "Text": "Szyj kolorowe kołdry, przyciągaj najsłodsze koty i zrelaksuj się dzięki tej przytulnej, ale wymagającej grze logicznej. Ciesz się darmową zawartością sezonową, cotygodniowymi wyzwaniami i autorskim trybem fabularnym! \nTo urocze połączenie strategii i przyjemności - idealne na spokojną chwilę.\nBrzmi zachęcająco? Zagraj już teraz!"
                             },
                             {
                                 "Language": "de",
-                                "Text": "Hallo, Vogelbeobachter! Wenn ihr entspannende Strategiespiele (und Katzen) mögt, haben wir miaufregende Neuigkeiten für euch: „Quilts and Cats of Calico“ kommt in den Google Play Store und ihr könnt euch jetzt schon vorregistrieren!"
+                                "Text": "Näht farbenfrohe Quilts, lockt die süßesten Katzen an und entspannt euch mit diesem kuscheligen und gleichzeitig kniffligen Rätselspiel. Freut euch auf kostenlose saisonale Inhalte, wöchentliche Herausforderungen und einen originellen Story-Modus! \nDieses Spiel bietet eine charmante Mischung aus Strategie und Gemütlichkeit – perfekt für eine kleine Auszeit.\nKlingt gut? Dann los!  "
                             },
                             {
                                 "Language": "fr",
-                                "Text": "Bonjour, les ornithologues ! Si vous aimez les jeux de stratégie relaxants, nous avons quelque chose qui ronronne de douceur pour vous. Quilts and Cats of Calico arrive sur Google Play, et vous pouvez déjà vous préinscrire !"
+                                "Text": "Composez des couvertures colorées, attirez les chats les plus adorables et détendez-vous avec ce jeu de réflexion à la fois douillet et stimulant. Profitez de contenu saisonnier gratuit, de défis hebdomadaires et d'un mode Histoire original !\nC'est un mélange enchanteur de stratégie et de confort, idéal pour un moment de calme.\nÇa vous tente ? Lancez-vous !  "
                             },
                             {
                                 "Language": "es",
-                                "Text": "¡Hola, fans de las aves! Si os encantan los juegos de estrategia relajantes, os traemos unos mininos que harán vuestras delicias. ¡Quilts and Cats of Calico llega a Google Play Store y ya lo podéis reservar!"
+                                "Text": "Cosed colchas coloridas, atraed a gatos monísimos y relajaos en este juego de rompecabezas acogedor pero estimulante. Además, ¡podréis disfrutar de contenido festivo gratuito, desafíos semanales y un modo Historia!\nEs una combinación encantadora de estrategia y confort, ideal para pasar un rato tranquilo.\n¿Suena divertido? ¡Pues no dudéis en probarlo!  "
                             },
                             {
                                 "Language": "pt-BR",
-                                "Text": "Olá, observadores de pássaros! Se você adora jogos de estratégia relaxantes, temos algo miauravilhosamente aconchegante para você. Quilts and Cats of Calico estará disponível em breve na Google Play Store, e você já pode fazer o pré-registro!"
+                                "Text": "Costure colchas coloridas, atraia os gatos mais fofos e relaxe com este jogo de quebra-cabeças aconchegante e desafiador. Divirta-se com conteúdos temáticos gratuitos, desafios semanais e um modo História original! \nÉ uma combinação encantadora de estratégia e aconchego, perfeito para um momento de sossego.\nParece divertido? Experimente!  "
                             },
                             {
                                 "Language": "ja",
-                                "Text": "リラックスできる戦略ゲームが好きな愛鳥家の皆さんに、ニャーフェクトで心地良いゲームをご用意しました。『キャリコ～陽だまりネコとパッチワーク～』がGoogle Play Storeに登場！　現在事前登録受付中！"
+                                "Text": "カラフルなキルトを縫って可愛らしいネコちゃんの興味を惹いて、ほのぼのとした、頭を使うパズルゲームでリラックス。季節ごとの無料コンテンツ、ウィークリーチャレンジ、オリジナルストーリーモードも楽しめる！\n本作は、戦略性と心地良さが魅力の、静かなひと時にぴったりのゲーム。\n少しでも気になったらプレイしてみよう！  "
                             },
                             {
                                 "Language": "ru",
-                                "Text": "Привет птицеловам! Если вы любите расслабляющие стратегические игры, у нас есть кое-что уютно-лоскутное для вас! Игра Quilts and Cats of Calico скоро появится в Google Play, и вы уже можете пройти предварительную регистрацию!"
+                                "Text": "Шейте разноцветные одеяла, приманивайте милых котиков и отдохните душой в этой уютной игре, дающей хорошее упражнение для ума. Вас ждут бесплатные сезонные обновления, еженедельные задания и сюжетный режим.\nПриятное сочетание стратегии и уюта идеально подходит для неспешного времяпрепровождения!\nЗаинтересовались? Попробуйте!  "
                             },
                             {
                                 "Language": "zh",
-                                "Text": "嘿，觀鳥者們！如果你喜歡輕鬆治癒的策略遊戲，我們為你準備了一款溫暖療愈的佳作！《貓與花毯》即將登陸Google Play商店，現在即可預注冊！"
+                                "Text": "缝制五彩缤纷的花毯，吸引最可爱的猫咪，在这款温馨且富有挑战性的拼图游戏中放松一下。\n享受免费的季节性内容、每周挑战和原创故事模式！\n这是一个策略感与舒适感的迷人结合——非常适合安静的休闲时刻。\n听起来很有趣？快来试试吧！"
                             },
                             {
                                 "Language": "zh-Hant",
-                                "Text": "嘿，观鸟者们！如果你喜欢轻松治愈的策略游戏，我们为你准备了一款温暖治愈的佳作！《猫与花毯》即将登陆Google Play商店，现在即可预注册！"
+                                "Text": "縫製五彩繽紛的花毯，吸引最可愛的貓咪，在這款溫馨且富有挑戰性的拼圖遊戲中放鬆一下。\n享受免費的季節性內容、每周挑戰和原創故事模式！\n這是一個策略感與舒適感的迷人結合——非常適合安靜的休閒時刻。\n聽起來很有趣？快來試試吧！"
                             },
                             {
                                 "Language": "it",
-                                "Text": "Ehi, birdwatcher! Se ti piacciono i giochi di strategia rilassanti, abbiamo qualcosa di purr-fettamente adatto a te. Quilts and Cats of Calico è in arrivo su Google Play e puoi preregistrarti ora!"
+                                "Text": "Cuci coperte colorate, attrai i gattini più carini e rilassati con questo gioco rompicapo confortevole e in grado di stimolare la mente. Include contenuti stagionali gratuiti, sfide settimanali e una modalità Storia originale! \nÈ un delizioso mix di strategia e comfort, perfetto per i momenti di tranquillità.\nTi sembra divertente? Provalo!  "
                             },
                             {
                                 "Language": "ko",
-                                "Text": "새 애호가 여러분! 편안한 전략 게임을 좋아하시는 분들을 위해 아주 아늑한 게임을 준비했습니다. 캘리코의 퀼트와 고양이가 Google Play Store에 출시 예정이며, 지금 사전 예약할 수 있습니다!"
+                                "Text": "아늑하면서도 두뇌를 자극하는 퍼즐 게임에서 다채로운 색상의 퀼트를 꿰매고, 귀여운 고양이들을 끌어들이며 마음을 편하게 해보세요. 무료 시즌 콘텐츠, 주간 도전 과제, 오리지널 스토리 모드를 즐겨보세요!\n전략과 편안함이 매력적으로 어우러져 조용한 시간을 보내기에 완벽한 게임입니다.\n재밌을 거 같죠? 한번 플레이해보세요!"
                             },
                             {
                                 "Language": "uk",
-                                "Text": "Привіт птахоловам! Якщо ви полюбляєте розслаблюючі стратегічні ігри, ми маємо для вас дещо котяче й чарівне! Гра Quilts and Cats of Calico скоро з'явиться у магазині Google Play, і ви вже можете пройти попередню реєстрацію!"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "PlatformsToShowOn": 0,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "It’s a delightful mix of strategy and comfort - sew colorful quilts, attract the cutest cats, and enjoy a game that’s cozy yet challenging. If you love Wingspan’s thoughtful gameplay, you might just fall for this one too!"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "To zachwycająca mieszanka strategii i wygody - szyj kolorowe kołdry, przyciągaj najsłodsze koty i ciesz się grą, która jest przytulna, ale stanowi wyzwanie. Jeśli uwielbiasz przemyślaną rozgrywkę Wingspan, ta gra również może przypaść ci do gustu!"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Euch erwartet ein herrlicher Mix aus Strategie und Gemütlichkeit – näht farbenfrohe Quilts, lockt die süßesten Katzen an und vergnügt euch mit einem Spiel, das Behaglichkeit und Herausforderung zugleich bietet. Wenn euch das durchdachte Gameplay von Wingspan gefällt, könnte dieses Spiel genau das richtige für euch sein!"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "C'est un savoureux mélange de stratégie et de confort : composez des couvertures colorées, attirez les chats les plus adorables et profitez d'un jeu à la fois douillet et stimulant. Si vous appréciez la réflexion stratégique de Wingspan, ce jeu aussi pourrait bien vous faire craquer !"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Es una mezcla encantadora de estrategia y confort donde coseréis colchas coloridas, atraeréis a gatos monísimos y disfrutaréis de un juego acogedor pero desafiante. Si os gusta el estilo reflexivo de Wingspan, ¡seguro que este también os enamorará!"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "É uma mistura encantadora de estratégia e aconchego. Costure colchas coloridas, atraia os gatos mais fofos e divirta-se em um jogo que é ao mesmo tempo acolhedor e desafiador. Se você gosta da jogabilidade inteligente de Wingspan, vai se apaixonar por este também!"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "本作は、戦略性と心地良さのバランスが魅力的な、ほのぼのとしたゲーム。カラフルなキルトを縫って可愛らしいネコちゃんの興味を惹いて、心地良くも手応えのあるゲームを楽しもう。『Wingspan』の戦略的なゲーム性が好きなら、きっと本作も気に入るはず！"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Сшейте разноцветное одеяло и приманите милых котиков в этой уютной игре-головоломке. Если вам понравился продуманный до мелочей игровой процесс «Крыльев», Quilts and Cats of Calico также может вас увлечь!"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "這是一款融合策略與舒適感的遊戲——縫製色彩斑斕的布料，吸引最可愛的貓咪們，體驗溫馨而富有挑戰性的玩法。如果你喜歡《展翅翱翔》那令人沉浸於思索的玩法，相信也會愛上這款遊戲！"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "这是一款融合策略与舒适感的游戏——缝制色彩斑斓的布料，吸引最可爱的猫咪们，体验温馨而富有挑战性的玩法。如果你喜欢《展翅翱翔》那令人沉浸于思索的玩法，相信也会爱上这款游戏！"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "È un delizioso mix di strategia e comfort: cuci coperte colorate, attrai i gattini più carini e goditi un gioco confortevole e allo stesso tempo impegnativo. Se ami le partite ragionate di Wingspan, potresti innamorarti anche di questo gioco!"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "알록달록한 퀼트를 꿰매고, 귀여운 고양이들을 끌어들이고, 아늑하면서도 도전적인 게임을 즐겨보세요. 윙스팬의 깊은 게임 플레이를 좋아하신다면 이 게임도 마음에 드실 거예요!"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Зшийте різнокольорову ковдру й приманіть чарівних котів! У цій грі потрібно думати й прораховувати стратегію, а її атмосфера душе затишна й допомагає відпочити. Якщо вам сподобався ретельно продуманий ігровий процес «Крил», Quilts and Cats of Calico теж може захопити вас!"
+                                "Text": "Шийте різнокольорові ковдри, закликайте до себе кошенят і дозвольте собі відпочити з цією чарівною грою, що дасть добру розминку для розуму. На вас чекають безкоштовні сезонні матеріали, щотижневі випробування й сюжетний режим.\nПриємна суміш стратегії й затишності ідеально підходить для повільного проведення дозвілля!\nЗацікавились? Спробуйте!  "
                             }
                         ]
                     }
@@ -4519,60 +4462,60 @@
                 {
                     "ActionType": 0,
                     "PlatformsToShowOn": 4,
-                    "Value": "https://play.google.com/store/apps/details?id=com.MonsterCouch.Calico&hl=en",
+                    "Value": "https://play.google.com/store/apps/details?id=com.MonsterCouch.Calico&pli=1",
                     "ButtonText": {
                         "LocalizedTexts": [
                             {
                                 "Language": "en",
-                                "Text": "Pre-register now! "
+                                "Text": "Get it on Google Play! "
                             },
                             {
                                 "Language": "pl",
-                                "Text": "Skorzystaj z wcześniejszej rejestracji!"
+                                "Text": "Pobierz w Google Play! "
                             },
                             {
                                 "Language": "de",
-                                "Text": "Jetzt vorregistrieren! "
+                                "Text": "Jetzt auf Google Play holen! "
                             },
                             {
                                 "Language": "fr",
-                                "Text": "Se préinscrire maintenant ! "
+                                "Text": "Téléchargez-le sur Google Play ! "
                             },
                             {
                                 "Language": "es",
-                                "Text": "¡Registraos ya! "
+                                "Text": "¡Conseguidlo en Google Play! "
                             },
                             {
                                 "Language": "pt-BR",
-                                "Text": "Faça o pré-registro agora! "
+                                "Text": "Disponível no Google Play! "
                             },
                             {
                                 "Language": "ja",
-                                "Text": "今すぐ事前登録！ "
+                                "Text": "Google Playで今すぐゲット！ "
                             },
                             {
                                 "Language": "ru",
-                                "Text": "Пройти предрегистрацию "
+                                "Text": "Загрузить из Google Play "
                             },
                             {
                                 "Language": "zh",
-                                "Text": "立即預注冊！"
+                                "Text": "前往Google Play购买！"
                             },
                             {
                                 "Language": "zh-Hant",
-                                "Text": "立即预注册！"
+                                "Text": "前往Google Play購買！"
                             },
                             {
                                 "Language": "it",
-                                "Text": "Preregistrati ora! "
+                                "Text": "Scaricalo da Google Play! "
                             },
                             {
                                 "Language": "ko",
-                                "Text": "지금 등록하세요!"
+                                "Text": "Google Play에서 내려받으세요!"
                             },
                             {
                                 "Language": "uk",
-                                "Text": "Пройти попередню реєстрацію "
+                                "Text": "Завантажити з Google Play "
                             }
                         ]
                     }
@@ -4580,13 +4523,13 @@
             ]
         },
         {
-            "ID": "44b9ae43-7bda-4344-b433-a5628856730e",
+            "ID": "4a736e39-92bd-4797-b254-a08a90e44ede",
             "Tags": [
                 "MonsterCouch"
             ],
-            "PlatformsToShowOn": 8,
-            "StartDateTicks": 638763732000000000,
-            "EndDateTicks": 638772480000000000,
+            "PlatformsToShowOn": 12,
+            "StartDateTicks": 638773092000000000,
+            "EndDateTicks": 946391904000000000,
             "Priority": 1,
             "PresetImageName": "",
             "RemoteImageName": "Calico_Newscenter_Mobile.png",
@@ -4594,55 +4537,55 @@
                 "LocalizedTexts": [
                     {
                         "Language": "en",
-                        "Text": "A New Cozy Adventure Awaits!"
+                        "Text": "Quilts and Cats of Calico – Now on iOS!"
                     },
                     {
                         "Language": "pl",
-                        "Text": "Nowa Przytulna Przygoda Czeka!"
+                        "Text": "Quilts and Cats of Calico już dostępne na iOS!"
                     },
                     {
                         "Language": "de",
-                        "Text": "Ein neues, kuscheliges Abenteuer wartet!"
+                        "Text": "Quilts and Cats of Calico – jetzt auf iOS!"
                     },
                     {
                         "Language": "fr",
-                        "Text": "Une nouvelle aventure douillette vous attend !"
+                        "Text": "Quilts and Cats of Calico – Disponible sur iOS !"
                     },
                     {
                         "Language": "es",
-                        "Text": "¡Llega una nueva y acogedora aventura!"
+                        "Text": "¡Quilts and Cats of Calico, ya disponible en iOS!"
                     },
                     {
                         "Language": "pt-BR",
-                        "Text": "Uma nova aventura aconchegante espera por você!"
+                        "Text": "Quilts and Cats of Calico - Disponível no iOS!"
                     },
                     {
                         "Language": "ja",
-                        "Text": "ほのぼのとした、新たな冒険が待っている！"
+                        "Text": "『キャリコ～陽だまりネコとパッチワーク～』がiOSに！"
                     },
                     {
                         "Language": "ru",
-                        "Text": "Новое уютное приключение!"
+                        "Text": "Quilts and Cats of Calico доступна для iOS!"
                     },
                     {
                         "Language": "zh",
-                        "Text": "一場全新的溫馨冒險即將開啟！"
+                        "Text": "《猫与花毯》现已登陆iOS平台！"
                     },
                     {
                         "Language": "zh-Hant",
-                        "Text": "一场全新的温馨冒险即将开启！"
+                        "Text": "《貓與花毯》現已登陸iOS平台！"
                     },
                     {
                         "Language": "it",
-                        "Text": "Una nuova confortevole avventura ti attende!"
+                        "Text": "Quilts and Cats of Calico è ora disponibile su iOS!"
                     },
                     {
                         "Language": "ko",
-                        "Text": "새로운 아늑한 모험이 기다립니다!"
+                        "Text": "캘리코의 퀼트와 고양이 - iOS 출시!"
                     },
                     {
                         "Language": "uk",
-                        "Text": "Нова чарівна пригода чекає!"
+                        "Text": "Quilts and Cats of Calico доступна для iOS!"
                     }
                 ]
             },
@@ -4650,55 +4593,55 @@
                 "LocalizedTexts": [
                     {
                         "Language": "en",
-                        "Text": "Quilts and Cats of Calico is Coming to iOS March 11th!"
+                        "Text": "Hey birders! Quilts and Cats of Calico is now available on the App Store!"
                     },
                     {
                         "Language": "pl",
-                        "Text": "Quilts and Cats of Calico pojawi się na iOS 11 marca!"
+                        "Text": "Hej ptasiarze! Quilts and Cats of Calico jest już dostępne w App Store!"
                     },
                     {
                         "Language": "de",
-                        "Text": "Am 11. März kommt „Quilts and Cats of Calico“ für iOS!"
+                        "Text": "Hallo Vogelbeobachter! „Quilts and Cats of Calico“ ist jetzt im App Store verfügbar!"
                     },
                     {
                         "Language": "fr",
-                        "Text": "Quilts and Cats of Calico arrive sur iOS le 11 mars !"
+                        "Text": "Bonjour, les ornithologues ! Quilts and Cats of Calico est désormais disponible sur l'App Store !"
                     },
                     {
                         "Language": "es",
-                        "Text": "¡Quilts and Cats of Calico estará disponible en iOS el 11 de marzo!"
+                        "Text": "¡Hola, fans de las aves! ¡Quilts and Cats of Calico ya está disponible en el App Store!"
                     },
                     {
                         "Language": "pt-BR",
-                        "Text": "Quilts and Cats of Calico estará disponível no iOS em 11 de março!"
+                        "Text": "Olá, observadores de pássaros! Quilts and Cats of Calico já está disponível na App Store!"
                     },
                     {
                         "Language": "ja",
-                        "Text": "3月11日、『キャリコ～陽だまりネコとパッチワーク～』がiOSに登場！"
+                        "Text": "愛鳥家の方々に朗報！　『キャリコ～陽だまりネコとパッチワーク～』がApp Storeに登場！"
                     },
                     {
                         "Language": "ru",
-                        "Text": "11 марта выйдет версия Quilts and Cats of Calico для iOS!"
+                        "Text": "Привет птицеловам! Игра Quilts and Cats of Calico уже доступна в App Store!"
                     },
                     {
                         "Language": "zh",
-                        "Text": "《貓與花毯》將於3月11日登陸iOS！"
+                        "Text": "你好，观鸟者！《猫与花毯》现已在iOS平台发售！"
                     },
                     {
                         "Language": "zh-Hant",
-                        "Text": "《猫与花毯》将于3月11日登陆iOS！"
+                        "Text": "你好，觀鳥者！《貓與花毯》現已在iOS平台發售！"
                     },
                     {
                         "Language": "it",
-                        "Text": "Quilts and Cats of Calico arriverà su iOS l'11 marzo!"
+                        "Text": "Ehi, birdwatcher! Quilts and Cats of Calico è ora disponibile sull'App Store!"
                     },
                     {
                         "Language": "ko",
-                        "Text": "캘리코의 퀼트와 고양이가 3월 11일 iOS에 출시됩니다!"
+                        "Text": "안녕하세요! 캘리코의 퀼트와 고양이가 App Store에 출시되었습니다!"
                     },
                     {
                         "Language": "uk",
-                        "Text": "11 березня вийде версія Quilts and Cats of Calico для iOS!"
+                        "Text": "Привіт птахоловам! Гра Quilts and Cats of Calico вже доступна в App Store!"
                     }
                 ]
             },
@@ -4709,114 +4652,55 @@
                         "LocalizedTexts": [
                             {
                                 "Language": "en",
-                                "Text": "Hey birders! If you love relaxing strategy games, we’ve got something purr-fectly cozy for you. Quilts and Cats of Calico is coming to App Store, and you can pre-order it now!"
+                                "Text": "Sew colorful quilts, attract the cutest cats, and unwind with this cozy yet brain-teasing puzzle game. Enjoy free seasonal content, weekly challenges and original Story mode! \nIt’s a charming blend of strategy and comfort - perfect for a quiet moment.\nSounds fun? Give it a go!  "
                             },
                             {
                                 "Language": "pl",
-                                "Text": "Hej ptasiarze! Jeśli lubicie relaksujące gry strategiczne, mamy dla was coś idealnie przytulnego. Quilts and Cats of Calico pojawi się niedługo w App Store i już teraz możesz zamówić ją w przedsprzedaży!"
+                                "Text": "Szyj kolorowe kołderki, przyciągaj najsłodsze koty i zrelaksuj się dzięki tej przytulnej, ale wymagającej grze logicznej. Ciesz się darmową zawartością sezonową, cotygodniowymi wyzwaniami i autorskim trybem fabularnym! \nTo urocze połączenie strategii i przyjemności - idealne na spokojną chwilę.\nBrzmi zachęcająco? Zagraj już teraz!"
                             },
                             {
                                 "Language": "de",
-                                "Text": "Hallo, Vogelbeobachter! Wenn ihr entspannende Strategiespiele (und Katzen) mögt, haben wir miaufregende Neuigkeiten für euch: „Quilts and Cats of Calico“ kommt in den App Store und ihr könnt es jetzt schon vorbestellen!"
+                                "Text": "Näht farbenfrohe Quilts, lockt die süßesten Katzen an und entspannt euch mit diesem kuscheligen und gleichzeitig kniffligen Rätselspiel. Freut euch auf kostenlose saisonale Inhalte, wöchentliche Herausforderungen und einen originellen Story-Modus! \nDieses Spiel bietet eine charmante Mischung aus Strategie und Gemütlichkeit – perfekt für eine kleine Auszeit.\nKlingt gut? Dann los!  "
                             },
                             {
                                 "Language": "fr",
-                                "Text": "Bonjour, les ornithologues ! Si vous aimez les jeux de stratégie relaxants, nous avons quelque chose qui ronronne de douceur pour vous. Quilts and Cats of Calico arrive sur l'App Store, et vous pouvez déjà le précommander !"
+                                "Text": "Composez des couvertures colorées, attirez les chats les plus adorables et détendez-vous avec ce jeu de réflexion à la fois douillet et stimulant. Profitez de contenu saisonnier gratuit, de défis hebdomadaires et d'un mode Histoire original !\nC'est un mélange enchanteur de stratégie et de confort, idéal pour un moment de calme.\nÇa vous tente ? Lancez-vous !  "
                             },
                             {
                                 "Language": "es",
-                                "Text": "¡Hola, fans de las aves! Si os encantan los juegos de estrategia relajantes, os traemos unos mininos que harán vuestras delicias. ¡Quilts and Cats of Calico llega al App Store y ya lo podéis reservar!"
+                                "Text": "Cosed colchas coloridas, atraed a gatos monísimos y relajaos en este juego de rompecabezas acogedor pero estimulante. Además, ¡podréis disfrutar de contenido festivo gratuito, desafíos semanales y un modo Historia!\nEs una combinación encantadora de estrategia y confort, ideal para pasar un rato tranquilo.\n¿Suena divertido? ¡Pues no dudéis en probarlo!  "
                             },
                             {
                                 "Language": "pt-BR",
-                                "Text": "Olá, observadores de pássaros! Se você adora jogos de estratégia relaxantes, temos algo miauravilhosamente aconchegante para você. Quilts and Cats of Calico estará disponível em breve na App Store, e você já pode adquirir na pré-venda!"
+                                "Text": "Costure colchas coloridas, atraia os gatos mais fofos e relaxe com este jogo de quebra-cabeças aconchegante e desafiador. Divirta-se com conteúdos temáticos gratuitos, desafios semanais e um modo História original! \nÉ uma combinação encantadora de estratégia e aconchego, perfeito para um momento de sossego.\nParece divertido? Experimente!  "
                             },
                             {
                                 "Language": "ja",
-                                "Text": "リラックスできる戦略ゲームが好きな愛鳥家の皆さんに、ニャーフェクトで心地良いゲームをご用意しました。『キャリコ～陽だまりネコとパッチワーク～』がApp Storeに登場！　現在予約受付中！"
+                                "Text": "カラフルなキルトを縫って可愛らしいネコちゃんの興味を惹いて、ほのぼのとした、頭を使うパズルゲームでリラックス。季節ごとの無料コンテンツ、ウィークリーチャレンジ、オリジナルストーリーモードも楽しめる！\n本作は、戦略性と心地良さが魅力の、静かなひと時にぴったりのゲーム。\n少しでも気になったらプレイしてみよう！  "
                             },
                             {
                                 "Language": "ru",
-                                "Text": "Привет птицеловам! Если вы любите расслабляющие стратегические игры, у нас есть кое-что уютно-лоскутное для вас! Игра Quilts and Cats of Calico скоро появится в App Store, и вы уже можете оформить предзаказ!"
+                                "Text": "Шейте разноцветные одеяла, приманивайте милых котиков и отдохните душой в этой уютной игре, дающей хорошее упражнение для ума. Вас ждут бесплатные сезонные обновления, еженедельные задания и сюжетный режим.\nПриятное сочетание стратегии и уюта идеально подходит для неспешного времяпрепровождения!\nЗаинтересовались? Попробуйте!  "
                             },
                             {
                                 "Language": "zh",
-                                "Text": "嘿，觀鳥者們！如果你喜歡輕鬆治癒的策略遊戲，我們為你準備了一款溫暖治癒的佳作！《貓與花毯》即將登陸App Store，現在即可預約！"
+                                "Text": "缝制五彩缤纷的花毯，吸引最可爱的猫咪，在这款温馨且富有挑战性的拼图游戏中放松一下。\n享受免费的季节性内容、每周挑战和原创故事模式！\n这是一个策略感与舒适感的迷人结合——非常适合安静的休闲时刻。\n听起来很有趣？快来试试吧！"
                             },
                             {
                                 "Language": "zh-Hant",
-                                "Text": "嘿，观鸟者们！如果你喜欢轻松治愈的策略游戏，我们为你准备了一款温暖治愈的佳作！《猫与花毯》即将登陆App Store，现在即可预约！"
+                                "Text": "縫製五彩繽紛的花毯，吸引最可愛的貓咪，在這款溫馨且富有挑戰性的拼圖遊戲中放鬆一下。\n享受免費的季節性內容、每周挑戰和原創故事模式！\n這是一個策略感與舒適感的迷人結合——非常適合安靜的休閒時刻。\n聽起來很有趣？快來試試吧！"
                             },
                             {
                                 "Language": "it",
-                                "Text": "Ehi, birdwatcher! Se ti piacciono i giochi di strategia rilassanti, abbiamo qualcosa di purr-fettamente adatto a te. Quilts and Cats of Calico è in arrivo sull'App Store e puoi preordinarlo ora!"
+                                "Text": "Cuci coperte colorate, attrai i gattini più carini e rilassati con questo gioco rompicapo confortevole e in grado di stimolare la mente. Include contenuti stagionali gratuiti, sfide settimanali e una modalità Storia originale! \nÈ un delizioso mix di strategia e comfort, perfetto per i momenti di tranquillità.\nTi sembra divertente? Provalo!  "
                             },
                             {
                                 "Language": "ko",
-                                "Text": "새 애호가 여러분! 편안한 전략 게임을 좋아하시는 분들을 위해 아주 아늑한 게임을 준비했습니다. 캘리코의 퀼트와 고양이가 App Store에 출시 예정이며, 지금 사전 예약할 수 있습니다!"
+                                "Text": "아늑하면서도 두뇌를 자극하는 퍼즐 게임에서 다채로운 색상의 퀼트를 꿰매고, 귀여운 고양이들을 끌어들이며 마음을 편하게 해보세요. 무료 시즌 콘텐츠, 주간 도전 과제, 오리지널 스토리 모드를 즐겨보세요!\n전략과 편안함이 매력적으로 어우러져 조용한 시간을 보내기에 완벽한 게임입니다.\n재밌을 거 같죠? 한번 플레이해보세요!"
                             },
                             {
                                 "Language": "uk",
-                                "Text": "Привіт птахоловам! Якщо ви полюбляєте розслаблюючі стратегічні ігри, ми маємо для вас дещо котяче й чарівне! Гра Quilts and Cats of Calico скоро з'явиться в App Store, і ви вже можете оформити передзамовлення!"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "PlatformsToShowOn": 0,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "It’s a delightful mix of strategy and comfort - sew colorful quilts, attract the cutest cats, and enjoy a game that’s cozy yet challenging. If you love Wingspan’s thoughtful gameplay, you might just fall for this one too!"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "To zachwycająca mieszanka strategii i wygody - szyj kolorowe kołdry, przyciągaj najsłodsze koty i ciesz się grą, która jest przytulna, ale stanowi wyzwanie. Jeśli uwielbiasz przemyślaną rozgrywkę Wingspan, ta gra również może przypaść ci do gustu!"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Euch erwartet ein herrlicher Mix aus Strategie und Gemütlichkeit – näht farbenfrohe Quilts, lockt die süßesten Katzen an und vergnügt euch mit einem Spiel, das Behaglichkeit und Herausforderung zugleich bietet. Wenn euch das durchdachte Gameplay von Wingspan gefällt, könnte dieses Spiel genau das richtige für euch sein!"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "C'est un savoureux mélange de stratégie et de confort : composez des couvertures colorées, attirez les chats les plus adorables et profitez d'un jeu à la fois douillet et stimulant. Si vous appréciez la réflexion stratégique de Wingspan, ce jeu aussi pourrait bien vous faire craquer !"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Es una mezcla encantadora de estrategia y confort donde coseréis colchas coloridas, atraeréis a gatos monísimos y disfrutaréis de un juego acogedor pero desafiante. Si os gusta el estilo reflexivo de Wingspan, ¡seguro que este también os enamorará!"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "É uma mistura encantadora de estratégia e aconchego. Costure colchas coloridas, atraia os gatos mais fofos e divirta-se em um jogo que é ao mesmo tempo acolhedor e desafiador. Se você gosta da jogabilidade inteligente de Wingspan, vai se apaixonar por este também!"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "本作は、戦略性と心地良さのバランスが魅力的な、ほのぼのとしたゲーム。カラフルなキルトを縫って可愛らしいネコちゃんの興味を惹いて、心地良くも手応えのあるゲームを楽しもう。『Wingspan』の戦略的なゲーム性が好きなら、きっと本作も気に入るはず！"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Сшейте разноцветное одеяло и приманите милых котиков в этой уютной игре-головоломке. Если вам понравился продуманный до мелочей игровой процесс «Крыльев», Quilts and Cats of Calico также может вас увлечь!"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "這是一款融合策略與舒適感的遊戲——縫製色彩斑斕的布料，吸引最可愛的貓咪們，體驗溫馨而富有挑戰性的玩法。如果你喜歡《展翅翱翔》那令人沉浸於思索的玩法，相信也會愛上這款遊戲！"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "这是一款融合策略与舒适感的游戏——缝制色彩斑斓的布料，吸引最可爱的猫咪们，体验温馨而富有挑战性的玩法。如果你喜欢《展翅翱翔》那令人沉浸于思索的玩法，相信也会爱上这款游戏！"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "È un delizioso mix di strategia e comfort: cuci coperte colorate, attrai i gattini più carini e goditi un gioco confortevole e allo stesso tempo impegnativo. Se ami le partite ragionate di Wingspan, potresti innamorarti anche di questo gioco!"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "알록달록한 퀼트를 꿰매고, 귀여운 고양이들을 끌어들이고, 아늑하면서도 도전적인 게임을 즐겨보세요. 윙스팬의 깊은 게임 플레이를 좋아하신다면 이 게임도 마음에 드실 거예요!"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Зшийте різнокольорову ковдру й приманіть чарівних котів! У цій грі потрібно думати й прораховувати стратегію, а її атмосфера душе затишна й допомагає відпочити. Якщо вам сподобався ретельно продуманий ігровий процес «Крил», Quilts and Cats of Calico теж може захопити вас!"
+                                "Text": "Шийте різнокольорові ковдри, закликайте до себе кошенят і дозвольте собі відпочити з цією чарівною грою, що дасть добру розминку для розуму. На вас чекають безкоштовні сезонні матеріали, щотижневі випробування й сюжетний режим.\nПриємна суміш стратегії й затишності ідеально підходить для повільного проведення дозвілля!\nЗацікавились? Спробуйте!  "
                             }
                         ]
                     }
@@ -4831,55 +4715,55 @@
                         "LocalizedTexts": [
                             {
                                 "Language": "en",
-                                "Text": "Pre-order now! "
+                                "Text": "Get it on the App Store! "
                             },
                             {
                                 "Language": "pl",
-                                "Text": "Zamów w przedsprzedaży!"
+                                "Text": "Pobierz w App Store! "
                             },
                             {
                                 "Language": "de",
-                                "Text": "Jetzt vorbestellen! "
+                                "Text": "Jetzt im App Store holen! "
                             },
                             {
                                 "Language": "fr",
-                                "Text": "Précommander maintenant ! "
+                                "Text": "Téléchargez-le sur l'App Store ! "
                             },
                             {
                                 "Language": "es",
-                                "Text": "¡Reservadlo ya! "
+                                "Text": "¡Conseguidlo en el App Store! "
                             },
                             {
                                 "Language": "pt-BR",
-                                "Text": "Compre na pré-venda agora! "
+                                "Text": "Disponível na App Store! "
                             },
                             {
                                 "Language": "ja",
-                                "Text": "今すぐ予約！ "
+                                "Text": "App Storeで今すぐゲット！ "
                             },
                             {
                                 "Language": "ru",
-                                "Text": "Оформить предзаказ "
+                                "Text": "Загрузить из App Store "
                             },
                             {
                                 "Language": "zh",
-                                "Text": "立即預約！"
+                                "Text": "前往App Store购买！"
                             },
                             {
                                 "Language": "zh-Hant",
-                                "Text": "立即预约！"
+                                "Text": "前往App Store購買！"
                             },
                             {
                                 "Language": "it",
-                                "Text": "Preordinalo ora! "
+                                "Text": "Scaricalo dall'App Store! "
                             },
                             {
                                 "Language": "ko",
-                                "Text": "지금 예약하세요!"
+                                "Text": "App Store에서 내려받으세요!"
                             },
                             {
                                 "Language": "uk",
-                                "Text": "Оформити передзамовлення "
+                                "Text": "Завантажити з App Store "
                             }
                         ]
                     }
