@@ -4955,6 +4955,254 @@
                 }
             ],
             "Actions": []
+        },
+        {
+            "ID": "96a399c6-16e9-4542-8c32-35d0cc53ec8b",
+            "Tags": [
+                "Events"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638784576000000000,
+            "EndDateTicks": 638812224000000000,
+            "Priority": 1,
+            "PresetImageName": "",
+            "RemoteImageName": "Wingspan_Sakura.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Sakura Season is Here!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Sezon Sakury już tu jest!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Die Sakura-Jahreszeit ist da!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "La saison des cerisiers est arrivée !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Ya está aquí la época de los cerezos!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "A temporada de Sakura chegou!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "桜の季節がやって来た！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Пришло время цветения сакуры!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "樱花季来了！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "櫻花季來了！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "La stagione dei ciliegi è qui!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "벚꽃 시즌이 왔습니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Настав час цвітіння сакури!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Cherry Blossom Background Blooming in Wingspan!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Tło Kwitnących Wiśni znów w Na Skrzydłach!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Unser Kirschblüten-Hintergrund erblüht in Wingspan!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Un arrière-plan aux fleurs de cerisier éclot dans Wingspan !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Llega a Wingspan el fondo de los cerezos en flor!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "O plano de fundo Florescer da Cerejeira brotou no Wingspan!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "桜の背景が『ウイングスパン』に登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Цветки сакуры распустятся на фоне для «Крыльев»!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "盛开的樱花在《展翅翱翔》中怒放！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "盛開的櫻花在《展翅翱翔》中怒放！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Lo sfondo Ciliegio sboccia su Wingspan!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "윙스팬에 피어나는 벚꽃 배경!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Квітки сакури розпустяться на фоні для «Крил»!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Spring has arrived in all its delicate beauty! Wingspan’s Sakura background will take your birdwatching to a whole new level with cherry blossoms in full bloom. Can you spot the petals dancing in the breeze?\n\nPlay in the Sakura season from [March 25] to [April 26], or keep those blossoms blooming year-round with the Seasonal Decorative Pack. Embrace the beauty of nature’s most colorful season!\n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Wiosna nadeszła w całej swojej subtelnej urodzie! Tło Sakury w Na Skrzydłach przeniesie Twoje obserwacje ptaków na nowy poziom, otaczając Cię kwitnącymi wiśniami. Czy dostrzeżesz płatki tańczące na wietrze?\nKorzystaj z sezonowego tła Sakury od 25 marca do 26 kwietnia lub ciesz się kwitnącymi drzewami przez cały rok dzięki Sezonowemu Pakietowi Dekoracyjnemu. Zanurz się w pięknie najbarwniejszej pory roku!\n"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Der Frühling in all seiner zarten Schönheit ist da! Wingspans Sakura-Hintergrund hebt mit seinen wunderschönen Kirschblüten deine Vogelbeobachtungen auf eine ganz neue Ebene. Entdeckst du die Blütenblätter, die im Windhauch tanzen?\n\nSpiele in der Sakura-Jahreszeit vom [25. März] bis zum [26. April] – oder lass die Blüten mit dem Jahreszeiten-Dekopaket das ganz Jahr über blühen. Tauche ein in die Schönheit der Natur in der farbenfrohesten Jahreszeit!\n"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Le printemps fait son entrée dans toute sa délicate splendeur ! L'arrière-plan Sakura de Wingspan vous permettra d'observer des oiseaux parmi les cerisiers en fleur. Regardez les pétales danser au gré du vent !\n\nParticipez à la saison des cerisiers du [25 mars] au [26 avril], ou conservez ces fleurs toute l'année avec le pack décoratif saisonnier. Appréciez la beauté de la saison la plus colorée de l'année !\n"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡La primavera llama a la puerta con toda su delicada hermosura! Con el fondo de los cerezos de Wingspan, observarás a tus aves mejor que nunca entre un sinfín de cerezos en flor. ¿Ves cómo bailan los pétalos al son de la brisa?\n\nJuega en la época de los cerezos del [25 de marzo] al [26 de abril] o haz que sigan en flor durante todo el año con el paquete decorativo estacional. ¡Disfruta de la belleza de la época más colorida de la naturaleza!\n"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "A primavera chegou com toda a sua delicada beleza! O fundo de Sakura do Wingspan levará sua observação de aves a um nível totalmente novo com flores de cerejeira em plena floração. Você consegue ver as pétalas dançando na brisa?\n\nJogue na temporada de Sakura de [25 de março] a [26 de abril] ou mantenha as flores florescendo o ano todo com o Pacote Decorativo Sazonal. Abrace a beleza da estação mais colorida da natureza!\n"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "繊細な美しさが春を彩る！春もたけなわな『ウイングスパン』の桜の背景で、今まで経験したことのないようなバードウォッチングを楽しもう。そよ風に踊る花びらを見つけられるかな？\n\n桜の季節は[3月25日]から[4月26日]まで楽しめる。または「季節の装飾パック」を購入して、1年じゅう桜を楽しむこともできる。満開に咲き誇る自然の美しさに包まれよう！\n"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Наступила нежная весна! Цветки сакуры, распустившиеся на фоне для «Крыльев», сделают ваш птичий заповедник ещё прекраснее! Сумеете разглядеть лепестки, танцующие на ветру?\n\nИграйте на фоне цветущей сакуры с [25 марта] по [26 апреля] — или даже весь год, если у вас есть декоративный набор «Времена года». Любуйтесь красотой самого яркого времени года!\n"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "春天以其温柔之美悄然来临！《展翅翱翔》的樱花背景将为你的观鸟体验抬到一个全新高度，满树樱花竞相绽放。你能发现随风飞舞的花瓣吗？\n\n樱花季将从 [3月25日] 持续到 [4月26日]，或者通过购买“季节性装饰包”让这些樱花全年盛开。拥抱自然界最缤纷的季节之美吧！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "春天以其溫柔之美悄然來臨！《展翅翱翔》的櫻花背景將為你的觀鳥體驗抬到一個全新高度，滿樹櫻花競相綻放。你能發現隨風飛舞的花瓣嗎？\n\n櫻花季將從 [3月25日] 持續到 [4月26日]，或者通過購買「季節性裝飾包」讓這些櫻花全年盛開。擁抱自然界最繽紛的季節之美吧！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "La primavera è arrivata in tutta la sua delicata bellezza! Con lo sfondo Ciliegio di Wingspan il tuo birdwatching non sarà più lo stesso, grazie ai ciliegi in fiore. Riesci a individuare i petali che danzano al vento?\n\nUsa questo sfondo stagionale dal [25 marzo] al [26 aprile] o fai fiorire i ciliegi tutto l'anno con il pacchetto decorativo stagionale. Lasciati travolgere dalla bellezza della stagione più colorata della natura!\n"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "섬세한 아름다움이 가득한 봄이 찾아왔어요! 윙스팬의 벚꽃 배경은 만개한 벚꽃으로 조류 관찰을 완전히 새로운 차원으로 끌어올립니다. 산들바람에 흩날리는 꽃잎이 보이시나요?\n\n[3월 25일]부터 [4월 26일]까지 벚꽃 시즌에 플레이하거나, 계절 장식 팩으로 일 년 내내 꽃을 피워보세요. 자연의 가장 화려한 계절의 아름다움을 만끽하세요!\n"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Наступила ніжна весна! Квітки сакури, що розпустилися на фоні для «Крил», зроблять ваш пташиний заповідник ще чарівнішим! Чи зможете ви побачити пелюстки, що танцюють з вітром?\n\nГрайте на фоні квітучої сакури з [25 березня] по [26 квітня] — або навіть весь рік, якщо у вас є декоративний набір «Пори року». Спостерігайте за красою найяскравішої пори року!\n"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 257,
+                    "Value": "SB_DLC",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Check out Decorative DLC"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Sprawdź dekoracyjne DLC"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Sieh dir den Deko-DLC an"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Voir le DLC décoratif"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Ver DLC decorativo"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Conferir o DLC Decorativo"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "装飾DLCをチェックしましょう"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Посмотреть декоративный набор"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "查看装饰包DLC"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "查看裝飾包DLC"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Dai un'occhiata al DLC decorativo"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "장식 DLC 확인"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Ознайомтеся з декоративним доповненням"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
