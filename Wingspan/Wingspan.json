@@ -5203,6 +5203,313 @@
                     }
                 }
             ]
+        },
+        {
+            "ID": "d1dcce1a-e2c2-410a-a95e-84fd40efe28e",
+            "Tags": [
+                "Events"
+            ],
+            "PlatformsToShowOn": 265,
+            "StartDateTicks": 638790624000000000,
+            "EndDateTicks": 638802720000000000,
+            "Priority": 1,
+            "PresetImageName": "",
+            "RemoteImageName": "Wingspan_AsiaBeta_News center.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Wingspan: Asia Expansion Open Beta"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Wingspan: Asia Expansion Open Beta"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Wingspan: Asia Expansion Open Beta"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Wingspan: Asia Expansion Open Beta"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Wingspan: Asia Expansion Open Beta"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Wingspan: Asia Expansion Open Beta"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "Wingspan: Asia Expansion Open Beta"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Wingspan: Asia Expansion Open Beta"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "Wingspan: Asia Expansion Open Beta"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "Wingspan: Asia Expansion Open Beta"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Wingspan: Asia Expansion Open Beta"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "Wingspan: Asia Expansion Open Beta"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Wingspan: Asia Expansion Open Beta"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Wingspan: Asia Expansion Open Beta is launching soon!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Wingspan: Asia Expansion Open Beta is launching soon!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Wingspan: Asia Expansion Open Beta is launching soon!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Wingspan: Asia Expansion Open Beta is launching soon!"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Wingspan: Asia Expansion Open Beta is launching soon!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Wingspan: Asia Expansion Open Beta is launching soon!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "Wingspan: Asia Expansion Open Beta is launching soon!"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Wingspan: Asia Expansion Open Beta is launching soon!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "Wingspan: Asia Expansion Open Beta is launching soon!"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "Wingspan: Asia Expansion Open Beta is launching soon!"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Wingspan: Asia Expansion Open Beta is launching soon!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "Wingspan: Asia Expansion Open Beta is launching soon!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Wingspan: Asia Expansion Open Beta is launching soon!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 257,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion</B>! \r\nWant to take part in the Beta? <b>Fill out the form below!</b> Registration is open until <b>April 9</b>, after that you’ll be able to join the Steam Beta through an invitation from a friend who signed up before and already has the access. \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion</B>! \r\nWant to take part in the Beta? <b>Fill out the form below!</b> Registration is open until <b>April 9</b>, after that you’ll be able to join the Steam Beta through an invitation from a friend who signed up before and already has the access. \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion</B>! \r\nWant to take part in the Beta? <b>Fill out the form below!</b> Registration is open until <b>April 9</b>, after that you’ll be able to join the Steam Beta through an invitation from a friend who signed up before and already has the access. \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion</B>! \r\nWant to take part in the Beta? <b>Fill out the form below!</b> Registration is open until <b>April 9</b>, after that you’ll be able to join the Steam Beta through an invitation from a friend who signed up before and already has the access. \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion</B>! \r\nWant to take part in the Beta? <b>Fill out the form below!</b> Registration is open until <b>April 9</b>, after that you’ll be able to join the Steam Beta through an invitation from a friend who signed up before and already has the access. \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion</B>! \r\nWant to take part in the Beta? <b>Fill out the form below!</b> Registration is open until <b>April 9</b>, after that you’ll be able to join the Steam Beta through an invitation from a friend who signed up before and already has the access. \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion</B>! \r\nWant to take part in the Beta? <b>Fill out the form below!</b> Registration is open until <b>April 9</b>, after that you’ll be able to join the Steam Beta through an invitation from a friend who signed up before and already has the access. \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion</B>! \r\nWant to take part in the Beta? <b>Fill out the form below!</b> Registration is open until <b>April 9</b>, after that you’ll be able to join the Steam Beta through an invitation from a friend who signed up before and already has the access. \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion</B>! \r\nWant to take part in the Beta? <b>Fill out the form below!</b> Registration is open until <b>April 9</b>, after that you’ll be able to join the Steam Beta through an invitation from a friend who signed up before and already has the access. \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion</B>! \r\nWant to take part in the Beta? <b>Fill out the form below!</b> Registration is open until <b>April 9</b>, after that you’ll be able to join the Steam Beta through an invitation from a friend who signed up before and already has the access. \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion</B>! \r\nWant to take part in the Beta? <b>Fill out the form below!</b> Registration is open until <b>April 9</b>, after that you’ll be able to join the Steam Beta through an invitation from a friend who signed up before and already has the access. \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion</B>! \r\nWant to take part in the Beta? <b>Fill out the form below!</b> Registration is open until <b>April 9</b>, after that you’ll be able to join the Steam Beta through an invitation from a friend who signed up before and already has the access. \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion</B>! \r\nWant to take part in the Beta? <b>Fill out the form below!</b> Registration is open until <b>April 9</b>, after that you’ll be able to join the Steam Beta through an invitation from a friend who signed up before and already has the access. \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 8,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion!</b> \r\nWant to take part in the Beta? Take a minute to <b>fill out the sign-up form below</b> and get a sneak peek at what’s next! \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion!</b> \r\nWant to take part in the Beta? Take a minute to <b>fill out the sign-up form below</b> and get a sneak peek at what’s next! \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion!</b> \r\nWant to take part in the Beta? Take a minute to <b>fill out the sign-up form below</b> and get a sneak peek at what’s next! \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion!</b> \r\nWant to take part in the Beta? Take a minute to <b>fill out the sign-up form below</b> and get a sneak peek at what’s next! \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion!</b> \r\nWant to take part in the Beta? Take a minute to <b>fill out the sign-up form below</b> and get a sneak peek at what’s next! \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion!</b> \r\nWant to take part in the Beta? Take a minute to <b>fill out the sign-up form below</b> and get a sneak peek at what’s next! \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion!</b> \r\nWant to take part in the Beta? Take a minute to <b>fill out the sign-up form below</b> and get a sneak peek at what’s next! \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion!</b> \r\nWant to take part in the Beta? Take a minute to <b>fill out the sign-up form below</b> and get a sneak peek at what’s next! \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion!</b> \r\nWant to take part in the Beta? Take a minute to <b>fill out the sign-up form below</b> and get a sneak peek at what’s next! \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion!</b> \r\nWant to take part in the Beta? Take a minute to <b>fill out the sign-up form below</b> and get a sneak peek at what’s next! \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion!</b> \r\nWant to take part in the Beta? Take a minute to <b>fill out the sign-up form below</b> and get a sneak peek at what’s next! \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion!</b> \r\nWant to take part in the Beta? Take a minute to <b>fill out the sign-up form below</b> and get a sneak peek at what’s next! \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Starting <b>Wednesday, April 9</b>, we’re inviting you to join us in testing out the new <b>Asia Expansion!</b> \r\nWant to take part in the Beta? Take a minute to <b>fill out the sign-up form below</b> and get a sneak peek at what’s next! \r\n<b>Beta ends April 14</b>, so you’ll have plenty of time to try out the expansion! Your feedback is always crucial to making the game better, so we can’t wait to see what you think!\r\n"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 265,
+                    "Value": "https://forms.gle/S9zQp985dDkdmGTk6",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "SIGN UP HERE"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "SIGN UP HERE"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "SIGN UP HERE"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "SIGN UP HERE"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "SIGN UP HERE"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "SIGN UP HERE"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "SIGN UP HERE"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "SIGN UP HERE"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "SIGN UP HERE"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "SIGN UP HERE"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "SIGN UP HERE"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "SIGN UP HERE"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "SIGN UP HERE"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
