@@ -1,1007 +1,6 @@
 {
     "News": [
         {
-            "ID": "eb63e598-5f36-4e7c-8515-450de4174fe0",
-            "Tags": [
-                "Online"
-            ],
-            "PlatformsToShowOn": 8,
-            "StartDateTicks": 638610912000000000,
-            "EndDateTicks": 946391904000000000,
-            "Priority": 1,
-            "PresetImageName": "Online",
-            "RemoteImageName": "",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Important announcement for iOS Players\r\n"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Important announcement for iOS Players\r\n"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Important announcement for iOS Players\r\n"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Important announcement for iOS Players\r\n"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "Important announcement for iOS Players\r\n"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Important announcement for iOS Players\r\n"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "Important announcement for iOS Players\r\n"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Important announcement for iOS Players\r\n"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "Important announcement for iOS Players\r\n"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "Important announcement for iOS Players\r\n"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Important announcement for iOS Players\r\n"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "Important announcement for iOS Players\r\n"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Important announcement for iOS Players\r\n"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "An update on the Online mode issue."
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "An update on the Online mode issue."
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "An update on the Online mode issue."
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "An update on the Online mode issue."
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "An update on the Online mode issue."
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "An update on the Online mode issue."
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "An update on the Online mode issue."
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "An update on the Online mode issue."
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "An update on the Online mode issue."
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "An update on the Online mode issue."
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "An update on the Online mode issue."
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "An update on the Online mode issue."
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "An update on the Online mode issue."
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 8,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Dear iOS Birders! \r\n\r\n<b>A fix recovering the access to your old GameCenter accounts is now live.\r\nPlease note that you’d need to update your game in order to enter the Online mode and use your previous account. </b>\r\n\r\nWe understand that this problem has negatively affected the state of your games.To make up for this inconvenience we will be holding a <b>Double Karma</b> event in the coming weeks. During this time, points awarded for completed Online games will be doubled. \r\nThe exact starting date and the duration of the event will be announced in the next few days. \r\n\r\n\r\nThank you for your patience and understanding. \r\n"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Dear iOS Birders! \r\n\r\n<b>A fix recovering the access to your old GameCenter accounts is now live.\r\nPlease note that you’d need to update your game in order to enter the Online mode and use your previous account. </b>\r\n\r\nWe understand that this problem has negatively affected the state of your games.To make up for this inconvenience we will be holding a <b>Double Karma</b> event in the coming weeks. During this time, points awarded for completed Online games will be doubled. \r\nThe exact starting date and the duration of the event will be announced in the next few days. \r\n\r\n\r\nThank you for your patience and understanding. \r\n"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Dear iOS Birders! \r\n\r\n<b>A fix recovering the access to your old GameCenter accounts is now live.\r\nPlease note that you’d need to update your game in order to enter the Online mode and use your previous account. </b>\r\n\r\nWe understand that this problem has negatively affected the state of your games.To make up for this inconvenience we will be holding a <b>Double Karma</b> event in the coming weeks. During this time, points awarded for completed Online games will be doubled. \r\nThe exact starting date and the duration of the event will be announced in the next few days. \r\n\r\n\r\nThank you for your patience and understanding. \r\n"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Dear iOS Birders! \r\n\r\n<b>A fix recovering the access to your old GameCenter accounts is now live.\r\nPlease note that you’d need to update your game in order to enter the Online mode and use your previous account. </b>\r\n\r\nWe understand that this problem has negatively affected the state of your games.To make up for this inconvenience we will be holding a <b>Double Karma</b> event in the coming weeks. During this time, points awarded for completed Online games will be doubled. \r\nThe exact starting date and the duration of the event will be announced in the next few days. \r\n\r\n\r\nThank you for your patience and understanding. \r\n"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Dear iOS Birders! \r\n\r\n<b>A fix recovering the access to your old GameCenter accounts is now live.\r\nPlease note that you’d need to update your game in order to enter the Online mode and use your previous account. </b>\r\n\r\nWe understand that this problem has negatively affected the state of your games.To make up for this inconvenience we will be holding a <b>Double Karma</b> event in the coming weeks. During this time, points awarded for completed Online games will be doubled. \r\nThe exact starting date and the duration of the event will be announced in the next few days. \r\n\r\n\r\nThank you for your patience and understanding. \r\n"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Dear iOS Birders! \r\n\r\n<b>A fix recovering the access to your old GameCenter accounts is now live.\r\nPlease note that you’d need to update your game in order to enter the Online mode and use your previous account. </b>\r\n\r\nWe understand that this problem has negatively affected the state of your games.To make up for this inconvenience we will be holding a <b>Double Karma</b> event in the coming weeks. During this time, points awarded for completed Online games will be doubled. \r\nThe exact starting date and the duration of the event will be announced in the next few days. \r\n\r\n\r\nThank you for your patience and understanding. \r\n"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "Dear iOS Birders! \r\n\r\n<b>A fix recovering the access to your old GameCenter accounts is now live.\r\nPlease note that you’d need to update your game in order to enter the Online mode and use your previous account. </b>\r\n\r\nWe understand that this problem has negatively affected the state of your games.To make up for this inconvenience we will be holding a <b>Double Karma</b> event in the coming weeks. During this time, points awarded for completed Online games will be doubled. \r\nThe exact starting date and the duration of the event will be announced in the next few days. \r\n\r\n\r\nThank you for your patience and understanding. \r\n"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Dear iOS Birders! \r\n\r\n<b>A fix recovering the access to your old GameCenter accounts is now live.\r\nPlease note that you’d need to update your game in order to enter the Online mode and use your previous account. </b>\r\n\r\nWe understand that this problem has negatively affected the state of your games.To make up for this inconvenience we will be holding a <b>Double Karma</b> event in the coming weeks. During this time, points awarded for completed Online games will be doubled. \r\nThe exact starting date and the duration of the event will be announced in the next few days. \r\n\r\n\r\nThank you for your patience and understanding. \r\n"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "Dear iOS Birders! \r\n\r\n<b>A fix recovering the access to your old GameCenter accounts is now live.\r\nPlease note that you’d need to update your game in order to enter the Online mode and use your previous account. </b>\r\n\r\nWe understand that this problem has negatively affected the state of your games.To make up for this inconvenience we will be holding a <b>Double Karma</b> event in the coming weeks. During this time, points awarded for completed Online games will be doubled. \r\nThe exact starting date and the duration of the event will be announced in the next few days. \r\n\r\n\r\nThank you for your patience and understanding. \r\n"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "Dear iOS Birders! \r\n\r\n<b>A fix recovering the access to your old GameCenter accounts is now live.\r\nPlease note that you’d need to update your game in order to enter the Online mode and use your previous account. </b>\r\n\r\nWe understand that this problem has negatively affected the state of your games.To make up for this inconvenience we will be holding a <b>Double Karma</b> event in the coming weeks. During this time, points awarded for completed Online games will be doubled. \r\nThe exact starting date and the duration of the event will be announced in the next few days. \r\n\r\n\r\nThank you for your patience and understanding. \r\n"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Dear iOS Birders! \r\n\r\n<b>A fix recovering the access to your old GameCenter accounts is now live.\r\nPlease note that you’d need to update your game in order to enter the Online mode and use your previous account. </b>\r\n\r\nWe understand that this problem has negatively affected the state of your games.To make up for this inconvenience we will be holding a <b>Double Karma</b> event in the coming weeks. During this time, points awarded for completed Online games will be doubled. \r\nThe exact starting date and the duration of the event will be announced in the next few days. \r\n\r\n\r\nThank you for your patience and understanding. \r\n"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "Dear iOS Birders! \r\n\r\n<b>A fix recovering the access to your old GameCenter accounts is now live.\r\nPlease note that you’d need to update your game in order to enter the Online mode and use your previous account. </b>\r\n\r\nWe understand that this problem has negatively affected the state of your games.To make up for this inconvenience we will be holding a <b>Double Karma</b> event in the coming weeks. During this time, points awarded for completed Online games will be doubled. \r\nThe exact starting date and the duration of the event will be announced in the next few days. \r\n\r\n\r\nThank you for your patience and understanding. \r\n"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Dear iOS Birders! \r\n\r\n<b>A fix recovering the access to your old GameCenter accounts is now live.\r\nPlease note that you’d need to update your game in order to enter the Online mode and use your previous account. </b>\r\n\r\nWe understand that this problem has negatively affected the state of your games.To make up for this inconvenience we will be holding a <b>Double Karma</b> event in the coming weeks. During this time, points awarded for completed Online games will be doubled. \r\nThe exact starting date and the duration of the event will be announced in the next few days. \r\n\r\n\r\nThank you for your patience and understanding. \r\n"
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": []
-        },
-        {
-            "ID": "0b555944-dcb9-4a3e-81b0-3fb083fb4a91",
-            "Tags": [
-                "Update"
-            ],
-            "PlatformsToShowOn": 192,
-            "StartDateTicks": 638646012000000000,
-            "EndDateTicks": 638658072600000000,
-            "Priority": 1,
-            "PresetImageName": "Online",
-            "RemoteImageName": "",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Hotfix - October 15"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Hotfix - October 15"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Hotfix - October 15"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Hotfix - October 15"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "Hotfix - October 15"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Hotfix - October 15"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "Hotfix - October 15"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Hotfix - October 15"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "Hotfix - October 15"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "Hotfix - October 15"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Hotfix - October 15"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "Hotfix - October 15"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Hotfix - October 15"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Birders!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Birders!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Birders!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Birders!"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "Birders!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Birders!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "Birders!"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Birders!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "Birders!"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "Birders!"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Birders!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "Birders!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Birders!"
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 192,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "A small fix has landed! \r\n\r\nIn this one we introduce a fix for <b>There's always a bigger bird!</b> trophy. You can now unlock it by playing a bigger bird on top of a smaller one. \r\n\r\nBigger wings? Bigger bragging rights! Keep growing that wingspan,unlock trophies and show everyone who rules this roost! \r\n\r\nHave fun playing! \r\n"
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": []
-        },
-        {
-            "ID": "311c96a0-3fbf-4e18-ab16-a97f8c8af14c",
-            "Tags": [
-                "Events"
-            ],
-            "PlatformsToShowOn": 12,
-            "StartDateTicks": 638701632000000000,
-            "EndDateTicks": 638713728000000000,
-            "Priority": 1,
-            "PresetImageName": "NewContent3",
-            "RemoteImageName": "",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Wingspan expansions are 30% off!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "30% zniżki na dodatki do \"Na Skrzydłach\"!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Flügelschlag-Erweiterungen sind 30 % günstiger!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Les extensions de À tire d'ailes bénéficient de 30 % de réduction !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Las expansiones de Wingspan tienen un 30 % de descuento!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "As expansões de Wingspan estão com 30% de desconto!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "ウイングスパンの拡張版が30%オフ！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Дополнения для Крылья со скидкой 30 %!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "Wingspan expansions are 30% off!"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "Wingspan expansions are 30% off!"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Le espansioni di Wingspan sono scontate del 30%!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "Wingspan 확장이 30% 할인 중!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Розширення для Крила зі знижкою 30%!"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Get both expansions to Wingspan Digital at 30% off until November 26th - grab them before they fly away!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Zdobądź oba dodatki do \"Na Skrzydłach\" z 30% rabatem do 26 listopada – złap je, zanim odlecą!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Holt euch beide Erweiterungen für Flügelschlag Digital mit 30 % Rabatt bis zum 26. November – schnappt sie euch, bevor sie wegfliegen!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Obtenez les deux extensions de À tire d'ailes Digital avec 30 % de réduction jusqu’au 26 novembre – attrapez-les avant qu’elles ne s’envolent !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "Consigue ambas expansiones de Wingspan Digital con un 30 % de descuento hasta el 26 de noviembre. ¡Aprovecha antes de que vuelen!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Adquira as duas expansões de Wingspan Digital com 30% de desconto até 26 de novembro – aproveite antes que elas voem!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "ウイングスパン の2つの拡張版が11月26日まで30%オフ！飛び去る前に手に入れよう！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Получите оба дополнения для Крылья Digital со скидкой 30 % до 26 ноября – успейте, пока они не улетели!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "Get both expansions to Wingspan Digital at 30% off until November 26th - grab them before they fly away!"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "Get both expansions to Wingspan Digital at 30% off until November 26th - grab them before they fly away!"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Ottieni entrambe le espansioni di Wingspan Digital con il 30% di sconto fino al 26 novembre. Prendile prima che volino via!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "Wingspan Digital의 두 가지 확장을 11월 26일까지 30% 할인된 가격에 만나보세요. 날아가기 전에 서둘러 잡으세요!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Придбайте обидва розширення для Крила Digital зі знижкою 30% до 26 листопада – встигніть, поки вони не відлетіли!"
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 511,
-                    "Text": {
-                        "LocalizedTexts": []
-                    }
-                }
-            ],
-            "Actions": []
-        },
-        {
-            "ID": "19139c4d-4fde-44b0-9fcf-252830a19789",
-            "Tags": [
-                "MonsterCouch"
-            ],
-            "PlatformsToShowOn": 4,
-            "StartDateTicks": 638773092000000000,
-            "EndDateTicks": 946391904000000000,
-            "Priority": 1,
-            "PresetImageName": "",
-            "RemoteImageName": "Calico_Newscenter_Mobile.png",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Quilts and Cats of Calico – Now on Android!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Quilts and Cats of Calico - teraz na Androida!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Quilts and Cats of Calico – jetzt auf Android!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Quilts and Cats of Calico – Disponible sur Android !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Quilts and Cats of Calico, ya disponible en Android!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Quilts and Cats of Calico - Disponível no Android!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "『キャリコ～陽だまりネコとパッチワーク～』がAndroidに！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Quilts and Cats of Calico доступна для Android!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "《猫与花毯》现已登陆安卓平台！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "《貓與花毯》現已登陸安卓平台！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Quilts and Cats of Calico è ora disponibile su Android!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "캘리코의 퀼트와 고양이 - 안드로이드 출시!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Quilts and Cats of Calico доступна для Android!"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Hey birders! Quilts and Cats of Calico is now available on Google Play!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Quilts and Cats of Calico jest już dostępne w Google Play!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Hallo, Vogelbeobachter! „Quilts and Cats of Calico“ ist jetzt auf Google Play verfügbar!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Bonjour, les ornithologues ! Quilts and Cats of Calico est désormais disponible sur Google Play !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Hola, fans de las aves! ¡Quilts and Cats of Calico ya está disponible en Google Play!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Olá, observadores de pássaros! Quilts and Cats of Calico já está disponível no Google Play!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "愛鳥家の方々に朗報！　『キャリコ～陽だまりネコとパッチワーク～』がGoogle Playに登場！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Привет птицеловам! Игра Quilts and Cats of Calico уже доступна в Google Play!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "你好，观鸟者！《猫与花毯》现已在安卓平台发售！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "你好，觀鳥者！《貓與花毯》現已在安卓平台發售！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Ehi, birdwatcher! Quilts and Cats of Calico è ora disponibile su Google Play!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "안녕하세요! 캘리코의 퀼트와 고양이가 Google Play에 출시되었습니다!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Привіт птахоловам! Гра Quilts and Cats of Calico вже доступна в Google Play!"
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 4,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Sew colorful quilts, attract the cutest cats, and unwind with this cozy yet brain-teasing puzzle game. Enjoy free seasonal content, weekly challenges and original Story mode! \nIt’s a charming blend of strategy and comfort - perfect for a quiet moment.\nSounds fun? Give it a go!  "
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Szyj kolorowe kołdry, przyciągaj najsłodsze koty i zrelaksuj się dzięki tej przytulnej, ale wymagającej grze logicznej. Ciesz się darmową zawartością sezonową, cotygodniowymi wyzwaniami i autorskim trybem fabularnym! \nTo urocze połączenie strategii i przyjemności - idealne na spokojną chwilę.\nBrzmi zachęcająco? Zagraj już teraz!"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Näht farbenfrohe Quilts, lockt die süßesten Katzen an und entspannt euch mit diesem kuscheligen und gleichzeitig kniffligen Rätselspiel. Freut euch auf kostenlose saisonale Inhalte, wöchentliche Herausforderungen und einen originellen Story-Modus! \nDieses Spiel bietet eine charmante Mischung aus Strategie und Gemütlichkeit – perfekt für eine kleine Auszeit.\nKlingt gut? Dann los!  "
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Composez des couvertures colorées, attirez les chats les plus adorables et détendez-vous avec ce jeu de réflexion à la fois douillet et stimulant. Profitez de contenu saisonnier gratuit, de défis hebdomadaires et d'un mode Histoire original !\nC'est un mélange enchanteur de stratégie et de confort, idéal pour un moment de calme.\nÇa vous tente ? Lancez-vous !  "
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Cosed colchas coloridas, atraed a gatos monísimos y relajaos en este juego de rompecabezas acogedor pero estimulante. Además, ¡podréis disfrutar de contenido festivo gratuito, desafíos semanales y un modo Historia!\nEs una combinación encantadora de estrategia y confort, ideal para pasar un rato tranquilo.\n¿Suena divertido? ¡Pues no dudéis en probarlo!  "
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Costure colchas coloridas, atraia os gatos mais fofos e relaxe com este jogo de quebra-cabeças aconchegante e desafiador. Divirta-se com conteúdos temáticos gratuitos, desafios semanais e um modo História original! \nÉ uma combinação encantadora de estratégia e aconchego, perfeito para um momento de sossego.\nParece divertido? Experimente!  "
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "カラフルなキルトを縫って可愛らしいネコちゃんの興味を惹いて、ほのぼのとした、頭を使うパズルゲームでリラックス。季節ごとの無料コンテンツ、ウィークリーチャレンジ、オリジナルストーリーモードも楽しめる！\n本作は、戦略性と心地良さが魅力の、静かなひと時にぴったりのゲーム。\n少しでも気になったらプレイしてみよう！  "
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Шейте разноцветные одеяла, приманивайте милых котиков и отдохните душой в этой уютной игре, дающей хорошее упражнение для ума. Вас ждут бесплатные сезонные обновления, еженедельные задания и сюжетный режим.\nПриятное сочетание стратегии и уюта идеально подходит для неспешного времяпрепровождения!\nЗаинтересовались? Попробуйте!  "
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "缝制五彩缤纷的花毯，吸引最可爱的猫咪，在这款温馨且富有挑战性的拼图游戏中放松一下。\n享受免费的季节性内容、每周挑战和原创故事模式！\n这是一个策略感与舒适感的迷人结合——非常适合安静的休闲时刻。\n听起来很有趣？快来试试吧！"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "縫製五彩繽紛的花毯，吸引最可愛的貓咪，在這款溫馨且富有挑戰性的拼圖遊戲中放鬆一下。\n享受免費的季節性內容、每周挑戰和原創故事模式！\n這是一個策略感與舒適感的迷人結合——非常適合安靜的休閒時刻。\n聽起來很有趣？快來試試吧！"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Cuci coperte colorate, attrai i gattini più carini e rilassati con questo gioco rompicapo confortevole e in grado di stimolare la mente. Include contenuti stagionali gratuiti, sfide settimanali e una modalità Storia originale! \nÈ un delizioso mix di strategia e comfort, perfetto per i momenti di tranquillità.\nTi sembra divertente? Provalo!  "
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "아늑하면서도 두뇌를 자극하는 퍼즐 게임에서 다채로운 색상의 퀼트를 꿰매고, 귀여운 고양이들을 끌어들이며 마음을 편하게 해보세요. 무료 시즌 콘텐츠, 주간 도전 과제, 오리지널 스토리 모드를 즐겨보세요!\n전략과 편안함이 매력적으로 어우러져 조용한 시간을 보내기에 완벽한 게임입니다.\n재밌을 거 같죠? 한번 플레이해보세요!"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Шийте різнокольорові ковдри, закликайте до себе кошенят і дозвольте собі відпочити з цією чарівною грою, що дасть добру розминку для розуму. На вас чекають безкоштовні сезонні матеріали, щотижневі випробування й сюжетний режим.\nПриємна суміш стратегії й затишності ідеально підходить для повільного проведення дозвілля!\nЗацікавились? Спробуйте!  "
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": [
-                {
-                    "ActionType": 0,
-                    "PlatformsToShowOn": 4,
-                    "Value": "https://play.google.com/store/apps/details?id=com.MonsterCouch.Calico&pli=1",
-                    "ButtonText": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Get it on Google Play! "
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Pobierz w Google Play! "
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Jetzt auf Google Play holen! "
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Téléchargez-le sur Google Play ! "
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "¡Conseguidlo en Google Play! "
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Disponível no Google Play! "
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "Google Playで今すぐゲット！ "
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Загрузить из Google Play "
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "前往Google Play购买！"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "前往Google Play購買！"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Scaricalo da Google Play! "
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "Google Play에서 내려받으세요!"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Завантажити з Google Play "
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "ID": "4a736e39-92bd-4797-b254-a08a90e44ede",
-            "Tags": [
-                "MonsterCouch"
-            ],
-            "PlatformsToShowOn": 12,
-            "StartDateTicks": 638773092000000000,
-            "EndDateTicks": 946391904000000000,
-            "Priority": 1,
-            "PresetImageName": "",
-            "RemoteImageName": "Calico_Newscenter_Mobile.png",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Quilts and Cats of Calico – Now on iOS!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Quilts and Cats of Calico już dostępne na iOS!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Quilts and Cats of Calico – jetzt auf iOS!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Quilts and Cats of Calico – Disponible sur iOS !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Quilts and Cats of Calico, ya disponible en iOS!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Quilts and Cats of Calico - Disponível no iOS!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "『キャリコ～陽だまりネコとパッチワーク～』がiOSに！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Quilts and Cats of Calico доступна для iOS!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "《猫与花毯》现已登陆iOS平台！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "《貓與花毯》現已登陸iOS平台！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Quilts and Cats of Calico è ora disponibile su iOS!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "캘리코의 퀼트와 고양이 - iOS 출시!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Quilts and Cats of Calico доступна для iOS!"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Hey birders! Quilts and Cats of Calico is now available on the App Store!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Hej ptasiarze! Quilts and Cats of Calico jest już dostępne w App Store!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Hallo Vogelbeobachter! „Quilts and Cats of Calico“ ist jetzt im App Store verfügbar!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Bonjour, les ornithologues ! Quilts and Cats of Calico est désormais disponible sur l'App Store !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Hola, fans de las aves! ¡Quilts and Cats of Calico ya está disponible en el App Store!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Olá, observadores de pássaros! Quilts and Cats of Calico já está disponível na App Store!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "愛鳥家の方々に朗報！　『キャリコ～陽だまりネコとパッチワーク～』がApp Storeに登場！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Привет птицеловам! Игра Quilts and Cats of Calico уже доступна в App Store!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "你好，观鸟者！《猫与花毯》现已在iOS平台发售！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "你好，觀鳥者！《貓與花毯》現已在iOS平台發售！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Ehi, birdwatcher! Quilts and Cats of Calico è ora disponibile sull'App Store!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "안녕하세요! 캘리코의 퀼트와 고양이가 App Store에 출시되었습니다!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Привіт птахоловам! Гра Quilts and Cats of Calico вже доступна в App Store!"
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 511,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Sew colorful quilts, attract the cutest cats, and unwind with this cozy yet brain-teasing puzzle game. Enjoy free seasonal content, weekly challenges and original Story mode! \nIt’s a charming blend of strategy and comfort - perfect for a quiet moment.\nSounds fun? Give it a go!  "
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Szyj kolorowe kołderki, przyciągaj najsłodsze koty i zrelaksuj się dzięki tej przytulnej, ale wymagającej grze logicznej. Ciesz się darmową zawartością sezonową, cotygodniowymi wyzwaniami i autorskim trybem fabularnym! \nTo urocze połączenie strategii i przyjemności - idealne na spokojną chwilę.\nBrzmi zachęcająco? Zagraj już teraz!"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Näht farbenfrohe Quilts, lockt die süßesten Katzen an und entspannt euch mit diesem kuscheligen und gleichzeitig kniffligen Rätselspiel. Freut euch auf kostenlose saisonale Inhalte, wöchentliche Herausforderungen und einen originellen Story-Modus! \nDieses Spiel bietet eine charmante Mischung aus Strategie und Gemütlichkeit – perfekt für eine kleine Auszeit.\nKlingt gut? Dann los!  "
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Composez des couvertures colorées, attirez les chats les plus adorables et détendez-vous avec ce jeu de réflexion à la fois douillet et stimulant. Profitez de contenu saisonnier gratuit, de défis hebdomadaires et d'un mode Histoire original !\nC'est un mélange enchanteur de stratégie et de confort, idéal pour un moment de calme.\nÇa vous tente ? Lancez-vous !  "
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Cosed colchas coloridas, atraed a gatos monísimos y relajaos en este juego de rompecabezas acogedor pero estimulante. Además, ¡podréis disfrutar de contenido festivo gratuito, desafíos semanales y un modo Historia!\nEs una combinación encantadora de estrategia y confort, ideal para pasar un rato tranquilo.\n¿Suena divertido? ¡Pues no dudéis en probarlo!  "
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Costure colchas coloridas, atraia os gatos mais fofos e relaxe com este jogo de quebra-cabeças aconchegante e desafiador. Divirta-se com conteúdos temáticos gratuitos, desafios semanais e um modo História original! \nÉ uma combinação encantadora de estratégia e aconchego, perfeito para um momento de sossego.\nParece divertido? Experimente!  "
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "カラフルなキルトを縫って可愛らしいネコちゃんの興味を惹いて、ほのぼのとした、頭を使うパズルゲームでリラックス。季節ごとの無料コンテンツ、ウィークリーチャレンジ、オリジナルストーリーモードも楽しめる！\n本作は、戦略性と心地良さが魅力の、静かなひと時にぴったりのゲーム。\n少しでも気になったらプレイしてみよう！  "
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Шейте разноцветные одеяла, приманивайте милых котиков и отдохните душой в этой уютной игре, дающей хорошее упражнение для ума. Вас ждут бесплатные сезонные обновления, еженедельные задания и сюжетный режим.\nПриятное сочетание стратегии и уюта идеально подходит для неспешного времяпрепровождения!\nЗаинтересовались? Попробуйте!  "
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "缝制五彩缤纷的花毯，吸引最可爱的猫咪，在这款温馨且富有挑战性的拼图游戏中放松一下。\n享受免费的季节性内容、每周挑战和原创故事模式！\n这是一个策略感与舒适感的迷人结合——非常适合安静的休闲时刻。\n听起来很有趣？快来试试吧！"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "縫製五彩繽紛的花毯，吸引最可愛的貓咪，在這款溫馨且富有挑戰性的拼圖遊戲中放鬆一下。\n享受免費的季節性內容、每周挑戰和原創故事模式！\n這是一個策略感與舒適感的迷人結合——非常適合安靜的休閒時刻。\n聽起來很有趣？快來試試吧！"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Cuci coperte colorate, attrai i gattini più carini e rilassati con questo gioco rompicapo confortevole e in grado di stimolare la mente. Include contenuti stagionali gratuiti, sfide settimanali e una modalità Storia originale! \nÈ un delizioso mix di strategia e comfort, perfetto per i momenti di tranquillità.\nTi sembra divertente? Provalo!  "
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "아늑하면서도 두뇌를 자극하는 퍼즐 게임에서 다채로운 색상의 퀼트를 꿰매고, 귀여운 고양이들을 끌어들이며 마음을 편하게 해보세요. 무료 시즌 콘텐츠, 주간 도전 과제, 오리지널 스토리 모드를 즐겨보세요!\n전략과 편안함이 매력적으로 어우러져 조용한 시간을 보내기에 완벽한 게임입니다.\n재밌을 거 같죠? 한번 플레이해보세요!"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Шийте різнокольорові ковдри, закликайте до себе кошенят і дозвольте собі відпочити з цією чарівною грою, що дасть добру розминку для розуму. На вас чекають безкоштовні сезонні матеріали, щотижневі випробування й сюжетний режим.\nПриємна суміш стратегії й затишності ідеально підходить для повільного проведення дозвілля!\nЗацікавились? Спробуйте!  "
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": [
-                {
-                    "ActionType": 0,
-                    "PlatformsToShowOn": 8,
-                    "Value": "https://apps.apple.com/us/app/quilts-and-cats-of-calico/id1634779760",
-                    "ButtonText": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Get it on the App Store! "
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Pobierz w App Store! "
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Jetzt im App Store holen! "
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Téléchargez-le sur l'App Store ! "
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "¡Conseguidlo en el App Store! "
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Disponível na App Store! "
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "App Storeで今すぐゲット！ "
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Загрузить из App Store "
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "前往App Store购买！"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "前往App Store購買！"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Scaricalo dall'App Store! "
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "App Store에서 내려받으세요!"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Завантажити з App Store "
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
             "ID": "dfa28b5d-c671-4eb0-bd00-30fc509c17ba",
             "Tags": [
                 "Events"
@@ -1131,55 +130,55 @@
                         "LocalizedTexts": [
                             {
                                 "Language": "en",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "pl",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "de",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "fr",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "es",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "pt-BR",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "ja",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "ru",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "zh",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "zh-Hant",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "it",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "ko",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "uk",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> Also, try out a new Steam feature and Invite your friends to join the Beta - they don’t even have to own Wingspan! \r\n\r\nHave fun! \r\n"
                             }
                         ]
                     }
@@ -1190,61 +189,123 @@
                         "LocalizedTexts": [
                             {
                                 "Language": "en",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "pl",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "de",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "fr",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "es",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "pt-BR",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "ja",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "ru",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "zh",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "zh-Hant",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "it",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "ko",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
                             },
                             {
                                 "Language": "uk",
-                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly 2 players with special Duet Map and end-of-round goals - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into short, bite-sized chapters - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. Complete the tutorial to unlock special in-game prizes! \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
+                                "Text": "You're now taking part in the open beta - thank you for joining us! Explore new birds, new strategies, features and help us make this expansion the best it can be.\r\nHere’s everything you’ll be able to explore:\r\n\r\n<style=asia>Duet Mode</style>\r\n\r\nA brand-new game mode designed for exactly <style=asia>2 players</style> with special <style=asia>Duet Map</style> and <style=asia>end-of-round goals</style> - available in singleplayer and online multiplayer (including real-time matchmaking).\r\n\r\n<style=asia>New tutorial</style>\r\n\r\nFresh and revamped Wingspan tutorial divided into <style=asia>short, bite-sized chapters</style> - so no pressure to finish it all at once. You’ll also find brand-new tutorials introducing Asia bird powers and one focused entirely on the Duet Mode, designed to help you get started. <style=asia>Complete the tutorial to unlock special in-game prizes!</style> \r\n\r\n<style=asia>Asia Expansion Additions</style>\r\n\r\n90 new bird cards with fresh powers\r\nNew bonus cards\r\nA brand-new Asia Expansion menu\r\n4 new backgrounds\r\n6 new player portraits \r\nA new Asia Expansion soundtrack\r\nBird trivia for all the new birds\r\nActive games now display the game mode\r\n\r\n<style=asia>Multiplayer Updates</style>\r\n\r\nReal-time matchmaking now has 3-minute turns\r\nA new match backup system has been added\r\nSince we’re introducing some changes and improvements to Multiplayer, you might encounter some turbulence and “controlled instability” during online games. To test the backup system, we’ve scheduled two server resets:\r\n\r\n<style=asia>April 11 at 10AM CET</style>\r\n<style=asia>April 14 at 10AM CET</style>\r\n\r\n<style=underline>Make sure to visit our Discord to share your feedback and join the Achievement Contest starting April 11!</style> \r\n\r\nHave fun! \r\n"
                             }
                         ]
                     }
                 }
             ],
-            "Actions": []
+            "Actions": [
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 265,
+                    "Value": "https://discord.gg/QBakrsJeXj ",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Join our Discord"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Join our Discord"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Join our Discord"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Join our Discord"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Join our Discord"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Join our Discord"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "Join our Discord"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Join our Discord"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "Join our Discord"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "Join our Discord"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Join our Discord"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "Join our Discord"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Join our Discord"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
