@@ -554,6 +554,310 @@
                     }
                 }
             ]
+        },
+        {
+            "ID": "b4aa655e-7417-4b9b-86d3-b0a7a36c26b0",
+            "Tags": [
+                "Update"
+            ],
+            "PlatformsToShowOn": 265,
+            "StartDateTicks": 638799264000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 2,
+            "PresetImageName": "",
+            "RemoteImageName": "Asia_ComingSoon_800x300_Newscenter.jpg",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Beta Update "
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Beta Update "
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Beta Update "
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Beta Update "
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Beta Update "
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Beta Update "
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "Beta Update "
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Beta Update "
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "Beta Update "
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "Beta Update "
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Beta Update "
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "Beta Update "
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Beta Update "
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Hey Beta Birders!\r\n"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Hey Beta Birders!\r\n"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Hey Beta Birders!\r\n"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Hey Beta Birders!\r\n"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Hey Beta Birders!\r\n"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Hey Beta Birders!\r\n"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "Hey Beta Birders!\r\n"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Hey Beta Birders!\r\n"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "Hey Beta Birders!\r\n"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "Hey Beta Birders!\r\n"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Hey Beta Birders!\r\n"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "Hey Beta Birders!\r\n"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Hey Beta Birders!\r\n"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 265,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "We're already past the halfway mark of the Beta, which ends on <style=asia>April 14 at 3PM CEST</style>. Huge thanks for all the great feedback so far - we really appreciate it!\r\nAs we head into the weekend, our team will be out of office and a bit less responsive, but we’re rolling out a patch that should be live soon. We’ll be back on Monday. In the meantime, enjoy the Beta and don’t miss the <style=asia>Achievement Contest</style> on Discord!\r\nHere’s what’s been fixed and what we're still working on:\r\n<style=asia>Fixed bugs:</style>\r\n- Various blockers in tutorials\r\n- The total points were not displayed on the game summary\r\n- The desert background could not be claimed (we're unlocking it for everyone in the beta)\r\n- Back button was greyed out in the settings menu\r\n<style=asia>Known bugs:</style>\r\n- The Forest habitat cannot be clicked/tapped (activation, spending, or laying eggs) sometimes in Duet mode\r\n- Some backgrounds cover parts of the cards on the tray\r\n- The game may freeze when changing resolution during gameplay (it works properly when changed from Main Menu > Settings)\r\n<style=asia>Not a bug:</style>\r\n- No audio trivia when playing birds. In the beta, all birds are unlocked. To hear the trivia, switch the trivia setting to \"Always\" in game settings\r\nIf you’re playing over the weekend, feel free to focus on spotting other bugs not listed above.\r\nAnd as always, please check for updates and keep your game up to date! "
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "We're already past the halfway mark of the Beta, which ends on <style=asia>April 14 at 3PM CEST</style>. Huge thanks for all the great feedback so far - we really appreciate it!\r\nAs we head into the weekend, our team will be out of office and a bit less responsive, but we’re rolling out a patch that should be live soon. We’ll be back on Monday. In the meantime, enjoy the Beta and don’t miss the <style=asia>Achievement Contest</style> on Discord!\r\nHere’s what’s been fixed and what we're still working on:\r\n<style=asia>Fixed bugs:</style>\r\n- Various blockers in tutorials\r\n- The total points were not displayed on the game summary\r\n- The desert background could not be claimed (we're unlocking it for everyone in the beta)\r\n- Back button was greyed out in the settings menu\r\n<style=asia>Known bugs:</style>\r\n- The Forest habitat cannot be clicked/tapped (activation, spending, or laying eggs) sometimes in Duet mode\r\n- Some backgrounds cover parts of the cards on the tray\r\n- The game may freeze when changing resolution during gameplay (it works properly when changed from Main Menu > Settings)\r\n<style=asia>Not a bug:</style>\r\n- No audio trivia when playing birds. In the beta, all birds are unlocked. To hear the trivia, switch the trivia setting to \"Always\" in game settings\r\nIf you’re playing over the weekend, feel free to focus on spotting other bugs not listed above.\r\nAnd as always, please check for updates and keep your game up to date! "
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "We're already past the halfway mark of the Beta, which ends on <style=asia>April 14 at 3PM CEST</style>. Huge thanks for all the great feedback so far - we really appreciate it!\r\nAs we head into the weekend, our team will be out of office and a bit less responsive, but we’re rolling out a patch that should be live soon. We’ll be back on Monday. In the meantime, enjoy the Beta and don’t miss the <style=asia>Achievement Contest</style> on Discord!\r\nHere’s what’s been fixed and what we're still working on:\r\n<style=asia>Fixed bugs:</style>\r\n- Various blockers in tutorials\r\n- The total points were not displayed on the game summary\r\n- The desert background could not be claimed (we're unlocking it for everyone in the beta)\r\n- Back button was greyed out in the settings menu\r\n<style=asia>Known bugs:</style>\r\n- The Forest habitat cannot be clicked/tapped (activation, spending, or laying eggs) sometimes in Duet mode\r\n- Some backgrounds cover parts of the cards on the tray\r\n- The game may freeze when changing resolution during gameplay (it works properly when changed from Main Menu > Settings)\r\n<style=asia>Not a bug:</style>\r\n- No audio trivia when playing birds. In the beta, all birds are unlocked. To hear the trivia, switch the trivia setting to \"Always\" in game settings\r\nIf you’re playing over the weekend, feel free to focus on spotting other bugs not listed above.\r\nAnd as always, please check for updates and keep your game up to date! "
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "We're already past the halfway mark of the Beta, which ends on <style=asia>April 14 at 3PM CEST</style>. Huge thanks for all the great feedback so far - we really appreciate it!\r\nAs we head into the weekend, our team will be out of office and a bit less responsive, but we’re rolling out a patch that should be live soon. We’ll be back on Monday. In the meantime, enjoy the Beta and don’t miss the <style=asia>Achievement Contest</style> on Discord!\r\nHere’s what’s been fixed and what we're still working on:\r\n<style=asia>Fixed bugs:</style>\r\n- Various blockers in tutorials\r\n- The total points were not displayed on the game summary\r\n- The desert background could not be claimed (we're unlocking it for everyone in the beta)\r\n- Back button was greyed out in the settings menu\r\n<style=asia>Known bugs:</style>\r\n- The Forest habitat cannot be clicked/tapped (activation, spending, or laying eggs) sometimes in Duet mode\r\n- Some backgrounds cover parts of the cards on the tray\r\n- The game may freeze when changing resolution during gameplay (it works properly when changed from Main Menu > Settings)\r\n<style=asia>Not a bug:</style>\r\n- No audio trivia when playing birds. In the beta, all birds are unlocked. To hear the trivia, switch the trivia setting to \"Always\" in game settings\r\nIf you’re playing over the weekend, feel free to focus on spotting other bugs not listed above.\r\nAnd as always, please check for updates and keep your game up to date! "
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "We're already past the halfway mark of the Beta, which ends on <style=asia>April 14 at 3PM CEST</style>. Huge thanks for all the great feedback so far - we really appreciate it!\r\nAs we head into the weekend, our team will be out of office and a bit less responsive, but we’re rolling out a patch that should be live soon. We’ll be back on Monday. In the meantime, enjoy the Beta and don’t miss the <style=asia>Achievement Contest</style> on Discord!\r\nHere’s what’s been fixed and what we're still working on:\r\n<style=asia>Fixed bugs:</style>\r\n- Various blockers in tutorials\r\n- The total points were not displayed on the game summary\r\n- The desert background could not be claimed (we're unlocking it for everyone in the beta)\r\n- Back button was greyed out in the settings menu\r\n<style=asia>Known bugs:</style>\r\n- The Forest habitat cannot be clicked/tapped (activation, spending, or laying eggs) sometimes in Duet mode\r\n- Some backgrounds cover parts of the cards on the tray\r\n- The game may freeze when changing resolution during gameplay (it works properly when changed from Main Menu > Settings)\r\n<style=asia>Not a bug:</style>\r\n- No audio trivia when playing birds. In the beta, all birds are unlocked. To hear the trivia, switch the trivia setting to \"Always\" in game settings\r\nIf you’re playing over the weekend, feel free to focus on spotting other bugs not listed above.\r\nAnd as always, please check for updates and keep your game up to date! "
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "We're already past the halfway mark of the Beta, which ends on <style=asia>April 14 at 3PM CEST</style>. Huge thanks for all the great feedback so far - we really appreciate it!\r\nAs we head into the weekend, our team will be out of office and a bit less responsive, but we’re rolling out a patch that should be live soon. We’ll be back on Monday. In the meantime, enjoy the Beta and don’t miss the <style=asia>Achievement Contest</style> on Discord!\r\nHere’s what’s been fixed and what we're still working on:\r\n<style=asia>Fixed bugs:</style>\r\n- Various blockers in tutorials\r\n- The total points were not displayed on the game summary\r\n- The desert background could not be claimed (we're unlocking it for everyone in the beta)\r\n- Back button was greyed out in the settings menu\r\n<style=asia>Known bugs:</style>\r\n- The Forest habitat cannot be clicked/tapped (activation, spending, or laying eggs) sometimes in Duet mode\r\n- Some backgrounds cover parts of the cards on the tray\r\n- The game may freeze when changing resolution during gameplay (it works properly when changed from Main Menu > Settings)\r\n<style=asia>Not a bug:</style>\r\n- No audio trivia when playing birds. In the beta, all birds are unlocked. To hear the trivia, switch the trivia setting to \"Always\" in game settings\r\nIf you’re playing over the weekend, feel free to focus on spotting other bugs not listed above.\r\nAnd as always, please check for updates and keep your game up to date! "
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "We're already past the halfway mark of the Beta, which ends on <style=asia>April 14 at 3PM CEST</style>. Huge thanks for all the great feedback so far - we really appreciate it!\r\nAs we head into the weekend, our team will be out of office and a bit less responsive, but we’re rolling out a patch that should be live soon. We’ll be back on Monday. In the meantime, enjoy the Beta and don’t miss the <style=asia>Achievement Contest</style> on Discord!\r\nHere’s what’s been fixed and what we're still working on:\r\n<style=asia>Fixed bugs:</style>\r\n- Various blockers in tutorials\r\n- The total points were not displayed on the game summary\r\n- The desert background could not be claimed (we're unlocking it for everyone in the beta)\r\n- Back button was greyed out in the settings menu\r\n<style=asia>Known bugs:</style>\r\n- The Forest habitat cannot be clicked/tapped (activation, spending, or laying eggs) sometimes in Duet mode\r\n- Some backgrounds cover parts of the cards on the tray\r\n- The game may freeze when changing resolution during gameplay (it works properly when changed from Main Menu > Settings)\r\n<style=asia>Not a bug:</style>\r\n- No audio trivia when playing birds. In the beta, all birds are unlocked. To hear the trivia, switch the trivia setting to \"Always\" in game settings\r\nIf you’re playing over the weekend, feel free to focus on spotting other bugs not listed above.\r\nAnd as always, please check for updates and keep your game up to date! "
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "We're already past the halfway mark of the Beta, which ends on <style=asia>April 14 at 3PM CEST</style>. Huge thanks for all the great feedback so far - we really appreciate it!\r\nAs we head into the weekend, our team will be out of office and a bit less responsive, but we’re rolling out a patch that should be live soon. We’ll be back on Monday. In the meantime, enjoy the Beta and don’t miss the <style=asia>Achievement Contest</style> on Discord!\r\nHere’s what’s been fixed and what we're still working on:\r\n<style=asia>Fixed bugs:</style>\r\n- Various blockers in tutorials\r\n- The total points were not displayed on the game summary\r\n- The desert background could not be claimed (we're unlocking it for everyone in the beta)\r\n- Back button was greyed out in the settings menu\r\n<style=asia>Known bugs:</style>\r\n- The Forest habitat cannot be clicked/tapped (activation, spending, or laying eggs) sometimes in Duet mode\r\n- Some backgrounds cover parts of the cards on the tray\r\n- The game may freeze when changing resolution during gameplay (it works properly when changed from Main Menu > Settings)\r\n<style=asia>Not a bug:</style>\r\n- No audio trivia when playing birds. In the beta, all birds are unlocked. To hear the trivia, switch the trivia setting to \"Always\" in game settings\r\nIf you’re playing over the weekend, feel free to focus on spotting other bugs not listed above.\r\nAnd as always, please check for updates and keep your game up to date! "
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "We're already past the halfway mark of the Beta, which ends on <style=asia>April 14 at 3PM CEST</style>. Huge thanks for all the great feedback so far - we really appreciate it!\r\nAs we head into the weekend, our team will be out of office and a bit less responsive, but we’re rolling out a patch that should be live soon. We’ll be back on Monday. In the meantime, enjoy the Beta and don’t miss the <style=asia>Achievement Contest</style> on Discord!\r\nHere’s what’s been fixed and what we're still working on:\r\n<style=asia>Fixed bugs:</style>\r\n- Various blockers in tutorials\r\n- The total points were not displayed on the game summary\r\n- The desert background could not be claimed (we're unlocking it for everyone in the beta)\r\n- Back button was greyed out in the settings menu\r\n<style=asia>Known bugs:</style>\r\n- The Forest habitat cannot be clicked/tapped (activation, spending, or laying eggs) sometimes in Duet mode\r\n- Some backgrounds cover parts of the cards on the tray\r\n- The game may freeze when changing resolution during gameplay (it works properly when changed from Main Menu > Settings)\r\n<style=asia>Not a bug:</style>\r\n- No audio trivia when playing birds. In the beta, all birds are unlocked. To hear the trivia, switch the trivia setting to \"Always\" in game settings\r\nIf you’re playing over the weekend, feel free to focus on spotting other bugs not listed above.\r\nAnd as always, please check for updates and keep your game up to date! "
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "We're already past the halfway mark of the Beta, which ends on <style=asia>April 14 at 3PM CEST</style>. Huge thanks for all the great feedback so far - we really appreciate it!\r\nAs we head into the weekend, our team will be out of office and a bit less responsive, but we’re rolling out a patch that should be live soon. We’ll be back on Monday. In the meantime, enjoy the Beta and don’t miss the <style=asia>Achievement Contest</style> on Discord!\r\nHere’s what’s been fixed and what we're still working on:\r\n<style=asia>Fixed bugs:</style>\r\n- Various blockers in tutorials\r\n- The total points were not displayed on the game summary\r\n- The desert background could not be claimed (we're unlocking it for everyone in the beta)\r\n- Back button was greyed out in the settings menu\r\n<style=asia>Known bugs:</style>\r\n- The Forest habitat cannot be clicked/tapped (activation, spending, or laying eggs) sometimes in Duet mode\r\n- Some backgrounds cover parts of the cards on the tray\r\n- The game may freeze when changing resolution during gameplay (it works properly when changed from Main Menu > Settings)\r\n<style=asia>Not a bug:</style>\r\n- No audio trivia when playing birds. In the beta, all birds are unlocked. To hear the trivia, switch the trivia setting to \"Always\" in game settings\r\nIf you’re playing over the weekend, feel free to focus on spotting other bugs not listed above.\r\nAnd as always, please check for updates and keep your game up to date! "
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "We're already past the halfway mark of the Beta, which ends on <style=asia>April 14 at 3PM CEST</style>. Huge thanks for all the great feedback so far - we really appreciate it!\r\nAs we head into the weekend, our team will be out of office and a bit less responsive, but we’re rolling out a patch that should be live soon. We’ll be back on Monday. In the meantime, enjoy the Beta and don’t miss the <style=asia>Achievement Contest</style> on Discord!\r\nHere’s what’s been fixed and what we're still working on:\r\n<style=asia>Fixed bugs:</style>\r\n- Various blockers in tutorials\r\n- The total points were not displayed on the game summary\r\n- The desert background could not be claimed (we're unlocking it for everyone in the beta)\r\n- Back button was greyed out in the settings menu\r\n<style=asia>Known bugs:</style>\r\n- The Forest habitat cannot be clicked/tapped (activation, spending, or laying eggs) sometimes in Duet mode\r\n- Some backgrounds cover parts of the cards on the tray\r\n- The game may freeze when changing resolution during gameplay (it works properly when changed from Main Menu > Settings)\r\n<style=asia>Not a bug:</style>\r\n- No audio trivia when playing birds. In the beta, all birds are unlocked. To hear the trivia, switch the trivia setting to \"Always\" in game settings\r\nIf you’re playing over the weekend, feel free to focus on spotting other bugs not listed above.\r\nAnd as always, please check for updates and keep your game up to date! "
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "We're already past the halfway mark of the Beta, which ends on <style=asia>April 14 at 3PM CEST</style>. Huge thanks for all the great feedback so far - we really appreciate it!\r\nAs we head into the weekend, our team will be out of office and a bit less responsive, but we’re rolling out a patch that should be live soon. We’ll be back on Monday. In the meantime, enjoy the Beta and don’t miss the <style=asia>Achievement Contest</style> on Discord!\r\nHere’s what’s been fixed and what we're still working on:\r\n<style=asia>Fixed bugs:</style>\r\n- Various blockers in tutorials\r\n- The total points were not displayed on the game summary\r\n- The desert background could not be claimed (we're unlocking it for everyone in the beta)\r\n- Back button was greyed out in the settings menu\r\n<style=asia>Known bugs:</style>\r\n- The Forest habitat cannot be clicked/tapped (activation, spending, or laying eggs) sometimes in Duet mode\r\n- Some backgrounds cover parts of the cards on the tray\r\n- The game may freeze when changing resolution during gameplay (it works properly when changed from Main Menu > Settings)\r\n<style=asia>Not a bug:</style>\r\n- No audio trivia when playing birds. In the beta, all birds are unlocked. To hear the trivia, switch the trivia setting to \"Always\" in game settings\r\nIf you’re playing over the weekend, feel free to focus on spotting other bugs not listed above.\r\nAnd as always, please check for updates and keep your game up to date! "
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "We're already past the halfway mark of the Beta, which ends on <style=asia>April 14 at 3PM CEST</style>. Huge thanks for all the great feedback so far - we really appreciate it!\r\nAs we head into the weekend, our team will be out of office and a bit less responsive, but we’re rolling out a patch that should be live soon. We’ll be back on Monday. In the meantime, enjoy the Beta and don’t miss the <style=asia>Achievement Contest</style> on Discord!\r\nHere’s what’s been fixed and what we're still working on:\r\n<style=asia>Fixed bugs:</style>\r\n- Various blockers in tutorials\r\n- The total points were not displayed on the game summary\r\n- The desert background could not be claimed (we're unlocking it for everyone in the beta)\r\n- Back button was greyed out in the settings menu\r\n<style=asia>Known bugs:</style>\r\n- The Forest habitat cannot be clicked/tapped (activation, spending, or laying eggs) sometimes in Duet mode\r\n- Some backgrounds cover parts of the cards on the tray\r\n- The game may freeze when changing resolution during gameplay (it works properly when changed from Main Menu > Settings)\r\n<style=asia>Not a bug:</style>\r\n- No audio trivia when playing birds. In the beta, all birds are unlocked. To hear the trivia, switch the trivia setting to \"Always\" in game settings\r\nIf you’re playing over the weekend, feel free to focus on spotting other bugs not listed above.\r\nAnd as always, please check for updates and keep your game up to date! "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 257,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "<style=asia>The latest build number starts with 1.7.173 for Steam PC and 1.7.111 for Steam Mac.</style> \r\nHave fun! \r\n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "<style=asia>The latest build number starts with 1.7.173 for Steam PC and 1.7.111 for Steam Mac.</style> \r\nHave fun! \r\n"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "<style=asia>The latest build number starts with 1.7.173 for Steam PC and 1.7.111 for Steam Mac.</style> \r\nHave fun! \r\n"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "<style=asia>The latest build number starts with 1.7.173 for Steam PC and 1.7.111 for Steam Mac.</style> \r\nHave fun! \r\n"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "<style=asia>The latest build number starts with 1.7.173 for Steam PC and 1.7.111 for Steam Mac.</style> \r\nHave fun! \r\n"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "<style=asia>The latest build number starts with 1.7.173 for Steam PC and 1.7.111 for Steam Mac.</style> \r\nHave fun! \r\n"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "<style=asia>The latest build number starts with 1.7.173 for Steam PC and 1.7.111 for Steam Mac.</style> \r\nHave fun! \r\n"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "<style=asia>The latest build number starts with 1.7.173 for Steam PC and 1.7.111 for Steam Mac.</style> \r\nHave fun! \r\n"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "<style=asia>The latest build number starts with 1.7.173 for Steam PC and 1.7.111 for Steam Mac.</style> \r\nHave fun! \r\n"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "<style=asia>The latest build number starts with 1.7.173 for Steam PC and 1.7.111 for Steam Mac.</style> \r\nHave fun! \r\n"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "<style=asia>The latest build number starts with 1.7.173 for Steam PC and 1.7.111 for Steam Mac.</style> \r\nHave fun! \r\n"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "<style=asia>The latest build number starts with 1.7.173 for Steam PC and 1.7.111 for Steam Mac.</style> \r\nHave fun! \r\n"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "<style=asia>The latest build number starts with 1.7.173 for Steam PC and 1.7.111 for Steam Mac.</style> \r\nHave fun! \r\n"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 8,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "<style=asia>The latest build number starts with 1.7.994.</style> \r\nHave fun! "
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "<style=asia>The latest build number starts with 1.7.994.</style> \r\nHave fun! "
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "<style=asia>The latest build number starts with 1.7.994.</style> \r\nHave fun! "
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "<style=asia>The latest build number starts with 1.7.994.</style> \r\nHave fun! "
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "<style=asia>The latest build number starts with 1.7.994.</style> \r\nHave fun! "
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "<style=asia>The latest build number starts with 1.7.994.</style> \r\nHave fun! "
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "<style=asia>The latest build number starts with 1.7.994.</style> \r\nHave fun! "
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "<style=asia>The latest build number starts with 1.7.994.</style> \r\nHave fun! "
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "<style=asia>The latest build number starts with 1.7.994.</style> \r\nHave fun! "
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "<style=asia>The latest build number starts with 1.7.994.</style> \r\nHave fun! "
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "<style=asia>The latest build number starts with 1.7.994.</style> \r\nHave fun! "
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "<style=asia>The latest build number starts with 1.7.994.</style> \r\nHave fun! "
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "<style=asia>The latest build number starts with 1.7.994.</style> \r\nHave fun! "
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
         }
     ]
 }
