@@ -559,315 +559,6 @@
             "Actions": []
         },
         {
-            "ID": "19a3638d-0040-469b-8f68-10cde84a907e",
-            "Tags": [
-                "Events"
-            ],
-            "PlatformsToShowOn": 511,
-            "StartDateTicks": 638633376000000000,
-            "EndDateTicks": 638661888000000000,
-            "Priority": 1,
-            "PresetImageName": "",
-            "RemoteImageName": "WS_Halloween.jpg\r\n",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Happy Halloween!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Wesołego Halloween!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Ein fröhliches Halloween-Fest!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Joyeux Halloween !\n"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Feliz Halloween!\n"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Feliz Dia das Bruxas!\n"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "ハッピーハロウィン！\n"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Счастливого Хэллоуина!\n"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "万圣节快乐！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "萬聖節快樂！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Buon Halloween!\n"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "해피 핼러윈!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Веселого Гелловіну!\n"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Halloween background is back!\n"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Tło halloweenowe wróciło!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Der Halloween-Hintergrund ist zurück!\n"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "L’arrière-plan d’Halloween fait son retour !\n"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡El fondo de Halloween ha vuelto!\n"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "O Fundo de Dia das Bruxas voltou!\n"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "ハロウィン背景が帰ってきた！\n"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Хэллоуинский фон возвращается!\n"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "万圣节主题装饰背景又回来啦！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "萬聖節主題裝飾背景又回來啦！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Lo sfondo di Halloween è tornato!\n"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "핼러윈 배경이 돌아왔습니다!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Гелловінське тло повертається!\n"
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 511,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Spooky season is here and to celebrate we’re bringing back our seasonal Halloween background for everyone! \r\nEmbrace the Halloween spirit and feel the cozy mood of Wingspan but remember - look out for the Scarecrow! \r\nEnjoy this special seasonal background from <b> October 1 to November 3 </b> - or unlimitedly with Seasonal Decorative Pack!\r\n"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Sezon straszydeł powrócił, a my świętujemy ten czas udostępniając nasze sezonowe tło halloweenowe wszystkim Ptasiarzom! Wprowadź się w halloweenowy nastrój i poczuj przytulność Na Skrzydłach, ale pamiętaj - uważaj na Stracha na Wróble! Ciesz się specjalnym tłem sezonowym od <b>1 października do 3 listopada</b>, lub bez ograniczeń dzięki Sezonowemu Pakietowi Dekoracyjnemu!"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Die gruseligste Zeit des Jahres steht vor der Tür und wir feiern sie mit der Rückkehr unseres saisonalen Hintergrunds für alle!\r\nKomm in Halloween-Laune, während du die entspannende Atmosphäre von Wingspan (Flügelschlag) genießt. Aber hüte dich vor der Vogelscheuche!\r\nNutze diesen besonderen Jahreszeiten-Hintergrund vom <b>1. Oktober bis zum 3. November</b> – oder mit dem Jahreszeiten-Dekopaket auch das ganze Jahr!\r\n"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "C’est la saison des frissons ! Pour fêter ça, l’arrière-plan d’Halloween fait son retour pour tout le monde !\r\nEntrez dans l’esprit d’Halloween tout en profitant de l’ambiance chaleureuse de Wingspan, mais faites quand même attention à l’épouvantail !\r\nProfitez de cet arrière-plan de saison du <b>1 octobre au 3 novembre</b>, ou toute l’année grâce au pack décoratif saisonnier !\r\n"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Ya está aquí la época más aterradora, ¡y para celebrarlo os traemos de vuelta nuestro característico fondo de temporada de Halloween!\r\nSiente el espíritu de Halloween y acomódate para jugar a Wingspan, pero recuerda: ¡cuidado con el espantapájaros!\r\nDisfruta de este fondo de temporada desde el <b>1 de octubre al 3 de noviembre</b>; ¡o de forma ilimitada con el paquete de decoraciones festivas!\r\n"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "A temporada assustadora chegou, e para comemorar estamos trazendo de volta nosso fundo sazonal de Dia das Bruxas para todos!\r\nAbrace o espírito do Dia das Bruxas e sinta o clima aconchegante de Wingspan, mas lembre-se: fique de olho no Espantalho!\r\nAproveite este fundo sazonal especial de <b>1 de outubro a 3 de novembro</b>, ou para sempre com o Pacote Decorativo Sazonal!\r\n"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "今年も不気味な季節がやってきました！これを記念して、期間限定のハロウィン背景が復活！\r\nハロウィン気分でウィングスパンの居心地の良いムードを楽しもう！ただし、カカシには気を付けるように！\r\n期間限定特別背景は<b>10月1日から11月3日まで</b>。「季節の装飾パック」を買うとずっと使える！\r\n"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Наступает время ужасов, и в честь этого мы снова дарим всем сезонный хэллоуинский фон!\r\nПроникнитесь духом Хэллоуина и уютной атмосферой «Крыльев» — но опасайтесь Пугала!\r\nЭтот особый сезонный фон будет доступен с <b>1 октября по 3 ноября</b> (или без ограничений с декоративным набором «Времена года»).\r\n"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "万圣节来了，为庆祝这一时刻，我们为大家带回了万圣节主题限定背景！\r\n感受《展翅翱翔》的温馨氛围，尽情享受万圣节的欢乐，但千万别忘了——小心稻草人！\r\n这个特别的节日背景将在<b>10月1日到11月3日</b>之间限时开放，或者您可以通过购买季节装饰包无限期使用！\r\n"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "萬聖節來了，為慶祝這一時刻，我們為大家帶回了萬聖節主題限定背景！\r\n感受《展翅翱翔》的溫馨氛圍，盡情享受萬聖節的歡樂，但千萬別忘了——小心稻草人！\r\n這個特別的節日背景將在<b>10月1日到11月3日</b>之間限時開放，或者您可以通過購買季節裝飾包無限期使用！\r\n"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "La stagione del brivido è qui e per l’occasione abbiamo reso nuovamente disponibile per tutti il nostro sfondo stagionale a tema Halloween!\r\nEntra nello spirito di Halloween e divertiti con la spensieratezza di Wingspan, ma ricorda: fa’ attenzione allo spaventapasseri!\r\nPotrai goderti lo speciale sfondo stagionale dal <b>1 ottobre al 3 novembre</b>, oppure a tempo illimitato con il pacchetto decorativo stagionale!\r\n"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "오싹오싹 시즌이 돌아왔습니다. 이를 기념하고자 모든 분들을 위해 핼러윈 시즌 배경을 다시 선보입니다!\r\n핼러윈 분위기를 만끽하며 윙스팬의 아늑한 분위기를 느껴보세요. 그리고 허수아비를 조심하세요!\r\n이 특별한 시즌 배경을 <b>10월 1일부터 11월 3일까지</b> 한정 기간동안 즐기거나, 시즌 장식 팩으로 무제한으로 즐겨보세요!\r\n"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Моторошна пора насуває! До Гелловіну ми повернули для всіх наше сезонне тло!\r\nПройміться духом пустощів і затишком «Крил», однак пам'ятайте: десь уже чигає Опудало!\r\nНасолоджуйтеся спеціальним сезонним тлом із <b>1 жовтня до 3 листопада</b> — або ж скільки завгодно з декоративним набором «Пори року»!\r\n"
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": [
-                {
-                    "ActionType": 1,
-                    "PlatformsToShowOn": 257,
-                    "Value": "SB_DLC",
-                    "ButtonText": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Check out Decorative DLC"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Sprawdź Dodatek Dekoracyjny"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Deko-DLC ansehen"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Découvrez le DLC décoratif"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Echa un ojo al DLC de decoración"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Confira o DLC Decorativo"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "装飾DLCをチェックしよう"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Взгляните на дополнение с украшениями"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "查看装饰包DLC"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "查看裝飾包DLC"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Scopri il DLC decorativo"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "장식 DLC 확인"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Декоративний DLC тут"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "ActionType": 1,
-                    "PlatformsToShowOn": 2,
-                    "Value": "SB_DLC",
-                    "ButtonText": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Check out Decorative DLC"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Sprawdź Dodatek Dekoracyjny"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Deko-DLC ansehen"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Découvrez le DLC décoratif"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Echa un ojo al DLC de decoración"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Confira o DLC Decorativo"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "装飾DLCをチェックしよう"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Взгляните на дополнение с украшениями"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "查看装饰包DLC"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "查看裝飾包DLC"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Scopri il DLC decorativo"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "장식 DLC 확인"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Декоративний DLC тут"
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
             "ID": "6ea03563-0ee2-425b-b555-4a4bc17a07b0",
             "Tags": [
                 "Online"
@@ -1992,254 +1683,6 @@
             "Actions": []
         },
         {
-            "ID": "a89c0684-3948-4a39-967b-30d0ce97d9e6",
-            "Tags": [
-                "Events"
-            ],
-            "PlatformsToShowOn": 511,
-            "StartDateTicks": 638701632000000000,
-            "EndDateTicks": 638712401400000000,
-            "Priority": 1,
-            "PresetImageName": "",
-            "RemoteImageName": "WS_WINTER_BG.png",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Happy Holiday!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Wesołych Świąt!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Frohe Feiertage!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Joyeuses fêtes !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Felices fiestas!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Boas Festas!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "ハッピー・ホリデー！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Счастливых праздников!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "节日快乐！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "節日快樂！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Buone feste!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "즐거운 연말!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Зі святом!"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Holiday Background is back!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Tło świąteczne wróciło!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Der Feiertag-Hintergrund ist wieder da!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "L'arrière-plan des fêtes est de retour !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Vuelve el fondo de Navidad!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "O fundo de Festas de Fim de Ano está de volta!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "ホリデー背景が戻ってきました！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Праздничный фон снова в игре!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "节日背景返场了！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "節日背景返場了！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Lo sfondo Festivo è tornato!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "연말 배경이 돌아왔습니다!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Святковий фон повертається!"
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 511,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Can you feel the festive vibes? It’s the Holiday Background coming back to Wingspan! \n\nSettle in with your birds in a snowy and festive nature preserve, find hidden interactions, and feel the holiday spirit!\n\nThe background is available until December 31st or without limits with the Seasonal Decorative Pack. \n"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Czujesz klimat świąt? Świąteczne tło powraca do Na Skrzydłach! \n\nRozgość się ze swoimi ptakami w zaśnieżonym i świątecznym rezerwacie przyrody, znajdź ukryte interakcje i poczuj świąteczny nastrój!\n\nTło jest dostępne do 31 grudnia lub bez ograniczeń z Sezonowym Zestawem Dekoracyjnym."
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Spürst du die festlichen Vibes? Der Feiertag-Hintergrund kehrt zu Wingspan zurück! \n\nMach es dir mit deinen Vögeln in einem verschneiten und festlichen Naturschutzpark gemütlich, finde versteckte Interaktionen und genieße die Feiertagsstimmung!\n\n Der Hintergrund ist bis zum 31. Dezember verfügbar – oder unbegrenzt im Jahreszeiten-Dekopaket."
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Ressentez-vous l'ambiance festive ? C'est le retour de l'arrière-plan des fêtes sur Wingspan !\n\nInstallez-vous avec vos oiseaux dans une réserve naturelle festive et enneigée, découvrez des interactions cachées, et profitez des fêtes !\n\nL'arrière-plan est disponible jusqu'au 31 décembre, ou en permanence avec le pack décoratif saisonnier."
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "¿Notas el ambiente festivo? ¡Es el fondo de Navidad, que vuelve a Wingspan!\n\nRelájate junto a tus aves en una reserva natural alegre y nevada, descubre interacciones ocultas y siente el espíritu navideño.\n\nEl fondo estará disponible hasta el 31 de diciembre o de forma ilimitada con el paquete decorativo estacional."
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Consegue sentir o clima festivo? O Fundo de Festas de Fim de Ano está de volta ao Wingspan! \n\nAcomode-se com suas aves em uma reserva natural nevada e festiva, descubra interações ocultas e sinta o espírito de fim de ano!\n\nO fundo estará disponível até 31 de dezembro ou sem limites com o Pacote Decorativo Sazonal."
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "お祭りの雰囲気に気付きましたか？　ホリデー背景がウイングスパンに戻ってきました！\n\n鳥たちと一緒に雪景色とお祭りの保護区に腰を落ちつけて、隠されたインタラクションを探し、祝日の気分を味わいましょう！\n\n背景は12月31日まで使用可能です。または、季節の装飾パックがあれば制限なしに使用できます。"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Чувствуете праздничную атмосферу? В игре «Крылья» снова появился праздничный фон!\n\nУстраивайтесь вместе со своими птицами в украшенном снежном заповеднике, ищите интерактивные действия и заряжайтесь праздничным настроением!\n\nФон останется в игре до 31 декабря, а для владельцев декоративного набора «Времена года» — навсегда."
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "你能感受到节日的氛围吗？《展翅翱翔》的节日背景返场了！\n\n在一个白雪皑皑且充满节日气氛的自然保护区里，和你的鸟儿们一起安顿下来，发现隐藏的互动，感受节日的氛围！\n\n此背景在 12 月 31 日前可用，或者购买季节性装饰包永久使用。"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "你能感受到節日的氛圍嗎？《展翅翱翔》的節日背景返場了！\n\n在一個白雪皚皚且充滿節日氣氛的自然保護區里，和你的鳥兒們一起安頓下來，發現隱藏的互動，感受節日的氛圍！\n\n此背景在 12 月 31 日前可用，或者購買季節性裝飾包永久使用。"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Senti l'atmosfera delle feste? Lo sfondo Festivo è tornato su Wingspan!\n\nSistemati insieme ai tuoi uccelli in una riserva naturale innevata e festiva, scopri interazioni segrete e vivi lo spirito delle feste!\n\nLo sfondo è disponibile fino al 31 dicembre oppure può essere tuo per sempre acquistando il pacchetto decorativo stagionale."
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "축제 분위기가 느껴지시나요? 윙스팬에 연말 배경이 돌아왔습니다!\n\n눈 덮인 축제 분위기의 자연 보호구역에서 새들과 함께 숨은 교감을 나누며 연말 분위기를 느껴보세요!\n\n배경은 12월 31일까지 사용 가능하며, 계절 장식 팩을 구입하면 제한 없이 사용할 수 있습니다."
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Свято наближається, чи не так? До «Крил» повертається святковий фон! \n\nОселіться зі своїми птахами в сніжному й ошатному заповіднику, знайдіть приховані взаємодії й відчуйте дух свята!\n\nФон доступний до 31 грудня або без обмежень за умови придбання декоративного набору «Пори року»."
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": [
-                {
-                    "ActionType": 1,
-                    "PlatformsToShowOn": 257,
-                    "Value": "SB_DLC",
-                    "ButtonText": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Check out Decorative DLC"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Sprawdź dekoracyjne DLC"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Sieh dir den Deko-DLC an"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Voir le DLC décoratif"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Ver DLC decorativo"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Conferir o DLC Decorativo"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "装飾DLCをチェックしましょう"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Посмотреть декоративный набор"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "查看装饰包DLC"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "查看裝飾包DLC"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Dai un'occhiata al DLC decorativo"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "장식 DLC 확인"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Ознайомтеся з декоративним доповненням"
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
             "ID": "9fe5de9e-99a5-4d6b-a419-9c43b84fb066",
             "Tags": [
                 "NewContent"
@@ -2667,569 +2110,12 @@
             ]
         },
         {
-            "ID": "f658579c-3939-4742-b04d-f1d62115707c",
-            "Tags": [
-                "Events"
-            ],
-            "PlatformsToShowOn": 511,
-            "StartDateTicks": 638731008000000000,
-            "EndDateTicks": 946113696000000000,
-            "Priority": 1,
-            "PresetImageName": "",
-            "RemoteImageName": "Wingspan_LNY.jpg",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Happy Lunar New Year!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Szczęśliwego Księżycowego Nowego Roku!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Alles Gute zum chinesischen Neujahr!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Joyeux Nouvel An chinois !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Feliz Año Nuevo chino!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Feliz Ano Novo Chinês!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "旧正月おめでとう！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Поздравляем с китайским Новым годом!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "春節快樂！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "春节快乐！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Buon Capodanno cinese!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "새해 복 많이 받으세요!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Вітаємо з китайським Новим роком!"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Celebrate with the Lunar New Year Background!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Świętuj z Księżycowym Noworocznym Tłem!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Feiere das chinesische Neujahrsfest mit dem Hintergrund „Chinesisches Neujahr“!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Faites la fête avec l'arrière-plan Nouvel An chinois !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Celébralo con el fondo del Año Nuevo chino!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Comemore com o plano de fundo do Ano Novo Chinês!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "旧正月の背景でお祝いしよう！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Отпразднуйте китайский Новый год с новым фоном!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "用春節背景來慶祝這個時刻！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "用春节背景来庆祝这个时刻！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Festeggia con lo sfondo Capodanno cinese!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "구정 배경과 함께 새해를 축하하세요!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Відсвяткуйте китайський Новій рік з новим фоном!"
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 511,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Join the flock and celebrate Lunar New Year with a stunning seasonal background in Wingspan! Watch as lanterns float, decorations sparkle, and the spirit of renewal fills the air in your bird-filled preserve.\n\nThis limited background will be available until [February 12] or permanently in the Seasonal Decorative Pack 2. Let’s make this Lunar New Year one to remember!"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Dołącz do stada i uczcij Księżycowy Nowy Rok z oszałamiającym sezonowym tłem w Na Skrzydłach! Obserwuj, jak lampiony unoszą się w powietrzu, dekoracje błyszczą, a duch odnowy wypełnia powietrze w twoim rezerwacie pełnym ptaków.\n\nTo limitowane tło będzie dostępne do [12 lutego] lub na stałe w Sezonowym Zestawie Dekoracyjnym 2. Sprawmy, by ten Księżycowy Nowy Rok był niezapomniany!"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Schließe dich dem Schwarm an und feiere das chinesische Neujahrsfest mit einem atemberaubenden Jahreszeiten-Hintergrund in Wingspan! Lass dich davon verzaubern, wie die Laternen schweben, die Dekorationen funkeln und der Geist der Erneuerung die Luft erfüllt, während du dein Reservat voller Vögel aufbaust.\n\nDieser limitierte Hintergrund ist bis zum [12. Februar] verfügbar – oder dauerhaft im Jahreszeiten-Dekopaket 2. Lass uns dieses Mond-Neujahr unvergesslich machen!"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Volez avec nous et célébrez le Nouvel An chinois dans Wingspan avec un magnifique arrière-plan saisonnier ! Admirez les lanternes s'envoler, les décorations scintiller, et l'esprit du renouveau emplir l'atmosphère de votre volière.\n\nCet arrière-plan à durée limitée sera disponible jusqu'au [12 février] ou définitivement dans le pack décoratif saisonnier 2. Rendons ce Nouvel An lunaire inoubliable !"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "¡Únete a la bandada y celebra el Año Nuevo chino con un impresionante fondo estacional de Wingspan! Disfruta viendo cómo flotan los faroles entre brillantes adornos mientras un espíritu renovador impregna el aire de tu aviario.\n\nEste fondo por tiempo limitado estará disponible hasta el [12 de febrero] o de forma permanente con el paquete decorativo estacional 2. ¡Hagamos que este Año Nuevo lunar sea inolvidable!"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Junte-se ao bando e comemore o Ano Novo Chinês com um fundo sazonal deslumbrante no Wingspan! Observe as lanternas flutuar, as decorações brilhar e o espírito de renovação encher o ar em sua reserva repleta de aves.\n\nEste plano de fundo limitado estará disponível até [12 de fevereiro] ou permanentemente no Pacote Decorativo Sazonal 2. Vamos fazer com que este Ano Novo Lunar fique na memória!"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "鳥たちと一緒に、魅力的な季節の背景で『ウイングスパン』の旧正月をお祝いしよう！浮かぶ灯篭、煌めく装飾、鳥でいっぱいの保護区に満ちる、生まれ変わるような雰囲気を見て楽しもう。\n\nこの限定背景は[2月12日]まで利用できる。また、「季節の装飾パック2」の購入でずっと利用可能になる。今年の旧正月を忘れられない思い出にしよう！\n"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Присоединяйтесь к стае и отмечайте китайский Новый год с великолепным новым фоном в «Крыльях»! Пусть вас порадуют парящие фонарики и блеск украшений, а в атмосфере вашего птичьего заповедника почувствуется дух обновления!\n\nЭтот ограниченный по времени фон будет в игре до [12 февраля], а в декоративном наборе «Времена года 2» он доступен постоянно. Сделаем этот Лунный Новый год незабываемым!"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "加入鳥群，一起慶祝春節吧！在《展翅翱翔》美麗的季節性背景中感受春節的氛圍！觀賞燈籠飄揚、裝飾閃耀，全新的氛圍將充滿你的鳥類棲息地。\n\n這個限時背景將持續開放至 [2月12日]，或可通過購買「季節性裝飾包2」永久獲得。讓我們一起創造一個難忘的春節吧!"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "加入鸟群，一起庆祝春节吧！在《展翅翱翔》美丽的季节性背景中感受春节的氛围！观赏灯笼飘扬、装饰闪耀，全新的氛围将充满你的鸟类栖息地。\n\n这个限时背景将持续开放至 [2月12日]，或可通过购买“季节性装饰包2”永久获得。让我们一起创造一个难忘的春节吧！"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Unisciti allo stormo e festeggia il Capodanno cinese con un meraviglioso sfondo stagionale su Wingspan! Osserva le lanterne fluttuare, le decorazioni brillare e lo spirito di rinnovamento riempire l'aria nella tua voliera piena di uccelli.\n\nQuesto sfondo a tempo limitato sarà disponibile fino al [12 febbraio] o permanentemente nel pacchetto decorativo stagionale 2. Rendi indimenticabile questo Capodanno lunare!"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "윙스팬의 멋진 계절 배경과 함께 새들의 무리에 합류해 구정을 축하해 보세요! 등불이 떠다니고, 장식이 반짝이며, 새들이 가득한 보존 지역에 새로운 기운이 가득 차는 것을 지켜보세요.\n\n이 한정 배경은 [2월 12일]까지 한시적으로 사용하거나, 계절 장식 팩 2에서 영구적으로 사용할 수 있습니다. 이번 설날을 멋진 추억으로 남겨보세요!"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Приєднуйтесь до зграї і святкуйте китайський Новий рік з чудовим новим фоном в «Крилах»! Нехай вас порадують ширяючі у повітрі ліхтарики і блиск прикрас, а у атмосфері вашого пташиного заповідника панує відчуття оновлення!\n\nЦей обмежений по часу фон буде у грі до [12 лютого], а в декоративному наборі «Пори року 2» він доступний постійно. Зробимо цей китайський Новий рік незабутнім!"
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": [
-                {
-                    "ActionType": 1,
-                    "PlatformsToShowOn": 257,
-                    "Value": "SDP2_DLC",
-                    "ButtonText": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Check out Decorative DLC"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Sprawdź dekoracyjne DLC"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Sieh dir den Deko-DLC an"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Voir le DLC décoratif"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Ver DLC decorativo"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Conferir o DLC Decorativo"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "装飾DLCをチェックしましょう"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Посмотреть декоративный набор"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "查看裝飾性 DLC"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "查看装饰性 DLC"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Dai un'occhiata al DLC decorativo"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "장식 DLC 확인"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Ознайомтеся з декоративним доповненням"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "ActionType": 0,
-                    "PlatformsToShowOn": 2,
-                    "Value": "https://www.gog.com/en/game/wingspan_seasonal_decorative_pack_2",
-                    "ButtonText": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Check out Decorative DLC"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Sprawdź dekoracyjne DLC"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Sieh dir den Deko-DLC an"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Voir le DLC décoratif"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Ver DLC decorativo"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Conferir o DLC Decorativo"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "装飾DLCをチェックしましょう"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Посмотреть декоративный набор"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "查看裝飾性 DLC"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "查看装饰性 DLC"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Dai un'occhiata al DLC decorativo"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "장식 DLC 확인"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Ознайомтеся з декоративним доповненням"
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "ID": "2e2b5e78-c53d-400d-ac15-9b35688761fb",
-            "Tags": [
-                "Events"
-            ],
-            "PlatformsToShowOn": 511,
-            "StartDateTicks": 638751420000000000,
-            "EndDateTicks": 946127520000000000,
-            "Priority": 1,
-            "PresetImageName": "",
-            "RemoteImageName": "Wingspan_ValentinesDay.jpg",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Love is in the Air!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Miłość unosi się w powietrzu!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Die Liebe liegt in der Luft!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Il y a de l'amour dans l'air !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Se respira amor en el aire!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "O amor está no ar!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "恋の予感があふれてる！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Воздух дышит любовью!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "愛意瀰漫！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "爱意弥漫！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "L'amore è nell'aria!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "사랑은 바람을 타고!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Любов відчувається у повітрі!"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "The Valentine's Day Background is back in Wingspan!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Walentynkowe Tło wraca do Wingspan!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Der Valentinstag-Hintergrund ist wieder in Wingspan verfügbar!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "L'arrière-plan Saint-Valentin est de retour dans Wingspan !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Vuelve el fondo de San Valentín a Wingspan!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "O plano de fundo do Dia dos Namorados está de volta no Wingspan!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "バレンタインデー背景が『ウイングスパン』に再登場！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Фон, посвящённый Дню святого Валентина, снова доступен в «Крыльях»!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "情人節背景重返《展示翱翔》了！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "情人节背景重返《展示翱翔》了！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Lo sfondo San Valentino è tornato su Wingspan!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "윙스팬에 발렌타인 배경이 돌아왔습니다!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Фон, присвячений Дню святого Валентина, знову доступний у «Крилах»!"
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 511,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Get ready for all things lovely and feathery! Wingspan’s Valentine’s Day background has returned, filling your preserve with heartwarming vibes, sweet pink hues, and touches of romance. Can you spot the little details we’ve added to get you in the spirit?\n\nPlay with this limited-time background until [February 28], or keep it year-round with the Seasonal Decorative Pack. It’s a season of love - for birds, for nature, for Wingspan!"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Przygotuj się na wszystko, co urocze i pierzaste! Walentynkowe Tło jest znów dostępne w Na Skrzydłach, wypełniając twój rezerwat ciepłą atmosferą, słodkimi różowymi odcieniami i romantycznymi akcentami. Czy zauważysz drobne detale, które dodaliśmy, by wprowadzić cię w walentynkowy klimat?\n\nGraj z tym limitowanym tłem do [28 lutego] lub zachowaj je na stałe dzięki Sezonowemu Zestawowi Dekoracyjnemu. To sezon miłości – do ptaków, natury i Na Skrzydłach!"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Mach dich bereit für alles Liebreizende und Federleichte! Wingspans Valentinstag-Hintergrund ist wieder da und erfüllt dein Reservat mit einer herzerwärmenden Stimmung, zartrosa Farbtönen und einem Hauch Romantik. Entdeckst du die Details, die wir hinzugefügt haben, um dich in Stimmung zu bringen?\n\nSpiele bis zum [28. Februar] mit diesem limitierten Hintergrund – oder behalte ihn für das ganze Jahr mit dem Jahreszeiten-Dekopaket. Es ist die Zeit der Liebe – für die Vögel, die Natur und für Wingspan!"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Préparez-vous pour une avalanche d'amour duveteux ! L'arrière-plan Saint-Valentin fait son retour dans Wingspan, emplissant votre volière d'une atmosphère réconfortante, de douces nuances de rose, et d'une touche de romance. Trouverez-vous les petits détails que nous avons ajoutés pour vous mettre dans l'ambiance ?\n\nJouez avec cet arrière-plan à durée limitée jusqu'au [28 février], ou gardez-le l'année entière avec le pack décoratif saisonnier. C'est la saison de l'amour, pour les oiseaux, la nature et Wingspan !\n"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "¡Prepárate para disfrutar del amor y las plumas! Ya está aquí otra vez el fondo de San Valentín de Wingspan para hacer de tu aviario un lugar más acogedor, con unas suaves pinceladas de rosa y un toque más romántico. ¿Ves los detallitos que hemos añadido para que te embargue el espíritu del amor?\n\nJuega con este fondo por tiempo limitado hasta el [28 de febrero] o consérvalo durante todo el año con el paquete decorativo estacional. Es la época del amor: ¡amor por las aves, por la naturaleza y por Wingspan!\n"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Prepare-se para coisas lindas e cheias de penas! O fundo do Dia dos Namorados do Wingspan voltou, trazendo à sua reserva vibrações acolhedoras, suaves tons de rosa e toques de romance. Você consegue perceber os pequenos detalhes que adicionamos para entrar no clima?\n\nAproveite este fundo por tempo limitado até [28 de fevereiro] ou fique com ele o ano todo com o Pacote Decorativo Sazonal. É uma temporada de amor - pelas aves, pela natureza, pelo Wingspan!\n"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "羽の生えた愛らしい存在を迎えに行こう！『ウイングスパン』のバレンタインデー背景が戻ってきた。心温まる雰囲気、甘いピンクの色、ロマンスの予感で保護区を満たそう。プレイヤーの気分を盛り上げるために、ちょっとしたディティールを追加。見つけられるかな？\n\nこの限定背景を使って[2月28日]までプレイできる。また、「季節の装飾パック」を購入すれば通年利用が可能。鳥、自然、『ウイングスパン』への愛を伝えよう！\n"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Готовьтесь ко всему милому и пушистому! Фон в честь Дня святого Валентина возвращается в «Крылья». Ваш заповедник наполнится нежностью, романтикой и всеми оттенками розового! Разыщите все милые маленькие сюрпризы, которые мы спрятали для вас в честь праздника.\n\nЭтот фон доступен в игре только до [28 февраля], но с декоративным набором «Времена года» — хоть весь год напролёт. Это время любви — к птицам, к природе и к «Крыльям»!\n"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "準備好迎接所有可愛切似羽毛輕軟的裝飾吧！《展翅翱翔》的情人節背景回歸了，為你的鳥類棲息地注入溫馨氛圍、柔和粉紅色調和一些浪漫點綴。你能發現那些為了增添節日氣息而特別加入的小細節嗎？\n\n這個限時背景將在 [2月28日] 前可用，或者通過購買「季節性裝飾包」永久獲得。這是愛的季節——愛鳥類，愛自然，愛《展翅翱翔》！"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "准备好迎接所有可爱切似羽毛轻软的装饰吧！《展翅翱翔》的情人节背景回归了，为你的鸟类栖息地注入温馨氛围、柔和粉红色调和一些浪漫点缀。你能发现那些为了增添节日气息而特别加入的小细节吗？\n\n这个限时背景将在 [2月28日] 前可用，或者通过购买“季节性装饰包”永久获得。这是爱的季节——爱鸟类，爱自然，爱《展翅翱翔》！"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Preparati per qualcosa di adorabile e soffice! Lo sfondo San Valentino di Wingspan è tornato, animando la tua voliera con un'atmosfera che scalda il cuore, tinte rosa e un pizzico di romanticismo. Riesci a individuare i piccoli dettagli che abbiamo aggiunto per aiutarti a entrare nello spirito giusto?\n\nUsa questo sfondo a tempo limitato fino al [28 febbraio] o tienilo per tutto l'anno con il pacchetto decorativo stagionale. È la stagione degli amori: per i volatili, per la natura e per Wingspan!\n"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "사랑스러운 깃털 친구들을 위해 준비하세요! 윙스팬의 발렌타인 데이 배경이 돌아와서 따뜻한 분위기와 달콤한 핑크색, 로맨틱한 감성으로 보존 지역을 가득 채웠습니다. 기분을 돋우기 위해 추가한 작은 디테일이 보이시나요?\n\n이 기간 한정 배경을 [2월 28일]까지 한시적으로 사용하거나, 계절 장식 팩으로 일 년 내내 보관하세요. 새와 자연, 윙스팬을 위한 사랑의 계절입니다!\n"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Готуйтеся до усього милого й пухнастого! Фон на честь Дня святого Валентина повертається у «Крила». Ваш заповідник наповниться ніжністю, романтикою й усіма відтінками рожевого! Відшукайте всі маленькі милі сюрпризи, які ми підготували для вас на честь свята.\n\nЦей фон доступний у грі тільки до [28 лютого], але з декоративним набором «Пори року» — весь рік. Це час кохання — до птахів, до природи і до «Крил»!\n"
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": [
-                {
-                    "ActionType": 1,
-                    "PlatformsToShowOn": 257,
-                    "Value": "SB_DLC",
-                    "ButtonText": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Check out Decorative DLC"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Sprawdź dekoracyjne DLC"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Sieh dir den Deko-DLC an"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Voir le DLC décoratif"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Ver DLC decorativo"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Conferir o DLC Decorativo"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "装飾DLCをチェックしましょう"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Посмотреть декоративный набор"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "查看裝飾性 DLC"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "查看装饰性 DLC"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Dai un'occhiata al DLC decorativo"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "장식 DLC 확인"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Ознайомтеся з декоративним доповненням"
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
             "ID": "e3600c62-395b-4e11-83d7-d31382ba966f",
             "Tags": [
                 "NewContent"
             ],
             "PlatformsToShowOn": 511,
-            "StartDateTicks": 638749764000000000,
+            "StartDateTicks": 638800740000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 2,
             "PresetImageName": "",
@@ -3779,502 +2665,6 @@
             ]
         },
         {
-            "ID": "acaa1871-827c-4001-86bf-3fea826cb592",
-            "Tags": [
-                "Events"
-            ],
-            "PlatformsToShowOn": 511,
-            "StartDateTicks": 638762976000000000,
-            "EndDateTicks": 638788032000000000,
-            "Priority": 1,
-            "PresetImageName": "",
-            "RemoteImageName": "Wingspan_Ramadan_Newscenter.png",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Ramadan Celebration is back!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Ramadan powraca! "
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Die Ramadan-Feier ist wieder da!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "La célébration du ramadan est de retour !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Vuelve el fondo del Ramadán!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "A celebração do Ramadã está de volta!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "ラマダンのお祝いが再登場！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Мы снова празднуем Рамадан!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "齋月慶典回歸！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "斋月庆典回归！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Il Ramadan è tornato!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "라마단 축하가 돌아왔습니다!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Ми знову святкуємо Рамадан!"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Wingspan’s Ramadan Background is Here to Celebrate!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Świętuj Ramadan w Na Skrzydłach z sezonowym tłem! "
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Wingspans Ramadan-Hintergrund ist wieder da, um zu feiern!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Célébrez le ramadan dans Wingspan avec cet arrière-plan !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Celebra esta época con el fondo del Ramadán de Wingspan!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "O plano de fundo do Ramadã do Wingspan está aqui para comemorar!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "『ウイングスパン』のラマダン背景が戻ってきた！ラマダンをお祝いしよう！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Фон для «Крыльев» готов к празднованию Рамадана!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "《展翅翱翔》的齋月背景現已上線，一起慶祝吧！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "《展翅翱翔》的斋月背景现已上线，一起庆祝吧！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Lo sfondo Ramadan è qui su Wingspan!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "윙스팬의 라마단 배경이 축하와 함께 왔습니다!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Фон для «Крил» готовий до святкування Рамадану!"
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 511,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "This season, Wingspan invites you to reflect and gather in the calm, starry glow of our Ramadan background. Watch your preserve come to life under a serene, moonlit sky that shines brighter as each day passes. \n\nEnjoy this background until [March 29], or make it a permanent part of your experience with the Seasonal Decorative Pack. Step into the peaceful magic of Ramadan with your birds!\n"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Tym razem Na Skrzydłach zaprasza do refleksji i zebrania się w spokojnym, gwiaździstym blasku naszego tła na Ramadan. Zobacz, jak Twój rezerwat ożywa pod pogodnym, księżycowym niebem, które jaśnieje z każdym dniem. \nCiesz się tym tłem do <b>29 marca</b> lub uczyń je stałą częścią swojej gry dzięki Sezonowemu Zestawowi Dekoracyjnemu. Wleć w spokojną magię Ramadanu ze swoim stadem!"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "In dieser Zeit des Jahres lädt Wingspan dich dazu ein, dich zu besinnen und im Strahlen der Sterne unseres Ramadan-Hintergrunds zur Ruhe zu kommen. Beobachte, wie dein Reservat unter einem friedlichen Himmel voller Mondschein zum Leben erwacht, der mit jedem Tag heller wird. \n\nGenieße diesen Hintergrund bis zum [29. März] – oder mach ihn mit dem Jahreszeiten-Dekopaket zu einem bleibenden Teil deines Erlebnisses. Begib dich mit deinen Vögeln in die friedliche Magie des Ramadan!\n"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Cette saison, Wingspan vous invite à l'introspection et au rassemblement avec le paisible éclat étoilé de notre arrière-plan Ramadan. Observez votre volière prendre vie sous un clair de lune serein qui brille de plus en plus fort au fil des jours.\n\nProfitez de cet arrière-plan jusqu'au [29 mars], ou ajoutez-le définitivement à votre expérience grâce au pack décoratif saisonnier. Découvrez la paisible magie du ramadan avec vos oiseaux !\n"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Esta temporada, Wingspan te invita a la reflexión y la calma bajo el apacible y estrellado resplandor de nuestro fondo del Ramadán. Observa cómo cobra vida tu aviario bajo un cielo tranquilo y bañado por la luz de la luna, que cada día brilla con más intensidad.\n\nDisfruta del fondo hasta el [29 de marzo] o añádelo de forma permanente a tu experiencia con el paquete decorativo estacional. ¡Sumérgete junto a tus aves en la plácida magia del Ramadán!\n"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Nesta temporada, Wingspan convida você a refletir e se reunir sob o brilho calmo e estrelado do nosso plano de fundo do Ramadã. Veja sua reserva ganhar vida sob um céu sereno e iluminado pela lua, que brilha cada vez mais a cada dia que passa. \n\nAproveite este fundo até [29 de março] ou fique com ele permanentemente com o Pacote Decorativo Sazonal. Entre na magia pacífica do Ramadã com suas aves!"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "この季節、『ウイングスパン』のラマダン背景のもとに集まって、落ち着きのある星明かりの輝きの下で内省しよう。日が経つごとに輝きを増す、月明かりに照らされた空の下で活気づく保護区を楽しもう。\n\nこの背景は[3月29日]まで楽しめる。「季節の装飾パック」を購入すれば、ずっと利用することが可能。鳥たちと一緒に、ラマダンの穏やかな魔法に足を踏み入れよう！"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "В этом сезоне «Крылья» приглашают вас к спокойному созерцанию на фоне звёздного неба Рамадана. Полюбуйтесь, как ваш заповедник оживает под безмятежным ночным небом, которое будет светиться ярче с каждым днём.\n\nИграйте с этим фоном до [29 марта] — или сохраните его навсегда с декоративным набором «Времена года». Погрузитесь в спокойное волшебство Рамадана вместе с вашими птицами!"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "在齋月季，《展翅翱翔》邀請你在靜謐星光的陪伴下，沉思與團聚。欣賞你的鳥類棲息地在祥和的月光下煥發生機。隨着時間推移，夜空愈發璀璨。\n\n這個背景將持續開放至 [3月29日]，或通過購買「季節性裝飾包」永久獲得。與鳥兒們一起踏入齋月的寧靜魔法吧！"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "在斋月季，《展翅翱翔》邀请你在静谧星光的陪伴下，沉思与团聚。欣赏你的鸟类栖息地在祥和的月光下焕发生机。随着时间推移，夜空愈发璀璨。\n\n这个背景将持续开放至 [3月29日]，或通过购买“季节性装饰包”永久获得。与鸟儿们一起踏入斋月的宁静魔法吧！"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Questa stagione, Wingspan ti invita a riflettere e meditare nel bagliore rilassante e stellato del nostro sfondo Ramadan. Guarda la tua voliera prendere vita sotto un cielo sereno e illuminato dalla luna, che brilla ogni giorno di più.\n\nGoditi questo sfondo fino al [29 marzo] o rendilo parte stabile della tua esperienza con il pacchetto decorativo stagionale. Vivi la rilassante magia del Ramadan con i tuoi uccelli!\n"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "이번 시즌 윙스팬은 라마단을 배경으로 고요하고 별이 빛나는 밤하늘에서의 사색으로 여러분을 초대합니다. 날이 갈수록 더 밝게 빛나는 고요한 달빛 아래에서 여러분의 보존 지역이 살아나는 모습을 지켜보세요.\n\n[3월 29일]까지 이 배경을 한시적으로 즐기거나, 계절 장식 팩으로 영구적으로 경험의 일부로 만들어 보세요. 새들과 함께 라마단의 평화로운 마법 속으로 들어가 보세요!\n"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "У цьому сезоні «Крила» запрошують вас спокійно спостерігати на фоні зоряного неба Рамадану. Погляньте, як ваш заповідник оживає під безтурботним нічним небом, яке буде світитися все яскравіше з кожним днем. \n\nГрайте з цим фоном до [29 березня] — або збережіть його назавжди з декоративним набором «Пори року». Зануріться до спокійної чарівної атмосфери Рамадану разом з вашими птахами!\n"
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": [
-                {
-                    "ActionType": 1,
-                    "PlatformsToShowOn": 257,
-                    "Value": "SB_DLC",
-                    "ButtonText": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Check out Decorative DLC"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Sprawdź dekoracyjne DLC"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Sieh dir den Deko-DLC an"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Voir le DLC décoratif"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Ver DLC decorativo"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Conferir o DLC Decorativo"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "装飾DLCをチェックしましょう"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Посмотреть декоративный набор"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "查看装饰包DLC"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "查看裝飾包DLC"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Dai un'occhiata al DLC decorativo"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "장식 DLC 확인"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Ознайомтеся з декоративним доповненням"
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "ID": "f0089d0b-d562-498b-b659-1c40e7940fba",
-            "Tags": [
-                "Events"
-            ],
-            "PlatformsToShowOn": 511,
-            "StartDateTicks": 638763840000000000,
-            "EndDateTicks": 638775936000000000,
-            "Priority": 1,
-            "PresetImageName": "",
-            "RemoteImageName": "CalicoBG_Newscenter.png",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Happy Anniversary, Quilts and Cats of Calico!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Wszystkiego najlepszego z okazji rocznicy, Quilts i Cats of Calico!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Alles Gute zum Jahrestag, Quilts and Cats of Calico!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Joyeux anniversaire, Quilts and Cats of Calico !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Feliz aniversario, Quilts and Cats of Calico!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Feliz aniversário, Quilts and Cats of Calico!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "『キャリコ～陽だまりネコとパッチワーク～』のハッピーアニバーサリー！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "С днём рождения, Quilts and Cats of Calico!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "周年快樂，貓與花毯！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "周年快乐，猫与花毯！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Buon anniversario, Quilts and Cats of Calico!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "캘리코의 퀄트와 고양이의 주년을 축하합니다!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "З днем народження, Quilts and Cats of Calico!"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Special Calico Anniversary Background in Wingspan!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Specjalne rocznicowe tło Calico w Na Skrzydłach powraca!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Ein besonderer Calico-Jahrestag-Hintergrund wartet in Wingspan!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Arrière-plan spécial Anniversaire de Calico dans Wingspan !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Llega a Wingspan el fondo especial del aniversario de Calico!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Plano de fundo especial Aniversário de Calico no Wingspan!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "『キャリコ』の特別な記念背景が『ウイングスパン』に登場！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Особый юбилейный фон «Котиков» в «Крыльях»!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "《展翅翱翔》有了特別的《貓與花毯》周年背景！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "《展翅翱翔》有了特别的《猫与花毯》周年背景！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Sfondo speciale Anniversario di Calico su Wingspan!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "윙스팬의 특별한 캘리코 주년 기념 배경!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Особливий ювілейний фон «Каліко» у «Крилах»!"
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 511,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "We’re celebrating our purr-fect friends at Quilts and Cats of Calico with a cozy, quilted anniversary background in Wingspan! Imagine your preserve surrounded by patchwork charm and a little extra coziness.\n\nThe limited-time Calico background will be available until [March 15], or you can snuggle up with it all year in the Seasonal Decorative Pack 2. Let’s make your preserve as comfy as a quilt!\n"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Świętujemy z naszymi mruczącymi przyjaciółmi z Quilts and Cats of Calico z przytulnym, pikowanym tłem rocznicowym w Na Skrzydłach! Wyobraź sobie swój dom otoczony patchworkowym urokiem i odrobiną dodatkowej przytulności.\nLimitowane tło Calico będzie dostępne do <b>15 marca</b>, ale można się w nie wtulać przez cały rok w ramach Sezonowego Zestawu Dekoracyjnego 2. Spraw, by Twój rezerwat był przytulny jak kołderka!"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Wir feiern unsere pfotastischen Freunde von Quilts and Cats of Calico mit einem kuscheligen gesteppten Jahrestag-Hintergrund in Wingspan! Male dir dein Reservat aus, umhüllt von Patchwork-Charme und ein wenig Extra-Gemütlichkeit.\n\nDer zeitlich limitierte Calico-Hintergrund ist bis zum [15. März] verfügbar – oder du kuschelst dich das ganze Jahr darin ein, mit dem Jahreszeiten-Dekopaket 2. Mach dein Reservat so gemütlich wie die kuscheligste Steppdecke!\n"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Nos miaougnifiques amis de Quilts and Cats of Calico sont à l'honneur dans Wingspan avec cet arrière-plan d'anniversaire douillet ! Imaginez votre volière pleine de patchworks confortables.\n\nCet arrière-plan Calico à durée limitée sera disponible jusqu'au [15 mars], ou vous pouvez vous blottir dedans toute l'année grâce au pack décoratif saisonnier 2. Rendez votre volière aussi confortable qu'un duvet !\n"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "¡Queremos homenajear a nuestros amigos gatunos de Quilts and Cats of Calico con un acogedor y acolchado fondo de aniversario de Wingspan! Imagina tu aviario un pelín más calentito y lleno de encantadores retales.\n\nEl fondo por tiempo limitado de Calico estará disponible hasta el [15 de marzo], pero, si quieres hacerte un ovillo todo el año, también puedes conseguir el paquete decorativo estacional 2. ¡Haz que tu aviario sea tan confortable como una colcha!\n"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Estamos celebrando nossos perfeitos amigos felpudos de Quilts and Cats of Calico com um fundo de aniversário aconchegante e acolchoado no Wingspan! Imagine sua reserva cercada por um charme acolhedor e um toque extra de aconchego.\n\nO fundo limitado de Calico estará disponível até [15 de março], ou você pode se aconchegar com ele o ano todo no Pacote Decorativo Sazonal 2. Vamos deixar sua reserva tão confortável quanto uma colcha!\n"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "『キャリコ～陽だまりネコとパッチワーク～』の登場を記念した『ウイングスパン』のキルト背景で、\"ニャーフェクト\"な友達をお祝いしよう！可愛らしいパッチワークとちょっとしたくつろぎ感がプラスされた保護区を想像してみよう。\n\n期間限定の『キャリコ』背景は[3月15日]まで利用できる予定。または、「季節の装飾パック2」を購入すれば、1年じゅうこの気持ち良さを楽しめる。保護区をキルトと同じくらい心地良くしよう！\n"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Отмечаем день рождения наших чудесных друзей-мурлык из Quilts and Cats of Calico с уютным ситцевым фоном для «Крыльев»! Представьте, что ваш заповедник укутан милыми и тёплыми одеялками!\n\nФон «Котики» будет доступен в игре только до [15 марта], но с декоративным набором «Времена года 2» он будет радовать вас хоть круглый год! Добавьте вашему заповеднику домашнего уюта!\n"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "我們正在為《貓與花毯》中的貓咪夥伴們慶祝，特別推出溫馨的周年背景！你的鳥類棲息地被花毯的魅力包圍，增添了一份舒適與愜意。\n\n限時《貓與花毯》背景將開放至 [3月15日]，或通過購買「季節性裝飾包2」永久獲得。讓你的棲息地像拼布一樣溫暖舒適吧！"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "我们正在为《猫与花毯》中的猫咪伙伴们庆祝，特别推出温馨的周年背景！你的鸟类栖息地被花毯的魅力包围，增添了一份舒适与惬意。\n\n限时《猫与花毯》背景将开放至 [3月15日]，或通过购买“季节性装饰包2”永久获得。让你的栖息地像拼布一样温暖舒适吧！"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Su Wingspan, festeggiamo i nostri amici purr-fetti di Quilts and Cats of Calico con uno sfondo per l'anniversario caldo e trapuntato! Immagina la tua voliera circondata dal fascino della trapunta e un po' di tepore in più!\n\nQuesto sfondo di Calico a tempo limitato sarà disponibile fino al [15 marzo] o puoi farlo tuo per tutto l'anno con il pacchetto decorativo stagionale 2. Rendi la tua voliera confortevole come una trapunta!\n"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "캘리코의 퀄트와 고양이의 포근한 퀼트 주년 기념 배경을 윙스팬에서 만들어 친구들을 축하합시다! 퀼트의 매력과 약간의 아늑함으로 둘러싸인 보존 지역을 상상해 보세요.\n\n기간 한정으로 제공되는 캘리코 배경은 [3월 15일]까지 한정적으로 사용할 수 있으며, 계절 장식 팩 2에서 일 년 내내 사용할 수 있습니다. 이불처럼 포근한 보존 지역을 만들어 보세요!\n"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Святкуємо день народження наших чудових котячих друзів з Quilts and Cats of Calico із затишним ситцевим фоном для «Крил»! Уявіть, що ваш заповідник загорнутий у милі й теплі ковдри!\n\nФон «Каліко» буде доступний у грі тільки до [15 березня], але з декоративним набором «Пори року 2» він буде радувати вас весь рік! Додайте домашньої затишності вашому заповіднику!\n"
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": [
-                {
-                    "ActionType": 1,
-                    "PlatformsToShowOn": 257,
-                    "Value": "SDP2_DLC",
-                    "ButtonText": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Check out Decorative DLC"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Sprawdź dekoracyjne DLC"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Sieh dir den Deko-DLC an"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Voir le DLC décoratif"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Ver DLC decorativo"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Conferir o DLC Decorativo"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "装飾DLCをチェックしましょう"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Посмотреть декоративный набор"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "查看裝飾性 DLC"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "查看装饰性 DLC"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Dai un'occhiata al DLC decorativo"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "장식 DLC 확인"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Ознайомтеся з декоративним доповненням"
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
             "ID": "19139c4d-4fde-44b0-9fcf-252830a19789",
             "Tags": [
                 "MonsterCouch"
@@ -4771,192 +3161,6 @@
             ]
         },
         {
-            "ID": "8d00d81b-dea1-43f2-878b-3ecb3c37cbcb",
-            "Tags": [
-                "Online"
-            ],
-            "PlatformsToShowOn": 511,
-            "StartDateTicks": 638777664000000000,
-            "EndDateTicks": 638779392000000000,
-            "Priority": 1,
-            "PresetImageName": "Online",
-            "RemoteImageName": "",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Online Maintenance"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Konserwacja trybu online"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Online-Wartungsarbeiten"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Maintenance en ligne"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "Mantenimiento en línea"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Manutenção online"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "オンラインメンテナンス"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Технические работы над онлайн-режимом"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "在线维护"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "在線維護"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Manutenzione online"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "온라인 점검"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Технічні роботи на серверах"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Working on your online experience so you can fly with no struggles."
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Pracujemy nad Waszym doświadczeniem online, aby wasz lot przebiegał bez przeszkód."
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Wir verbessern dein Online-Erlebnis, damit du problemlos durch die Lüfte schnellen kannst."
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Nous améliorons votre expérience en ligne afin que vous puissiez voler sans accrocs."
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "Estamos trabajando en tu experiencia en línea para que puedas volar sin sobresaltos."
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Estamos trabalhando para melhorar sua experiência online, para que você possa voar suavemente."
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "快適にオンラインプレイがご利用いただけるよう、作業を行っています。"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Мы работаем над онлайн-режимом, чтобы вы могли летать без проблем."
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "服务器正在维护，以确保各位之后能够享受正常的联机体验。"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "伺服器正在維護，以確保各位之後能夠享受正常的聯機體驗。"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Stiamo lavorando all’esperienza online affinché il tuo volo proceda senza intoppi."
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "어려움 없이 날개짓할 수 있도록 온라인 환경을 개선 중입니다."
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Працюємо над онлайн-грою, щоб ви літали без перешкод."
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 511,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "On March 18th, Wingspan servers will undergo maintenance works. During this time, entering online mode will be impossible. Maintenance will begin at 11AM CET / 10AM UTC / 3AM PT and will last for around 6 hours. \r\n\r\nAs with every online maintenance, please end all your matches before the maintenance and do not start any new ones close to the maintenance hours. Otherwise, there's a risk of losing ongoing games and karma points.\r\nLet your fellow birders know about online maintenance, so the process can go smoothly. \r\n\r\nWe apologize for the inconvenience.\r\n"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "W dniu 18/03/2025 serwery Na Skrzydłach zostaną poddane pracom konserwacyjnym. W tym czasie, wejście do trybu online będzie niemożliwe. Prace rozpoczną się o 10:00 i będą trwały 6 godzin. \r\n\r\nJak przy wszystkich dotychczasowych pracach konserwacyjnych, prosimy, zakończcie swoje mecze przed rozpoczęciem konserwacji i nie zaczynajcie żadnych nowych rozgrywek w okolicy czasu rozpoczęcia prac. W przeciwnym razie, istnieje ryzyko utracenia trwających rozgrywek a wraz z nimi punktów karmy. \r\n\r\nDajcie znać znajomym Ptasiarzom o pracach konserwacyjnych trybu online, aby cały proces przebiegł sprawnie. \r\n\r\nPrzepraszamy za niedogodności.\r\n"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Am 18/03/2025 werden die Server von Wingspan (Flügelschlag) gewartet. Während der Wartungsarbeiten ist der Online-Modus nicht verfügbar. Die Wartungsarbeiten beginnen um 11AM CET / 10AM UTC / 3AM PT und dauern etwa 6 Stunden.\r\n\r\nWie bei jeder Serverwartung gilt: Bitte beende all deine Spiele vorher und beginne keine neuen kurz davor. Ansonsten können der Fortschritt laufender Spiele und Karmapunkte verloren gehen.\r\nInformiere andere Vogelfreunde über die Wartungsarbeiten, damit sie ohne Schwierigkeiten vonstattengehen.\r\n\r\nWir entschuldigen uns für die Unannehmlichkeiten.\r\n"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Le 18/03/2025, les serveurs de Wingspan subiront des opérations de maintenance. Le mode en ligne sera alors indisponible. La maintenance commencera à 11AM CET / 10AM UTC / 3AM PT et durera environ 6 heures. \r\n\r\nComme pour chaque maintenance, merci de mettre fin à tous vos matchs avant le début des opérations et n’en commencez aucun peu de temps avant l’heure de départ. Vous risquez sinon de perdre les parties en cours et vos points de karma.\r\nInformez vos proches ornithologues de ces opérations de maintenance afin que tout se passe correctement. \r\n\r\nVeuillez nous excuser de ce désagrément.\r\n"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "El 18/03/2025, los servidores de Wingspan se someterá a trabajos de mantenimiento. Durante este periodo de tiempo será imposible acceder al modo en línea. Las labores de mantenimiento comenzarán a las 11AM CET / 10AM UTC / 3AM PT y durarán al menos 6 horas. \r\n\r\nComo siempre en casos de mantenimiento en línea, terminad vuestras partidas antes de que empiecen estas labores y no comencéis nuevas cerca de la hora a la que van a empezar. De lo contrario, es probable que perdáis las partidas y también puntos de karma.\r\nContad al resto de vuestros amigos amantes de los pájaros que tendrán lugar estas labores para que el proceso vaya sobre ruedas.\r\n\r\nNos disculpamos por las molestias.\r\n"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Em 18/03/2025, os servidores Wingspan passarão por manutenção. Durante esse período não será possível acessar o modo online. A manutenção começará em 11AM CET / 10AM UTC / 3AM PT e durará cerca de 6 horas.\r\n\r\nComo em toda manutenção online, encerre todas as suas partidas antes da manutenção e não inicie nenhuma nova perto do horário de início. Caso contrário, há o risco de perder partidas em andamento e pontos de karma.\r\nInforme seus colegas observadores sobre a manutenção online, para que o processo ocorra sem problemas.\r\n\r\nPedimos desculpas pelo inconveniente.\r\n"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "『ウィングスパン』は18/03/2025にメンテナンスを予定しており、その間サーバーが停止となります。メンテナンス中はオンラインモードをご利用いただけませんので、予めご了承ください。メンテナンスは11AM CET / 10AM UTC / 3AM PTに開始いたします。また、作業時間は6時間を想定しております。\r\n\r\nメンテナンス直前に新たな試合を開始されると、進行中の試合状況やカルマポイントを失う可能性があるため、ご注意ください。\r\n仲間の野鳥観察家の皆様にもぜひお伝えください。\r\n\r\n大変ご迷惑おかけしますが、何卒よろしく申し上げます。\r\n"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "18/03/2025 на серверах Wingspan будут проводиться технические работы. В это время онлайн-режим будет недоступен. Работы начнутся 11AM CET / 10AM UTC / 3AM PT и продлятся 6 ч. \r\n\r\nКак обычно при любых технических работах, связанных с онлайн-режимом, завершите все игры до начала работ и не начинайте новые в их преддверии — иначе вы рискуете потерять текущие игры и очки кармы.\r\nПредупредите знакомых игроков о технических работах, чтобы все точно прошло гладко. \r\n\r\nПриносим извинения за доставленные неудобства.\r\n"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "18/03/2025，《展翅翱翔》的服务器将进行维护。期间将无法进行联机游戏。维护于11AM CET / 10AM UTC / 3AM PT开始，并将持续6小时。 \r\n\r\n和往常的在线维护一样，请在维护开始前结束所有游戏，并避免在维护时间临近时开始新的游戏。否则，可能会丢失正在进行的游戏和缘分点。\r\n如果方便的话，也烦请告知其他鸟类爱好者在线维护的消息，以便维护能顺利进行。\r\n\r\n为您带来不便，深感歉意。\r\n"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "18/03/2025，《展翅翱翔》的伺服器將進行維護。期間將無法進行聯機遊戲。維護於11AM CET / 10AM UTC / 3AM PT開始，並將持續6小時。 \r\n\r\n和往常的在線維護一樣，請在維護開始前結束所有遊戲，並避免在維護時間臨近時開始新的遊戲。否則，可能會丟失正在進行的遊戲和緣分點。\r\n如果方便的話，也煩請告知其他鳥類愛好者在線維護的消息，以便維護能順利進行。\r\n\r\n為您帶來不便，深感歉意。\r\n"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Il giorno 18/03/2025 i server di Wingspan verranno sottoposti a dei lavori di manutenzione. Durante questo periodo, sarà impossibile accedere alla modalità online. La manutenzione avrà inizio alle 11AM CET / 10AM UTC / 3AM PT e durerà all’incirca 6 ore.\r\n\r\nCome da prassi, ti chiediamo di concludere tutte le partite in corso prima dell’inizio della manutenzione e di non iniziarne di nuove durante i lavori in corso, onde evitare di perdere progressi e punti di Karma.\r\nSpargi la voce con gli altri birdwatcher affinché l’intera procedura avvenga senza intoppi.\r\n\r\nCi scusiamo per l’inconveniente.\r\n"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "18/03/2025에 윙스팬 서버가 점검을 진행합니다. 이 시간 동안 온라인 모드로 플레이할 수 없습니다. 점검은 11AM CET / 10AM UTC / 3AM PT에 시작되며 약 6시간 동안 지속됩니다.\r\n\r\n모든 온라인 점검과 마찬가지로, 점검 전에 모든 게임을 종료하고 점검 시간에 가까워지면 새로운 게임을 시작하지 마세요. 진행 중인 게임과 카르마 포인트를 잃을 위험이 있습니다.\r\n점검이 원활하게 진행될 수 있도록 동료 탐조가에게 온라인 점검에 대해 알려주세요.\r\n\r\n불편을 드려 죄송합니다.\r\n"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "18/03/2025 сервери «Крил» пройдуть технічне обслуговування. Поки воно не закінчиться, онлайн-режим буде недоступний. Ремонтні роботи почнуться о 11AM CET / 10AM UTC / 3AM PT і триватимуть 6 год. (приблизно). \r\n\r\nЯк і завжди в таких ситуаціях, будь ласка, завершіть усі свої матчі до початку робіт і не починайте нових, якщо до обслуговування залишилося мало часу. Інакше ви ризикуєте втратити поточні ігри й очки карми.\r\nПопередьте про техобслуговування своїх друзів, щоб усе минуло без завад. \r\n\r\nМи перепрошуємо за незручності.\r\n"
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": []
-        },
-        {
             "ID": "96a399c6-16e9-4542-8c32-35d0cc53ec8b",
             "Tags": [
                 "Events"
@@ -5211,7 +3415,7 @@
             ],
             "PlatformsToShowOn": 511,
             "StartDateTicks": 638791488000000000,
-            "EndDateTicks": 946391904000000000,
+            "EndDateTicks": 638803872000000000,
             "Priority": 1,
             "PresetImageName": "",
             "RemoteImageName": "WS_Tury_Newscenter.jpg",
@@ -5752,6 +3956,627 @@
                             {
                                 "Language": "uk",
                                 "Text": "TAKE SURVEY!"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "ID": "4ecd2e6e-d91a-4155-93a6-f8cdc4f45b78",
+            "Tags": [
+                "Online"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638802720000000000,
+            "EndDateTicks": 638804808000000000,
+            "Priority": 2,
+            "PresetImageName": "Online",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Online Maintenance"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Konserwacja trybu online"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Online-Wartungsarbeiten"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Maintenance en ligne"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Mantenimiento en línea"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Manutenção online"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "オンラインメンテナンス"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Технические работы над онлайн-режимом"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "在线维护"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "在線維護"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Manutenzione online"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "온라인 점검"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Технічні роботи на серверах"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Working on your online experience so you can fly with no struggles."
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Pracujemy nad Waszym doświadczeniem online, aby wasz lot przebiegał bez przeszkód."
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Wir verbessern dein Online-Erlebnis, damit du problemlos durch die Lüfte schnellen kannst."
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Nous améliorons votre expérience en ligne afin que vous puissiez voler sans accrocs."
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Estamos trabajando en tu experiencia en línea para que puedas volar sin sobresaltos."
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Estamos trabalhando para melhorar sua experiência online, para que você possa voar suavemente."
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "快適にオンラインプレイがご利用いただけるよう、作業を行っています。"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Мы работаем над онлайн-режимом, чтобы вы могли летать без проблем."
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "服务器正在维护，以确保各位之后能够享受正常的联机体验。"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "伺服器正在維護，以確保各位之後能夠享受正常的聯機體驗。"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Stiamo lavorando all’esperienza online affinché il tuo volo proceda senza intoppi."
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "어려움 없이 날개짓할 수 있도록 온라인 환경을 개선 중입니다."
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Працюємо над онлайн-грою, щоб ви літали без перешкод."
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "<style=asia>On April 16 Wingspan servers will undergo maintenance works. During this time, entering online mode will be impossible. Maintenance will begin at 8AM UTC/10AM CEST/1AM PT and will last for around 1 hour. </style>\r\nAs with every online maintenance, please end all your matches before the maintenance and do not start any new ones close to the maintenance hours. Otherwise, there's a risk of losing ongoing games and karma points.\r\nLet your fellow birders know about online maintenance, so the process can go smoothly. \r\nWe apologize for the inconvenience.\r\n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "<style=asia>W dniu 16 kwietnia serwery Na Skrzydłach zostaną poddane pracom konserwacyjnym. W tym czasie, wejście do trybu online będzie niemożliwe. Prace rozpoczną się o 10:00 i będą trwały około 1 godziny.</style>\r\nJak przy wszystkich dotychczasowych pracach konserwacyjnych, prosimy, zakończcie swoje mecze przed rozpoczęciem konserwacji i nie zaczynajcie żadnych nowych rozgrywek w okolicy czasu rozpoczęcia prac. W przeciwnym razie, istnieje ryzyko utracenia trwających rozgrywek a wraz z nimi punktów karmy. Dajcie znać znajomym Ptasiarzom o pracach konserwacyjnych trybu online, aby cały proces przebiegł sprawnie. \r\nPrzepraszamy za niedogodności.\r\n"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "<style=asia>Am 16.04.2025 werden die Server von Wingspan (Flügelschlag) gewartet. Während der Wartungsarbeiten ist der Online-Modus nicht verfügbar. Die Wartungsarbeiten beginnen um 8AM UTC/10AM CEST/1AM PT und dauern etwa 1 Stunden.\r\nWie bei jeder Serverwartung gilt: Bitte beende all deine Spiele vorher und beginne keine neuen kurz davor. Ansonsten können der Fortschritt laufender Spiele und Karmapunkte verloren gehen.\r\nInformiere andere Vogelfreunde über die Wartungsarbeiten, damit sie ohne Schwierigkeiten vonstattengehen.\r\nWir entschuldigen uns für die Unannehmlichkeiten.\r\n"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "<style=asia>Le 16.04.2025, les serveurs de Wingspan subiront des opérations de maintenance. Le mode en ligne sera alors indisponible. La maintenance commencera à 8AM UTC/10AM CEST/1AM PT et durera environ 1 heure.</style> \r\nComme pour chaque maintenance, merci de mettre fin à tous vos matchs avant le début des opérations et n’en commencez aucun peu de temps avant l’heure de départ. Vous risquez sinon de perdre les parties en cours et vos points de karma.\r\nInformez vos proches ornithologues de ces opérations de maintenance afin que tout se passe correctement. \r\nVeuillez nous excuser de ce désagrément.\r\n"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "<style=asia>El 16.04.2025, los servidores de Wingspan se someterá a trabajos de mantenimiento. Durante este periodo de tiempo será imposible acceder al modo en línea. Las labores de mantenimiento comenzarán a las 8AM UTC/10AM CEST/1AM PT y durarán al menos 1 hora.</style> \r\nComo siempre en casos de mantenimiento en línea, terminad vuestras partidas antes de que empiecen estas labores y no comencéis nuevas cerca de la hora a la que van a empezar. De lo contrario, es probable que perdáis las partidas y también puntos de karma.\r\nContad al resto de vuestros amigos amantes de los pájaros que tendrán lugar estas labores para que el proceso vaya sobre ruedas.\r\nNos disculpamos por las molestias.\r\n"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "<style=asia>Em 16.04.2025, os servidores Wingspan passarão por manutenção. Durante esse período não será possível acessar o modo online. A manutenção começará em 8AM UTC/10AM CEST/1AM PT e durará cerca de 1 hora.</style>\r\nComo em toda manutenção online, encerre todas as suas partidas antes da manutenção e não inicie nenhuma nova perto do horário de início. Caso contrário, há o risco de perder partidas em andamento e pontos de karma.\r\nInforme seus colegas observadores sobre a manutenção online, para que o processo ocorra sem problemas.\r\nPedimos desculpas pelo inconveniente.\r\n"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "<style=asia>『ウィングスパン』は16.04.2025にメンテナンスを予定しており、その間サーバーが停止となります。メンテナンス中はオンラインモードをご利用いただけませんので、予めご了承ください。メンテナンスは8AM UTC/10AM CEST/1AM PTに開始いたします。また、作業時間は1時間を想定しております。</style>\r\nメンテナンス直前に新たな試合を開始されると、進行中の試合状況やカルマポイントを失う可能性があるため、ご注意ください。\r\n仲間の野鳥観察家の皆様にもぜひお伝えください。\r\n\r\n大変ご迷惑おかけしますが、何卒よろしく申し上げます。\r\n"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "<style=asia>16.04.2025 на серверах Wingspan будут проводиться технические работы. В это время онлайн-режим будет недоступен. Работы начнутся 8AM UTC/10AM CEST/1AM PT и продлятся 1 ч. </style>\r\nКак обычно при любых технических работах, связанных с онлайн-режимом, завершите все игры до начала работ и не начинайте новые в их преддверии — иначе вы рискуете потерять текущие игры и очки кармы.\r\nПредупредите знакомых игроков о технических работах, чтобы все точно прошло гладко. \r\nПриносим извинения за доставленные неудобства.\r\n"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "<style=asia>16.04.2025，《展翅翱翔》的服务器将进行维护。期间将无法进行联机游戏。维护于8AM UTC/10AM CEST/1AM PT开始，并将持续1小时。</style> \r\n\r\n和往常的在线维护一样，请在维护开始前结束所有游戏，并避免在维护时间临近时开始新的游戏。否则，可能会丢失正在进行的游戏和缘分点。\r\n如果方便的话，也烦请告知其他鸟类爱好者在线维护的消息，以便维护能顺利进行。\r\n为您带来不便，深感歉意。\r\n"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "<style=asia>16.04.2025，《展翅翱翔》的伺服器將進行維護。期間將無法進行聯機遊戲。維護於8AM UTC/10AM CEST/1AM PT開始，並將持續1小時。</style> \r\n和往常的在線維護一樣，請在維護開始前結束所有遊戲，並避免在維護時間臨近時開始新的遊戲。否則，可能會丟失正在進行的遊戲和緣分點。\r\n如果方便的話，也煩請告知其他鳥類愛好者在線維護的消息，以便維護能順利進行。\r\n為您帶來不便，深感歉意。\r\n"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "<style=asia>Il giorno 16.04.2025 i server di Wingspan verranno sottoposti a dei lavori di manutenzione. Durante questo periodo, sarà impossibile accedere alla modalità online. La manutenzione avrà inizio alle 8AM UTC/10AM CEST/1AM PT e durerà all’incirca 1 ore.</style>\r\nCome da prassi, ti chiediamo di concludere tutte le partite in corso prima dell’inizio della manutenzione e di non iniziarne di nuove durante i lavori in corso, onde evitare di perdere progressi e punti di Karma.\r\nSpargi la voce con gli altri birdwatcher affinché l’intera procedura avvenga senza intoppi.\r\nCi scusiamo per l’inconveniente.\r\n"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "<style=asia>16.04.2025에 윙스팬 서버가 점검을 진행합니다. 이 시간 동안 온라인 모드로 플레이할 수 없습니다. 점검은 8AM UTC/10AM CEST/1AM PT에 시작되며 약 1시간 동안 지속됩니다.</style>\r\n모든 온라인 점검과 마찬가지로, 점검 전에 모든 게임을 종료하고 점검 시간에 가까워지면 새로운 게임을 시작하지 마세요. 진행 중인 게임과 카르마 포인트를 잃을 위험이 있습니다.\r\n점검이 원활하게 진행될 수 있도록 동료 탐조가에게 온라인 점검에 대해 알려주세요.\r\n불편을 드려 죄송합니다.\r\n"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "<style=asia>16.04.2025 сервери «Крил» пройдуть технічне обслуговування. Поки воно не закінчиться, онлайн-режим буде недоступний. Ремонтні роботи почнуться о 8AM UTC/10AM CEST/1AM PT і триватимуть 1 год. (приблизно). </style>\r\nЯк і завжди в таких ситуаціях, будь ласка, завершіть усі свої матчі до початку робіт і не починайте нових, якщо до обслуговування залишилося мало часу. Інакше ви ризикуєте втратити поточні ігри й очки карми.\r\nПопередьте про техобслуговування своїх друзів, щоб усе минуло без завад. \r\nМи перепрошуємо за незручності.\r\n"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
+        },
+        {
+            "ID": "982ddfbb-b075-402e-8b1d-c105500e4323",
+            "Tags": [
+                "Update",
+                "Online"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638803872000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 2,
+            "PresetImageName": "",
+            "RemoteImageName": "WS_Tury_Newscenter.jpg",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Less Waiting, More Playing!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Mniej czekania, więcej grania!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Weniger warten, mehr spielen!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Moins d'attente, plus de jeu !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Más jugar y menos esperar!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Menos espera e mais jogo!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "少ない待ち時間で、もっとたくさんプレイ！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Меньше задержек, больше игры!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "更少等待時間，更多歡樂體驗！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "更少等待时间，更多欢乐体验！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Attendere di meno e giocare di più!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "기다림은 줄이고, 플레이는 더 많이!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Менше затримок, більше гри!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "We’re excited to announce a change that many of you have been chirping about! "
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Z radością ogłaszamy zmianę, na którą wielu z Was czekało!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Wir freuen uns sehr, eine Änderung anzukündigen, die viele von euch schon flügelschlagend erwartet haben! "
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Nous avons le plaisir d'annoncer un changement que vous attendiez avec impatience ! "
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Nos complace anunciar un cambio que muchos nos habéis estado pidiendo! "
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Estamos felizes em anunciar uma mudança sobre a qual a comunidade chilreava sem parar! "
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "プレイヤーがよく話題にしている変更に関してお知らせです！ "
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "С радостью сообщаем, что внесли в игру изменение, о котором многие из вас щебетали уже давно! "
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "我們非常興奮地宣布一個大家期待很久的變化！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "我们非常兴奋地宣布一个大家期待很久的变化！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Siamo felici di annunciare un cambiamento su cui molti di voi hanno cinguettato! "
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "많은 분들이 궁금해하셨던 업데이트를 발표하게 되어 기쁩니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Ми раді повідомити вам про зміну, про яку багато хто з вас вже давно цвірінькав! "
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "We’ve heard your feedback loud and clear: the 5-minute turn timer in real-time multiplayer was slowing down the flock. So, starting now, turns will be trimmed to 3 minutes - just the right amount of time to make those strategic moves without slowing down the game!\n\nWe hope this change keeps the game flying along smoothly, so you can spend more time hatching plans and less time watching the clock tick. \nThanks for sharing your thoughts and helping us make Wingspan even better!\n\nHere’s to faster games and higher scores! Enjoy!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Słyszymy Was głośno i wyraźnie: 5-minutowy limit czasu na turę w trybie wieloosobowym w czasie rzeczywistym spowalniał grę. Dlatego od teraz tury zostaną skrócone do 3 minut - idealnego czasu na strategiczne posunięcia bez spowalniania rozgrywki!\n\nMamy nadzieję, że ta zmiana sprawi, że gra będzie płynniejsza, dzięki czemu spędzicie więcej czasu na planowaniu, a mniej na obserwowaniu upływających sekund.\nDziękujemy za Wasze uwagi i za pomoc w ulepszaniu Na Skrzydłach!\n\nNiech wasze rozgrywki będą szybsze, a wyniki jeszcze wyższe! Miłej zabawy!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Wir haben euer Feedback laut und deutlich vernommen: Der 5-Minuten-Zugtimer im Echtzeit-Mehrspielermodus hat den ganzen Schwarm aufgehalten. Deswegen wird ab sofort die für jeden Zug verfügbare Zeit auf 3 Minuten gestutzt – genau richtig, um Strategien umzusetzen, ohne den Spielfluss zu verlangsamen!\n\nWir hoffen, dass das Spiel mit dieser Änderung seinen Höhenflug beibehält und ihr mehr Zeit damit verbringt, neue Pläne auszubrüten, anstatt der Uhr beim Ticken zuzuhören. \nDanke, dass ihr uns Rückmeldung gebt und dabei helft, Wingspan noch besser zu machen!\n\nAuf schnelleres Spielen und höhere Punktzahlen! Viel Spaß!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Nous avons bien noté vos retours : le minuteur de 5 minutes pour les tours du mode multijoueur en temps réel était un frein à votre essor. Désormais, les tours dureront donc 3 minutes. La durée idéale pour effectuer vos coups stratégiques sans ralentir la partie !\n\nNous espérons que ce changement rendra vos parties plus fluides, afin que vous puissiez consacrer plus de temps à élaborer vos plans qu'à faire le pied de grue.\nMerci de nous avoir fait part de vos commentaires et de nous aider à perfectionner Wingspan !\n\nÀ des parties plus rapides et des scores toujours plus hauts ! Amusez-vous bien!"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Hemos recibido vuestros comentarios: los turnos de 5 minutos del modo multijugador en tiempo real estaban enlenteciendo demasiado las cosas. Así que, a partir de ahora, los turnos durarán 3 minutos, ¡que es el tiempo justo para realizar movimientos estratégicos sin ralentizar la partida!\n\nEsperamos que con este cambio el juego fluya mejor para que podáis pasar más tiempo elaborando tácticas y menos viendo como pasan los segundos en la cuenta atrás.\n¡Muchas gracias por compartir vuestras opiniones y ayudarnos a que Wingspan sea aún mejor!\n\n¡A jugar partidas más rápidas y ganar muchos puntos! Disfrutad!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Ouvimos o feedback de vocês em alto e bom som: os 5 minutos de tempo de turno no modo multijogador em tempo real estava atrasando o bando. Então, a partir de agora, os turnos serão limitados a 3 minutos – o tempo exato para realizar aquelas jogadas estratégicas sem diminuir o ritmo do jogo!\n\nEsperamos que essa mudança mantenha o jogo voando sem interrupções para que vocês passem mais tempo bolando planos e menos tempo olhando para os ponteiros do relógio.\nAgradecemos por compartilharem suas ideias e nos ajudarem a tornar o Wingspan ainda melhor!\n\nQue venham jogos mais rápidos e pontuações maiores! Divirtam-se!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "プレイヤーのみなさまのフィードバックにより、これまでリアルタイムマルチプレイヤーでの5分間の手番タイマーが原因で、ゲームのペースが落ちていたことがわかりました。そこで、今後は手番の時間が3分間となります。ゲームの進行ペースを落とすことなく、戦略的な動きを考えるのには最適な時間です！\n\n今回の変更によってゲーム進行がよりスムーズになり、より多くの時間を使ってふ化の計画を立てられるようになり、時計の針を眺めているだけの時間が減ることが期待されます。\n『ウイングスパン』の改善への協力に感謝します！\n\nより速くなったゲーム展開とハイスコアに乾杯！ゲームを楽しんでくださいね。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Мы услышали вас чётко и ясно: из-за пятиминутного таймера хода в сетевой игре замедлялась вся стая. С этого момента длительность хода будет сокращена до трёх минут. Этого хватит, чтобы сделать продуманный ход, не заставляя других ждать!\n\nНадеемся, что это изменение задаст нужный темп игры и позволит вам вынашивать новые планы вместо того, чтобы следить за стрелкой часов.\nСпасибо за ваши отзывы, они помогают нам сделать «Крылья» ещё лучше!\n\nЗа быстрые партии и высокие результаты! Приятной игры!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "我們已經清楚地聽到了大家的反饋：實時多人遊戲中，5分鐘回合計時器拖慢了遊戲節奏。因此，從現在開始，每回合時間將縮短為3分鐘——足夠你進行有策略的操作，同時又不會讓遊戲變得過於拖沓！\n\n我們希望這一調整能讓遊戲變得更加流暢，讓你有更多時間制定計劃，而不是盯着計時器苦苦等待。\n\n感謝你們分享意見，幫助我們不斷優化《展翅翱翔》！\n\n祝大家遊戲體驗更好，得分更高！玩得開心。"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "我们已经清楚地听到了大家的反馈：实时多人游戏中，5分钟回合计时器拖慢了游戏节奏。因此，从现在开始，每回合时间将缩短为3分钟——足够你进行有策略的操作，同时又不会让游戏变得过于拖沓！\n\n我们希望这一调整能让游戏变得更加流畅，让你有更多时间制定计划，而不是盯着计时器苦苦等待。\n\n感谢你们分享意见，帮助我们不断优化《展翅翱翔》！\n\n祝大家游戏体验更好，得分更高！玩得开心。"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Abbiamo sentito le vostre opinioni forte e chiaro: il timer dei turni di 5 minuti nella modalità multigiocatore in tempo reale rallentava lo stormo. Quindi, d'ora in avanti, la durata dei turni sarà ridotta a 3 minuti: il tempo necessario per effettuare delle mosse strategiche senza rallentare il gioco!\n\nCi auguriamo che questo cambiamento faccia sfrecciare il gioco senza turbolenze, così potrete impiegare più tempo a far schiudere strategie e meno a fissare l'orologio. \nGrazie per aver condiviso i vostri pareri e per averci aiutato a migliorare Wingspan ancora di più!\n\nVi auguriamo partite più rapide e punteggi più alti! Buon divertimento!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "실시간 멀티플레이에서 5분의 턴 타이머가 게임의 속도를 늦춘다는 여러분의 피드백을 잘 들었습니다. 이제부터 턴 타이머가 3분으로 단축되어 게임 템포가 쳐지지 않는 전략적인 움직임을 취하기에 딱 알맞은 시간이 될 것입니다!\n\n이번 변경으로 게임이 원활하게 진행되어 여러분이 계획을 세우는 데 더 많은 시간을 할애하고 시계를 기다리는 시간을 줄일 수 있기를 바랍니다.\n여러분의 의견을 공유해 주시고 더 나은 윙스팬을 만드는 데 도움을 주셔서 감사합니다!\n\n더 빠른 게임과 더 높은 점수를 위해! 즐거운 게임 되세요."
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Ми почули ваші відгуки — через п'ятихвилинний таймер ходу в мережевій грі уся зграя летіла недостатньо швидко. Відтепер тривалість ходу буде скорочено до трьох хвилин. Цього вистачить, щоб зробити найбільш зважений хід, не змушуючи інших чекати!\n\nСподіваємося, що ця зміна допоможе прискорити гру і дозволить вам більше складати плани, а не спостерігати за годинником.\nДякуємо за ваші відгуки, вони допомагають зробити «Крила» ще краще!\n\nЗа швидкі ігри й найкращі результати! Насолоджуйтесь грою!"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
+        },
+        {
+            "ID": "81fa7b41-4109-4ae5-a741-ae8e433aed89",
+            "Tags": [
+                "Events"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638805312000000000,
+            "EndDateTicks": 638813519400000000,
+            "Priority": 1,
+            "PresetImageName": "",
+            "RemoteImageName": "Wingspan_Easter_Newscenter.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Happy Easter!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Wesołych Świąt Wielkanocnych!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Frohe Ostern!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Joyeuses Pâques !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Feliz Pascua!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Feliz Páscoa!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "ハッピー・イースター！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "С Пасхой!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "復活節快樂！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "复活节快乐！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Buona Pasqua!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "행복한 부활절 보내세요!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Щасливого Великодня!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Easter Background is Back in Wingspan!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Wielkanocne tło znów w Na Skrzydłach!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Der Ostern-Hintergrund ist wieder in Wingspan verfügbar!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "L'arrière-plan Pâques fait son retour dans Wingspan !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Vuelve el fondo de Pascua a Wingspan!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "O plano de fundo de Páscoa está de volta ao Wingspan!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "イースター背景が『ウイングスパン』に再登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "В «Крыльях» снова доступен пасхальный фон!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "復活節背景重返《展翅翱翔》！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "复活节背景重返《展翅翱翔》！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Lo sfondo Pasqua è tornato su Wingspan!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "부활절 배경이 윙스팬으로 돌아왔습니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Фон, присвячений Великодню, знову доступний у «Крилах»!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Spring surprises and hidden treats await! Our Easter background is hopping back into Wingspan, complete with blooming flowers, pastel colors, and even some festive eggs. Find the playful, egg-citing details we’ve hidden just for you!\n\nEnjoy this background from [April 18] to [April 27] or keep it going with the Seasonal Decorative Pack. This season, hop into the fun with Wingspan!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Wiosenne niespodzianki i ukryte smakołyki czekają! Nasze wielkanocne tło ponownie wskakuje do Na Skrzydłach - pełne kwitnących kwiatów, pastelowych kolorów i świątecznych jajek. Wypatruj zabawnych, jajcarskich detali, które ukryliśmy specjalnie dla Ciebie!\n\nCiesz się tym tłem od [18 kwietnia] do [27 kwietnia], albo zostaw je na dłużej dzięki Sezonowemu Pakietowi Dekoracyjnemu. Wskocz w wiosenną grę w Na Skrzydłach!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Der Frühling überrascht uns und verborgene Schätze warten! Unser Oster-Hintergrund hoppelt in Wingspan hinein – mit blühenden Blumen, Pastellfarben und sogar einigen festlichen Eiern. Ei-nzigartige verspielte Details warten darauf, von dir entdeckt zu werden. Findest du sie?\n\nGenieße diesen Hintergrund vom [18. April] bis zum [27. April] oder bewahre ihn dir dauerhaft mit dem Jahreszeiten-Dekopaket. Hüpfe in dieser Jahreszeit in den Wingspan-Spaß!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Des surprises printanières et des friandises cachées vous attendent ! Notre arrière-plan Pâques revient dans Wingspan, accompagné de fleurs, de couleurs pastel, et même d'œufs festifs. Découvrez les fabul-œufs détails que nous avons cachés rien pour vous !\n\nProfitez de cet arrière-plan du [18 avril] au [27 avril], ou conservez-le avec le pack décoratif saisonnier. Bondissez dans cette saison de Wingspan !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Te esperan toda clase de sorpresas primaverales y regalos ocultos! Nuestro fondo de Pascua regresa de un brinco a Wingspan con bellas flores, colores pastel y hasta algunos huevos festivos. ¡Encuentra los curiosos detallitos que hemos escondido!\n\nDisfruta de este fondo del [18] al [27 de abril] o consérvalo con el paquete decorativo estacional. ¡Da saltos de alegría durante esta época con Wingspan!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Surpresas de primavera e guloseimas escondidas aguardam! O fundo de Páscoa está voltando ao Wingspan, com flores desabrochando, cores suaves e até alguns ovos festivos. Descubra os detalhes divertidos e ovacionantes que escondemos especialmente para você!\n\nAproveite este fundo de [18 de abril] a [27 de abril] ou fique com ele o ano todo com o Pacote Decorativo Sazonal. Nesta temporada, entre na diversão com Wingspan!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "春のサプライズと秘密のご褒美が待っている！咲き誇る花、パステルカラー、お祭りの卵と一緒に、イースター背景が足取りも軽く『ウイングスパン』に戻ってきた。楽しくて\"エッグィサイティング\"な秘密のディティールを探してみよう！\n\nこの背景は[4月18日]から[4月27日]まで楽しめる。または「季節の装飾パック」を購入すれば、それ以降も利用できる。『ウイングスパン』でイースターの季節を楽しもう！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Вы готовы к весеннему празднику и к спрятанным сюрпризам? Пасхальный фон возвращается в «Крылья», неся с собой весенние цветы, пастельные краски и праздничные яйца. Попробуйте отыскать все сюрпризы, которыми мы украсили заповедник специально для вас!\n\nИграйте с этим фоном с [18 по 27 апреля] или сохраните его навсегда с декоративным набором «Времена года». Заходите в «Крылья», у нас весело!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "春日惊喜与隐藏的乐趣等待着你！我们的复活节背景再次回归《展翅翱翔》，伴随着盛开的花朵、柔和的色调，甚至还有一些节日彩蛋。快来发现我们为你特别隐藏的细节吧！\n\n这个背景可在 [4月18日] 至 [4月27日] 期间体验，或者通过购买“季节性装饰包”永久保留。这个季节，与《展翅翱翔》一起沉浸在欢乐之中吧！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "春日驚喜與隱藏的樂趣等待着你！我們的復活節背景再次回歸《展翅翱翔》，伴隨着盛開的花朵、柔和的色調，甚至還有一些節日彩蛋。快來發現我們為你特別隱藏的細節吧！\n\n這個背景可在 [4月18日] 至 [4月27日] 期間體驗，或者通過購買「季節性裝飾包」永久保留。這個季節，與《展翅翱翔》一起沉浸在歡樂之中吧！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Ti attendono sorprese primaverili e regali nascosti! Il nostro sfondo Pasqua torna saltellando su Wingspan, completo di fiori che sbocciano, colori pastello e anche alcune uova festive. Trova gli allegri e tuorlosi dettagli che abbiamo nascosto solo per te!\n\nGoditi questo sfondo dal [18 aprile] al [27 aprile] oppure fallo tuo per sempre con il pacchetto decorativo stagionale. Questa stagione, salta nel divertimento con Wingspan!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "봄의 놀라움과 숨겨진 간식이 기다리고 있습니다! 윙스팬의 부활절 배경이 활짝 핀 꽃과 파스텔 색상, 그리고 축제 달걀로 완성되어 다시 돌아왔습니다. 당신만을 위해 숨겨둔 알랑까모를 디테일을 찾아보세요!\n\n[4월 18일]부터 [4월 27일]까지 이 배경을 한정적으로 즐기거나, 계절 장식 팩으로 계속 사용하세요. 올 부활절, 윙스팬과 함께 즐거운 시간 보내세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Готуйтесь до весняного свята й прихованих сюрпризів! Великодній фон повертається у «Крила» і несе з собою весняні квіти, світлі фарби й святкові яйця. Спробуйте відшукати всі сюрпризи, які ми приховали у заповіднику спеціально для вас!\n\nГрайте з цим фоном з [18 по 27 квітня] або збережіть його назавжди з декоративним набором «Пори року». Заходьте до «Крил», у нас тут весело!"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 1,
+                    "PlatformsToShowOn": 257,
+                    "Value": "SB_DLC",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Check out Decorative DLC"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Sprawdź dekoracyjne DLC"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Sieh dir den Deko-DLC an"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Voir le DLC décoratif"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Ver DLC decorativo"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Conferir o DLC Decorativo"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "装飾DLCをチェックしましょう"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Посмотреть декоративный набор"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "查看装饰包DLC"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "查看裝飾包DLC"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Dai un'occhiata al DLC decorativo"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "장식 DLC 확인"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Ознайомтеся з декоративним доповненням"
                             }
                         ]
                     }
