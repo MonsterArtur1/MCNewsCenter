@@ -2117,7 +2117,7 @@
             "PlatformsToShowOn": 511,
             "StartDateTicks": 638800740000000000,
             "EndDateTicks": 946391904000000000,
-            "Priority": 2,
+            "Priority": 1,
             "PresetImageName": "",
             "RemoteImageName": "Asia_ComingSoon_800x300_Newscenter.jpg\r",
             "Title": {
@@ -3409,192 +3409,6 @@
             ]
         },
         {
-            "ID": "8514a00d-424e-440c-860c-6c2325b8f4e6",
-            "Tags": [
-                "Online"
-            ],
-            "PlatformsToShowOn": 511,
-            "StartDateTicks": 638791488000000000,
-            "EndDateTicks": 638803872000000000,
-            "Priority": 1,
-            "PresetImageName": "",
-            "RemoteImageName": "WS_Tury_Newscenter.jpg",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Shorter Turns Take Flight on April 16"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Krótsze tury nadlecą 16 kwietnia!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Am 16. April flattern kürzere Züge herein"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Préparez-vous à des tours plus courts le 16 avril"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "Los turnos más cortos alzan el vuelo el 16 de abril"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Turnos mais rápidos alçam voo em 16 de abril"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "4月16日、短くなった手番が飛び立ちます"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Ходы укорачиваются 16 апреля!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "更短回合时间将于4月16日抵达"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "更短回合時間將於4月16日抵達"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "I turni più brevi spiccano il volo dal 16 aprile"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "4월 16일, 더 짧아진 게임이 찾아옵니다"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Ходи стають коротшими 16 квітня!"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "3-minute Turns Coming April 16!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Tury 3-minutowe nadlatują!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "3-Minuten-Züge kommen am 16. April!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Les tours de 3 minutes arrivent le 16 avril !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Llegan los turnos de 3 minutos el 16 de abril!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Turnos de 3 minutos chegam em 16 de abril!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "4月16日、手番が3分に！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "С 16 апреля у вас будет 3 минуты на ход!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "3分钟回合即将到来！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "3分鐘回合即將到來！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Turni da 3 minuti in arrivo dal 16 aprile!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "3분 턴 4월 16일 출시!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "З 16 квітня у вас буде 3 хвилини на хід!"
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 511,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "We heard your feedback, Birders! \n\nOn <b>April 16</b>, we’re trimming the turn timer in real-time multiplayer from <b>5 minutes to 3 minutes</b>. This means less waiting, more playing, and a smoother flow without long pauses.\nBefore the change goes live, our servers will undergo short maintenance works. \nThe maintenance will <b>start April 16 at 10 AM CEST/8AM UTC/1AM PT and will last about one hour</b>.\n\nAfter the update, all new real-time games will use the 3-minute timer, while ongoing matches will continue with the 5-minute timer, so you can still finish your current games without any changes.\n\nSharpen your tactics and get ready for faster games – coming April 16! "
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Słyszeliśmy Wasze opinie, Ptasiarze!\nOd 16 kwietnia skracamy czas tur w rozgrywkach wieloosobowych w czasie rzeczywistym z 5 minut do 3 minut. Mniej czekania, więcej grania!\nZanim zmiana wejdzie w życie, nasze serwery przejdą krótką konserwację.\nRozpocznie się ona 16 kwietnia o 10:00 czasu polskiego (CEST) i potrwa około godziny.\nPo aktualizacji wszystkie nowe gry w czasie rzeczywistym będą korzystać z 3-minutowego licznika, natomiast trwające rozgrywki pozostaną na 5-minutowym, abyście mogli je dokończyć bez zmian.\nWyostrzcie swoje strategie i przygotujcie się na szybszą rozgrywkę - start 16 kwietnia!\n"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Euer Feedback ist angekommen, Hobby-Ornithologen! \n\nAm 16. April werden wir den Zugtimer im Echtzeit-Mehrspielermodus von 5 Minuten auf 3 Minuten kürzen. Das bedeutet: Weniger warten, mehr spielen – ein flüssigeres Erlebnis ohne lange Pausen.\nVor der Änderung werden unsere Server für ein kurzes Wartungsintervall offline gehen. \nDie Wartung beginnt am 16. April um 10:00 Uhr MESZ und dauert etwa eine Stunde.\n\nNach der Aktualisierung starten alle neuen Echtzeitspiele mit einem 3-Minuten-Zugtimer. Bereits laufende Spiele behalten ihren 5-Minuten-Timer bei und können ohne Änderungen zu Ende geführt werden.\n\nVerfeinert eure Taktik und macht euch auf schnellere Spiele gefasst – am 16. April geht es los!\n"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Nous avons entendu les retours de nos ornithologues !\n\nLe 16 avril, nous réduirons le minuteur des parties du mode multijoueur en temps réel de 5 à 3 minutes. Ce qui veut dire moins d'attente, plus de jeu, et des parties plus fluides sans pauses longues.\nAvant que ce changement ne soit actif, nos serveurs effectueront une courte maintenance.\nElle commencera le 16 avril à 10 h CEST / 8 h UTC / 1 h PT et durera environ une heure.\n\nAprès la mise à jour, toutes les parties en temps réel utiliseront le minuteur de 3 minutes, tandis que les parties en cours utiliseront encore la limite de 5 minutes, afin que vous puissiez les terminer sans aucun changement.\n\nPerfectionnez vos stratégies et préparez-vous pour des parties plus rapides le 16 avril !"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "¡Hemos escuchado vuestros comentarios, fans de las aves!\n\nEl 16 de abril, acortaremos los turnos del modo multijugador en tiempo real de 5 minutos a 3 minutos. Eso significa que esperaréis menos y jugaréis más, así que las partidas serán más fluidas y no tendrán pausas largas.\nAntes de introducir el cambio, llevaremos a cabo un breve mantenimiento en nuestros servidores.\nEl mantenimiento empezará el 16 de abril a las 10:00 CEST/8:00 UTC/1:00 PT y durará alrededor de una hora.\n\nTras la actualización, todas las nuevas partidas en tiempo real tendrán turnos de 3 minutos, mientras que las partidas empezadas antes del cambio seguirán con los turnos de 5 minutos, por lo que podréis terminarlas sin ninguna modificación.\n\n¡Preparad vuestras estrategias y disfrutad de partidas más rápidas a partir del 16 de abril!"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Nós ouvimos seu feedback, observadores de pássaros! \n\nEm 16 de abril, vamos reduzir o tempo de turno no modo multijogador em tempo real de 5 para 3 minutos. Isso significa menos espera e mais jogo, bem como um ritmo mais fluido para as partidas, sem longas pausas.\nAntes que as mudanças sejam implementadas, nossos servidores passarão por uma rápida manutenção para serem atualizados. \nA manutenção terá início em 16 de abril às 10h CEST/08h UTC/1h PT e deve durar aproximadamente uma hora.\n\nApós a atualização, novas partidas em tempo real serão jogadas com o tempo de turno de 3 minutos, enquanto partidas já em andamento continuarão com o limite de 5 minutos para que vocês possam concluir seus jogos em andamento sem mudanças.\n\nAprimorem suas táticas e preparem-se para partidas mais rápidas a partir de 16 de abril! "
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "愛鳥家の方々からのフィードバックに耳を傾けました！\n\n4月16日、リアルタイムマルチプレイヤーの手番タイマーを5分から3分に短縮します。つまり、待ち時間は短くなり、もっとプレイを楽しめるようになり、長い中断がなくなりゲームの流れがよりスムーズになります。\nこの変更の導入前に、短時間のサーバーメンテナンスを実施します。\nメンテナンスは4月16日の午前10時（CEST）/午前8時（UTC）/午後7時（PT）に開始し、約1時間の予定です。\n\nこのアップデート後、全てのリアルタイムのゲームで3分間の手番タイマーが使われますが、既に進行中のマッチでは5分間の制限となります。進行中のマッチでは5分間のタイマーが使われますので、現在のゲームは変更なしで完了できます。\n\n来たる4月16日に向けて、戦略を研ぎ澄まし、よりペースの早くなったゲームに備えましょう！"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Ваши предложения приняты, птицеловы!\n\n16 апреля таймер в сетевом режиме уменьшится с пяти минут до трёх. Это значит, что игра пойдёт бодрее — без длительного ожидания хода.\nЧтобы изменение вступило в силу, мы проведём на серверах технические работы. Они не займут много времени.\n16 апреля в 11:00 по московскому времени серверы будут отключены примерно на час.\n\nПосле обновления во всех играх в реальном времени будет действовать трёхминутный таймер. В уже запущенных матчах сохранится пятиминутный таймер, и начатые игры можно будет завершить как обычно.\n\nВыбирайте тактику для более быстрых матчей уже с 16 апреля!"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "我们听到了你的反馈，观鸟者们！\n\n从4月16日起，实时多人游戏的回合计时将从5分钟缩短至3分钟。这意味着等待时间更少，游戏更流畅，你再也不会因为长时间暂停而打断节奏。\n在改动正式上线前，我们将对服务器进行短暂维护。\n维护将于4月16日上午10点（CEST）/上午8点（UTC）/太平洋时间4月15日晚上7点（PT）开始，预计持续约一小时。\n\n更新后，所有新创建的即时对局都将采用3分钟计时，而正在进行的对局仍会维持5分钟计时，以便你能顺利完成当前的游戏。\n\n优化你的策略，迎接更快节奏的对局吧——4月16日见！"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "我們聽到了你的反饋，觀鳥者們！\n\n從4月16日起，實時多人遊戲的回合計時將從5分鐘縮短至3分鐘。這意味着等待時間更少，遊戲更流暢，你再也不會因為長時間暫停而打斷節奏。\n在改動正式上線前，我們將對伺服器進行短暫維護。\n維護將於4月16日上午10點（CEST）/上午8點（UTC）/太平洋時間4月15日晚上7點（PT）開始，預計持續約一小時。\n\n更新後，所有新創建的即時對局都將採用3分鐘計時，而正在進行的對局仍會維持5分鐘計時，以便你能順利完成當前的遊戲。\n\n優化你的策略，迎接更快節奏的對局吧——4月16日見！"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Abbiamo ascoltato le vostre opinioni, birdwatcher!\n\nDal 16 aprile, il timer dei turni delle partite multigiocatore in tempo reale passerà da 5 a 3 minuti. Questo significa tempi di attesa ridotti, più tempo per giocare e un ritmo di gioco più fluido senza lunghe pause.\nPrima che la modifica entri in vigore, i nostri server subiranno una piccola manutenzione.\nLa manutenzione avrà inizio il 16 aprile alle 10:00 CEST/08:00 UTC/1:00 PT e durerà circa un'ora.\n\nDopo l'aggiornamento, tutte le nuove partite in tempo reale useranno il timer dei turni da 3 minuti, mentre quelle rimaste in sospeso manterranno quello da 5 minuti, per consentire che si svolgano senza variazioni.\n\nAguzzate l'ingegno, dal 16 aprile le partite si faranno più veloci!"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "새 애호가 여러분, 의견을 들었습니다!\n\n4월 16일부터 실시간 멀티플레이에서 턴 타이머가 5분에서 3분으로 단축됩니다. 따라서 기다리는 시간이 줄어들고, 더 많이 플레이할 수 있으며, 긴 지연 없이 더 원활한 플레이가 가능해집니다.\n변경 사항이 적용되기 전에 서버가 잠시 점검될 예정입니다.\n점검은 4월 16일(오전10시 CEST, 오전 8시 UTC, 오후 1시 PT)에 시작되어 약 1시간 동안 진행됩니다.\n\n업데이트 후 모든 신규 실시간 게임은 3분 타이머를 사용하며, 이미 진행 중인 게임은 5분 제한이 유지됩니다. 따라서 게임을 플레이하고 있더라도, 특별한 조치를 하지 않고 그대로 종료하셔도 괜찮습니다.\n\n오는 4월 16일, 전술을 연마하고 더 짧아진 게임을 준비하세요!"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Ми почули ваші пропозиції, птахолови!\n\n16 квітня таймер у мережевому режимі зменшиться з п'яти хвилин до трьох. Це означає, що гра стане швидше — без довгого очікування ходу.\nМи проведемо технічні роботи на серверах, щоб зміни набули чинності. Це не займе багато часу.\n16 квітня о 11:00 за Києвом сервери будуть відключені приблизно на годину.\n\nПісля оновлення таймер на три хвилини буде діяти у всіх іграх у реальному часі. У матчах, які вже запущені, буде збережено таймер на п'ять хвилин, і початі ігри можна буде завершити як раніше.\n\nОбирайте тактику для швидших матчів вже з 16 квітня!"
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": []
-        },
-        {
             "ID": "cad09516-acbc-433f-9fa2-db1038175464",
             "Tags": [
                 "Events"
@@ -4279,7 +4093,7 @@
                         "LocalizedTexts": [
                             {
                                 "Language": "en",
-                                "Text": "We’ve heard your feedback loud and clear: the 5-minute turn timer in real-time multiplayer was slowing down the flock. So, starting now, turns will be trimmed to 3 minutes - just the right amount of time to make those strategic moves without slowing down the game!\n\nWe hope this change keeps the game flying along smoothly, so you can spend more time hatching plans and less time watching the clock tick. \nThanks for sharing your thoughts and helping us make Wingspan even better!\n\nHere’s to faster games and higher scores! Enjoy!"
+                                "Text": "We’ve heard your feedback loud and clear: the 5-minute turn timer in real-time multiplayer was slowing down the flock. So, starting now, <style=asia>turns will be trimmed to 3 minutes</style> - just the right amount of time to make those strategic moves without slowing down the game!\r\n\r\nWe hope this change keeps the game flying along smoothly, so you can spend more time hatching plans and less time watching the clock tick. \r\nThanks for sharing your thoughts and helping us make Wingspan even better!\r\n\r\nTo help everyone ease into the new flow, <style=asia>we’re turning off the penalty for time outs until Friday, 3PM CEST / 1PM UTC / 6AM PT</style> – so no karma lost if you forfeit a match before then!\r\n\r\nHere’s to faster games and higher scores! Enjoy!"
                             },
                             {
                                 "Language": "pl",
