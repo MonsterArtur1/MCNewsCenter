@@ -1,7 +1,7 @@
 {
   "LocalDisabledBirds": [],
   "OnlineDisabledBirds": [],
-  "GlobalServerMaintenance": false,
+  "GlobalServerMaintenance": true,
   "PlatformMaintenances": [
     {
       "PlatformName": "DrmFree",
@@ -55,7 +55,7 @@
   "LocalizationParams": [
     {
       "ParamName": "RC_SHORT_TIME",
-      "ParamValue": "5"
+      "ParamValue": "3"
     },
     {
       "ParamName": "RC_LONG_TIME",
