@@ -1,4 +1,10 @@
 {
   "LocalDisabledBirds": [],
-  "OnlineDisabledBirds": []
+  "OnlineDisabledBirds": [],
+  "OverrideLiveServer": true,
+  "LiveServerOverrideData": {
+    "HostURL": "nakama.monstercouch.com",
+    "Port": 7350,
+    "ServerKey": "defaultkey"
+  }
 }
