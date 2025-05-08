@@ -4582,6 +4582,376 @@
                 }
             ],
             "Actions": []
+        },
+        {
+            "ID": "f05beb3e-0676-4808-9362-c09e13b77c4d",
+            "Tags": [
+                "MonsterCouch"
+            ],
+            "PlatformsToShowOn": 257,
+            "StartDateTicks": 638823096000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 1,
+            "PresetImageName": "",
+            "RemoteImageName": "Flamecraft_Announcement_Newscenter.jpg",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "A new magical adventure is on the way!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Nadchodzi nowa magiczna przygoda!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Ein neues magisches Abenteuer kommt bald!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Une nouvelle aventure magique va commencer !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Una nueva aventura mágica!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Está chegando uma nova aventura mágica!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "魔法のような旅が間もなく始まる！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Близится новое магическое приключение!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "全新冒險之旅即將展開！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "一场全新的魔法冒险即将开启！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Una nuova avventura magica è in arrivo!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "새로운 마법 같은 모험이 시작됩니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Наближається нова магічна пригода!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "The next big thing from our lair is coming - packed with magic, fun, and fancy dragons!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Nadchodzi nasz nowy projekt - pełny magii, zabawy i frymuśnych smoków!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Der nächste große Hit aus unserem Nest kommt – voller Magie, Spaß und Schmuckdrachen!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "La prochaine pépite de notre antre arrive ! Magie, fun et Dragons Fantaisie sont au rendez-vous !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Llega una gran novedad desde nuestra guarida... ¡y está repleta de magia, diversión y Dragones Selectos!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "A próxima grande novidade do nosso covil está a caminho — repleta de magia, diversão e dragões extravagantes!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "私たちの巣から出てくる次の大ニュースは、魔法、お楽しみ、伝説ドラゴンでいっぱい！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "На подходе свежая новинка из нашего логова, и в ней полно магического веселья и клевых драконов!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "The next big thing from our lair is coming - packed with magic, fun, and fancy dragons!"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "The next big thing from our lair is coming - packed with magic, fun, and fancy dragons!"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Sta arrivando una grande novità, ricca di magia, divertimento e draghi stravaganti!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "마법과 재미, 멋진 드래곤으로 가득한 다음 게임이 출시합니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Скоро прибуде новинка від нас, де безліч чудових драконів і магічних веселощів!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 257,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Birders!\nWe have a big announcement: <style=oceania>Flamecraft is going digital!</style>\nStep into a cozy, magical world where artisan dragons bring shops to life and clever strategy sparks pure delight. \n<style=oceania>Enchant Shops, Befriend Dragons</style>\nTake on the role of a Flamekeeper, guiding dragons and shopkeepers to impress townsfolk and earn reputation. Place your dragons wisely, cast powerful enchantments, and trigger dazzling combos to rise as the Master of Flamecraft.\n<style=oceania>A Living, Whimsical World</style>\nFrom sugary spells at Guilty Treasures to enchanted parcels at Scale Mail Post, every shop buzzes with charm. Dragons turn everyday chores into pure magic making this town shining with wonders!\n<style=oceania>Play Solo or With Friends</style>\nChill with a relaxing solo game or dive into multiplayer chaos with friends or online rivals. With custom games and smart AI, there’s always a fresh way to play.\n<style=oceania>Craft Combos, Manage Resources</style>\nVisit shops like Gnome Depot or Draconic Tonic to gather goods, enchant locations, and trigger chain reactions of fiery fun. Mastering combos is the secret to climbing the ranks!\n<style=oceania>Over 70 Dragons, 30 Shops, and One Magical Soundtrack</style>\nSandara Tang’s stunning art comes to life in gorgeous 3D, featuring over 70 unique dragons and 30 cozy shops. And yes, Wingspan composer Paweł Górniak is back with a soundtrack full of heart and whimsy.\n<style=oceania>Join us on this journey!</style>\nWishlist Flamecraft on Steam now to be among the first to experience the enchantment! And hop into the Cardboard Alchemy Discord for updates, sneak peeks, and all things dragon."
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Ptasiarze!\nMamy wielką zapowiedź: <style=oceania>Flamecraft trafia do świata cyfrowego!</style> \nWkrocz do przytulnego, magicznego świata, w którym smoki rzemieślnicy ożywiają sklepy, a sprytna strategia daje czystą radochę!\n\n<style=oceania>Zaklinaj Sklepy, Zyskuj Smoczych Kumpli</style>\nWciel się w rolę Smokoustego,  prowadź smoki i sklepikarzy, żeby zaimponować mieszkańcom i zdobywać reputację. Umieszczaj smoki z głową, rzucaj potężne zaklęcia i wywołuj oszałamiające kombosy, by zostać Mistrzem Flamecraftu.\n\n<style=oceania>Żyjący, Bajkowy Świat</style>\nOd słodkości we Frykasach Z Rękawa po magiczne paczki na Skrzydlatej Poczcie - każdy sklep tętni urokiem. Smoki zamieniają codzienne obowiązki w czystą magię, a całe miasteczko lśni od cudów!\n\n<style=oceania>Graj Solo lub z Ekipą</style>\nZrelaksuj się w trybie solo albo wskocz w smoczy chaos ze znajomymi lub przeciwnikami online. Dzięki możliwości ustawienia własnej gry i sprytnej SI zawsze znajdzie się świeży sposób na rozgrywkę.\n\n<style=oceania>Twórz Kombosy, Zarządzaj Zasobami</style>\nOdwiedzaj sklepy jak Dracorama czy Drakoniczne Dekokty, zbieraj dobra, zaklinaj lokacje i uruchamiaj reakcje łańcuchowe pełne ognistej frajdy. Mistrzostwo w kombosach to klucz do sławy!\n\n<style=oceania>Ponad 70 Smoków, 30 Sklepów i Jedna Magiczna Ścieżka Dźwiękowa</style>\nOlśniewająca grafika Sandary Tang ożywa w pięknym 3D: ponad 70 unikalnych smoków i 30 przytulnych sklepów. Kompozytor muzyki z Na Skrzydłach - Paweł Górniak - wraca z soundtrackiem pełnym serca i magii.\n\n<style=oceania>Dołącz do nas w tej przygodzie!</style>\nDodaj Flamecraft do listy życzeń na Steamie, żeby jako jedna z pierwszych osób poczuć magię tej gry! Wskocz na Discord Cardboard Alchemy po aktualności, zajawki i wszystko, co smocze!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Vogelfreunde!\nWir haben große Neuigkeiten: <style=oceania>Flamecraft wird digital!</style>  \nBetretet eine gemütliche, magische Welt, in der Werkeldrachen Läden zum Leben erwecken und clevere Strategien pure Freude entfachen. \n<style=oceania>Verzaubert Läden, freundet euch mit Drachen an</style> \nSchlüpft in die Rolle von Flammenhütern, die Drachen und Ladenbesitzer führen, um die Stadtbewohner zu beeindrucken und Ruhm zu ernten. Platziert eure Drachen mit Bedacht, wirkt mächtige Verzauberungen und löst überwältigende Combos aus, um zum Meister der Flammenkunst aufzusteigen.\n<style=oceania>Eine lebendige Welt voller Wunder</style> \nVom Schladrachenland mit zuckersüßen Zaubern bis hin zu FedEchs mit verzauberten Päckchen steckt jeder Laden voller Charme. Drachen verwandeln alltägliche Aufgaben in pure Magie und machen diese Stadt zu einem strahlenden Ort voller Wunder!\n<style=oceania>Spielt allein oder mit Freunden</style> \nEntspannt euch bei einer Solopartie oder stürzt euch mit Freunden oder Online-Rivalen ins Mehrspielerchaos. Benutzerdefinierte Spiele und eine schlaue KI sorgen für ein immer neues Spielerlebnis.\n<style=oceania>Erschafft Combos, verwaltet Ressourcen</style> \nBesucht Läden wie Horndrach oder Bob der Braumeister, um Waren zu sammeln, verzaubert Orte und löst feurige Kettenreaktionen aus. Combos zu meistern ist der Schlüssel, um die Ränge zu erklimmen!\n<style=oceania>Über 70 Drachen, 30 Läden und ein magischer Soundtrack</style> \nDie atemberaubende Kunst von Sandara Tang erwacht in umwerfendem 3D-Look zum Leben, mit über 70 einzigartigen Drachen und 30 gemütlichen Läden. Und ja, Paweł Górniak, der Komponist von Wingspan, ist mit einem Soundtrack voller Gefühl und Fantasie auch mit von der Partie.\n<style=oceania>Begleitet uns auf dieser Reise!</style> \nFügt Flamecraft jetzt eurer Steam-Wunschliste hinzu, um zu den Ersten zu gehören, die den Zauber erleben! Und schaut auch auf dem Discord-Server von Cardboard Alchemy vorbei, um euch Updates, erste Einblicke und alle Infos rund um Drachen zu sichern."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Avis à tous les ornithologues !\nNous avons une grande annonce : <style=oceania>Flamecraft devient numérique !</style> \nPlongez dans un monde magique et chaleureux où d'adorables Dragons Artisans animent les Boutiques et où une stratégie bien pensée vous garantit un plaisir enflammé. \n<style=oceania>Enchantez les Boutiques et nouez des liens avec les Dragons</style> \nIncarnez un Gardien des Flammes, guidez Dragons et commerçants pour impressionner les habitants et gagner en Réputation. Placez judicieusement vos Dragons, lancez de puissants Enchantements et déclenchez des combos spectaculaires pour devenir Maître de Flamecraft.\n<style=oceania>Un monde vivant et féérique</style> \nDes sorts sucrés de Trésors Défendus aux colis enchantés de la Poste des Squamates, chaque Boutique déborde de charme. Les Dragons transforment les tâches du quotidien en une magie étincelante qui illumine toute la ville !\n<style=oceania>Jouez en solo ou entre amis</style> \nDétendez-vous avec une partie solo relaxante ou plongez dans le chaos multijoueur avec vos amis ou des adversaires en ligne. Grâce aux parties personnalisées et à une IA futée, chaque session est une nouvelle aventure.\n<style=oceania>Créez des combos, gérez vos ressources</style> \nVisitez Au Bazar des Gnomes ou L'Alambic Draconique pour récolter des ressources, enchanter les lieux et déclencher une réaction en chaîne de joie incandescente. Maîtriser les combos est la clé pour grimper dans les rangs !\n<style=oceania>Plus de 70 Dragons, 30 Boutiques et une bande-son magique</style> \nL'art envoûtant de Sandara Tang s'anime en une 3D somptueuse, avec plus de 70 Dragons uniques et 30 Boutiques chaleureuses. Et oui, Paweł Górniak, compositeur de Wingspan, revient avec une bande-son pleine de charme et d'émotion.\n<style=oceania>Rejoignez l'aventure !</style> \nAjoutez Flamecraft à votre liste de souhaits sur Steam pour être parmi les premiers à vivre l'enchantement ! Et rejoignez le Discord de Cardboard Alchemy pour découvrir les coulisses, les aperçus exclusifs et tout l'univers des Dragons."
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Hola, fans de las aves!\nTenemos un gran anuncio que hacer: <style=oceania>¡Flamecraft se vuelve digital!</style>  \nSalid a un mundo mágico donde los Dragones Artesanos montan Tiendas maravillosas y podéis disfrutar como niños con las estrategias más ingeniosas. \n<style=oceania>Encantad Tiendas y entablad amistad con los Dragones</style> \nEn el juego asumiréis el papel de Guardallamas para guiar a los Dragones y comerciantes, impresionar a los lugareños y mejorar vuestra reputación. Colocad a los Dragones con inteligencia, lanzad poderosos Encantamientos y activad fantásticos combos para convertiros en Maestros de Llamas.\n<style=oceania>Un mundo vivo y lleno de fantasía</style> \nRepartid dulces hechizos en Tesoros Culpables o enviad paquetes encantados desde Correo Escamoso: ¡nuestras tiendas rebosan de encanto! Los Dragones convierten las tareas cotidianas en pura magia y hacen de la ciudad un lugar maravilloso.\n<style=oceania>Jugad en solitario o con amigos</style> \nRelajaos con el juego en solitario o lanzaos de cabeza al caos multijugador con amigos o rivales en línea. Gracias a las partidas personalizadas y a la potencia de la IA, siempre hay una forma nueva de jugar.\n<style=oceania>Cread combos y gestionad recursos</style> \nPasaos por tiendas como la Ferretería de Gnomos o Tónico Dracónico para obtener bienes, encantar lugares y provocar reacciones en cadena de llameante diversión. ¡El secreto para llegar a lo más alto es dominar los combos!\n<style=oceania>Más de 70 Dragones, 30 Tiendas y una banda sonora realmente mágica</style> \nLos maravillosos diseños de Sandara Tang cobran vida con asombrosa belleza en un mundo 3D habitado por más de 70 Dragones únicos y 30 encantadoras Tiendas. Y, por si fuera poco, vuelve el compositor de Wingspan, Paweł Górniak, con una banda sonora repleta de corazón y fantasía.\n<style=oceania>¡Acompañadnos en esta gran aventura!</style> \n¡Ya podéis añadir Flamecraft a vuestra lista de deseados de Steam para disfrutar de su magia antes que nadie! Y, además, en el Discord de Cardboard Alchemy encontraréis actualizaciones, avances y un sinfín de cosas dracónicas.\n"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Amantes dos pássaros!\nTemos uma grande novidade: <style=oceania>Flamecraft estará disponível nas plataformas digitais!</style>  \nMergulhe num universo mágico e acolhedor onde dragões-artesãos dão vida às lojas, e estratégias inteligentes despertam puro deleite. \n<style=oceania>Encante lojas e faça amizades com dragões</style> \nAssuma o papel de Guardachamas para guiar dragões e comerciantes, impressionar os moradores da cidade e ganhar reputação. Posicione seus dragões com cuidado, lance encantamentos poderosos e realize combinações incríveis para ascender como Mestre do Fogo.\n<style=oceania>Um mundo vivo e fantasioso</style> \nDe feitiços açucarados nos Tesouros Travessos a pacotes encantados no Correio Escamoso, cada loja tem seu próprio encanto. Dragões transformam tarefas cotidianas em pura magia, fazendo a cidade brilhar com toda essa maravilha!\n<style=oceania>Jogue solo ou com os amigos</style> \nRelaxe no modo solo ou mergulhe no caos do modo multijogador com seus amigos e rivais online. Com partidas personalizadas e IA habilidosa, sempre há uma nova maneira de se divertir.\n<style=oceania>Crie combinações e gerencie recursos</style> \nVisite lojas como o Depósito dos Gnomos e o Tônico Dracônico para coletar recursos, encantar localizações e realizar reações em cadeia de pura diversão. Dominar combinações é o segredo para subir nos escalões!\n<style=oceania>Mais de 70 dragões, 30 lojas e uma trilha sonora mágica</style> \nA arte deslumbrante de Sandara Tang ganha vida em três dimensões, apresentando mais de 70 dragões exclusivos e 30 lojas acolhedoras. E sim, o compositor de Wingspan, Pawel Górniak, está de volta com uma trilha sonora cheia de emoção e capricho.\n<style=oceania>Junte-se a nós nesta jornada!</style> \nAdicione Flamecraft à sua lista de desejos do Steam agora mesmo para curtir todo esse encanto em primeira mão! E não se esqueça de acessar o servidor Cardboard Alchemy do Discord para ficar por dentro das atualizações, prévias e tudo que envolve nossos dragões."
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "鳥類愛好家のみなさん！\n重大な発表があります。<style=oceania>『Flamecraft』がデジタル版になって登場します！</style> \nほんわかとした魔法の世界に足を踏み入れて、働きドラゴンを手伝ってお店を活気づけたり、賢い戦略で皆を心から喜ばせよう。\n<style=oceania>お店に魔法をかけ、ドラゴンと友達になろう</style> \n炎の理解者の役割を引き受けよう。ドラゴンと店主さんを導いて町の人々に感銘を与えて、評判を獲得しよう。ドラゴンを賢く配置して強力な魔法をかけ、目も眩むようなコンボを発動して真の炎の理解者として昇りつめよう。\n<style=oceania>一風変わった活き活きとした世界</style> \n「ギルティ・トレジャーズ」の甘い呪文から「スケイルメイル郵便局」の魔法がかけられた小包まで、どのお店も魅力的で賑わっています。ドラゴンは日々の仕事を純粋な魔法に変えて、この街を不思議で煌めかせます！\n<style=oceania>ソロでも、友達ともプレイ</style> \nソロプレイでリラックスして楽しむことも、フレンドやオンラインのライバルと一緒にカオスなマルチプレイヤーに飛び込むこともできます。カスタムゲームとスマートAIで、いつも新鮮なプレイが楽しめます。\n<style=oceania>コンボを作成し、リソースを管理しよう</style> \n「ノームデポ」や「ドラコニック・トニック」のようなお店を訪ねてロケーションに魔法をかけて、炎のような面白い連鎖反応を引き起こしましょう。コンボをマスターすることがランクを登っていく秘訣です！\n<style=oceania>70種類以上のドラゴン、30種類のお店、魔法のようなサウンドトラックひとつ</style> \nSandara Tangの素敵なアートが豪華な3Dグラフィックスで命を吹き込まれ、70種類のユニークなドラゴンと30種類のほんわかとしたお店が登場します。そしてもちろん、『Wingspan』のコンポーザー、Paweł Górniakが一風変わった、心のこもったサウンドトラックと共に帰ってきます。\n<style=oceania>私たちと一緒にこの旅に出ましょう！</style> \n今すぐ『Flamecraft』をSteamのウィッシュリストに追加して、誰よりも先に魔法を体験しましょう！Cardboard AlchemyのDiscordに参加して最新情報や発売前情報、ドラゴンの情報を入手しましょう。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Птичники!\nУ нас важные новости: <style=oceania>Flamecraft выйдет в цифровом формате!</style> \nОткройте для себя уютный магический мир, где мастера-драконы оживляют магазины, а стратегия приносит истинное наслаждение.\n<style=oceania>Зачаровывайте лавки, дружите с драконами</style> \nПримите на себя роль хранителя пламени и помогите драконам и владельцам лавок очаровать горожан и заработать репутацию. Размещайте драконов с умом, накладывайте мощные чары и активируйте захватывающие комбо, чтобы стать настоящим повелителем пламени.\n<style=oceania>Живой и непредсказуемый мир</style> \nОт сахарных заклинаний «Сладкого соблазна» до зачарованных посылок «Чешуйчатой почты» — каждый магазин по-своему очарователен. Драконы превращают повседневную рутину в чистое волшебство сказочного города!\n<style=oceania>Играйте в одиночку или с друзьями</style> \nРасслабляйтесь в одиночных играх или устраивайте хаос сетевой игры с друзьями или соперниками. Благодаря настраиваемым играм и умному ИИ количество возможных стратегий попросту безгранично.\n<style=oceania>Создавайте комбинации, управляйте ресурсами</style> \nПосещайте «Депо гномов», «Тоник-Драконик» и другие лавки, чтобы приобретать товары, зачаровывать локации и запускать цепные реакции огненного веселья. Осваивайте комбинации, чтобы подниматься в рейтинге!\n<style=oceania>Свыше 70 драконов, 30 лавок и один волшебный саундтрек</style> \nВеликолепные работы Сандары Танг оживают в 3D. Вас ждет более 70 уникальных драконов и 30 уютных лавок. И да, Павел Горняк, композитор «Wingspan», вернулся с теплым и фантастическим саундтреком.\n<style=oceania>Присоединяйтесь к нам в этом приключении!</style> \nДобавьте Flamecraft в список желаемого в Steam прямо сейчас, чтобы в числе первых прикоснуться к волшебству! И присоединяйтесь к серверу Cardboard Alchemy в Discord, чтобы узнавать об обновлениях, подсматривать анонсы и быть в курсе новостей о драконах."
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "Birders!\nWe have a big announcement: <style=oceania>Flamecraft is going digital!</style>\nStep into a cozy, magical world where artisan dragons bring shops to life and clever strategy sparks pure delight. \n<style=oceania>Enchant Shops, Befriend Dragons</style>\nTake on the role of a Flamekeeper, guiding dragons and shopkeepers to impress townsfolk and earn reputation. Place your dragons wisely, cast powerful enchantments, and trigger dazzling combos to rise as the Master of Flamecraft.\n<style=oceania>A Living, Whimsical World</style>\nFrom sugary spells at Guilty Treasures to enchanted parcels at Scale Mail Post, every shop buzzes with charm. Dragons turn everyday chores into pure magic making this town shining with wonders!\n<style=oceania>Play Solo or With Friends</style>\nChill with a relaxing solo game or dive into multiplayer chaos with friends or online rivals. With custom games and smart AI, there’s always a fresh way to play.\n<style=oceania>Craft Combos, Manage Resources</style>\nVisit shops like Gnome Depot or Draconic Tonic to gather goods, enchant locations, and trigger chain reactions of fiery fun. Mastering combos is the secret to climbing the ranks!\n<style=oceania>Over 70 Dragons, 30 Shops, and One Magical Soundtrack</style>\nSandara Tang’s stunning art comes to life in gorgeous 3D, featuring over 70 unique dragons and 30 cozy shops. And yes, Wingspan composer Paweł Górniak is back with a soundtrack full of heart and whimsy.\n<style=oceania>Join us on this journey!</style>\nWishlist Flamecraft on Steam now to be among the first to experience the enchantment! And hop into the Cardboard Alchemy Discord for updates, sneak peeks, and all things dragon."
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "Birders!\nWe have a big announcement: <style=oceania>Flamecraft is going digital!</style>\nStep into a cozy, magical world where artisan dragons bring shops to life and clever strategy sparks pure delight. \n<style=oceania>Enchant Shops, Befriend Dragons</style>\nTake on the role of a Flamekeeper, guiding dragons and shopkeepers to impress townsfolk and earn reputation. Place your dragons wisely, cast powerful enchantments, and trigger dazzling combos to rise as the Master of Flamecraft.\n<style=oceania>A Living, Whimsical World</style>\nFrom sugary spells at Guilty Treasures to enchanted parcels at Scale Mail Post, every shop buzzes with charm. Dragons turn everyday chores into pure magic making this town shining with wonders!\n<style=oceania>Play Solo or With Friends</style>\nChill with a relaxing solo game or dive into multiplayer chaos with friends or online rivals. With custom games and smart AI, there’s always a fresh way to play.\n<style=oceania>Craft Combos, Manage Resources</style>\nVisit shops like Gnome Depot or Draconic Tonic to gather goods, enchant locations, and trigger chain reactions of fiery fun. Mastering combos is the secret to climbing the ranks!\n<style=oceania>Over 70 Dragons, 30 Shops, and One Magical Soundtrack</style>\nSandara Tang’s stunning art comes to life in gorgeous 3D, featuring over 70 unique dragons and 30 cozy shops. And yes, Wingspan composer Paweł Górniak is back with a soundtrack full of heart and whimsy.\n<style=oceania>Join us on this journey!</style>\nWishlist Flamecraft on Steam now to be among the first to experience the enchantment! And hop into the Cardboard Alchemy Discord for updates, sneak peeks, and all things dragon."
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Birdwatcher!\nAbbiamo un grande annuncio: <style=oceania>Flamecraft sta arrivando in versione digitale! </style> \nEntra in un mondo magico e confortevole dove i negozi prendono vita grazie a draghi artigiani e la strategia è sinonimo di divertimento! \n<style=oceania>Incanta i negozi e stringi amicizia con i draghi</style> \nDiventa un Custode della Fiamma e aiuta i draghi artigiani e i negozianti a stupire gli abitanti della città per guadagnare reputazione. Posiziona i tuoi draghi saggiamente, lancia incantesimi potenti e innesca combo spettacolari per affermarti come Signore della Fiamma.\n<style=oceania>Un mondo vivo e stravagante</style> \nDagli incantesimi zuccherosi di Tesori Golosi ai pacchi incantati della Posta del Drago, ogni negozio è ricco di incanto. I draghi trasformano ogni incombenza in uno spettacolo di magia che fa splendere la città di meraviglia!\n<style=oceania>Gioca in solitaria o con gli amici</style> \nRilassati giocando per conto tuo, oppure tuffati nel multigiocatore per un po' di caos con gli amici o con avversari trovati online. Grazie alle partite personalizzate e all'IA reattiva, ci saranno sempre nuovi modi di divertirsi.\n<style=oceania>Crea combo e gestisci le risorse</style> \nVisita negozi come il Paiolo d'Oro o Tonico Draconico per raccogliere merci, incantare luoghi e innescare sfavillanti reazioni a catena. Padroneggiare le combo è il segreto per scalare i ranghi!\n<style=oceania>Oltre 70 draghi, 30 negozi e una colonna sonora magica</style> \nLe splendide illustrazioni di Sandara Tang prendono vita in 3D, con oltre 70 draghi unici e 30 negozi accoglienti. E sì, anche il compositore di Wingspan Paweł Górniak è tornato, con una nuova colonna sonora ammaliante!\n<style=oceania>Accompagnaci in questo viaggio!</style> \nAggiungi Flamecraft alla tua lista dei desideri di Steam per essere tra i primi a tuffarti in questo mondo incantevole. Raggiungici sul server Discord di Cardboard Alchemy per non perderti anteprime, aggiornamenti e altre cose da draghi!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "안녕하세요!\n중대 발표가 있습니다. <style=oceania>플레임크래프트(Flamecraft)가 디지털로 출시됩니다!</style> \n장인 드래곤들이 상점에 생명을 불어넣고, 영리한 전략이 순수한 즐거움을 선사하는 아늑하고 마법 같은 세계로 빠져보세요.\n\n<style=oceania>상점에 마법을, 드래곤과 우정을!</style> \n여러분은 불꽃지기가 되어 드래곤과 상인들을 이끌며 마을 사람들의 마음을 사로잡고 명성을 쌓게 됩니다. 드래곤을 전략적으로 배치하고, 강력한 마법을 부려 눈부신 콤보를 유도하며 플레임크래프트의 달인으로 거듭나세요.\n\n<style=oceania>살아 숨 쉬는 환상적인 세계</style> \n'엄마 온다 문 잠가'의 달콤한 마법부터 '매일 메일 우체국'의 마법 소포까지, 모든 상점은 매력으로 가득 차 있습니다. 드래곤들은 일상적인 일들을 순수한 마법으로 바꾸며 이 마을을 경이로움으로 반짝이게 만듭니다!\n\n<style=oceania>혼자 또는 친구들과 함께 플레이</style> \n혼자서 편안하게 플레이하거나, 친구들 또는 온라인 상대와 함께 멀티플레이의 혼돈 속으로 뛰어드세요. 커스텀 게임과 스마트한 AI 덕분에 매번 새로운 방식으로 게임을 즐길 수 있습니다.\n\n<style=oceania>콤보를 조합하고 자원을 관리하세요</style> \n'노움 대장간'이나 '드라코닉 토닉' 같은 상점을 방문해 상품을 수집하고, 장소에 마법을 부여하며, 불꽃 튀는 연쇄 반응을 일으키세요. 콤보를 마스터하는 것이 순위 상승의 비결입니다!\n\n<style=oceania>70마리가 넘는 드래곤, 30개의 상점, 그리고 마법 같은 사운드트랙</style> \nSandara Tang의 아름다운 아트워크가 멋진 3D로 생생히 구현되며, 70종 이상의 개성 넘치는 드래곤들과 30개의 아늑한 상점들이 등장합니다. 그리고 바로바로, 윙스팬(Wingspan)의 작곡가 Paweł Górniak이 감성과 유쾌함이 가득한 사운드트랙으로 돌아옵니다.\n\n<style=oceania>이 여정에 함께하세요!</style> \n지금 스팀에서 플레임크래프트를 찜 목록에 추가해, 이 마법을 가장 먼저 경험하세요! 그리고 Cardboard Alchemy 디스코드에 참여해 업데이트, 각종 정보, 드래곤 관련 모든 소식을 받아보세요."
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Птичники!\nУ нас важливі новини: <style=oceania>Flamecraft вийде у цифровому форматі!</style> \nВідкрийте для себе затишний магічний світ, де майстри-дракони оживляють крамниці, а стратегія приносить справжнє задоволення.\n<style=oceania>Зачаровуйте крамниці, знаходьте друзів-драконів</style> \nСтаньте хранителем полум'я й допоможіть драконам і власникам крамниць очарувати містян і заробити репутацію. Розташовуйте драконів розумно, використовуйте потужну магію й активуйте захоплюючі комбінації, щоб стати справжнім майстром полум'я.\n<style=oceania>Живий непередбачуваний світ</style> \nВід солодких заклинань «Скарбниці Смаколиків» до зачарованих посилок Лускопошти — кожна крамниця просто чарівна! Дракони перетворюють повсякденність на справжню магію казкового міста!!\n<style=oceania>Грайте самі або з друзями</style> \nРозслабляйтеся у одиночних іграх або влаштовуйте хаос мережевої гри з друзями або суперниками. Завдяки іграм, що можна налаштувати, й розумному ШІ, кількість можливих стратегій майже необмежена.\n<style=oceania>Створюйте комбінації, керуйте ресурсами</style> \nВідвідайте «Гномський Сховок», «Лускату Колбу»« й інші крамниці, щоб купляти товари, зачаровувати локації й запускати ланцюгові реакції вогняних веселощів. Вивчайте комбінації, щоб підійматися у рейтинг!\n<style=oceania>Більше 70 драконів, 30 крамниць і один чарівний саундтрек</style> \nНеперевершені малюнки Сандари Танг оживають в 3D. На вас чекає більше 70 унікальних драконів і30 затишних крамниць. А ще Павло Горняк, композитор «Wingspan», повертається з теплим і фантастичним саундтреком.\n<style=oceania>Приєднуйтесь до нас у пригоді!</style> \nДодайте Flamecraft до списку бажаного у Steam зараз, щоб одними з перших торкнутися магії! І приєднуйтесь до сервера Cardboard Alchemy в Discord, щоб дізнаватися про оновлення, анонси й новини про драконів."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 257,
+                    "Value": "https://store.steampowered.com/app/3201730?utm_source=wingspan&utm_medium=ingame&utm_campaign=flamecraft_reveal&utm_content=newscenter",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Wishlist now!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Dodaj Do Listy Życzeń!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Auf die Wunschliste!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Ajoutez-le à votre liste de souhaits !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Añadidlo ya a vuestra lista de deseados!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "+ Lista de desejos!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "今すぐウィッシュリストに追加！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Добавьте в список желаемого!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "立即新增至願望清單！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "即刻加入愿望单！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Aggiungi alla lista dei desideri!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "지금 찜 목록에 추가하세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Додайте до списку бажаного!"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 257,
+                    "Value": "https://discord.gg/QyV2yKjnjJ",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Join Discord!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Dołącz do Discorda!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Discord beitreten!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Rejoignez notre serveur Discord !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Uníos a Discord!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Participe do Discord!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "Discordに参加しよう！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Присоединяйтесь к Discord!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "加入 Discord！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "加入 Discord！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Entra nel nostro Discord!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "디스코드에 참여하세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Приєднуйтесь у Discord!"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 257,
+                    "Value": "https://www.monstercouch.com/flamecraft/",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Visit Website! "
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Odwiedź Stronę Internetową!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Website besuchen! "
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Explorez notre site Internet ! "
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Visitad la página web! "
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Visite nosso site! "
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "ウェブサイトを見てみよう！ "
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Посетите сайт! "
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "造訪網站！ "
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "访问官方网站！ "
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Visita il sito web! "
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "웹사이트에 방문해보세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Відвідайте сайт! "
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
