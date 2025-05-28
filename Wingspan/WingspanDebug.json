@@ -1372,6 +1372,7 @@
             "StartDateTicks": 638664480000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 1,
+			"IsPinned": true,
             "PresetImageName": "",
             "RemoteImageName": "WS_NewsCenter_Rulebook_800x300.jpg",
             "Title": {
