@@ -4423,7 +4423,7 @@
             "PlatformsToShowOn": 511,
             "StartDateTicks": 638841600000000000,
             "EndDateTicks": 638845614000000000,
-            "Priority": 1,
+            "Priority": 2,
             "IsPinned": false,
             "PresetImageName": "Online",
             "RemoteImageName": "",
