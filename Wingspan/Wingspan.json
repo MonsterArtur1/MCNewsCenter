@@ -9,6 +9,7 @@
             "StartDateTicks": 638608752000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 1,
+            "IsPinned": false,
             "PresetImageName": "",
             "RemoteImageName": "NewsCenter.jpg",
             "Title": {
@@ -195,6 +196,7 @@
             "StartDateTicks": 638608743000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 1,
+            "IsPinned": false,
             "PresetImageName": "",
             "RemoteImageName": "Tray.jpg",
             "Title": {
@@ -381,6 +383,7 @@
             "StartDateTicks": 638610912000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 1,
+            "IsPinned": false,
             "PresetImageName": "Online",
             "RemoteImageName": "",
             "Title": {
@@ -567,6 +570,7 @@
             "StartDateTicks": 638640720000000000,
             "EndDateTicks": 638646768000000000,
             "Priority": 1,
+            "IsPinned": false,
             "PresetImageName": "Online",
             "RemoteImageName": "",
             "Title": {
@@ -753,6 +757,7 @@
             "StartDateTicks": 638646012000000000,
             "EndDateTicks": 638658072600000000,
             "Priority": 1,
+            "IsPinned": false,
             "PresetImageName": "Online",
             "RemoteImageName": "",
             "Title": {
@@ -940,6 +945,7 @@
             "StartDateTicks": 638664480000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 1,
+            "IsPinned": false,
             "PresetImageName": "",
             "RemoteImageName": "WS_NewsCenter_Automarazzi_800x300.jpg",
             "Title": {
@@ -1372,6 +1378,7 @@
             "StartDateTicks": 638664480000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 1,
+            "IsPinned": false,
             "PresetImageName": "",
             "RemoteImageName": "WS_NewsCenter_Rulebook_800x300.jpg",
             "Title": {
@@ -1558,6 +1565,7 @@
             "StartDateTicks": 638701632000000000,
             "EndDateTicks": 638713728000000000,
             "Priority": 1,
+            "IsPinned": false,
             "PresetImageName": "NewContent3",
             "RemoteImageName": "",
             "Title": {
@@ -1691,6 +1699,7 @@
             "StartDateTicks": 638719776000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 1,
+            "IsPinned": false,
             "PresetImageName": "",
             "RemoteImageName": "SDP2_Newscenter.jpg",
             "Title": {
@@ -2118,6 +2127,7 @@
             "StartDateTicks": 638800740000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 1,
+            "IsPinned": false,
             "PresetImageName": "",
             "RemoteImageName": "Asia_ComingSoon_800x300_Newscenter.jpg\r",
             "Title": {
@@ -2366,6 +2376,7 @@
             "StartDateTicks": 638750016000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 1,
+            "IsPinned": false,
             "PresetImageName": "Update",
             "RemoteImageName": "",
             "Title": {
@@ -2673,6 +2684,7 @@
             "StartDateTicks": 638773092000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 1,
+            "IsPinned": false,
             "PresetImageName": "",
             "RemoteImageName": "Calico_Newscenter_Mobile.png",
             "Title": {
@@ -2921,6 +2933,7 @@
             "StartDateTicks": 638773092000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 1,
+            "IsPinned": false,
             "PresetImageName": "",
             "RemoteImageName": "Calico_Newscenter_Mobile.png",
             "Title": {
@@ -3169,6 +3182,7 @@
             "StartDateTicks": 638784576000000000,
             "EndDateTicks": 638812224000000000,
             "Priority": 1,
+            "IsPinned": false,
             "PresetImageName": "",
             "RemoteImageName": "Wingspan_Sakura.png",
             "Title": {
@@ -3415,8 +3429,9 @@
             ],
             "PlatformsToShowOn": 265,
             "StartDateTicks": 638801856000000000,
-            "EndDateTicks": 946391904000000000,
+            "EndDateTicks": 638841600000000000,
             "Priority": 1,
+            "IsPinned": false,
             "PresetImageName": "",
             "RemoteImageName": "Wingspan_AsiaBeta_newscenter.png",
             "Title": {
@@ -3785,6 +3800,7 @@
             "StartDateTicks": 638822592000000000,
             "EndDateTicks": 638823852000000000,
             "Priority": 1,
+            "IsPinned": false,
             "PresetImageName": "Online",
             "RemoteImageName": "",
             "Title": {
@@ -3972,6 +3988,7 @@
             "StartDateTicks": 638803872000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 2,
+            "IsPinned": false,
             "PresetImageName": "",
             "RemoteImageName": "WS_Tury_Newscenter.jpg",
             "Title": {
@@ -4158,6 +4175,7 @@
             "StartDateTicks": 638805312000000000,
             "EndDateTicks": 638813519400000000,
             "Priority": 1,
+            "IsPinned": false,
             "PresetImageName": "",
             "RemoteImageName": "Wingspan_Easter_Newscenter.png",
             "Title": {
@@ -4403,9 +4421,10 @@
                 "Online"
             ],
             "PlatformsToShowOn": 511,
-            "StartDateTicks": 638813952000000000,
-            "EndDateTicks": 638814546000000000,
+            "StartDateTicks": 638841600000000000,
+            "EndDateTicks": 638845614000000000,
             "Priority": 2,
+            "IsPinned": false,
             "PresetImageName": "Online",
             "RemoteImageName": "",
             "Title": {
@@ -4527,55 +4546,55 @@
                         "LocalizedTexts": [
                             {
                                 "Language": "en",
-                                "Text": "On April 28, Wingspan servers will undergo maintenance works. During this time, entering online mode will be limited. Maintenance will begin at 12PM CET / 10AM UTC / 3AM PT and will last for around 6 hours. \r\n\r\nAs with every online maintenance, please end all your matches before the maintenance and do not start any new ones close to the maintenance hours. Otherwise, there's a risk of losing ongoing games and karma points.\r\nLet your fellow birders know about online maintenance, so the process can go smoothly. \r\n\r\nWe apologize for the inconvenience.\r\n"
+                                "Text": "On June 3, Wingspan servers will undergo maintenance works. During this time, entering online mode will be limited. Maintenance will begin at 11AM CET / 9AM UTC / 2AM PT and will last for around 6 hours. \r\n\r\nAs with every online maintenance, please end all your matches before the maintenance and do not start any new ones close to the maintenance hours. Otherwise, there's a risk of losing ongoing games and karma points.\r\nLet your fellow birders know about online maintenance, so the process can go smoothly. \r\n\r\nWe apologize for the inconvenience.\r\n"
                             },
                             {
                                 "Language": "pl",
-                                "Text": "W dniu 28/04/2025 serwery Na Skrzydłach zostaną poddane pracom konserwacyjnym. W tym czasie, wejście do trybu online będzie ograniczone. Prace rozpoczną się o 12:00 i będą trwały 6 godzin. \r\n\r\nJak przy wszystkich dotychczasowych pracach konserwacyjnych, prosimy, zakończcie swoje mecze przed rozpoczęciem konserwacji i nie zaczynajcie żadnych nowych rozgrywek w okolicy czasu rozpoczęcia prac. W przeciwnym razie, istnieje ryzyko utracenia trwających rozgrywek a wraz z nimi punktów karmy. \r\n\r\nDajcie znać znajomym Ptasiarzom o pracach konserwacyjnych trybu online, aby cały proces przebiegł sprawnie. \r\n\r\nPrzepraszamy za niedogodności.\r\n"
+                                "Text": "W dniu 03/06/2025 serwery Na Skrzydłach zostaną poddane pracom konserwacyjnym. W tym czasie, wejście do trybu online będzie ograniczone. Prace rozpoczną się o 11:00 i będą trwały 6 godzin. \r\n\r\nJak przy wszystkich dotychczasowych pracach konserwacyjnych, prosimy, zakończcie swoje mecze przed rozpoczęciem konserwacji i nie zaczynajcie żadnych nowych rozgrywek w okolicy czasu rozpoczęcia prac. W przeciwnym razie, istnieje ryzyko utracenia trwających rozgrywek a wraz z nimi punktów karmy. \r\n\r\nDajcie znać znajomym Ptasiarzom o pracach konserwacyjnych trybu online, aby cały proces przebiegł sprawnie. \r\n\r\nPrzepraszamy za niedogodności.\r\n"
                             },
                             {
                                 "Language": "de",
-                                "Text": "Am 28/04/2025 werden die Server von Wingspan (Flügelschlag) gewartet. Während der Wartungsarbeiten ist der Online-Modus nicht verfügbar. Die Wartungsarbeiten beginnen um 12PM CET / 10AM UTC / 3AM PT und dauern etwa 6 Stunden.\r\n\r\nWie bei jeder Serverwartung gilt: Bitte beende all deine Spiele vorher und beginne keine neuen kurz davor. Ansonsten können der Fortschritt laufender Spiele und Karmapunkte verloren gehen.\r\nInformiere andere Vogelfreunde über die Wartungsarbeiten, damit sie ohne Schwierigkeiten vonstattengehen.\r\n\r\nWir entschuldigen uns für die Unannehmlichkeiten.\r\n"
+                                "Text": "Am 03/06/2025 werden die Server von Wingspan (Flügelschlag) gewartet. Während der Wartungsarbeiten ist der Online-Modus nicht verfügbar. Die Wartungsarbeiten beginnen um 1 11AM CET / 9AM UTC / 2AM PT und dauern etwa 6 Stunden.\r\n\r\nWie bei jeder Serverwartung gilt: Bitte beende all deine Spiele vorher und beginne keine neuen kurz davor. Ansonsten können der Fortschritt laufender Spiele und Karmapunkte verloren gehen.\r\nInformiere andere Vogelfreunde über die Wartungsarbeiten, damit sie ohne Schwierigkeiten vonstattengehen.\r\n\r\nWir entschuldigen uns für die Unannehmlichkeiten.\r\n"
                             },
                             {
                                 "Language": "fr",
-                                "Text": "Le 28/04/2025, les serveurs de Wingspan subiront des opérations de maintenance. Le mode en ligne sera alors indisponible. La maintenance commencera à 12PM CET / 10AM UTC / 3AM PT et durera environ 6 heures. \r\n\r\nComme pour chaque maintenance, merci de mettre fin à tous vos matchs avant le début des opérations et n’en commencez aucun peu de temps avant l’heure de départ. Vous risquez sinon de perdre les parties en cours et vos points de karma.\r\nInformez vos proches ornithologues de ces opérations de maintenance afin que tout se passe correctement. \r\n\r\nVeuillez nous excuser de ce désagrément.\r\n"
+                                "Text": "Le 03/06/2025, les serveurs de Wingspan subiront des opérations de maintenance. Le mode en ligne sera alors indisponible. La maintenance commencera à 11AM CET / 9AM UTC / 2AM PT et durera environ 6 heures. \r\n\r\nComme pour chaque maintenance, merci de mettre fin à tous vos matchs avant le début des opérations et n’en commencez aucun peu de temps avant l’heure de départ. Vous risquez sinon de perdre les parties en cours et vos points de karma.\r\nInformez vos proches ornithologues de ces opérations de maintenance afin que tout se passe correctement. \r\n\r\nVeuillez nous excuser de ce désagrément.\r\n"
                             },
                             {
                                 "Language": "es",
-                                "Text": "El 28/04/2025, los servidores de Wingspan se someterá a trabajos de mantenimiento. Durante este periodo de tiempo será imposible acceder al modo en línea. Las labores de mantenimiento comenzarán a las 12PM CET / 10AM UTC / 3AM PT y durarán al menos 6 horas. \r\n\r\nComo siempre en casos de mantenimiento en línea, terminad vuestras partidas antes de que empiecen estas labores y no comencéis nuevas cerca de la hora a la que van a empezar. De lo contrario, es probable que perdáis las partidas y también puntos de karma.\r\nContad al resto de vuestros amigos amantes de los pájaros que tendrán lugar estas labores para que el proceso vaya sobre ruedas.\r\n\r\nNos disculpamos por las molestias.\r\n"
+                                "Text": "El 03/06/2025, los servidores de Wingspan se someterá a trabajos de mantenimiento. Durante este periodo de tiempo será imposible acceder al modo en línea. Las labores de mantenimiento comenzarán a las 11AM CET / 9AM UTC / 2AM PT y durarán al menos 6 horas. \r\n\r\nComo siempre en casos de mantenimiento en línea, terminad vuestras partidas antes de que empiecen estas labores y no comencéis nuevas cerca de la hora a la que van a empezar. De lo contrario, es probable que perdáis las partidas y también puntos de karma.\r\nContad al resto de vuestros amigos amantes de los pájaros que tendrán lugar estas labores para que el proceso vaya sobre ruedas.\r\n\r\nNos disculpamos por las molestias.\r\n"
                             },
                             {
                                 "Language": "pt-BR",
-                                "Text": "Em 28/04/2025, os servidores Wingspan passarão por manutenção. Durante esse período não será possível acessar o modo online. A manutenção começará em 12PM CET / 10AM UTC / 3AM PT e durará cerca de 6 horas.\r\n\r\nComo em toda manutenção online, encerre todas as suas partidas antes da manutenção e não inicie nenhuma nova perto do horário de início. Caso contrário, há o risco de perder partidas em andamento e pontos de karma.\r\nInforme seus colegas observadores sobre a manutenção online, para que o processo ocorra sem problemas.\r\n\r\nPedimos desculpas pelo inconveniente.\r\n"
+                                "Text": "Em 03/06/2025, os servidores Wingspan passarão por manutenção. Durante esse período não será possível acessar o modo online. A manutenção começará em 11AM CET / 9AM UTC / 2AM PT e durará cerca de 6 horas.\r\n\r\nComo em toda manutenção online, encerre todas as suas partidas antes da manutenção e não inicie nenhuma nova perto do horário de início. Caso contrário, há o risco de perder partidas em andamento e pontos de karma.\r\nInforme seus colegas observadores sobre a manutenção online, para que o processo ocorra sem problemas.\r\n\r\nPedimos desculpas pelo inconveniente.\r\n"
                             },
                             {
                                 "Language": "ja",
-                                "Text": "『ウィングスパン』は28/04/2025にメンテナンスを予定しており、その間サーバーが停止となります。メンテナンス中はオンラインモードをご利用いただけませんので、予めご了承ください。メンテナンスは12PM CET / 10AM UTC / 3AM PTに開始いたします。また、作業時間は6時間を想定しております。\r\n\r\nメンテナンス直前に新たな試合を開始されると、進行中の試合状況やカルマポイントを失う可能性があるため、ご注意ください。\r\n仲間の野鳥観察家の皆様にもぜひお伝えください。\r\n\r\n大変ご迷惑おかけしますが、何卒よろしく申し上げます。\r\n"
+                                "Text": "『ウィングスパン』は03/06/2025にメンテナンスを予定しており、その間サーバーが停止となります。メンテナンス中はオンラインモードをご利用いただけませんので、予めご了承ください。メンテナンスは11AM CET / 9AM UTC / 2AM PTに開始いたします。また、作業時間は6時間を想定しております。\r\n\r\nメンテナンス直前に新たな試合を開始されると、進行中の試合状況やカルマポイントを失う可能性があるため、ご注意ください。\r\n仲間の野鳥観察家の皆様にもぜひお伝えください。\r\n\r\n大変ご迷惑おかけしますが、何卒よろしく申し上げます。\r\n"
                             },
                             {
                                 "Language": "ru",
-                                "Text": "28/04/2025 на серверах Wingspan будут проводиться технические работы. В это время онлайн-режим будет недоступен. Работы начнутся 12PM CET / 10AM UTC / 3AM PT и продлятся 6 ч. \r\n\r\nКак обычно при любых технических работах, связанных с онлайн-режимом, завершите все игры до начала работ и не начинайте новые в их преддверии — иначе вы рискуете потерять текущие игры и очки кармы.\r\nПредупредите знакомых игроков о технических работах, чтобы все точно прошло гладко. \r\n\r\nПриносим извинения за доставленные неудобства.\r\n"
+                                "Text": "03/06/2025 на серверах Wingspan будут проводиться технические работы. В это время онлайн-режим будет недоступен. Работы начнутся 11AM CET / 9AM UTC / 2AM PT и продлятся 6 ч. \r\n\r\nКак обычно при любых технических работах, связанных с онлайн-режимом, завершите все игры до начала работ и не начинайте новые в их преддверии — иначе вы рискуете потерять текущие игры и очки кармы.\r\nПредупредите знакомых игроков о технических работах, чтобы все точно прошло гладко. \r\n\r\nПриносим извинения за доставленные неудобства.\r\n"
                             },
                             {
                                 "Language": "zh",
-                                "Text": "28/04/2025，《展翅翱翔》的服务器将进行维护。期间将无法进行联机游戏。维护于12PM CET / 10AM UTC / 3AM PT开始，并将持续6小时。 \r\n\r\n和往常的在线维护一样，请在维护开始前结束所有游戏，并避免在维护时间临近时开始新的游戏。否则，可能会丢失正在进行的游戏和缘分点。\r\n如果方便的话，也烦请告知其他鸟类爱好者在线维护的消息，以便维护能顺利进行。\r\n\r\n为您带来不便，深感歉意。\r\n"
+                                "Text": "03/06/2025，《展翅翱翔》的服务器将进行维护。期间将无法进行联机游戏。维护于11AM CET / 9AM UTC / 2AM PT开始，并将持续6小时。 \r\n\r\n和往常的在线维护一样，请在维护开始前结束所有游戏，并避免在维护时间临近时开始新的游戏。否则，可能会丢失正在进行的游戏和缘分点。\r\n如果方便的话，也烦请告知其他鸟类爱好者在线维护的消息，以便维护能顺利进行。\r\n\r\n为您带来不便，深感歉意。\r\n"
                             },
                             {
                                 "Language": "zh-Hant",
-                                "Text": "28/04/2025，《展翅翱翔》的伺服器將進行維護。期間將無法進行聯機遊戲。維護於12PM CET / 10AM UTC / 3AM PT開始，並將持續6小時。 \r\n\r\n和往常的在線維護一樣，請在維護開始前結束所有遊戲，並避免在維護時間臨近時開始新的遊戲。否則，可能會丟失正在進行的遊戲和緣分點。\r\n如果方便的話，也煩請告知其他鳥類愛好者在線維護的消息，以便維護能順利進行。\r\n\r\n為您帶來不便，深感歉意。\r\n"
+                                "Text": "03/06/2025，《展翅翱翔》的伺服器將進行維護。期間將無法進行聯機遊戲。維護於11AM CET / 9AM UTC / 2AM PT開始，並將持續6小時。 \r\n\r\n和往常的在線維護一樣，請在維護開始前結束所有遊戲，並避免在維護時間臨近時開始新的遊戲。否則，可能會丟失正在進行的遊戲和緣分點。\r\n如果方便的話，也煩請告知其他鳥類愛好者在線維護的消息，以便維護能順利進行。\r\n\r\n為您帶來不便，深感歉意。\r\n"
                             },
                             {
                                 "Language": "it",
-                                "Text": "Il giorno 28/04/2025 i server di Wingspan verranno sottoposti a dei lavori di manutenzione. Durante questo periodo, sarà impossibile accedere alla modalità online. La manutenzione avrà inizio alle 12PM CET / 10AM UTC / 3AM PT e durerà all’incirca 6 ore.\r\n\r\nCome da prassi, ti chiediamo di concludere tutte le partite in corso prima dell’inizio della manutenzione e di non iniziarne di nuove durante i lavori in corso, onde evitare di perdere progressi e punti di Karma.\r\nSpargi la voce con gli altri birdwatcher affinché l’intera procedura avvenga senza intoppi.\r\n\r\nCi scusiamo per l’inconveniente.\r\n"
+                                "Text": "Il giorno 03/06/2025 i server di Wingspan verranno sottoposti a dei lavori di manutenzione. Durante questo periodo, sarà impossibile accedere alla modalità online. La manutenzione avrà inizio alle 11AM CET / 9AM UTC / 2AM PT e durerà all’incirca 6 ore.\r\n\r\nCome da prassi, ti chiediamo di concludere tutte le partite in corso prima dell’inizio della manutenzione e di non iniziarne di nuove durante i lavori in corso, onde evitare di perdere progressi e punti di Karma.\r\nSpargi la voce con gli altri birdwatcher affinché l’intera procedura avvenga senza intoppi.\r\n\r\nCi scusiamo per l’inconveniente.\r\n"
                             },
                             {
                                 "Language": "ko",
-                                "Text": "28/04/2025에 윙스팬 서버가 점검을 진행합니다. 이 시간 동안 온라인 모드로 플레이할 수 없습니다. 점검은 12PM CET / 10AM UTC / 3AM PT에 시작되며 약 6시간 동안 지속됩니다.\r\n\r\n모든 온라인 점검과 마찬가지로, 점검 전에 모든 게임을 종료하고 점검 시간에 가까워지면 새로운 게임을 시작하지 마세요. 진행 중인 게임과 카르마 포인트를 잃을 위험이 있습니다.\r\n점검이 원활하게 진행될 수 있도록 동료 탐조가에게 온라인 점검에 대해 알려주세요.\r\n\r\n불편을 드려 죄송합니다.\r\n"
+                                "Text": "03/06/2025에 윙스팬 서버가 점검을 진행합니다. 이 시간 동안 온라인 모드로 플레이할 수 없습니다. 점검은  11AM CET / 9AM UTC / 2AM PT에 시작되며 약 6시간 동안 지속됩니다.\r\n\r\n모든 온라인 점검과 마찬가지로, 점검 전에 모든 게임을 종료하고 점검 시간에 가까워지면 새로운 게임을 시작하지 마세요. 진행 중인 게임과 카르마 포인트를 잃을 위험이 있습니다.\r\n점검이 원활하게 진행될 수 있도록 동료 탐조가에게 온라인 점검에 대해 알려주세요.\r\n\r\n불편을 드려 죄송합니다.\r\n"
                             },
                             {
                                 "Language": "uk",
-                                "Text": "28/04/2025 сервери «Крил» пройдуть технічне обслуговування. Поки воно не закінчиться, онлайн-режим буде недоступний. Ремонтні роботи почнуться о 12PM CET / 10AM UTC / 3AM PT і триватимуть 6 год. (приблизно). \r\n\r\nЯк і завжди в таких ситуаціях, будь ласка, завершіть усі свої матчі до початку робіт і не починайте нових, якщо до обслуговування залишилося мало часу. Інакше ви ризикуєте втратити поточні ігри й очки карми.\r\nПопередьте про техобслуговування своїх друзів, щоб усе минуло без завад. \r\n\r\nМи перепрошуємо за незручності.\r\n"
+                                "Text": "03/06/2025 сервери «Крил» пройдуть технічне обслуговування. Поки воно не закінчиться, онлайн-режим буде недоступний. Ремонтні роботи почнуться о 11AM CET / 9AM UTC / 2AM PT і триватимуть 6 год. (приблизно). \r\n\r\nЯк і завжди в таких ситуаціях, будь ласка, завершіть усі свої матчі до початку робіт і не починайте нових, якщо до обслуговування залишилося мало часу. Інакше ви ризикуєте втратити поточні ігри й очки карми.\r\nПопередьте про техобслуговування своїх друзів, щоб усе минуло без завад. \r\n\r\nМи перепрошуємо за незручності.\r\n"
                             }
                         ]
                     }
@@ -4592,6 +4611,7 @@
             "StartDateTicks": 638823096000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 1,
+            "IsPinned": false,
             "PresetImageName": "",
             "RemoteImageName": "Flamecraft_Announcement_Newscenter.jpg",
             "Title": {
