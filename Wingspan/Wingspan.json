@@ -4231,70 +4231,70 @@
             ]
         },
         {
-            "ID": "90c22e4a-6650-4123-a9cf-037e9e91b457",
+            "ID": "408fa699-7dd2-48aa-a21b-831d36be6596",
             "Tags": [
-                "Online"
+                "NewContent"
             ],
             "PlatformsToShowOn": 511,
-            "StartDateTicks": 638841600000000000,
-            "EndDateTicks": 638845614000000000,
+            "StartDateTicks": 638845056000000000,
+            "EndDateTicks": 946391904000000000,
             "Priority": 2,
             "IsPinned": false,
-            "PresetImageName": "Online",
-            "RemoteImageName": "",
+            "PresetImageName": "",
+            "RemoteImageName": "Asia_DateReveal.jpg",
             "Title": {
                 "LocalizedTexts": [
                     {
                         "Language": "en",
-                        "Text": "Online Maintenance"
+                        "Text": "Wingspan: Asia Expansion lands JUNE 16!"
                     },
                     {
                         "Language": "pl",
-                        "Text": "Konserwacja trybu online"
+                        "Text": "Ptaki Azji - premiera już 16 CZERWCA!"
                     },
                     {
                         "Language": "de",
-                        "Text": "Online-Wartungsarbeiten"
+                        "Text": "Wingspan: Asien-Erweiterung landet am 16. JUNI!"
                     },
                     {
                         "Language": "fr",
-                        "Text": "Maintenance en ligne"
+                        "Text": "Wingspan : extension Asie arrive le 16 JUIN !"
                     },
                     {
                         "Language": "es",
-                        "Text": "Mantenimiento en línea"
+                        "Text": "¡Wingspan: Expansión de Asia llega el 16 de junio!"
                     },
                     {
                         "Language": "pt-BR",
-                        "Text": "Manutenção online"
+                        "Text": "Wingspan: Expansão Ásia chega em 16 de junho!"
                     },
                     {
                         "Language": "ja",
-                        "Text": "オンラインメンテナンス"
+                        "Text": "『ウイングスパン拡張：東洋の翼』は6月16日に登場！"
                     },
                     {
                         "Language": "ru",
-                        "Text": "Технические работы над онлайн-режимом"
+                        "Text": "Дополнение «Птицы Азии» приземлится 16 июня!"
                     },
                     {
                         "Language": "zh",
-                        "Text": "在线维护"
+                        "Text": "《展翅翱翔：亚洲篇》6月17日上线！"
                     },
                     {
                         "Language": "zh-Hant",
-                        "Text": "在線維護"
+                        "Text": "《展翅翱翔：亞洲篇》6月17日上線！"
                     },
                     {
                         "Language": "it",
-                        "Text": "Manutenzione online"
+                        "Text": "Wingspan: Espansione Asia arriva il 16 GIUGNO!"
                     },
                     {
                         "Language": "ko",
-                        "Text": "온라인 점검"
+                        "Text": "윙스팬: 아시아 확장팩이 6월 16일에 찾아옵니다!"
                     },
                     {
                         "Language": "uk",
-                        "Text": "Технічні роботи на серверах"
+                        "Text": "Доповнення «Птахи Азії» прилетить 16 червня!"
                     }
                 ]
             },
@@ -4302,55 +4302,55 @@
                 "LocalizedTexts": [
                     {
                         "Language": "en",
-                        "Text": "Working on your online experience so you can fly with no struggles."
+                        "Text": "Get ready to take flight across Asia!"
                     },
                     {
                         "Language": "pl",
-                        "Text": "Pracujemy nad Waszym doświadczeniem online, aby wasz lot przebiegał bez przeszkód."
+                        "Text": "Czas wznieść się nad Azją! "
                     },
                     {
                         "Language": "de",
-                        "Text": "Wir verbessern dein Online-Erlebnis, damit du problemlos durch die Lüfte schnellen kannst."
+                        "Text": "Mach dich bereit für einen Flug über Asien!"
                     },
                     {
                         "Language": "fr",
-                        "Text": "Nous améliorons votre expérience en ligne afin que vous puissiez voler sans accrocs."
+                        "Text": "Préparez-vous à prendre votre envol à travers l'Asie !"
                     },
                     {
                         "Language": "es",
-                        "Text": "Estamos trabajando en tu experiencia en línea para que puedas volar sin sobresaltos."
+                        "Text": "¡Prepárate para sobrevolar Asia!"
                     },
                     {
                         "Language": "pt-BR",
-                        "Text": "Estamos trabalhando para melhorar sua experiência online, para que você possa voar suavemente."
+                        "Text": "Preparem-se para sobrevoar a Ásia!"
                     },
                     {
                         "Language": "ja",
-                        "Text": "快適にオンラインプレイがご利用いただけるよう、作業を行っています。"
+                        "Text": "アジアに飛び立つ準備をしましょう！"
                     },
                     {
                         "Language": "ru",
-                        "Text": "Мы работаем над онлайн-режимом, чтобы вы могли летать без проблем."
+                        "Text": "Готовьтесь расправить крылья в небе Азии!"
                     },
                     {
                         "Language": "zh",
-                        "Text": "服务器正在维护，以确保各位之后能够享受正常的联机体验。"
+                        "Text": "准备好在亚洲展翅高飞吧！"
                     },
                     {
                         "Language": "zh-Hant",
-                        "Text": "伺服器正在維護，以確保各位之後能夠享受正常的聯機體驗。"
+                        "Text": "準備好在亞洲展翅高飛吧！"
                     },
                     {
                         "Language": "it",
-                        "Text": "Stiamo lavorando all’esperienza online affinché il tuo volo proceda senza intoppi."
+                        "Text": "Preparati a solcare i cieli dell'Asia!"
                     },
                     {
                         "Language": "ko",
-                        "Text": "어려움 없이 날개짓할 수 있도록 온라인 환경을 개선 중입니다."
+                        "Text": "아시아의 하늘을 날아다닐 준비를 하세요!"
                     },
                     {
                         "Language": "uk",
-                        "Text": "Працюємо над онлайн-грою, щоб ви літали без перешкод."
+                        "Text": "Готуйтесь розправити крила в небі Азії!"
                     }
                 ]
             },
@@ -4361,61 +4361,123 @@
                         "LocalizedTexts": [
                             {
                                 "Language": "en",
-                                "Text": "On June 3, Wingspan servers will undergo maintenance works. During this time, entering online mode will be limited. Maintenance will begin at 11AM CET / 9AM UTC / 2AM PT and will last for around 6 hours. \r\n\r\nAs with every online maintenance, please end all your matches before the maintenance and do not start any new ones close to the maintenance hours. Otherwise, there's a risk of losing ongoing games and karma points.\r\nLet your fellow birders know about online maintenance, so the process can go smoothly. \r\n\r\nWe apologize for the inconvenience.\r\n"
+                                "Text": "We know you’ve been waiting for this! \n<style=asia>Wingspan: Asia Expansion arrives on June 16th, 2025 at 6PM CET / 9AM PST / 4PM UTC across ALL platforms!</style> This thrilling new chapter takes you to the vibrant East, where a dazzling array of unique birds, each with fresh powers and strategies, await to shake up your preserve!\n\nTry out the new Duet Mode, a two-player experience where you'll compete on a shared map, claim spaces with tokens, and chase dynamic end-of-round goals that change how you play every time. Expand your collection with a rich mix of new birds and 13 bonus cards, including a few surprises just for Automa fans!\n\nImmerse yourself in the beauty of the continent with 4 stunning region-inspired backgrounds and 8 new player portraits reflecting the diverse fauna of Asia. A fully revamped tutorial makes onboarding smoother than ever, and a serene new soundtrack by Paweł Górniak sets the perfect tone for every match.\n\nWhether you're dueling in Duet Mode, exploring new birds, or simply soaking in the sights and sounds, Wingspan: Asia Expansion is packed with reasons to return to your preserve. Fully cross-platform and ready for solo or multiplayer, it’s time to spread your wings once more. \nMark your calendars and get ready to fly!"
                             },
                             {
                                 "Language": "pl",
-                                "Text": "W dniu 03/06/2025 serwery Na Skrzydłach zostaną poddane pracom konserwacyjnym. W tym czasie, wejście do trybu online będzie ograniczone. Prace rozpoczną się o 11:00 i będą trwały 6 godzin. \r\n\r\nJak przy wszystkich dotychczasowych pracach konserwacyjnych, prosimy, zakończcie swoje mecze przed rozpoczęciem konserwacji i nie zaczynajcie żadnych nowych rozgrywek w okolicy czasu rozpoczęcia prac. W przeciwnym razie, istnieje ryzyko utracenia trwających rozgrywek a wraz z nimi punktów karmy. \r\n\r\nDajcie znać znajomym Ptasiarzom o pracach konserwacyjnych trybu online, aby cały proces przebiegł sprawnie. \r\n\r\nPrzepraszamy za niedogodności.\r\n"
+                                "Text": "Wiemy, że czekaliście na to z niecierpliwością!\n<style=asia>Dodatek Ptaki Azji pojawi się 16 czerwca 2025 o godzinie 19:00 na WSZYSTKICH platformach!</style>\nTen ekscytujący nowy rozdział zabierze Was na barwny Wschód, gdzie czeka plejada niezwykłych ptaków - każdy z nowymi zdolnościami i strategiami, które porządnie namieszają w Waszych rezerwatach!\n\nWskoczcie w nowy tryb Duetu - dwuosobową rozgrywkę na wspólnej mapie, gdzie będziecie walczyć o pola za pomocą znaczników i realizować nowe cele na końca rundy, które sprawiają, że każda rozgrywka to zupełnie nowe wyzwanie.\nRozszerzcie swoją kolekcję o masę nowych ptaków i 13 kart bonusowych - w tym kilka niespodzianek specjalnie dla fanów Automy!\n\nZanurzcie się w pięknie kontynentu dzięki 4 nowym tłom inspirowanym azjatyckimi regionami i 8 portretom graczy odzwierciedlającym różnorodną faunę Azji. Odświeżony samouczek sprawia, że nauka gry jest jeszcze prostsza, a relaksująca ścieżka dźwiękowa autorstwa Pawła Górniaka idealnie wprowadzi Was w klimat każdej rozgrywki.\n\nNiezależnie od tego, czy rywalizujecie w Duecie, odkrywacie nowe gatunki ptaków, czy po prostu cieszycie się widokami i dźwiękami - dodatek Ptaki Azji daje mnóstwo powodów, by znów odwiedzić swój rezerwat.\nPełna kompatybilność międzyplatformowa, solo i multiplayer - czas znów rozwinąć skrzydła!\n\nZaznaczcie datę i szykujcie się do lotu!"
                             },
                             {
                                 "Language": "de",
-                                "Text": "Am 03/06/2025 werden die Server von Wingspan (Flügelschlag) gewartet. Während der Wartungsarbeiten ist der Online-Modus nicht verfügbar. Die Wartungsarbeiten beginnen um 1 11AM CET / 9AM UTC / 2AM PT und dauern etwa 6 Stunden.\r\n\r\nWie bei jeder Serverwartung gilt: Bitte beende all deine Spiele vorher und beginne keine neuen kurz davor. Ansonsten können der Fortschritt laufender Spiele und Karmapunkte verloren gehen.\r\nInformiere andere Vogelfreunde über die Wartungsarbeiten, damit sie ohne Schwierigkeiten vonstattengehen.\r\n\r\nWir entschuldigen uns für die Unannehmlichkeiten.\r\n"
+                                "Text": "Wir wissen, dass du darauf gewartet hast! \n<style=asia>Wingspan: Asien-Erweiterung erscheint am 16. Juni 2025 um 19:00 Uhr MESZ/ 10:00 Uhr PDT / 17:00 Uhr UTC auf ALLEN Plattformen!</style> Dieses aufregende neue Kapitel führt dich in den faszinierenden Osten, wo eine unglaubliche Vielfalt an einzigartigen Vögeln mit neuen Fähigkeiten und Strategien auf dich wartet, um dein Reservat gehörig wachzurütteln!\n\nProbiere den neuen Duellmodus aus – ein Erlebnis für zwei Spieler, bei dem ihr auf einer gemeinsamen Karte gegeneinander antretet, Felder mit Markern beansprucht und dynamische Rundenziele verfolgt, die jedes Mal einen anderen Spielstil erfordern. Erweitere deine Sammlung mithilfe einer abwechslungsreichen Mischung aus neuen Vögeln und 13 Bonuskarten, darunter einige Überraschungen nur für Automa-Fans!\n\nTauche ein in die Schönheit des Kontinents mit 4 beeindruckenden, von der Region inspirierten Hintergründen und 8 neuen Spielerprofilbildern, die die vielfältige Tierwelt Asiens widerspiegeln. Eine vollständig überarbeitete Anleitung macht den Einstieg so einfach wie nie zuvor, und ein stimmungsvoller neuer Soundtrack von Paweł Górniak sorgt für die perfekte Untermalung jedes Spiels.\n\nEgal, ob du dich im Duellmodus misst, neue Vögel erkundest oder einfach nur die Eindrücke und Geräusche auf dich wirken lässt – Wingspan: Asien-Erweiterung ist vollgepackt mit Gründen, in dein Reservat zurückzukehren. Vollständig plattformübergreifend und mit Solo- und Mehrspielermodus wartet Wingspan darauf, dass du erneut die Flügel ausbreitest.\nSchreib es dir in den Kalender und mach dich bereit loszufliegen!"
                             },
                             {
                                 "Language": "fr",
-                                "Text": "Le 03/06/2025, les serveurs de Wingspan subiront des opérations de maintenance. Le mode en ligne sera alors indisponible. La maintenance commencera à 11AM CET / 9AM UTC / 2AM PT et durera environ 6 heures. \r\n\r\nComme pour chaque maintenance, merci de mettre fin à tous vos matchs avant le début des opérations et n’en commencez aucun peu de temps avant l’heure de départ. Vous risquez sinon de perdre les parties en cours et vos points de karma.\r\nInformez vos proches ornithologues de ces opérations de maintenance afin que tout se passe correctement. \r\n\r\nVeuillez nous excuser de ce désagrément.\r\n"
+                                "Text": "Nous savons que vous l'attendiez avec impatience !\n<style=asia>Wingspan (À tire d'ailes) : Extension Asie arrive le 16 juin 2025 à 19 h (CEST) / 10 h (PDT) / 17 h (UTC) sur TOUTES les plateformes !</style> Ce nouveau chapitre palpitant vous transporte vers les écosystèmes riches de l'Asie, où un éblouissant éventail d'oiseaux inédits, chacun doté de nouveaux pouvoirs et de stratégies originales, est prêt à bouleverser votre volière !\n\nDécouvrez le mode Duo, une expérience à deux joueurs où vous vous affronterez sur un plateau partagé en capturant des emplacements à l'aide de jetons et en poursuivant des objectifs de fin de manche dynamiques qui modifient votre façon de jouer à chaque partie. Enrichissez votre collection avec un large éventail de nouveaux oiseaux et 13 cartes bonus, dont quelques surprises spécialement conçues pour les fans d'Automa !\n\nImprégnez-vous de la beauté du continent avec 4 sublimes arrière-plans inspirés des régions d'Asie et 8 nouveaux portraits mettant à l'honneur la richesse de la faune asiatique. Un tutoriel entièrement repensé rend la prise en main plus fluide que jamais, tandis qu'une nouvelle bande originale apaisante signée Paweł Górniak crée une ambiance idéale pour chaque partie.\n\nQue ce soit pour affronter un ami en mode Duo, découvrir les nouveaux oiseaux ou vous laisser simplement porter par les décors et la musique, Wingspan (À tire d'ailes) : Extension Asie regorge de raisons de revenir dans votre volière. Entièrement multiplateforme, jouable en solo ou à plusieurs, cette extension est l'occasion de redéployer vos ailes. \nNotez la date dans vos agendas et préparez-vous à prendre votre envol !"
                             },
                             {
                                 "Language": "es",
-                                "Text": "El 03/06/2025, los servidores de Wingspan se someterá a trabajos de mantenimiento. Durante este periodo de tiempo será imposible acceder al modo en línea. Las labores de mantenimiento comenzarán a las 11AM CET / 9AM UTC / 2AM PT y durarán al menos 6 horas. \r\n\r\nComo siempre en casos de mantenimiento en línea, terminad vuestras partidas antes de que empiecen estas labores y no comencéis nuevas cerca de la hora a la que van a empezar. De lo contrario, es probable que perdáis las partidas y también puntos de karma.\r\nContad al resto de vuestros amigos amantes de los pájaros que tendrán lugar estas labores para que el proceso vaya sobre ruedas.\r\n\r\nNos disculpamos por las molestias.\r\n"
+                                "Text": "¡Sabemos que llevas tiempo esperándolo!\n<style=asia>¡Wingspan: Expansión de Asia llega el 16 de junio de 2025 a las 19:00 CEST / 10:00 PDT / 17:00 UTC a todas las plataformas!</style> Este emocionante y nuevo capítulo te llevará al llamativo oriente, donde una increíble variedad de aves únicas, cada una con poderes y estrategias nuevas, te esperan para darle vida a tu aviario.\n\nPrueba el nuevo modo dúo, una experiencia de dos jugadores en la que competirás en un mapa compartido, ocuparás espacios con fichas y perseguirás dinámicos objetivos de final de ronda que cambiarán tu forma de jugar en cada partida. Expande tu colección con una amplia variedad de aves y 13 cartas de bonificación, ¡entre las que los fans del Automa encontrarán unas cuantas sorpresas!\n\nSumérgete en la belleza del continente con 4 fondos impresionantes inspirados en distintas regiones y 8 nuevos retratos de jugador que reflejan la diversidad de la fauna de Asia. Con el tutorial totalmente rediseñado, empezar a jugar es ahora más fácil que nunca, y la serena banda sonora de Paweł Górniak crea el ambiente perfecto para cada partida.\n\nTanto si te enfrentas a otro jugador en el modo dúo, como si solo quieres descubrir las nuevas aves o disfrutar de los nuevos fondos y canciones, Wingspan: Expansión de Asia siempre te dará una razón para volver a tu aviario. Dispone de juego cruzado entre plataformas y tanto de partidas en solitario como multijugador, así que despliega las alas una vez más.\n¡Marca la fecha en el calendario y prepárate para alzar el vuelo!"
                             },
                             {
                                 "Language": "pt-BR",
-                                "Text": "Em 03/06/2025, os servidores Wingspan passarão por manutenção. Durante esse período não será possível acessar o modo online. A manutenção começará em 11AM CET / 9AM UTC / 2AM PT e durará cerca de 6 horas.\r\n\r\nComo em toda manutenção online, encerre todas as suas partidas antes da manutenção e não inicie nenhuma nova perto do horário de início. Caso contrário, há o risco de perder partidas em andamento e pontos de karma.\r\nInforme seus colegas observadores sobre a manutenção online, para que o processo ocorra sem problemas.\r\n\r\nPedimos desculpas pelo inconveniente.\r\n"
+                                "Text": "Sabemos que vocês estavam esperando por isso! \n<style=asia>Wingspan: Expansão Ásia chega em 16 de junho de 2025, às 19:00 CEST / 10:00 PDT / 17:00 UTC, em TODAS as plataformas!</style> Este novo capítulo emocionante leva você ao Oriente vibrante, onde uma variedade de pássaros exclusivos, cada um com poderes e estratégias próprios, aguarda para renovar sua reserva!\n\nConfira o novo Modo Dueto, uma experiência para dois jogadores onde vocês competem em um mapa compartilhado, reivindicam espaços com marcadores, e têm objetivos dinâmicos de final de rodada que mudam frequentemente o seu modo de jogo. Expanda sua coleção com uma rica variedade de pássaros novos e 13 cartas bônus, incluindo algumas surpresas para os fãs do Automa!\n\nMergulhe na beleza do continente com 4 fundos deslumbrantes inspirados na região, além de 8 novas imagens de jogador que refletem a diversidade da fauna asiática. O tutorial totalmente reformulado torna a integração mais tranquila do que nunca, e uma nova trilha sonora acolhedora de Paweł Górniak define o tom perfeito de cada partida.\n\nSeja duelando no Modo Dueto, explorando novos pássaros, ou simplesmente curtindo as paisagens e trilha sonora, Wingspan: Expansão Ásia está repleto de motivos para você retornar à sua reserva. Totalmente multiplataforma e com acessibilidade total para solo ou multijogador, é hora de abrir as asas mais uma vez. \nMarque a data na sua agenda e prepare-se para voar!"
                             },
                             {
                                 "Language": "ja",
-                                "Text": "『ウィングスパン』は03/06/2025にメンテナンスを予定しており、その間サーバーが停止となります。メンテナンス中はオンラインモードをご利用いただけませんので、予めご了承ください。メンテナンスは11AM CET / 9AM UTC / 2AM PTに開始いたします。また、作業時間は6時間を想定しております。\r\n\r\nメンテナンス直前に新たな試合を開始されると、進行中の試合状況やカルマポイントを失う可能性があるため、ご注意ください。\r\n仲間の野鳥観察家の皆様にもぜひお伝えください。\r\n\r\n大変ご迷惑おかけしますが、何卒よろしく申し上げます。\r\n"
+                                "Text": "お待たせしました！\n<style=asia>『ウイングスパン拡張：東洋の翼』が2025年6月16日の午後5時（UTC）/17日の午前2時（日本時間）に全てのプラットフォームに登場します！</style>このスリリングな新チャプターが、活き活きとした東洋の世界へとプレイヤーを誘います。新たな能力と戦略を持つ、目も眩むようなユニークな鳥たちが、保護区を一新させるのを待っています！\n\n新しい「つがいモード」を試してみましょう。マップを共有して2名で競い、トークンを使ってマスを占拠し、毎回プレイ感覚が変化するダイナミックなラウンド終了時目的を目指す新しい体験が待っています。新しい鳥たちと13枚のボーナスカードのリッチな組み合わせで、コレクションを拡張しましょう。オートマのファンにはちょっとしたサプライズも！\n\nアジアの多様な動物相を反映した、このエリアをイメージした4種類の背景と8種類の新しいプレイヤーポートレイトで、大陸の美しさに没頭しましょう。完全に刷新されたチュートリアルで、これまで以上にゲームを始めるのがスムーズになりました。また、Paweł Górniakの手掛ける穏やかな新サウンドトラックがマッチごとに完璧な音色を奏でます。\n\nつがいモードでの対戦、新しい鳥の探求、イメージや音色にシンプルに没頭する…『ウイングスパン拡張：東洋の翼』には、保護区へと戻りたくなる理由がたくさん詰まっています。完全なクロスプラットフォームとソロ/マルチプレイヤーにも対応。再び翼を広げましょう。\nカレンダーに印をつけたら、飛び立つ準備を整えましょう！"
                             },
                             {
                                 "Language": "ru",
-                                "Text": "03/06/2025 на серверах Wingspan будут проводиться технические работы. В это время онлайн-режим будет недоступен. Работы начнутся 11AM CET / 9AM UTC / 2AM PT и продлятся 6 ч. \r\n\r\nКак обычно при любых технических работах, связанных с онлайн-режимом, завершите все игры до начала работ и не начинайте новые в их преддверии — иначе вы рискуете потерять текущие игры и очки кармы.\r\nПредупредите знакомых игроков о технических работах, чтобы все точно прошло гладко. \r\n\r\nПриносим извинения за доставленные неудобства.\r\n"
+                                "Text": "Мы знаем, что вы этого ждали!\n<style=asia>Дополнение «Птицы Азии» выходит 16 июня 2025 года, в 19:00 по московскому времени, на всех платформах!</style> Захватывающая новая глава Wingspan перенесёт вас на колоритный Восток. Невероятный набор уникальных птиц с новыми свойствами и стратегиями полностью изменит ваше представление о заповедниках!\n\nИспытайте своё мастерство в новом режиме дуэта! Соревнуйтесь на общей карте, захватывая поля с помощью жетонов и выполняя цели раунда, которые меняются с каждой игрой. Пополните свою коллекцию обилием новых птиц и 13 картами бонусов, среди которых есть особые сюрпризы специально для поклонников Автомы!\n\nОцените красоту нового континента с 4 великолепными фонами в азиатском стиле и 8 новыми портретами игроков, которые отражают всё разнообразие восточной фауны. Полностью переработанное обучение поможет быстрее освоиться в игре, а безмятежная музыка Павла Горняка задаст идеальное настроение для каждого матча.\n\nПоединки в режиме дуэта, изучение новых птиц, радость от созерцания новых пейзажей и прослушивания музыки — дополнение «Птицы Азии» предлагает множество причин снова заглянуть в ваш заповедник. Полная поддержка кроссплатформенной игры, одиночный и многопользовательский режимы — всё это даёт повод вновь расправить крылья!\nНе забудьте отметить дату — и готовьтесь взмыть в небо!"
                             },
                             {
                                 "Language": "zh",
-                                "Text": "03/06/2025，《展翅翱翔》的服务器将进行维护。期间将无法进行联机游戏。维护于11AM CET / 9AM UTC / 2AM PT开始，并将持续6小时。 \r\n\r\n和往常的在线维护一样，请在维护开始前结束所有游戏，并避免在维护时间临近时开始新的游戏。否则，可能会丢失正在进行的游戏和缘分点。\r\n如果方便的话，也烦请告知其他鸟类爱好者在线维护的消息，以便维护能顺利进行。\r\n\r\n为您带来不便，深感歉意。\r\n"
+                                "Text": "我们知道你们等这一刻很久了！\n<style=asia>《展翅翱翔：亚洲篇》将于2025年6月17日0 点（北京时间）在所有平台同步上线！</style>\n这个激动人心的新篇章将带你踏入多姿多彩的东方世界，众多拥有新技能与全新策略的独特鸟类正等待着你，为你的保护区带来翻天覆地的变化！\n\n尝试全新的“对决模式”——这是一个专为两位玩家设计的模式，你们将在一张地图上竞争，占领区域、放置标记，并追逐每局不同的轮末目标，每一局都会给你带来全然不同的玩法体验。\n\n将你的收藏扩展至全新高度！加入丰富的亚洲鸟类及13张额外奖励卡牌——其中还包括专为自动鸟粉丝准备的惊喜内容！\n\n沉浸在亚洲大陆之美当中：本次扩展带来了4张灵感源自亚洲各地的绝美背景，以及8个全新玩家头像，生动展现了亚洲多样的动物生态。全新重制的教学系统带来更顺畅的上手体验，而由 Paweł Górniak 创作的全新宁静原声配乐，也将为每一场对局营造出完美氛围。\n\n无论你是在对决模式中一决高下，还是在探索新鸟类、欣赏画面与音效时放松身心，《展翅翱翔：亚洲篇》都为你提供了回归保护区的充足理由！\n本扩展支持完整跨平台，无论是单人模式还是多人游戏，都已就绪。\n记下这个日子，准备再次展翅高飞吧！"
                             },
                             {
                                 "Language": "zh-Hant",
-                                "Text": "03/06/2025，《展翅翱翔》的伺服器將進行維護。期間將無法進行聯機遊戲。維護於11AM CET / 9AM UTC / 2AM PT開始，並將持續6小時。 \r\n\r\n和往常的在線維護一樣，請在維護開始前結束所有遊戲，並避免在維護時間臨近時開始新的遊戲。否則，可能會丟失正在進行的遊戲和緣分點。\r\n如果方便的話，也煩請告知其他鳥類愛好者在線維護的消息，以便維護能順利進行。\r\n\r\n為您帶來不便，深感歉意。\r\n"
+                                "Text": "我們知道你們等這一刻很久了！\n<style=asia>《展翅翱翔：亞洲篇》將於2025年6月17日0 點（北京時間）在所有平台同步上線！</style>\n這個激動人心的新篇章將帶你踏入多姿多彩的東方世界，眾多擁有新技能與全新策略的獨特鳥類正等待著你，為你的保護區帶來翻天覆地的變化！\n\n嘗試全新的“對決模式”——這是一個專為兩位玩家設計的模式，你們將在一張地圖上競爭，占領區域、放置標記，並追逐每局不同的輪末目標，每一局都會給你帶來全然不同的玩法體驗。\n\n將你的收藏擴展至全新高度！加入豐富的亞洲鳥類及13張額外獎勵卡牌——其中還包括專為自動鳥粉絲準備的驚喜內容！\n\n沉浸在亞洲大陸之美當中：本次擴展帶來了4張靈感源自亞洲各地的絕美背景，以及8個全新玩家頭像，生動展現了亞洲多樣的動物生態。全新重製的教學系統帶來更順暢的上手體驗，而由 Paweł Górniak 創作的全新寧靜原聲配樂，也將為每一場對局營造出完美氛圍。\n\n無論你是在對決模式中一決高下，還是在探索新鳥類、欣賞畫面與音效時放鬆身心，《展翅翱翔：亞洲篇》都為你提供了回歸保護區的充足理由！\n本擴展支持完整跨平台，無論是單人模式還是多人遊戲，都已就緒。\n記下這個日子，準備再次展翅高飛吧！"
                             },
                             {
                                 "Language": "it",
-                                "Text": "Il giorno 03/06/2025 i server di Wingspan verranno sottoposti a dei lavori di manutenzione. Durante questo periodo, sarà impossibile accedere alla modalità online. La manutenzione avrà inizio alle 11AM CET / 9AM UTC / 2AM PT e durerà all’incirca 6 ore.\r\n\r\nCome da prassi, ti chiediamo di concludere tutte le partite in corso prima dell’inizio della manutenzione e di non iniziarne di nuove durante i lavori in corso, onde evitare di perdere progressi e punti di Karma.\r\nSpargi la voce con gli altri birdwatcher affinché l’intera procedura avvenga senza intoppi.\r\n\r\nCi scusiamo per l’inconveniente.\r\n"
+                                "Text": "Sappiamo che non stai più nelle piume! \n<style=asia>Wingspan: Espansione Asia sarà disponibile su TUTTE le piattaforme a partire dalle 19:00 (CEST) del 16 giugno 2025!</style>Questo nuovo, avvincente capitolo ti trasporterà nei cieli del vivace oriente, dove un'incredibile varietà di uccelli unici nel loro genere attende di rivoluzionare la tua voliera!\n\nProva la nuova modalità Duetto, un'esperienza per due giocatori dove si compete su una mappa condivisa, si conquista spazio tramite dei segnalini e si inseguono obiettivi di fine round dinamici che rendono ogni partita diversa dalla precedente. Espandi la tua collezione con tantissimi nuovi volatili e ben 13 carte bonus, inclusa qualche sorpresina per i fan della modalità Automa!\n\nImmergiti nella bellezza del continente asiatico con 4 sfondi a tema e 8 nuovi ritratti del giocatore che raffigurano la sua fauna variegata. E con il tutorial rinnovato, imparare le regole non è mai stato così immediato! Per coronare il tutto, la nuova, rilassante colonna sonora di Paweł Górniak donerà a ogni partita il sottofondo perfetto.\n\nChe tu voglia duellare in modalità Duetto, scoprire altre specie di uccelli o semplicemente lasciarti rapire dai panorami e dai suoni dell'oriente, Wingspan: Espansione Asia ha più che un motivo per farti tornare alla voliera. È multipiattaforma, e si può giocare in solitaria o in più giocatori. Che cosa aspetti a spiccare il volo? \nSegnati la data e preparati a sfrecciare!"
                             },
                             {
                                 "Language": "ko",
-                                "Text": "03/06/2025에 윙스팬 서버가 점검을 진행합니다. 이 시간 동안 온라인 모드로 플레이할 수 없습니다. 점검은  11AM CET / 9AM UTC / 2AM PT에 시작되며 약 6시간 동안 지속됩니다.\r\n\r\n모든 온라인 점검과 마찬가지로, 점검 전에 모든 게임을 종료하고 점검 시간에 가까워지면 새로운 게임을 시작하지 마세요. 진행 중인 게임과 카르마 포인트를 잃을 위험이 있습니다.\r\n점검이 원활하게 진행될 수 있도록 동료 탐조가에게 온라인 점검에 대해 알려주세요.\r\n\r\n불편을 드려 죄송합니다.\r\n"
+                                "Text": "기대하시던 거 알고 있습니다! \n<style=asia>윙스팬: 아시아 확장이 2026년 6월 16일, CET 오후 6시 / PST 오전 6시 / UTC 오후 4시에 모든 플랫폼에 찾아옵니다!</style> 이 신나는 새로운 챕터가 여러분을 생동감 넘치는 동방으로, 여러분의 보존지를 뒤흔들 새로운 능력과 전략을 보유한 새들의 향연으로 안내합니다!\n\n함께 공유하는 지도 위에서 경쟁하는 새로운 2인용 듀엣 모드를 플레이하며, 칸을 토큰으로 채우면서 플레이 할 때마다 바뀌는 역동적인 라운드 종료 목표를 좇아보세요! 여러분의 컬렉션을 새로운 새들과 13가지 보너스 카드, 그리고 오토마 팬들만을 위한 몇 가지 놀라움으로 확장시켜보세요!\n\n4개의 놀랄만큼 아름다운 지역에서 영향 받은 배경화면과 아시아의 다양한 동물군을 보여주는 8가지 새로운 초상화로 아시아 대륙의 아름다움 속에 빠져드세요. 완전히 새로 바뀐 튜토리얼은 부드럽게 게임에 빠져들 수 있게 하며, Paweł Górniak이 작곡한 평화로운 신규 사운드트랙은 모든 매치와 완벽하게 조화됩니다.\n\n듀엣 모드에서 싸우든, 새로운 새들을 탐구하든, 아니면 그냥 풍경과 음악에 젖어들든, 윙스팬: 아시아 확장은 여러분이 보존지로 돌아와야 할 요소들로 가득합니다. 크로스 플랫폼 완벽 지원 및 싱글플레이/멀티플레이와 함께, 다시 한 번 날개를 펼칠 시간입니다. \n달력에 표시하고 비행을 준비하세요!"
                             },
                             {
                                 "Language": "uk",
-                                "Text": "03/06/2025 сервери «Крил» пройдуть технічне обслуговування. Поки воно не закінчиться, онлайн-режим буде недоступний. Ремонтні роботи почнуться о 11AM CET / 9AM UTC / 2AM PT і триватимуть 6 год. (приблизно). \r\n\r\nЯк і завжди в таких ситуаціях, будь ласка, завершіть усі свої матчі до початку робіт і не починайте нових, якщо до обслуговування залишилося мало часу. Інакше ви ризикуєте втратити поточні ігри й очки карми.\r\nПопередьте про техобслуговування своїх друзів, щоб усе минуло без завад. \r\n\r\nМи перепрошуємо за незручності.\r\n"
+                                "Text": "Ми знаємо, що ви чекали!\n<style=asia>Доповнення «Птахи Азії» виходить 16 червня 2025 року в 19:00 за київським часом на всіх платформах!</style> Захоплююча нова глава «Крил» перенесе вас на колоритний Схід. Неймовірний набір унікальних птахів з новими властивостями й стратегіями повністю змінить вашу уяву про заповідники!\n\nВипробуйте свою майстерність у новому режимі дуету! Змагайтесь на загальній мапі, захоплюючи поля з допомогою фішок і виконуючи цілі раунду, які змінюються з кожною грою. Поповніть свою колекцію безліччю нових птахів і 13 картами бонусів, серед яких є особливі сюрпризи спеціально для прихильників Автоми!\n\nОцініть красу нового континенту з 4 дивовижними фонами в азіатському стилі й 8 новими портретами гравців, які показують розмаїття східної фауни. Повністю перероблене навчання допоможе швидше освоїтися у грі, а спокійна музика Павла Горняка подарує ідеальний настрій для кожного матча.\n\nПоєдинки в режимі дуету, вивчання нових птахів, радість від спостерігання нових краєвидів і прослуховування нової музики — доповнення «Птахи Азії» пропонує безліч причин знову зазирнути до вашого заповідника. Повна підтримка кросплатформної гри, одиночний і багатокористувацький режими — все це дає змогу знову розправити крила!\nПозначте дату у календарі — і готуйтесь злетіти у небо!"
                             }
                         ]
                     }
                 }
             ],
-            "Actions": []
+            "Actions": [
+                {
+                    "ActionType": 1,
+                    "PlatformsToShowOn": 257,
+                    "Value": "AE_DLC",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Wishlist now!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Dodaj Do Listy Życzeń!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Auf die Wunschliste!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Ajoutez-le à votre liste de souhaits !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Añadidlo ya a vuestra lista de deseados!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "+ Lista de desejos!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "今すぐウィッシュリストに追加！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Добавьте в список желаемого!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "立即新增至願望清單！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "即刻加入愿望单！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Aggiungi alla lista dei desideri!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "지금 찜 목록에 추가하세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Додайте до списку бажаного!"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
