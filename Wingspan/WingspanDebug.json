@@ -3868,7 +3868,7 @@
             "StartDateTicks": 638823096000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 1,
-            "IsPinned": true,
+            "IsPinned": false,
             "PresetImageName": "",
             "RemoteImageName": "Flamecraft_Announcement_Newscenter.jpg",
             "Title": {
@@ -4239,7 +4239,7 @@
             "StartDateTicks": 638845056000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 2,
-            "IsPinned": true,
+            "IsPinned": false,
             "PresetImageName": "",
             "RemoteImageName": "Asia_DateReveal.jpg",
             "Title": {
