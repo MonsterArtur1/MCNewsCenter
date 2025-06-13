@@ -4861,7 +4861,7 @@
             "PlatformsToShowOn": 511,
             "StartDateTicks": 638853696000000000,
             "EndDateTicks": 638856702000000000,
-            "Priority": 2,
+            "Priority": 1,
             "IsPinned": false,
             "PresetImageName": "Online",
             "RemoteImageName": "",
