@@ -1,7 +1,7 @@
 {
-  "LocalDisabledBirds": [],
-  "OnlineDisabledBirds": [],
-  "GlobalServerMaintenance": false,
+  "LocalDisabledBirds": [262,317,363],
+  "OnlineDisabledBirds": [262,317,363],
+  "GlobalServerMaintenance": true,
   "PlatformMaintenances": [
     {
       "PlatformName": "DrmFree",
