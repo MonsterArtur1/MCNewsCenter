@@ -5357,16 +5357,16 @@
             "Actions": []
         },
         {
-            "ID": "31dff9ad-8283-40b1-8530-2ecc3bf0828d",
+            "ID": "24391222-23e1-447b-bff0-08d73ca7807c",
             "Tags": [
                 "Update"
             ],
-            "PlatformsToShowOn": 8,
+            "PlatformsToShowOn": 208,
             "StartDateTicks": 638857764000000000,
-            "EndDateTicks": 638858556000000000,
-            "Priority": 1,
-            "IsPinned": false,
-            "PresetImageName": "",
+            "EndDateTicks": 638869788000000000,
+            "Priority": 2,
+            "IsPinned": true,
+            "PresetImageName": "Update",
             "RemoteImageName": "",
             "Title": {
                 "LocalizedTexts": [
@@ -5386,12 +5386,98 @@
             },
             "Content": [
                 {
-                    "PlatformsToShowOn": 8,
+                    "PlatformsToShowOn": 465,
                     "Text": {
                         "LocalizedTexts": [
                             {
                                 "Language": "en",
-                                "Text": "Dear Birders!\r\nThank you for your support and all the bug reports! We are working on bringing you the fixes ASAP. Here’s what you can expect:\u000B\r\nBefore this weekend, your platform will receive a hotfix, including:\r\n- Fix for bird powers discarding bonus cards, causing a soft-lock.\r\n- Fix for “Replay” option adding Asia Expansion cards to the deck.\r\n- Fix for Indian Vulture error in games against Automa\r\n- Fix for error with Rose-Ringed Parakeet copying Crested Ibis or Spoon-Billed Sandpiper’s power.\r\n- Fix for error when attempting to enter Game Center without being logged in.\r\n\u000BAdditionally, on Monday, along with this hotfix reaching all of our platforms, Abbott’s Booby, North Island Brown Kiwi, and Red-crowned Crane will be restored in the game.\r\n\r\nThank you for your patience. We're delighted to share yet another Wingspan adventure with you and will strive to continually improve this experience for all of you.\r"
+                                "Text": "Dear Birders!\r\nThank you for your support and all the bug reports! We are working on bringing you the fixes ASAP. Here’s what you can expect:\r\nBefore this weekend, your platform will receive a patch, including:\r\nFix for bird powers discarding bonus cards, causing a soft-lock.\r\nFix for the “Replay” option adding Asia Expansion cards to the deck.\r\nFix for Indian Vulture error in games against Automa\r\nFix for error with Rose-Ringed Parakeet copying Crested Ibis or Spoon-Billed Sandpiper’s power.\r\nFixed an exploit allowing for repeating the \"when played\" bonus card drawing powers ad infinitum.\r\nFixed soft-lock caused by leaving the menu during Rose-Ringed Parakeet’s power activation.\r\nThe order of Automa game modes in the “game mode” sub-menu is now correctly stored between game sessions.\r\n\"Changing\" game mode to the same one that is already selected no longer resets player settings in local custom games.\r\nThe turn order in Duet mode is now correctly assigned to the player who came second in the previous end-of-round goal.\r\nFix for Rose-ringed Parakeet unable to get played without eggs when copying a \"play on top\" bird power.\r\n\"The Eagle has landed\" achievement now correctly unlocks only after completing the base game tutorial.\r\n\"Fewest tokens on bonus spaces\" end-of-round goal is now scored properly when both players have 0 tokens on such spaces.\r\nFixed issue with the nectar summary screen not showing after playing a bird using a Game End power in Duet Mode.\r\nFixed paying the wildfood cost with nectar when playing a bird, not unlocking the right spaces on the Duet map. \r\nFixed undoing playing a bird on top of another bird, blocking progress in Duet mode.\r\nMinor UI, visual, and animation fixes\r\nMinor Tutorial fixes.\r\nAdditionally, on Monday, along with this hotfix reaching all of our platforms, Abbott’s Booby, North Island Brown Kiwi, and Red-crowned Crane will be restored in the game.\r\n\r\nThank you for your patience. We're delighted to share yet another Wingspan adventure with you and will strive to continually improve this experience for all of you.\r\n"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
+        },
+        {
+            "ID": "f30819bc-5567-4b20-b857-0ab0aff6232a",
+            "Tags": [
+                "Update"
+            ],
+            "PlatformsToShowOn": 208,
+            "StartDateTicks": 638857764000000000,
+            "EndDateTicks": 638858556000000000,
+            "Priority": 2,
+            "IsPinned": false,
+            "PresetImageName": "Update",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Update - June 17th"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "What will be introduced today, and what you can expext in the near future."
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 208,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Dear Birders!\r\nThank you for your support and all the bug reports! We are working on bringing you the fixes ASAP. Here’s what you can expect:\r\nBefore this weekend, your platform will receive a patch, including:\r\nFix for bird powers discarding bonus cards, causing a soft-lock.\r\nFix for the “Replay” option adding Asia Expansion cards to the deck.\r\nFix for Indian Vulture error in games against Automa\r\nFix for error with Rose-Ringed Parakeet copying Crested Ibis or Spoon-Billed Sandpiper’s power.\r\nFixed an exploit allowing for repeating the \"when played\" bonus card drawing powers ad infinitum.\r\nFixed soft-lock caused by leaving the menu during Rose-Ringed Parakeet’s power activation.\r\nThe order of Automa game modes in the “game mode” sub-menu is now correctly stored between game sessions.\r\n\"Changing\" game mode to the same one that is already selected no longer resets player settings in local custom games.\r\nThe turn order in Duet mode is now correctly assigned to the player who came second in the previous end-of-round goal.\r\nFix for Rose-ringed Parakeet unable to get played without eggs when copying a \"play on top\" bird power.\r\n\"The Eagle has landed\" achievement now correctly unlocks only after completing the base game tutorial.\r\n\"Fewest tokens on bonus spaces\" end-of-round goal is now scored properly when both players have 0 tokens on such spaces.\r\nFixed issue with the nectar summary screen not showing after playing a bird using a Game End power in Duet Mode.\r\nFixed paying the wildfood cost with nectar when playing a bird, not unlocking the right spaces on the Duet map. \r\nFixed undoing playing a bird on top of another bird, blocking progress in Duet mode.\r\nMinor UI, visual, and animation fixes\r\nMinor Tutorial fixes.\r\nAdditionally, on Monday, along with this hotfix reaching all of our platforms, Abbott’s Booby, North Island Brown Kiwi, and Red-crowned Crane will be restored in the game.\r\n\r\nThank you for your patience. We're delighted to share yet another Wingspan adventure with you and will strive to continually improve this experience for all of you.\r\n"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
+        },
+        {
+            "ID": "ad78ffd9-b580-4bb1-82e6-2fc3971ac3bb",
+            "Tags": [
+                "Update"
+            ],
+            "PlatformsToShowOn": 208,
+            "StartDateTicks": 638857764000000000,
+            "EndDateTicks": 638858556000000000,
+            "Priority": 2,
+            "IsPinned": false,
+            "PresetImageName": "Update",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Hotfix - June 17th"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "What will be introduced today, and what you can expext in the near future."
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 208,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Dear Birders!\r\nThank you for your support and all the bug reports! We are working on bringing you the fixes ASAP. Here’s what you can expect:\r\nBefore this weekend, your platform will receive a patch, including:\r\nFix for bird powers discarding bonus cards, causing a soft-lock.\r\nFix for the “Replay” option adding Asia Expansion cards to the deck.\r\nFix for Indian Vulture error in games against Automa\r\nFix for error with Rose-Ringed Parakeet copying Crested Ibis or Spoon-Billed Sandpiper’s power.\r\nFixed an exploit allowing for repeating the \"when played\" bonus card drawing powers ad infinitum.\r\nFixed soft-lock caused by leaving the menu during Rose-Ringed Parakeet’s power activation.\r\nThe order of Automa game modes in the “game mode” sub-menu is now correctly stored between game sessions.\r\n\"Changing\" game mode to the same one that is already selected no longer resets player settings in local custom games.\r\nThe turn order in Duet mode is now correctly assigned to the player who came second in the previous end-of-round goal.\r\nFix for Rose-ringed Parakeet unable to get played without eggs when copying a \"play on top\" bird power.\r\n\"The Eagle has landed\" achievement now correctly unlocks only after completing the base game tutorial.\r\n\"Fewest tokens on bonus spaces\" end-of-round goal is now scored properly when both players have 0 tokens on such spaces.\r\nFixed issue with the nectar summary screen not showing after playing a bird using a Game End power in Duet Mode.\r\nFixed paying the wildfood cost with nectar when playing a bird, not unlocking the right spaces on the Duet map. \r\nFixed undoing playing a bird on top of another bird, blocking progress in Duet mode.\r\nMinor UI, visual, and animation fixes\r\nMinor Tutorial fixes.\r\nAdditionally, on Monday, along with this hotfix reaching all of our platforms, Abbott’s Booby, North Island Brown Kiwi, and Red-crowned Crane will be restored in the game.\r\n\r\nThank you for your patience. We're delighted to share yet another Wingspan adventure with you and will strive to continually improve this experience for all of you.\r\n"
                             }
                         ]
                     }
