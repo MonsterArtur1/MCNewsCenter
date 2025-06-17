@@ -5484,6 +5484,49 @@
                 }
             ],
             "Actions": []
+        },
+        {
+            "ID": "ff2a5d5f-6714-465d-ac69-4b260fe2a3b8",
+            "Tags": [
+                "Update"
+            ],
+            "PlatformsToShowOn": 8,
+            "StartDateTicks": 638857764000000000,
+            "EndDateTicks": 638858556000000000,
+            "Priority": 2,
+            "IsPinned": true,
+            "PresetImageName": "Update",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Hotfix - June 17th"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Check what you can expext in the near future."
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 8,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Dear birders!\r\nThank you for your support and all the bug reports! We are working on bringing you the fixes ASAP. Here’s what you can expect:\r\nBefore this weekend, your platform will receive a hotfix, including:\r\nFix for bird powers discarding bonus cards, causing a soft-lock.\r\nFix for “Replay” option adding Asia Expansion cards to the deck.\r\nFix for Indian Vulture error in games against Automa\r\nFix for error with Rose-Ringed Parakeet copying Crested Ibis or Spoon-Billed Sandpiper’s power.\r\nFix for error when attempting to enter Game Center without being logged in.\r\nAdditionally, on Monday, along with this hotfix reaching all of our platforms, Abbott’s Booby, North Island Brown Kiwi, and Red-crowned Crane will be restored in the game.\r\n\r\nThank you for your patience. We're delighted to share yet another Wingspan adventure with you and will strive to continually improve this experience for all of you.\r\n"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
         }
     ]
 }
