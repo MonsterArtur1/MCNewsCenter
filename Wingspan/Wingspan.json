@@ -5039,6 +5039,193 @@
                 }
             ],
             "Actions": []
+        },
+        {
+            "ID": "b9c9caa2-de28-47fe-ae5e-78311a83924a",
+            "Tags": [
+                "MonsterCouch"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638858628000000000,
+            "EndDateTicks": 638862588000000000,
+            "Priority": 1,
+            "IsPinned": false,
+            "PresetImageName": "MonsterCouch",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "We will be back soon"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Powrócimy już wkrótce"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Wir melden uns bald wieder."
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Nous reviendrons d'ici peu"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Volveremos pronto"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Voltamos logo"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "私たちはまた戻ってきます。"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Мы скоро вернёмся"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "我们很快就会回来"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "我們很快就會回來"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Torneremo presto"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "곧 돌아오겠습니다"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Ми скоро повернемося"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Sometimes even a hawk needs a moment to catch its breath."
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Czasem nawet jastrząb potrzebuje chwili oddechu."
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Selbst ein Falke braucht manchmal eine Pause, um wieder zu Atem zu kommen."
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Même un faucon a parfois besoin de reprendre son souffle."
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "A veces, hasta los halcones necesitan pararse un momento para recuperar el aliento."
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Às vezes, até um falcão precisa de um tempo para recuperar o fôlego."
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "タカでさえも、時には息を整える時間が必要となります。"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Порой даже ястребу нужна передышка."
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "有些时候，即便是雄鹰也需要稍作歇息。"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "有些時候，即便是雄鷹也需要稍作歇息。"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "A volte, anche un falco ha bisogno di un momento per riprendere fiato."
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "매도 잠시 숨을 고를 시간이 필요할 때가 있습니다."
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Інколи навіть канюкові потрібен перепочинок."
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Dear Birders,\n\nTomorrow in Poland, where Monster Couch's office is located, we will be celebrating a bank holiday. For this reason, the entire team will be temporarily unavailable. But don't worry, as soon as we return, we will immediately check your messages and continue working on Wingspan with fresh energy.\n\nSee you soon!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Drodzy Ptasiarze,\n\nJuż jutro w Polsce, gdzie znajduje się biuro Monster Couch, będziemy obchodzić święto państwowe. Z tej przyczyny, cały zespół będzie chwilowo niedostępny. Nie martwcie się jednak, jak tylko wrócimy, od razu zapoznamy się z Waszymi wiadomościami i pełni energii będziemy kontynuować pracę nad Na Skrzydłach.\n\nDo zobaczenia wkrótce!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Liebe Vogelbeobachter,\n \n der morgige Tag ist ein Feiertag in Polen, wo Monster Couch seine Büros hat. Daher ist das komplette Team vorübergehend nicht erreichbar. Aber sobald wir wieder da sind, machen wir uns sofort mit neuer Energie an eure Nachrichten und an unsere Arbeit für Wingspan.\n \n Bis bald!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Camarades ornithologues,\n \n Demain est un jour férié en Pologne, où se trouvent les bureaux de Monster Couch. Par conséquent, l'ensemble de l'équipe sera temporairement indisponible. Mais pas d'inquiétude : dès notre retour, nous consulterons immédiatement vos messages et continuerons à travailler sur Wingspan avec une énergie nouvelle.\n \n À bientôt !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Queridos fans de las aves:\n \n Mañana, en Polonia, donde se encuentra la oficina de Monster Couch, es un día festivo. Por tanto, el equipo no estará disponible temporalmente, pero no os preocupéis: en cuanto volvamos, comprobaremos de inmediato vuestros mensajes y seguiremos trabajando en Wingspan con energías renovadas.\n \n ¡Nos vemos pronto!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Caros passarinheiros,\n \n Amanhã, aqui na Polônia, onde ficam os escritórios da Monster Couch, celebraremos um feriado nacional. Por isso, toda a equipe estará temporariamente indisponível. Mas não se preocupem, pois retornaremos em breve e vamos conferir suas mensagens imediatamente para continuar a trabalhar em Wingspan com as energias renovadas.\n \n Nos vemos em breve!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "鳥類愛好家の皆様へ\n \n Monster Couchのオフィスの所在地であるポーランドでは、明日は国民の祝日となります。そのため、チーム全体が一時的に休暇となります。ですがご心配には及びません。戻り次第、すぐに皆様からのメッセージを確認し、新鮮な気持ちでウイングスパンに引き続き取り組んでいきます。\n \n またお会いしましょう！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Дорогие птицеловы!\n \n Завтра в Польше, где находится офис Monster Couch, выходной, и вся наша команда будет отдыхать. Но не волнуйтесь, на следующий день мы прочитаем ваши сообщения и с новыми силами продолжим работать над Wingspan.\n \n До скорого!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "亲爱的观鸟者们：\n \n 明天是波兰的公共假期，而 Monster Couch 的办公室正位于波兰。出于这个原因，我们全体团队将暂时无法提供支持。但请不用担心，我们一回来就会第一时间查看大家的消息，并以满满的活力继续投入《展翅翱翔》的开发工作！\n \n 很快见！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "親愛的觀鳥者們：\n \n 明天是波蘭的公共假期，而 Monster Couch 的辦公室正位于波蘭。出於這個原因，我們全體團隊將暫時無法提供支持。但請不用擔心，我們一回來就會第一時間查看大家的消息，並以滿滿的活力繼續投入《展翅翱翔》的開發工作！\n \n 很快見！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Cari birdwatcher,\n \n domani in Polonia, dove si trovano gli uffici di Monster Couch, sarà un giorno festivo. Per tale motivo, l'intero team sarà temporaneamente non disponibile. Ma non temete: appena torneremo, controlleremo i vostri messaggi e continueremo a lavorare su Wingspan con rinnovato vigore.\n \n A presto!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "안녕하세요.\n\n내일 Monster Couch 사무실이 위치한 폴란드에서는 공휴일을 맞이합니다. 따라서 팀 전체가 일시적으로 업무를 볼 수 없게 됩니다. 하지만 돌아오는 대로 여러분의 메시지를 즉시 확인하고 새로운 에너지로 윙스팬 작업을 계속할 테니 걱정하지 마세요.\n\n곧 봬요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Привіт птахоловам!\n \n Завтра в Польщі (де розташовано офіс Monster Couch) державний вихідний, тому вся команда буде тимчасово недоступна. Але не переймайтеся: ми перевіримо ваші повідомлення та продовжимо працювати над «Крилами» з новими силами, щойно повернемося.\n \n Скоро побачимося!"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
         }
     ]
 }
