@@ -5439,6 +5439,50 @@
                 }
             ],
             "Actions": []
+        },
+        {
+            "ID": "95c01b57-ac74-43ff-9388-1b48047e2b48",
+            "Tags": [
+                "Update",
+                "MonsterCouch"
+            ],
+            "PlatformsToShowOn": 257,
+            "StartDateTicks": 638858574000000000,
+            "EndDateTicks": 638870590200000000,
+            "Priority": 2,
+            "IsPinned": false,
+            "PresetImageName": "Update",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Hotfix and Double Karma Event"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Update your game and boost yourself in online matchmaking"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 257,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "The previously announced patch is out now on Steam. The whole patch notes are below:\u000B\u000B- Fix for bird powers discarding bonus cards, causing a soft-lock.\r\n- Fix for “Replay” option adding Asia Expansion cards to the deck.\r\n- Fix for Indian Vulture error in games against Automa\r\n\r- Fix for error with Rose-Ringed Parakeet copying Crested Ibis or Spoon-Billed Sandpiper’s power.\r\n\r- Fixed Special Edition bundle in the in-game shop not linking to the bundle on Steam.\r\n\r- Fix for benefit from habitat’s activation not being returned when undoing the turn with the Himalayan Monal on the board.\n\nAnd last but not least...\n\n DOUBLE KARMA IS OOOON \n\nSince now, enjoy your online games with double karma points for completed games until June 23rd, 12:30 pm CEST. Boost yourselves with Asia Expansion. "
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
         }
     ]
 }
