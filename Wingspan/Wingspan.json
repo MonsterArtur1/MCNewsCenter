@@ -5483,6 +5483,49 @@
                 }
             ],
             "Actions": []
+        },
+        {
+            "ID": "a032e85e-eaed-4786-8ff0-7bc4ead19420",
+            "Tags": [
+                "Update"
+            ],
+            "PlatformsToShowOn": 2,
+            "StartDateTicks": 638858580000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 2,
+            "IsPinned": false,
+            "PresetImageName": "Update",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Hotfix and Double Karma Event"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Update your game and boost yourself in the online matchmaking."
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 2,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Hello Birder! The hotfix is available now! Check out the changelog below:\n\n- Fix for bird powers discarding bonus cards, causing a soft-lock.\r\n- Fix for the “Replay” option adding Asia Expansion cards to the deck.\r\n- Fix for Indian Vulture error in games against Automa\r\n- Fix for error with Rose-Ringed Parakeet copying Crested Ibis or Spoon-Billed Sandpiper’s power.\r\n- Fix for benefit from habitat’s activation not being returned when undoing the turn with the Himalayan Monal on the board.\r\n- Fix for error when attempting to enter Game Center without being logged in.\r\n\n\nAnd last, but not least...\u000B\u000BDOUBLE KARMA IS OOON\n\nSince now, enjoy your online games with double karma points for completed games until June 23rd,  12:30 pm CEST. Boost yourselves with Asia Expansion."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
         }
     ]
 }
