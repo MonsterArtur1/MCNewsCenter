@@ -5655,6 +5655,193 @@
                 }
             ],
             "Actions": []
+        },
+        {
+            "ID": "65e9f228-f388-41ee-bd71-05f10e07a4a7",
+            "Tags": [
+                "Events"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638859780000000000,
+            "EndDateTicks": 638872703400000000,
+            "Priority": 1,
+            "IsPinned": false,
+            "PresetImageName": "Events1",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Happy Summer Solstice!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Radosnego Przesilenia Letniego!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Fröhliche Sommersonnenwende!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Joyeux solstice d'été !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Feliz solsticio de verano!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Feliz Solstício de Verão!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "夏至をお祝いしよう！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "С летним солнцестоянием!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "夏至快乐！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "夏至快樂！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Buon solstizio d'estate!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "즐거운 하지!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "З літнім сонцестоянням!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Soak Up the Sun with the Summer Solstice Background!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Napawaj się słońcem wraz z Tłem Przesilenia Letniego!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Aale dich in der Sonne mit dem Sommersonnenwende-Hintergrund!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Prélassez-vous au soleil avec l'arrière-plan Solstice d'été !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Disfruta de la cálida luz del sol con el fondo del solsticio de verano!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Aproveite o sol com o plano de fundo Solstício de Verão!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "夏至の背景で太陽をたっぷり浴びよう！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Наслаждайтесь теплом солнца с праздничным фоном летнего солнцестояния!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "在《展翅翱翔》的夏至背景中沐浴阳光吧！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "在《展翅翱翔》的夏至背景中沐浴陽光吧！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Goditi il sole con lo sfondo Solstizio d'estate!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "하지 배경에서 태양을 만끽하세요!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Насолодіться сонячним теплом з фоном літнього сонцестояння!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Long days, warm breezes, and nature at its peak - the Summer Solstice is here! \r\n\nWingspan’s summer background captures the vibrant energy of the season, with lush greenery, folk festivities and birds basking in the warmth of the longest days of the year.\r\n\r\nCelebrate summer from June 20 to July 4, or keep the sunshine all year with the Seasonal Decorative Pack. Dive into nature’s peak and let your birds soar!\r"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Długie dni, ciepły wiatr i natura w pełnym rozkwicie – nadeszło przesilenie letnie! \nLetnie tło Wingspan oddaje energię tej pory roku, przedstawiając bujną zieleń, ludowe uroczystości i ptaki wygrzewające się w promieniach słońca najdłuższych dni w roku.\n\nŚwiętuj lato od 20 czerwca do 4 lipca lub ciesz się słońcem przez cały rok dzięki Sezonowemu Zestawowi Dekoracyjnemu. Zanurz się w naturze i pozwól swoim ptakom wzbić się w powietrze!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Lange Tage, warme Brisen und die Natur gibt alles – die Sommersonnenwende ist da! \nWingspans Sommer-Hintergrund fängt die lebendige Energie dieser Jahreszeit ein mit üppigem Grün, Volksfesten und Vögeln, die in der Wärme der längsten Tage des Jahres baden.\n\nFeiere den Sommer vom 20. Juni bis zum 4. Juli – oder genieße den Sonnenschein das ganze Jahr über mit dem Jahreszeiten-Dekopaket. Tauche ein in die Natur zu ihrer üppigsten Zeit und lass deine Vögel fliegen!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Les longues journées, les hautes températures et la nature à son apogée : le solstice d'été est arrivé !\nL'arrière-plan estival de Wingspan reflète l'énergie vibrante de la saison, avec sa verdure luxuriante, ses fêtes populaires et ses oiseaux profitant de la chaleur des jours les plus longs de l'année.\n\nCélébrez l'été du 20 juin au 4 juillet, ou laissez le soleil briller toute l'année avec le pack décoratif saisonnier. Plongez au cœur de la nature et laissez vos oiseaux s'envoler !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Ya está aquí el solsticio de verano con sus largos días, sus cálidas brisas y su naturaleza en pleno apogeo!\nEl fondo de verano de Wingspan transmite la potente energía de esta estación, repleta de frondosa vegetación, festejos populares y aves que disfrutan del calor de los días más largos del año.\n\nCelebra el verano del 20 de junio al 4 de julio o conserva la luz del sol durante todo el año con el paquete decorativo estacional. ¡Sumérgete en el esplendor de la naturaleza y deja que tus aves alcen el vuelo!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Dias longos, brisas quentes e a natureza no seu auge: o Solstício de Verão chegou! \nO fundo de verão de Wingspan captura a energia vibrante da estação, com uma vegetação exuberante, festividades folclóricas e aves aproveitando o calor dos dias mais longos do ano.\n\nCelebre o verão de 20 de junho a 4 de julho, ou mantenha o clima de sol o ano todo com o Pacote Decorativo Sazonal. Mergulhe no auge da natureza e deixe suas aves voarem!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "長い昼間、暖かいそよ風、自然が最も美しい時期……夏至の季節がやって来た！\n草木は青々と茂り、伝統のお祭りが行なわれ、鳥たちは1年で最も長い昼間の暖かい日差しを浴びて楽しんでいる。『ウイングスパン』の夏至の背景で、この季節だけのあふれるエネルギーを貰おう。\n\n6月20日から7月4日まで夏をお祝いしよう。または「季節の装飾パック」を購入して、1年じゅう太陽の光を浴びよう。一番輝いている自然の中に飛び込んで、空高く鳥を舞い上がらせよう！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Долгие дни, тёплый ветерок, расцветающая природа — наступило летнее солнцестояние! \nНовый фон для «Крыльев» передаёт яркую атмосферу лета. Здесь и пышная зелень, и народные гуляния, и птицы, которые радуются летнему теплу и краткой ночной прохладе…\n\nОтпразднуйте макушку лета с 20 июня по 4 июля — или продолжайте купаться в лучах солнца весь год с декоративным набором «Времена года». Окунитесь в цветущий мир природы и выпустите своих птиц на волю!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "漫长的白天、和煦的微风、大自然已然达到它的巅峰——夏至来临了！《展翅翱翔》的夏季背景捕捉了这个季节的勃勃生机，郁郁葱葱的绿意、民间庆典和鸟儿们在一年中最漫长的白天里享受温暖的阳光。\n\n从6月20日到7月4日一起庆祝夏天，或者通过购买“季节性装饰包”让阳光照耀全年。融入大自然的巅峰时刻，让你的鸟儿自由飞翔吧！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "漫長的白天、和煦的微風、大自然已然達到它的巔峰——夏至來臨了！《展翅翱翔》的夏季背景捕捉了這個季節的勃勃生機，鬱鬱蔥蔥的綠意、民間慶典和鳥兒們在一年中最漫長的白天裡享受溫暖的陽光。\n\n從6月20日到7月4日一起慶祝夏天，或者通過購買「季節性裝飾包」讓陽光照耀全年。融入大自然的巔峰時刻，讓你的鳥兒自由飛翔吧！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Giornate più lunghe, venti caldi e la natura al suo culmine: è arrivato il solstizio d'estate!\nLo sfondo estivo di Wingspan cattura l'energia vivace di questa stagione, con vegetazione rigogliosa, feste popolari e uccelli che si crogiolano al calore delle giornate più lunghe dell'anno.\n\nFesteggia l'estate dal 20 giugno al 4 luglio oppure fallo tutto l'anno con il pacchetto decorativo stagionale. Vivi la natura nel suo periodo migliore e fai volare i tuoi uccelli in alto nei cieli!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "긴 낮, 따끈한 바람, 절정에 달한 자연 - 여름이 다가왔습니다!\n윙스팬의 여름 배경은 무성한 녹지, 민속 축제, 일 년 중 가장 긴 낮의 따스함을 만끽하는 새들과 함께 계절의 활기찬 에너지를 담아냅니다.\n\n[6월 20일]부터 [7월 4일]까지 여름을 기념하거나, 계절 장식 팩으로 일 년 내내 햇살을 간직하세요. 자연의 절정 속으로 뛰어들어 새들이 날아오르게 해 보세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Довгі дні, теплий вітер, квітуча природа — літнє сонцестояння вже тут! \nНовий фон для «Крил» передає яскраву атмосферу літа, де на вас чекає пишна зелена рослинність, народні святкування і птахи, що радіють літньому теплу найдовших днів у році.\n\nВідсвяткуйте літо з 20 червня до 4 липня — або збережіть сонячне світло на весь рік з декоративним набором «Пори року». Зануріться до квітучого світу природи й випустіть на волю своїх птахів!"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
         }
     ]
 }
