@@ -182,13 +182,6 @@
   ],
   "LiveServerOverrides": [
     {
-      "PlatformName": "Steam_win",
-      "BuildVersion": 221,
-      "HostURL": "nakama.monstercouch.com",
-      "Port": 7350,
-      "ServerKey": "defaultkey"
-    },
-    {
       "PlatformName": "Switch",
       "BuildVersion": 699,
       "HostURL": "nakama.monstercouch.com",
