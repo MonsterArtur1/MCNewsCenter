@@ -180,13 +180,5 @@
       ]
     }
   ],
-  "LiveServerOverrides": [
-    {
-      "PlatformName": "Switch",
-      "BuildVersion": 699,
-      "HostURL": "nakama.monstercouch.com",
-      "Port": 7350,
-      "ServerKey": "defaultkey"
-    }
-  ]
+  "LiveServerOverrides": []
 }
