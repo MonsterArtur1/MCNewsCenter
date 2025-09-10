@@ -5004,6 +5004,193 @@
                     }
                 }
             ]
+        },
+        {
+            "ID": "6e146897-4ccf-47f0-a85c-91297602fa69",
+            "Tags": [
+                "Events"
+            ],
+            "PlatformsToShowOn": 511,
+            "StartDateTicks": 638931078000000000,
+            "EndDateTicks": 638943480000000000,
+            "Priority": 1,
+            "IsPinned": false,
+            "PresetImageName": "",
+            "RemoteImageName": "Wingspan_5Anniversary_Newscenter_800x300.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Happy Anniversary, Wingspan!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Na Skrzydłach Kończy 5 lat!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Alles Gute zum Jahrestag, Wingspan!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Joyeux anniversaire, Wingspan !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Feliz aniversario, Wingspan!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Feliz Aniversário, Wingspan!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『ウイングスパン』の記念日をお祝いしよう！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "С днём рождения, «Крылья»!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《展翅翱翔》周年庆快乐！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《展翅翱翔》周年慶快樂！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Buon anniversario, Wingspan!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "생일 축하 합니다, 윙스팬!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "З днем народження, «Крила»!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Celebrate Wingspan’s Anniversary with Seasonal Background and a special Player Portrait!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Świętuj piątą rocznicę Na Skrzydłach z Tłem Sezonowym i specjalnym Portretem Gracza!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Feiert Wingspans Jahrestag mit Jahreszeiten-Hintergrund und besonderem Spielerprofilbild!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Fêtez l'anniversaire de Wingspan avec un arrière-plan saisonnier et un portrait spécial !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Celebra el aniversario de Wingspan con un fondo de estación y un retrato de jugador especial!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Celebre o Aniversário de Wingspan com um fundo sazonal e uma imagem de jogador especial!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『ウイングスパン』の記念日を季節の背景と特別なプレイヤーポートレイトでお祝いしよう！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Годовщина Wingspan, праздничный фон и особый портрет игрока!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "庆祝《展翅翱翔》周年纪念，限时推出季节性背景和特别玩家头像！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "慶祝《展翅翱翔》周年紀念，限時推出季節性背景和特別玩家頭像！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Celebra l'anniversario di Wingspan con uno sfondo stagionale e un ritratto del giocatore speciale!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "계절 배경과 특별한 플레이어 초상화로 윙스팬의 주년을 축하하세요!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Святкуйте річницю «Крил» із сезонним фоном й особливим портретом гравців!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 511,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "It’s a celebration of birds and strategy as Wingspan marks another fantastic year! To celebrate, we’ve brought back the Wingspan Anniversary background, with a festive look and surprises hidden in every corner of your preserve. \nSince this is our 5th Anniversary, we thought we needed someone special to join the party. The coolest bird on the block has arrived to celebrate! A true Flock Star in birthday shades and full bling is now available as a brand-new, free 5th Anniversary Player Portrait. Together, you will rule the dancefloor of your preserve and party until the score comes up.\nThis disco dove is a permanent addition to your portrait collection and a perfect way to celebrate your own special occasions!\nPlay in this limited background from September 10 to September 24, or add it to your collection with the Seasonal Decorative Pack. Raise your wings and join the flock for this special occasion - thank you for being part of the Wingspan community!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "To już kolejny fantastyczny rok świętowania ptaków i strategii w Na Skrzydłach. Z tej okazji powraca jubileuszowe tło, pełne radosnego klimatu i niespodzianek ukrytych w każdym zakątku Twojego rezerwatu. \nPonieważ to już nasza 5 rocznica, uznaliśmy, że na naszej imprezie nie może zabraknąć wyjątkowego gościa. Największy ptasi luzak właśnie wylądował! Prawdziwa Gwiazda Stada w imprezowych okularach i lśniącej biżuterii dołącza jako nowiutki i darmowy rocznicowy Portret Gracza. Razem zawładniecie parkietem w Twoim rezerwacie i będziecie imprezować, aż wyniki poszybują pod sam sufit.\nTen dyskotekowy gołąb na stałe dołącza do Twojej kolekcji portretów i jest idealnym sposobem na uczczenie także Twoich własnych, wyjątkowych okazji!\nBaw się na specjalnym tle rocznicowym 10 do 24 września, albo dodaj je do swojej kolekcji dzięki Sezonowemu Pakietowi Dekoracyjnemu 2. Rozłóż skrzydła i dołącz do stada na tę wyjątkową okazję - dziękujemy, że jesteś częścią społeczności Na Skrzydłach!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Wir feiern die Vögel und die Strategie – Wingspan hat ein weiteres fantastisches Jahr erlebt! Aus diesem Anlass haben wir den Wingspan-Jahrestag-Hintergrund zurückgebracht, der deinem Reservat ein festliches Aussehen und Überraschungen in jeder versteckten Ecke bringt.\n Anlässlich unseres 5. Jahrestags haben wir jemanden ganz Besonderen zur Party eingeladen. Der coolste Vogel der Stadt ist gelandet! Ein echter „Flock Star“ in Geburtstagsbrille und vollem Glitzer ist jetzt als brandneues, kostenloses Spielerprofilbild zum 5. Jahrestag verfügbar. Gemeinsam rockt ihr die Tanzfläche des Reservats, bis es Punkte regnet.\n Diese Disco-Taube ist eine dauerhafte Ergänzung eurer Profilbild-Sammlung und die perfekte Möglichkeit, auch eure eigenen besonderen Anlässe zu feiern!\n Spielt mit diesem limitierten Hintergrund vom 10. September bis zum 24. September – oder fügt ihn mit dem Jahreszeiten-Dekopaket eurer Sammlung hinzu. Breitet eure Flügel aus und schließt euch für ein besonderes Fest dem Schwarm an – danke, dass ihr Teil der Wingspan-Community seid!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Les oiseaux et la stratégie sont à l'honneur à l'occasion d'une nouvelle année fantastique avec Wingspan ! Pour fêter cela, l'arrière-plan Anniversaire de Wingspan est de retour avec un style festif et des surprises cachées aux quatre coins de votre volière.\n Puisque c'est notre 5e anniversaire, un invité très spécial est venu célébrer avec nous : le plus cool de tous les oiseaux ! Le portrait de la véritable star de la nuée, vêtue de lunettes de soleil et de bijoux, est désormais disponible gratuitement à l'occasion de notre 5e anniversaire. Ensemble, vous régnerez sur la piste de danse de votre volière et ferez la fête jusqu'à l'affichage de votre score.\n Cette colombe disco sera ajoutée de façon permanente à votre collection de portraits et vous permettra de célébrer toutes les occasions qui vous tiennent à cœur !\n Jouez avec cet arrière-plan à durée limitée du 10 septembre au 24 septembre, ou ajoutez-le à votre collection avec le pack décoratif saisonnier. Déployez vos ailes et envolez-vous avec nous pour cette occasion spéciale. Merci de faire partie de la communauté Wingspan !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Es un homenaje a las aves y la estrategia ahora que concluye otro fantástico año de Wingspan! Para celebrarlo, hemos recuperado el fondo del aniversario de Wingspan, con un aspecto festivo y sorpresas ocultas por todo el aviario.\n Ya que este es nuestro quinto aniversario, hemos pensado que debíamos invitar a la fiesta a alguien muy especial. ¡El pájaro más guay de todos viene a celebrarlo! Una verdadera estrella de la bandada, con sus colores festivos y toda su ostentosidad, ya está disponible como un nuevo retrato de jugador gratuito del quinto aniversario. Esta ave y tú dominaréis la pista de baile del aviario y celebraréis cómo aumenta vuestra puntuación.\n ¡Esta paloma tan juerguista es una adición permanente a tu colección de retratos y supone la manera perfecta de celebrar tus propias ocasiones especiales!\n Juega en este fondo por tiempo limitado del 10 al 24 de septiembre o añádelo a tu colección con el paquete decorativo estacional. Abre las alas y únete a la bandada en esta ocasión especial. ¡Gracias por formar parte de la comunidad de Wingspan!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Essa é uma celebração de aves e de estratégias, já que Wingspan comemora mais um ano fantástico! Para celebrar, trouxemos de volta o fundo de Aniversário do Wingspan, com um visual festivo e surpresas escondidas em cada canto da sua reserva. \n Já que chegamos ao nosso 5º Aniversário, nada mais justo do que convidar alguém especial para se juntar à festa. O pássaro mais maneiro do pedaço chegou para comemorar com a gente! A verdadeira estrela do bando com óculos de aniversário, acessórios brilhantes e cheio de estilo já está disponível como a nova imagem de jogador do 5º Aniversário. Juntos, vocês dominarão a pista de dança para conseguir um montão de pontos.\n Esta ave dançarina será um presentinho permanente à sua coleção de imagens e uma ótima maneira de comemorar suas conquistas especiais!\n Jogue com este fundo limitado de 10 a 24 de setembro, ou adicione-o à sua coleção com o Pacote Decorativo Sazonal. Levante suas asas e junte-se ao bando para esta ocasião especial! — Agradecemos por fazer parte da comunidade Wingspan!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "『ウイングスパン』がまた素晴らしい1年を刻んだ。鳥と戦略をお祝いしよう！これを記念して、祝祭の雰囲気をたたえた『ウイングスパン』の記念背景が再登場。保護区のあちこちにサプライズも隠されている。\n 今回は5周年記念だから、パーティーに参加する特別な誰かが必要だと考えていたところ、イカした鳥がお祝いに到着！誕生日のサングラスとアクセサリーに身を包んだ真の群れのスターが、全く新しい無料の5周年記念プレイヤーポートレイトとして入手可能。一緒に保護区のダンスフロアを虜にして、スコアが上がるまでパーティーを続けよう。\n このディスコハトはポートレイトコレクションに永久に追加されるので、自分だけの特別な機会をお祝いするのに最適！\n この背景は、9月10日から9月24日まで期間限定で楽しめる。また「季節の装飾パック」を購入すれば、コレクションに加えることもできる。この特別な機会に、羽根を広げて群れに加わろう。『ウイングスパン』コミュニティーの一員になってくれてありがとう！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Да здравствуют птицы и стратегия! В Wingspan пролетел ещё один чудесный год, и ко дню рождения игры мы приготовили подарки: праздничный фон, а также сюрпризы, которые ждут вас в каждом укромном уголке заповедника.\n По случаю пятой годовщины мы решили пригласить на праздник кое-кого особенного. Встречайте самую модную птицу на районе, настоящую звезду вечеринок — в стильных очках и при полном параде! Этот новый бесплатный портрет игрока — лучший подарок на пятилетие Wingspan. Вы зажжёте танцпол заповедника и будете тусоваться до окончательного подсчёта очков!\n Диско-голубь станет постоянным жителем вашей коллекции портретов и будет рад отмечать вместе с вами все ваши персональные праздники!\n Играйте с этим фоном с 10 по 24 сентября или добавьте его в свою коллекцию с декоративным набором «Времена года». Расправьте крылья и присоединяйтесь к стае, ведь сегодня особый день! Спасибо, что играете в Wingspan!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "这是鸟类与策略的盛大庆典——《展翅翱翔》又度过了精彩的一年！\n为此，我们带回了周年纪念限定背景，节日气氛满满。在你的保护区中，每个角落都藏着惊喜。\n\n既然是五周年，我们当然要邀请一位特别的嘉宾来参加派对。最酷的鸟儿已经闪亮登场！这位真正的“鸟界巨星”戴着生日墨镜、全套闪耀饰品，如今以全新的免费五周年玩家头像登场。和它一起，你将在保护区的舞池中大放异彩，舞动到计分时刻到来。\n\n这只“派对鸽”将永久加入你的头像收藏，是庆祝你自己特殊时刻的完美方式！\n\n在9月10日至9月24日期间体验这款限时背景，或者通过季节装饰包将其加入收藏。\n展开双翼，加入这场特别的聚会吧——感谢你成为《展翅翱翔》社区的一员！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "這是鳥類與策略的盛大慶典——《展翅翱翔》又度過了精彩的一年！\n為此，我們帶回了周年紀念限定背景，節日氣氛滿滿。在你的保護區中，每個角落都藏着驚喜。\n\n既然是五周年，我們當然要邀請一位特別的嘉賓來參加派對。最酷的鳥兒已經閃亮登場！這位真正的「鳥界巨星」戴着生日墨鏡、全套閃耀飾品，如今以全新的免費五周年玩家頭像登場。和它一起，你將在保護區的舞池中大放異彩，舞動到計分時刻到來。\n\n這隻「派對鴿」將永久加入你的頭像收藏，是慶祝你自己特殊時刻的完美方式！\n\n在9月10日至9月24日期間體驗這款限時背景，或者通過季節裝飾包將其加入收藏。\n展開雙翼，加入這場特別的聚會吧——感謝你成為《展翅翱翔》社區的一員！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Wingspan compie un altro fantastico anno e noi festeggiamo i volatili e la strategia! Per farlo, abbiamo reintrodotto lo sfondo Anniversario di Wingspan, con un aspetto festivo e con delle sorprese nascoste in ogni angolo della tua voliera. \n Essendo il nostro 5° anniversario, abbiamo pensato di festeggiare con un ospite speciale. Anzi, il volatile più cool del quartiere! È una vera stella, con occhiali da festa e accessori vistosi, ed è ora disponibile come ritratto del giocatore gratuito per il 5° anniversario. Insieme sarete l'anima della festa (e anche della voliera) e farete incetta di punti.\n Questa colomba entrerà permanentemente nella tua raccolta di ritratti, così da poterla sfoggiare per festeggiare qualsiasi occasione speciale!\n Gioca in questo sfondo a tempo limitato dal 10 al 24 settembre oppure aggiungilo alla tua raccolta con il pacchetto decorativo stagionale. Spiega le ali e unisciti allo stormo per questa occasione speciale: grazie per essere parte della comunità di Wingspan!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "윙스팬이 또 한 번의 환상적인 한 해를 맞이하였습니다. 새와 전략의 축제날입니다!\n이를 기념하기 위해 윙스팬 1주년 기념 배경을 다시 선보이며, 보존 지역 구석구석에 숨겨진 축제 분위기와 깜짝 선물을 준비했습니다.\n개발팀은 5주년을 맞이해서 특별한 존재와 함께 파티를 즐기고자 했습니다. 그래서 진정으로 멋진 새가 축하하러 왔답니다! 생일을 기념하는 듯한 색상과 화려한 장식이 돋보이는 진짜 '플록 스타'가 새롭게 선보이는 5주년 기념 플레이어 초상화로 출시되었습니다. 함께 한다면 득점할 때까지 당신의 파티와 댄스 플로어를 장악할 수 있을 거예요.\n이 디스코 비둘기는 당신의 초상화 컬렉션에 영구적으로 추가됩니다. 특별한 날을 기념하기에 완벽하죠!\n[9월 10일]부터 [9월 24일]까지 한정적으로 즐기거나, 계절 장식 팩으로 컬렉션에 추가하세요. 윙스팬 커뮤니티의 일원이 되어 주셔서 감사합니다. 이 특별한 날을 위해 날개를 펴고 무리에 합류하세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Для «Крил» то видався фантастичний рік! Це свято, присвячене птахам і стратегії! На честь дня народження нашої гри ми знову пропонуємо святковий фон. Сюрпризи чекають у кожному куточку вашого заповідника. \n Оскільки настала наша 5-та річниця, ми запросили декого дуже важливого до наших веселощів, тож зустрічайте його — найкрутішого птаха на районі! Ідеться саме про Зірку зграї у святкових окулярах і багатих прикрасах. Додайте цього птаха до колекції безплатно як портрет гравця на честь 5-ї річниці. Запаліть танцювальний майданчик заповідника й гарцюйте, поки шкала не підніміться догори.\n Цей диско-птах стане постійним доповненням до вашої колекції портретів, та й точно знадобиться, якщо треба буде показати вищий пілотаж!\n Грайте з цим фоном із 10 до 24 вересня або додайте його до своєї постійної колекції з декоративним набором «Пори року». Розгорніть крила й приєднуйтеся до зграї, адже сьогодні особливий день! Дякуємо, що граєте в «Крила»!"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
         }
     ]
 }
