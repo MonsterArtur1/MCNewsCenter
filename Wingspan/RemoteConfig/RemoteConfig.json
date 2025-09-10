@@ -60,6 +60,18 @@
     {
       "ParamName": "RC_LONG_TIME",
       "ParamValue": "72"
+    },
+    {
+      "ParamName": "RC_SHORT_EXPANSIONS",
+      "ParamValue": "<sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_base\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ss\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_oe\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ae\">"
+    },
+    {
+      "ParamName": "RC_LONG_EXPANSIONS",
+      "ParamValue": "<sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_base\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ss\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_oe\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ae\">"
+    },
+    {
+      "ParamName": "RC_DUET_EXPANSIONSE",
+      "ParamValue": "<sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_base\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ss\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_oe\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ae\">"
     }
   ],
   "RemoteShopElements": [
