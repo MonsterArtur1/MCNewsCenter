@@ -70,7 +70,7 @@
       "ParamValue": "<sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_base\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ss\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_oe\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ae\">"
     },
     {
-      "ParamName": "RC_DUET_EXPANSIONSE",
+      "ParamName": "RC_DUET_EXPANSIONS",
       "ParamValue": "<sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_base\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ss\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_oe\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ae\">"
     }
   ],
