@@ -71,7 +71,7 @@
     },
     {
       "ParamName": "RC_DUET_EXPANSIONS",
-      "ParamValue": "<sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_oe\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ae\">"
+      "ParamValue": "<sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_oe\">"
     }
   ],
   "RemoteShopElements": [
