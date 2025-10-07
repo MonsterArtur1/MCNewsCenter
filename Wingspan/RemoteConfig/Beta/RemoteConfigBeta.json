@@ -179,5 +179,51 @@
         }
       ]
     }
+  ],
+  "Analytics": [
+    {
+      "EventType": "UI",
+      "Enabled": true
+    },
+    {
+      "EventType": "Tutorial",
+      "Enabled": false
+    },
+    {
+      "EventType": "Gameplay",
+      "Enabled": true
+    },
+    {
+      "EventType": "Challenge",
+      "Enabled": true
+    },
+    {
+      "EventType": "Duet",
+      "Enabled": true
+    },
+    {
+      "EventType": "Online",
+      "Enabled": true
+    },
+    {
+      "EventType": "BugReport",
+      "Enabled": true
+    },
+    {
+      "EventType": "Cheater",
+      "Enabled": true
+    },
+    {
+      "EventType": "Shop",
+      "Enabled": true
+    },
+    {
+      "EventType": "NewsCenter",
+      "Enabled": true
+    },
+    {
+      "EventType": "AI",
+      "Enabled": true
+    }
   ]
 }
