@@ -1,4 +1,9 @@
 {
   "LocalDisabledBirds": [],
-  "OnlineDisabledBirds": []
+  "OnlineDisabledBirds": [],
+  "LiveServerOverrides": [{
+      "PlatformName": "Switch",
+      "BuildVersion": 712,
+      "ServerID": 1
+    }]
 }
