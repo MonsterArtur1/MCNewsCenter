@@ -1,4 +1,14 @@
 {
   "LocalDisabledBirds": [],
-  "OnlineDisabledBirds": []
+  "OnlineDisabledBirds": [],
+  "LiveServerOverrides": [{
+      "PlatformName": "Gog_win",
+      "BuildVersion": 286,
+      "ServerID": 1
+    },
+    {
+      "PlatformName": "Gog_mac",
+      "BuildVersion": 252,
+      "ServerID": 1
+    }]
 }
