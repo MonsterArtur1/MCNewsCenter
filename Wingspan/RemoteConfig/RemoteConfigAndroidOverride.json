@@ -1,4 +1,9 @@
 {
   "LocalDisabledBirds": [],
-  "OnlineDisabledBirds": []
+  "OnlineDisabledBirds": [],
+  "LiveServerOverrides": [{
+      "PlatformName": "Android",
+      "BuildVersion": 883,
+      "ServerID": 1
+    }]
 }
