@@ -1,4 +1,9 @@
 {
   "LocalDisabledBirds": [],
-  "OnlineDisabledBirds": []
+  "OnlineDisabledBirds": [],
+  "LiveServerOverrides": [{
+      "PlatformName": "iOS",
+      "BuildVersion": 1149,
+      "ServerID": 1
+    }]
 }
