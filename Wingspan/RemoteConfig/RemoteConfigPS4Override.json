@@ -1,4 +1,9 @@
 {
   "LocalDisabledBirds": [],
-  "OnlineDisabledBirds": []
+  "OnlineDisabledBirds": [],
+  "LiveServerOverrides": [{
+      "PlatformName": "PS4",
+      "BuildVersion": 327,
+      "ServerID": 1
+    }]
 }
