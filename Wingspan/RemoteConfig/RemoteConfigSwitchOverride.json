@@ -3,7 +3,7 @@
   "OnlineDisabledBirds": [],
   "LiveServerOverrides": [{
       "PlatformName": "Switch",
-      "BuildVersion": 9999,
+      "BuildVersion": 718,
       "ServerID": 1
     }]
 }
