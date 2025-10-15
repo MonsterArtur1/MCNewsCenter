@@ -1,6 +1,12 @@
 {
   "LocalDisabledBirds": [],
   "OnlineDisabledBirds": [],
+  "Analytics": [
+    {
+      "EventType": "PlayerCustomization",
+      "Enabled": false
+    }
+  ],
   "LiveServerOverrides": [{
       "PlatformName": "Gog_win",
       "BuildVersion": 286,
