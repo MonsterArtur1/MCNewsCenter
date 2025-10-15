@@ -192,5 +192,23 @@
       ]
     }
   ],
+    "Analytics": [
+    {
+      "EventType": "Challenge",
+      "Enabled": false
+    },
+    {
+      "EventType": "AI",
+      "Enabled": false
+    },
+    {
+      "EventType": "GameplayActions",
+      "Enabled": false
+    },
+    {
+      "EventType": "GameSetup",
+      "Enabled": false
+    }
+  ],
   "LiveServerOverrides": []
 }
