@@ -1,4 +1,14 @@
 {
   "LocalDisabledBirds": [],
-  "OnlineDisabledBirds": []
+  "OnlineDisabledBirds": [],
+  "LiveServerOverrides": [{
+      "PlatformName": "GDKXboxOne",
+      "BuildVersion": 232,
+      "ServerID": 1
+    },
+    {
+      "PlatformName": "GDKXboxSeries",
+      "BuildVersion": 189,
+      "ServerID": 1
+    }]
 }
