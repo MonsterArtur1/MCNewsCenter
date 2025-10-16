@@ -3,7 +3,7 @@
   "OnlineDisabledBirds": [],
   "LiveServerOverrides": [{
       "PlatformName": "Xbox_PC",
-      "BuildVersion": 26,
+      "BuildVersion": 1000,
       "ServerID": 1
     }
 }
