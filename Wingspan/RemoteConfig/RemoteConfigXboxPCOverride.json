@@ -1,0 +1,9 @@
+{
+  "LocalDisabledBirds": [],
+  "OnlineDisabledBirds": [],
+  "LiveServerOverrides": [{
+      "PlatformName": "Xbox_PC",
+      "BuildVersion": 26,
+      "ServerID": 1
+    }
+}
