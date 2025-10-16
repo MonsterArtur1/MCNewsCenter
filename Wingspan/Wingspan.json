@@ -3179,7 +3179,7 @@
                 "Update",
                 "Online"
             ],
-            "PlatformsToShowOn": 511,
+            "PlatformsToShowOn": 1023,
             "StartDateTicks": 638803872000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 2,
@@ -3737,7 +3737,7 @@
             "Tags": [
                 "NewContent"
             ],
-            "PlatformsToShowOn": 511,
+            "PlatformsToShowOn": 1023,
             "StartDateTicks": 638845056000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 1,
@@ -3986,7 +3986,7 @@
             "Tags": [
                 "NewContent"
             ],
-            "PlatformsToShowOn": 511,
+            "PlatformsToShowOn": 1023,
             "StartDateTicks": 638856720000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 1,
@@ -4173,7 +4173,7 @@
             "Tags": [
                 "NewContent"
             ],
-            "PlatformsToShowOn": 511,
+            "PlatformsToShowOn": 1023,
             "StartDateTicks": 638856720000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 2,
@@ -5010,7 +5010,7 @@
             "Tags": [
                 "Events"
             ],
-            "PlatformsToShowOn": 511,
+            "PlatformsToShowOn": 1023,
             "StartDateTicks": 638931078000000000,
             "EndDateTicks": 638943480000000000,
             "Priority": 1,
