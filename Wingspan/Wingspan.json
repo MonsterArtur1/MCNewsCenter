@@ -3300,7 +3300,7 @@
             },
             "Content": [
                 {
-                    "PlatformsToShowOn": 511,
+                    "PlatformsToShowOn": 1023,
                     "Text": {
                         "LocalizedTexts": [
                             {
@@ -3858,7 +3858,7 @@
             },
             "Content": [
                 {
-                    "PlatformsToShowOn": 511,
+                    "PlatformsToShowOn": 1023,
                     "Text": {
                         "LocalizedTexts": [
                             {
@@ -4107,7 +4107,7 @@
             },
             "Content": [
                 {
-                    "PlatformsToShowOn": 511,
+                    "PlatformsToShowOn": 1023,
                     "Text": {
                         "LocalizedTexts": [
                             {
@@ -4294,7 +4294,7 @@
             },
             "Content": [
                 {
-                    "PlatformsToShowOn": 511,
+                    "PlatformsToShowOn": 1023,
                     "Text": {
                         "LocalizedTexts": [
                             {
@@ -5131,7 +5131,7 @@
             },
             "Content": [
                 {
-                    "PlatformsToShowOn": 511,
+                    "PlatformsToShowOn": 1023,
                     "Text": {
                         "LocalizedTexts": [
                             {
