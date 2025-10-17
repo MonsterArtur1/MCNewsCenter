@@ -4363,8 +4363,8 @@
             "PlatformsToShowOn": 6,
             "StartDateTicks": 638857764000000000,
             "EndDateTicks": 638858556000000000,
-            "Priority": 2,
-            "IsPinned": true,
+            "Priority": 1,
+            "IsPinned": false,
             "PresetImageName": "Update",
             "RemoteImageName": "",
             "Title": {
@@ -4407,7 +4407,7 @@
             "StartDateTicks": 638857764000000000,
             "EndDateTicks": 638869788000000000,
             "Priority": 2,
-            "IsPinned": true,
+            "IsPinned": false,
             "PresetImageName": "Update",
             "RemoteImageName": "",
             "Title": {
@@ -4491,7 +4491,7 @@
             "StartDateTicks": 638857764000000000,
             "EndDateTicks": 638858556000000000,
             "Priority": 2,
-            "IsPinned": true,
+            "IsPinned": false,
             "PresetImageName": "Update",
             "RemoteImageName": "",
             "Title": {
@@ -4577,7 +4577,7 @@
             "PlatformsToShowOn": 12,
             "StartDateTicks": 638859168000000000,
             "EndDateTicks": 946391904000000000,
-            "Priority": 2,
+            "Priority": 1,
             "IsPinned": false,
             "PresetImageName": "Update",
             "RemoteImageName": "",
@@ -5185,6 +5185,194 @@
                             {
                                 "Language": "uk",
                                 "Text": "Для «Крил» то видався фантастичний рік! Це свято, присвячене птахам і стратегії! На честь дня народження нашої гри ми знову пропонуємо святковий фон. Сюрпризи чекають у кожному куточку вашого заповідника.\n\n Оскільки настала наша 5-та річниця, ми запросили декого дуже важливого до наших веселощів, тож зустрічайте його — найкрутішого птаха на районі! Ідеться саме про Зірку зграї у святкових окулярах і багатих прикрасах. Додайте цього птаха до колекції безплатно як портрет гравця на честь 5-ї річниці. Запаліть танцювальний майданчик заповідника й гарцюйте, поки шкала не підніміться догори.\n\n Цей диско-птах стане постійним доповненням до вашої колекції портретів, та й точно знадобиться, якщо треба буде показати вищий пілотаж!\n\n Грайте з цим фоном із 10 до 24 вересня або додайте його до своєї постійної колекції з декоративним набором «Пори року». Розгорніть крила й приєднуйтеся до зграї, адже сьогодні особливий день! Дякуємо, що граєте в «Крила»!"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
+        },
+        {
+            "ID": "9d4539f8-42b7-4c16-afba-5ad00cb96200",
+            "Tags": [
+                "Update",
+                "Online"
+            ],
+            "PlatformsToShowOn": 4,
+            "StartDateTicks": 638963817000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 2,
+            "IsPinned": true,
+            "PresetImageName": "",
+            "RemoteImageName": "Wingpsan_AndroidOnline_NewsCenter_800x300.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Log in to the Online menu to keep your online profile!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Zaloguj się do trybu Online, aby zachować swój profil!\n"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Im Online-Menü anmelden, um Online-Profil zu behalten!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Connectez-vous pour conserver votre profil en ligne !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Inicia sesión en línea y conserva tu perfil en línea!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Faça login no menu Online para manter seu perfil!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "オンラインにログインしてオンラインプロフィールをキープ"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Войдите в меню «Онлайн», чтобы сохранить свой профиль!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "登录线上模式以保留您的个人线上档案！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "登錄線上模式以保留您的個人線上檔案！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Accedi al menu online per mantenere il profilo online!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "온라인 메뉴에 로그인하여 온라인 프로필을 유지하세요!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Увійдіть у меню «Онлайн», щоб зберегти ваш профіль!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "We’re preparing an important update for Wingspan Online on Android."
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Przygotowujemy ważną aktualizację trybu Online w Na Skrzydłach w wersji na Androida."
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Wir arbeiten an einem wichtigen Update für Wingspan Online auf Android-Geräten."
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Nous préparons une mise à jour importante pour Wingspan en ligne sur Android."
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Estamos preparando una actualización importante del modo en línea de Wingspan en Android."
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Estamos preparando uma atualização importante de Wingspan Online no Android."
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "Android版ウイングスパンのオンラインの重要なアップデートを準備しています。"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "«Крылья»Мы готовим важное обновление для сетевого режима Wingspan на Android."
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "我们在为安卓平台的《展翅翱翔》准备一个重要的更新。"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "我們在為安卓平台的《展翅翱翔》準備一個重要的更新。"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Stiamo preparando un importante aggiornamento per Wingspan Online su Android."
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "안드로이드용 윙스팬 온라인의 중요한 업데이트를 준비 중입니다."
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Скоро вийде важливе оновлення для мережевої гри «Крил» на Android."
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Along with our upcoming release, we need to perform an update that will change how the Android accounts are linked with Wingspan online profiles. \n\n<style=base>Here's what this means:</style>\n- If you log in to Wingspan Online at least once before the update, your account will be linked automatically.\n- If you don't log in to Wingspan Online, you will need to set up a new Wingspan profile after the update. This means losing your username, Karma level, and any ongoing games.\n\nLogging in only takes a moment - you only need to enter the Online lobby - but it ensures you keep your current Wingspan Online profile.\n\nThank you for taking the time to do this - your username and your games will be right where you left them."
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Wraz z nadchodzącą aktualizacją musimy wprowadzić zmiany w sposobie powiązania kont Android z profilami Online w Na Skrzydłach.\n\n<style=base>Co to oznacza:</style>\n\n- Jeśli zalogujesz się do trybu Online w aplikacji Na Skrzydłach przynajmniej raz przed aktualizacją, Twoje konto zostanie powiązane automatycznie.\n- Jeśli się nie zalogujesz, po aktualizacji będziesz musiał utworzyć nowy profil Online. Oznacza to utratę nazwy użytkownika, poziomu Karmy i wszystkich trwających rozgrywek.\n- Zalogowanie się zajmuje tylko chwilę – wystarczy wejść do lobby Online – ale gwarantuje zachowanie Twojego obecnego profilu Online w Na Skrzydłach.\n\nDziękujemy, że poświęcisz na to chwilę – Twoja nazwa użytkownika i gry pozostaną tam, gdzie je zostawiłeś."
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Im Zuge der kommenden Veröffentlichung müssen wir ein Update durchführen, das die Verknüpfung der Android-Konten mit den Online-Profilen von Wingspan ändert. \n\n<style=base>Das bedeutet Folgendes:</style>\n– Wenn du dich vor dem Update mindestens ein Mal bei Wingspan Online anmeldest, wird dein Konto automatisch verknüpft.\n– Wenn du dich vorher nicht bei Wingspan Online anmeldest, musst du nach dem Update ein neues Wingspan-Profil anlegen. In diesem Fall verlierst du deinen Benutzernamen, deinen Karmastand und eventuell laufende Spiele.\n\nDie Anmeldung dauert nur einen Moment – du musst lediglich die Online-Lobby betreten –, aber so kannst du sicherstellen, dass dein aktuelles Online-Profil für Wingspan nicht verloren geht.\n\nDanke, dass du dir die Zeit dafür nimmst – so warten dein Benutzername und deine Spiele auf dich, wenn du das nächste Mal spielen möchtest."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Dans le cadre de notre prochaine mise à jour, nous devons effectuer une modification qui changera la manière dont les comptes Android sont associés aux profils Wingspan en ligne.\n\n<style=base>Voici ce que cela signifie :</style>\n- Si vous vous connectez à Wingspan en ligne au moins une fois avant la mise à jour, votre compte sera automatiquement associé.\n- Si vous ne vous connectez pas à Wingspan en ligne, vous devrez créer un nouveau profil Wingspan après la mise à jour. Cela signifie que vous perdrez votre nom d'utilisateur, votre niveau de Karma et toutes vos parties en cours.\n\nVous n'aurez besoin que d'un instant pour vous connecter (il vous suffit d'entrer dans le menu En ligne) et ainsi conserver votre profil Wingspan en ligne actuel.\n\nMerci de prendre le temps de le faire : ainsi, vous trouverez votre nom d'utilisateur et vos parties exactement là où vous les aviez laissés."
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Junto con el lanzamiento que se avecina, debemos realizar una actualización qué cambiará la forma de vincular las cuentas de Android con los perfiles en línea de Wingspan.\n\n<style=base>Esto es lo que conlleva:</style>\n- Si inicias sesión en el modo en línea de Wingspan antes de la actualización, tu cuenta se vinculará automáticamente.\n- Si no inicias sesión en el modo en línea de Wingspan, tendrás que configurar un nuevo perfil de Wingspan tras la actualización. Es decir, que perderás tu nombre de usuario, tu nivel de karma y cualquier partida que tengas en curso.\n\nPuedes iniciar sesión desde el menú en línea y solo te costará un segundo, pero así podrás conservar tu perfil actual del modo en línea de Wingspan.\n\nGracias por tomarte la molestia. Verás que tu nombre de usuario y tus partidas seguirán justo donde las dejaste."
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Junto com o lançamento de nossa próxima versão, precisaremos realizar uma atualização que mudará a maneira como as contas Android são vinculadas aos perfis online de Wingspan.\n\n<style=base>O que isso significa:</style>\n- Se você fizer login no Wingspan Online pelo menos uma vez antes da atualização, sua conta será vinculada automaticamente.\n- Se você não fizer o login no Wingspan Online, terá de criar um novo perfil Wingspan após a atualização. Isso implica na perda de seu nome de usuário, seu nível de Karma e quaisquer jogos em andamento.\n\nFazer o login é rápido – basta acessar o menu Online – e garante que você mantenha seu perfil atual do Wingspan Online.\n\nAgradecemos por reservar um tempo para isso, assim seu nome de usuário e seus jogos estarão esperando por você exatamente como os deixou."
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "今後のリリースに伴い、Androidアカウントとウイングスパンのオンラインプロフィールのリンク方法を変更するアップデートを行う必要があります。\n\n<style=base>以下がその説明となります：</style>\n- アップデート前に最低一度でもウイングスパンのオンラインにログインすると、ご利用のアカウントが自動でリンクされます。\n- ウイングスパンのオンラインにログインしない場合、新しいウイングスパンのプロフィールをアップデート後に設定する必要があります。つまり、ご利用のユーザー名、カルマレベル、進行中のゲームが消滅します。\n\nログインにかかる時間はわずかで、オンラインロビーに入るだけで完了しますが、現在のウイングスパンのオンラインプロフィールをキープして継続利用できます。\n\n作業を行なっていただきありがとうございます。ご利用のユーザー名とゲームは中断した時のままになります。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Скоро мы выпустим обновление, которое изменит алгоритм привязки учётной записи Android к сетевому профилю Wingspan.\n\n<style=base>Вот что это значит.</style>\n– Если перед обновлением вы хотя бы раз войдёте в сетевой режим Wingspan, ваша учётная запись будет привязана автоматически.\n– Если вы не войдёте в сетевой режим Wingspan, после обновления вам нужно будет создать новый профиль. В этом случае вы потеряете своё имя пользователя, уровень кармы и все текущие игры.\n\nВход в игру занимает считанные секунды: достаточно зайти в сетевое лобби, и это позволит сохранить ваш профиль для сетевого режима Wingspan.\n\nНайдите минутку времени, чтобы ваше имя пользователя и текущие игры остались с вами. Спасибо!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "随着我们即将发布的新版本，我们需要进行一次更新，以更改安卓账户与《展翅翱翔》在线档案的关联方式。\n\n<style=base>这意味着：</style>\n- 如果您在更新前至少登录过一次《展翅翱翔》线上模式，您的账户将会自动关联。\n- 如果您未登录《展翅翱翔》线上模式，更新后您将需要重新创建新的《展翅翱翔》档案。这意味着您将失去当前的用户名、缘分点等级以及任何正在进行的游戏。\n\n登录只需片刻——您只需进入在线大厅——但这能确保您保留现有的《展翅翱翔》在线档案。\n\n感谢您花时间完成此操作——您的用户名和游戏将会原封不动地保留下来。"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "隨着我們即將發布的新版本，我們需要進行一次更新，以更改安卓賬戶與《展翅翱翔》在線檔案的關聯方式。\n\n<style=base>這意味着：</style>\n- 如果您在更新前至少登錄過一次《展翅翱翔》線上模式，您的賬戶將會自動關聯。\n- 如果您未登錄《展翅翱翔》線上模式，更新後您將需要重新創建新的《展翅翱翔》檔案。這意味着您將失去當前的用戶名、緣分點等級以及任何正在進行的遊戲。\n\n登錄只需片刻——您只需進入在線大廳——但這能確保您保留現有的《展翅翱翔》在線檔案。\n\n感謝您花時間完成此操作——您的用戶名和遊戲將會原封不動地保留下來。"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Insieme alla prossima uscita, pubblicheremo anche un aggiornamento che modificherà il modo in cui gli account Android vengono collegati ai profili online di Wingspan. \n\n<style=base>Questo significa che:</style>\n- se accedi a Wingspan Online almeno una volta prima dell'aggiornamento, il tuo account verrà collegato automaticamente;\n- se non accedi a Wingspan Online, dovrai configurare un nuovo profilo di Wingspan dopo l'aggiornamento. Ciò significa che perderai il tuo nome utente, il livello di Karma e tutte le partite in corso.\n\nEffettuare l'accesso è rapido: ti basterà entrare nella lobby online per mantenere il tuo profilo di Wingspan Online.\n\nTi ringraziamo se deciderai di farlo: ritroverai il tuo nome utente e le tue partite esattamente dove le hai lasciate."
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "다가오는 발매에 맞춰, 안드로이드 계정이 윙스팬 온라인 프로필과 연결되는 방식을 변경하는 업데이트를 진행하고 있습니다.\n\n<style=base>아래의 내용을 의미합니다.</style>\n- 업데이트 전에 최소 한 번 윙스팬 온라인에 로그인하면 계정이 자동으로 연결됩니다.\n- 윙스팬 온라인에 로그인하지 않으면 업데이트 후 새로운 윙스팬 프로필을 설정해야 합니다. 이는 사용자 이름, 카르마 레벨, 진행 중인 모든 게임을 잃게 된다는 것을 의미합니다.\n\n로그인은 잠시만 시간을 내면 됩니다. 온라인 로비에 들어가기만 하면 됩니다. 현재 윙스팬 온라인 프로필을 유지할 수 있습니다.\n\n시간을 내어 주셔서 감사합니다. 여러분의 사용자 이름과 게임은 그대로 남아있을 것입니다."
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "У межах майбутнього оновлення ми змінимо спосіб пов'язування облікових записів Android до профілів мережевої гри «Крил». \n\n<style=base>Ось що ми маємо на увазі:</style>\n- Якщо ви ввійдете до мережевої гри «Крил» принаймні раз до оновлення, ваш обліковий запис буде зв'язано автоматично.\n- Якщо ви не ввійдете до мережевої гри «Крил», після оновлення вам буде необхідно створити новий профіль «Крил». Це означатиме втрату імені гравця, рівня карми й усіх розпочатих ігор.\n\nВхід займатиме лише мить — просто ввійдіть у меню «Онлайн». Цей процес збереже ваш профіль мережевої гри «Крил».\n\nДякуємо, що приділили час на вхід: ваші ім'я гравця й прогрес залишаться на місці."
                             }
                         ]
                     }
