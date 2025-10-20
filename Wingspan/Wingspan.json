@@ -5379,6 +5379,194 @@
                 }
             ],
             "Actions": []
+        },
+        {
+            "ID": "9203c788-1acb-4ff1-9c27-89996f548283",
+            "Tags": [
+                "Update",
+                "Online"
+            ],
+            "PlatformsToShowOn": 1023,
+            "StartDateTicks": 638965152000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 2,
+            "IsPinned": false,
+            "PresetImageName": "",
+            "RemoteImageName": "Wingspan_OnlineUpdate_Announcement.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Wingspan Online Update Coming Soon"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Aktualizacja Trybu Online Na Skrzydłach już wkrótce!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Update zur Wingspan-Onlinefunktion kommt bald"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Mise à jour en ligne de Wingspan bientôt disponible"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Llega una actualización del modo en línea a Wingspan"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Atualização online de Wingspan em breve"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "ウイングスパン・オンラインアップデートが間もなく登場"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "В Wingspan скоро выйдет обновление для сетевой игры"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《展翅翱翔》线上模式更新即将到来"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《展翅翱翔》線上模式更新即將到來"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Aggiornamento di Wingspan Online presto in arrivo"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "윙스팬 온라인 업데이트 발매 예정"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "У Wingspan скоро вийде оновлення для мережевої гри"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "We’ve been listening closely to your feedback, and we’re excited to announce that our next Online Mode update is coming soon to Wingspan!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Uważnie słuchaliśmy Waszych opinii i z radością ogłaszamy, że nadchodzi kolejna aktualizacja trybu Online w Na Skrzydłach!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Wir haben euer Feedback gehört und freuen uns, ankündigen zu können, das unser nächstes Wingspan-Update zum Online-Modus in Kürze ansteht!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Nous avons écouté attentivement vos commentaires et sommes ravis de vous annoncer que la prochaine mise à jour du mode en ligne sera bientôt disponible dans Wingspan !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Hemos tenido en cuenta vuestros comentarios y es un placer anunciar que nuestra próxima actualización del modo en línea llegará pronto a Wingspan!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Ouvimos atentamente a todos os comentários e estamos animados em anunciar que nossa próxima atualização do modo online chegará em breve em Wingspan!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "私たちは皆様からのフィードバックに注意深く耳を傾けてきました。まもなく次のオンラインモードアップデートがウイングスパンに登場することをお知らせいたします！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Мы внимательно изучили ваши отзывы и теперь с радостью сообщаем, что скоро для сетевого режима Wingspan выйдет свежее обновление!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "我们一直在认真聆听大家的反馈，并很高兴地宣布：《展翅翱翔》的下一次线上模式更新即将到来！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "我們一直在認真聆聽大家的反饋，並很高興地宣布：《展翅翱翔》的下一次線上模式更新即將到來！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Abbiamo ascoltato attentamente il vostro feedback e siamo lieti di annunciare che il prossimo aggiornamento per la modalità online arriverà presto su Wingspan!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "여러분의 피드백을 면밀히 확인했으며, 곧 다음 업데이트로 온라인 모드 업데이트가 윙스팬에 찾아옵니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Ми уважно прочитали ваші відгуки і тепер з радістю повідомляємо, що скоро для мережевого режиму Wingspan вийде свіже оновлення!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Soon, you’ll be able to connect with fellow players more easily thanks to the new <style=base>in-game Your Friends list</style>, enjoy a more forgiving and uninterrupted experience in matchmaking with <style=base>AI that steps in if you run out of time</style>, and spread your wings in <style=base>Duet Mode with both the Asia and Oceania expansions enabled</style>. And to make sure you never miss a move, we’re also introducing <style=base>in-game notifications</style> that will let you know when it’s your turn in another matchmaking game, or when time is almost up. \n\nBefore the update goes live, we’ll be performing a short server maintenance. We’ll be sharing the exact time and duration soon, so stay tuned! \n\nWe hope these quality of life improvements will make your Wingspan experience feathery smooth. \n\nSee you soon! "
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Już wkrótce będziecie mogli łatwiej łączyć się z innymi graczami dzięki nowej <style=base>Liście Znajomych w grze</style>, cieszyć się bardziej przyjaznym i nieprzerywanym trybem Szukania Graczy dzięki <style=base>Sztucznej Inteligencji, która wkracza, gdy zabraknie Ci czasu</style>, oraz rozwinąć skrzydła w <style=base>Trybie Duetu z włączonymi dodatkami Ptaki Azji i Ptaki Oceanii</style>. Aby nigdy nie przegapić swojego ruchu, wprowadzamy też <style=base>powiadomienia w grze</style>, które poinformują Cię, kiedy nadejdzie Twój ruch w innym meczu, lub gdy czas w aktywnej rozgrywce dobiega końca.\n\nPrzed udostępnieniem aktualizacji przeprowadzimy krótkie prace konserwacyjne serwerów. Dokładną datę i czas trwania prac podamy wkrótce, więc bądźcie czujni!\n\nMamy nadzieję, że te usprawnienia sprawią, że Wasze doświadczenia w „Na Skrzydłach” będą przyjemne i lekkie jak piórko.\n \nDo zobaczenia wkrótce!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Bald könnt ihr euch – dank der neuen <style=base>Freundesliste im Spiel</style> – noch leichter mit euren Mitspielern verbinden, im neu verfügbaren <style=base>Duellmodus für die Asien- und Ozeanien-Erweiterungen</style> eure Flügel ausbreiten und eine tolerantere und störungsfreiere Erfahrung in Spielersuche-Spielen genießen, denn <style=base>die KI übernimmt Züge für Spieler, deren Zeit abgelaufen ist</style>. Und damit ihr keine eurer Spielzüge mehr verpasst, führen wir <style=base>In-Game-Benachrichtigungen</style> ein, die euch Bescheid geben, wenn ihr in einem anderen Spielersuche-Spiel am Zug seid oder eure Zeit fast abgelaufen ist.\n\nBevor das Update veröffentlicht wird, führen wir eine kurze Serverwartung durch. Den genauen Zeitpunkt und die Dauer geben wir in Kürze bekannt, also bleibt dran!\n\nWir hoffen, diese Verbesserungen bereiten euch ein federleichtes Wingspan-Erlebnis.\n\nBis bald!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Bientôt, vous pourrez plus facilement entrer en contact avec d'autres joueurs grâce à la nouvelle <style=base>liste d'amis dans le jeu</style>, profiter d'une expérience de jeu plus fluide et sans interruption grâce à <style=base>l'IA qui intervient lorsque le temps de jeu est écoulé</style> et déployer vos ailes dans le <style=base>mode Duo avec les extensions Asie et Océanie</style>. Et pour vous permettre de ne jamais manquer votre tour, nous avons également mis en place un système de <style=base>notifications dans le jeu</style> qui vous avertit lorsque c'est à votre tour de jouer dans une autre partie en cours ou lorsque le temps imparti est presque écoulé. \n\nNous procéderons à une brève maintenance du serveur avant le lancement de la mise à jour. Nous vous communiquerons bientôt ses horaires et sa durée exacte, alors restez à l'affût ! \n\nNous espérons que ces améliorations de la qualité de vie rendront votre expérience Wingspan aussi fluide que possible. \n\nÀ bientôt ! "
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Dentro de poco, podréis conectar con amigos jugadores más fácilmente gracias a la <style=base>lista de amigos dentro del juego</style>. Además, disfrutaréis de una experiencia más permisiva y con menos interrupciones en el sistema de emparejamiento, ya que <style=base>la IA jugará los turnos cuando os quedéis sin tiempo</style>, y podréis alzar el vuelo aún más alto en el <style=base>modo dúo con las expansiones tanto de Asia como de Oceanía habilitadas</style>. Por otro lado, para garantizar que nunca os perdáis ni una jugada, también vamos a introducir las <style=base>notificaciones dentro del juego</style>, que os avisarán cuando sea vuestro turno en una partida en línea o cuando estéis a punto de quedaros sin tiempo.\n\nAntes de lanzar la actualización, llevaremos a cabo un breve mantenimiento del servidor. Pronto os informaremos de la hora y la duración exactas, ¡así que manteneos al tanto!\n\nEsperamos que estas mejoras de calidad de vida hagan que vuestra experiencia en Wingspan sea más fluida que el vuelo de un ave majestuosa. \n\n¡Nos vemos pronto!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Logo, você poderá se conectar aos seus amigos com mais facilidade graças à nova <style=base>lista de amigos do jogo</style>, curtir uma experiência mais fluida no pareamento com <style=base>IA que intervém ao acabar o tempo</style>, e abrir suas asas no <style=base>Modo Dueto com as expansões da Ásia e Oceania habilitadas</style>. E para não perder nenhum movimento, também estamos apresentando as <style=base>notificações do jogo</style> que informarão quando for sua vez em outro pareamento ou quando seu tempo estiver quase acabando. \n\nAntes da atualização ser lançada, realizaremos uma breve manutenção no servidor. Compartilharemos o horário exato e duração em breve, então fiquem ligados! \n\nEsperemos que estas melhorias de qualidade de vida tornem sua experiência em Wingspan mais fluida. \n\nNos vemos em breve! "
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "新しい<style=base>ゲーム内フレンドリスト</style>により、まもなくより簡単に仲間プレイヤーと繋がることができるようになります。マッチメイキングで<style=base>時間切れになった場合はAIが代わりにプレイします。</style>さらに遊びやすく途切れることのないゲーム体験をお楽しみください。また、<style=base>「東洋の翼」および「大洋の翼」拡張の両方を使って、つがいモード</style>で翼を広げましょう。また、ひとつの動きも見逃さないように、他のマッチメイキングゲームで手番が回ってきた時や、もうすぐ時間切れになりそうな時に通知を行う<style=base>ゲーム内通知</style>を導入しました。\n\nアップデートの導入前に、短時間のサーバーメンテナンスを実施します。正確な日時と期間は間もなくお知らせいたしますので、情報をお見逃しなく！\n\nこのQOLの改善で、ウイングスパンのプレイ体験が羽毛のように滑らかになることでしょう。\n\nまたお会いしましょう！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Благодаря новому <style=base>списку друзей</style> вам будет проще находить друзей и играть с ними. Матчи станут комфортнее и динамичнее: теперь <style=base>ИИ будет делать ход за игроков, которые не успели сделать его сами</style>. И наконец, вы сможете расправить крылья в <style=base>режиме дуэта с включёнными дополнениями «Птицы Азии» и «Птицы Океании»</style>! А чтобы вы больше не пропускали свои ходы, мы добавили <style=base>уведомления</style>. Они напомнят о том, что в другом сетевом матче наступил ваш ход или что время на ход истекает.\n\nПеред установкой обновления мы отключим серверы для проведения технических работ. Точное время и продолжительность отключения станут известны очень скоро. Следите за новостями!\n\nНадеемся, что благодаря нововведениям игра в Wingspan станет лёгкой как пёрышко. \n\nДо скорого!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "很快，你将能通过新的 <style=base>游戏内好友列表</style> 更轻松地与其他玩家建立联系。如果你超时，将由 <style=base>AI 接管继续游戏</style>，在匹配中也能享受更宽容、不易中断的体验。你还可以在 <style=base>开启亚洲与大洋洲扩展包的双人对决模式</style> 中尽情展翅飞翔。为了确保你不错过任何一步，我们还将推出 <style=base>游戏内通知功能</style>，在你参加其他匹配游戏中轮到行动或时间即将用尽时提醒你。\n\n在更新正式上线前，我们将进行一次短暂的服务器维护。我们很快就会公布具体的时间，敬请关注！\n\n我们希望这些优化能让你的《展翅翱翔》体验更加轻盈流畅。\n\n不久之后见！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "很快，你將能通過新的 <style=base>遊戲內好友列表</style> 更輕鬆地與其他玩家建立聯繫。如果你超時，將由 <style=base>AI 接管繼續遊戲</style>，在匹配中也能享受更寬容、不易中斷的體驗。你還可以在 <style=base>開啟亞洲與大洋洲擴展包的雙人對決模式</style> 中盡情展翅飛翔。為了確保你不錯過任何一步，我們還將推出 <style=base>遊戲內通知功能</style>，在你參加其他匹配遊戲中輪到行動或時間即將用盡時提醒你。\n\n在更新正式上線前，我們將進行一次短暫的服務器維護。我們很快就會公布具體的時間，敬請關注！\n\n我們希望這些優化能讓你的《展翅翱翔》體驗更加輕盈流暢。\n\n不久之後見！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Presto, potrete collegarvi con gli altri giocatori più facilmente grazie alla nuova <style=base>lista amici all'interno del gioco</style>, godervi un'esperienza più flessibile e senza pause nel matchmaking, grazie <style=base>all'IA che interviene se termina il tempo</style> e spiccare il volo nella <style=base>modalità Duetto attivando entrambe le espansioni Asia e Oceania</style>. E per essere sicuri che non vi perdiate neanche una mossa, abbiamo aggiunto anche le <style=base>notifiche all'interno del gioco</style> per comunicarvi quando è il vostro turno in un'altra partita o quando il tempo sta per scadere.\n\nPrima di rilasciare l'aggiornamento, eseguiremo una breve manutenzione dei server. Vi comunicheremo presto la data e la durata precise!\n\nCi auguriamo che questi miglioramenti renderanno più fluida la vostra esperienza su Wingspan.\n\nA presto!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "이제 새로운 <style=base>인게임 친구 목록</style>과 함께 친구들과 더 쉽게 연결되고, 매치메이킹에서 <style=base>시간 초과 시 AI가 대신 게임을 진행</style>해주는 요소로 보다 너그럽고 연속적인 경험을 이어나가며, <style=base>듀엣 모드가 활성화된 아시아 및 오세아니아 확장</style>에서 날개를 펼쳐보세요. 또한 게임을 놓치지 않기 위해, 다른 매치메이킹 게임에서 여러분의 턴이 되거나, 시간이 거의 다 되었을 경우를 알려주는 <style=base>인게임 알림</style>을 소개합니다.\n\n업데이트 전, 짧은 서버 유지 보수 절차가 있을 예정입니다. 정확한 시간 고지는 곧 알려드릴 테니, 기다려주세요!\n\n이번 편의성 개선 업데이트로 여러분의 윙스팬 경험이 솜털처럼 부드럽길 바랍니다. \n\n곧 다시 뵙지요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Завдяки новому <style=base>переліку друзів</style> вам буде простіше знаходити друзів і грати з ними. Матчі стануть комфортнішими й динамічнішими: тепер <style=base>ШІ буде робити хід за гравців, які не встигли зробити його самі</style>. І нарешті, ви зможете розправити крила у <style=base>режимі дуету з увімкненими доповненнями «Птахи Азії» й «Птахи Океанії»</style>! А щоб ви більше не пропускали свої ходи, ми додали <style=base>сповіщення</style>. Вони нагадають про те, що в іншому мережевому матчі наступив ваш хід або що час на хід спливає.\n\nПеред встановленням оновлення ми відключимо сервери для проведення технічних робіт. Точний час і тривалість відключення будуть відомі вже скоро. Слідкуйте за новинами!\n\nСподіваємося, що завдяки нововведенням гра у Wingspan стане легкою, наче пір'їнка. \n\nСкоро побачимося! "
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
         }
     ]
 }
