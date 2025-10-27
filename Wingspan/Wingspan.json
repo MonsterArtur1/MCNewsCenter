@@ -4442,49 +4442,6 @@
             "Actions": []
         },
         {
-            "ID": "ff2a5d5f-6714-465d-ac69-4b260fe2a3b8",
-            "Tags": [
-                "Update"
-            ],
-            "PlatformsToShowOn": 8,
-            "StartDateTicks": 638857764000000000,
-            "EndDateTicks": 638858556000000000,
-            "Priority": 2,
-            "IsPinned": true,
-            "PresetImageName": "Update",
-            "RemoteImageName": "",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Update info - June 17th"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Check what you can expext in the near future."
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 8,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Dear birders!\r\nThank you for your support and all the bug reports! We are working on bringing you the fixes ASAP. Here’s what you can expect:\r\nBefore this weekend, your platform will receive a hotfix, including:\r\nFix for bird powers discarding bonus cards, causing a soft-lock.\r\nFix for “Replay” option adding Asia Expansion cards to the deck.\r\nFix for Indian Vulture error in games against Automa\r\nFix for error with Rose-Ringed Parakeet copying Crested Ibis or Spoon-Billed Sandpiper’s power.\r\nFix for error when attempting to enter Game Center without being logged in.\r\nAdditionally, on Monday, along with this hotfix reaching all of our platforms, Abbott’s Booby, North Island Brown Kiwi, and Red-crowned Crane will be restored in the game.\r\n\r\nThank you for your patience. We're delighted to share yet another Wingspan adventure with you and will strive to continually improve this experience for all of you.\r\n"
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": []
-        },
-        {
             "ID": "d295ab96-e032-473f-b7a4-e4404a786ffd",
             "Tags": [],
             "PlatformsToShowOn": 32,
@@ -5193,194 +5150,6 @@
             "Actions": []
         },
         {
-            "ID": "9d4539f8-42b7-4c16-afba-5ad00cb96200",
-            "Tags": [
-                "Update",
-                "Online"
-            ],
-            "PlatformsToShowOn": 4,
-            "StartDateTicks": 638963817000000000,
-            "EndDateTicks": 946391904000000000,
-            "Priority": 2,
-            "IsPinned": true,
-            "PresetImageName": "",
-            "RemoteImageName": "Wingpsan_AndroidOnline_NewsCenter_800x300.png",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Log in to the Online menu to keep your online profile!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Zaloguj się do trybu Online, aby zachować swój profil!\n"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Im Online-Menü anmelden, um Online-Profil zu behalten!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Connectez-vous pour conserver votre profil en ligne !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Inicia sesión en línea y conserva tu perfil en línea!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Faça login no menu Online para manter seu perfil!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "オンラインにログインしてオンラインプロフィールをキープ"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Войдите в меню «Онлайн», чтобы сохранить свой профиль!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "登录线上模式以保留您的个人线上档案！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "登錄線上模式以保留您的個人線上檔案！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Accedi al menu online per mantenere il profilo online!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "온라인 메뉴에 로그인하여 온라인 프로필을 유지하세요!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Увійдіть у меню «Онлайн», щоб зберегти ваш профіль!"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "We’re preparing an important update for Wingspan Online on Android."
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Przygotowujemy ważną aktualizację trybu Online w Na Skrzydłach w wersji na Androida."
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Wir arbeiten an einem wichtigen Update für Wingspan Online auf Android-Geräten."
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Nous préparons une mise à jour importante pour Wingspan en ligne sur Android."
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "Estamos preparando una actualización importante del modo en línea de Wingspan en Android."
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Estamos preparando uma atualização importante de Wingspan Online no Android."
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "Android版ウイングスパンのオンラインの重要なアップデートを準備しています。"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "«Крылья»Мы готовим важное обновление для сетевого режима Wingspan на Android."
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "我们在为安卓平台的《展翅翱翔》准备一个重要的更新。"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "我們在為安卓平台的《展翅翱翔》準備一個重要的更新。"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Stiamo preparando un importante aggiornamento per Wingspan Online su Android."
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "안드로이드용 윙스팬 온라인의 중요한 업데이트를 준비 중입니다."
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Скоро вийде важливе оновлення для мережевої гри «Крил» на Android."
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 1023,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Along with our upcoming release, we need to perform an update that will change how the Android accounts are linked with Wingspan online profiles. \n\n<style=base>Here's what this means:</style>\n- If you log in to Wingspan Online at least once before the update, your account will be linked automatically.\n- If you don't log in to Wingspan Online, you will need to set up a new Wingspan profile after the update. This means losing your username, Karma level, and any ongoing games.\n\nLogging in only takes a moment - you only need to enter the Online lobby - but it ensures you keep your current Wingspan Online profile.\n\nThank you for taking the time to do this - your username and your games will be right where you left them."
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Wraz z nadchodzącą aktualizacją musimy wprowadzić zmiany w sposobie powiązania kont Android z profilami Online w Na Skrzydłach.\n\n<style=base>Co to oznacza:</style>\n\n- Jeśli zalogujesz się do trybu Online w aplikacji Na Skrzydłach przynajmniej raz przed aktualizacją, Twoje konto zostanie powiązane automatycznie.\n- Jeśli się nie zalogujesz, po aktualizacji będziesz musiał utworzyć nowy profil Online. Oznacza to utratę nazwy użytkownika, poziomu Karmy i wszystkich trwających rozgrywek.\n- Zalogowanie się zajmuje tylko chwilę – wystarczy wejść do lobby Online – ale gwarantuje zachowanie Twojego obecnego profilu Online w Na Skrzydłach.\n\nDziękujemy, że poświęcisz na to chwilę – Twoja nazwa użytkownika i gry pozostaną tam, gdzie je zostawiłeś."
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Im Zuge der kommenden Veröffentlichung müssen wir ein Update durchführen, das die Verknüpfung der Android-Konten mit den Online-Profilen von Wingspan ändert. \n\n<style=base>Das bedeutet Folgendes:</style>\n– Wenn du dich vor dem Update mindestens ein Mal bei Wingspan Online anmeldest, wird dein Konto automatisch verknüpft.\n– Wenn du dich vorher nicht bei Wingspan Online anmeldest, musst du nach dem Update ein neues Wingspan-Profil anlegen. In diesem Fall verlierst du deinen Benutzernamen, deinen Karmastand und eventuell laufende Spiele.\n\nDie Anmeldung dauert nur einen Moment – du musst lediglich die Online-Lobby betreten –, aber so kannst du sicherstellen, dass dein aktuelles Online-Profil für Wingspan nicht verloren geht.\n\nDanke, dass du dir die Zeit dafür nimmst – so warten dein Benutzername und deine Spiele auf dich, wenn du das nächste Mal spielen möchtest."
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Dans le cadre de notre prochaine mise à jour, nous devons effectuer une modification qui changera la manière dont les comptes Android sont associés aux profils Wingspan en ligne.\n\n<style=base>Voici ce que cela signifie :</style>\n- Si vous vous connectez à Wingspan en ligne au moins une fois avant la mise à jour, votre compte sera automatiquement associé.\n- Si vous ne vous connectez pas à Wingspan en ligne, vous devrez créer un nouveau profil Wingspan après la mise à jour. Cela signifie que vous perdrez votre nom d'utilisateur, votre niveau de Karma et toutes vos parties en cours.\n\nVous n'aurez besoin que d'un instant pour vous connecter (il vous suffit d'entrer dans le menu En ligne) et ainsi conserver votre profil Wingspan en ligne actuel.\n\nMerci de prendre le temps de le faire : ainsi, vous trouverez votre nom d'utilisateur et vos parties exactement là où vous les aviez laissés."
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Junto con el lanzamiento que se avecina, debemos realizar una actualización qué cambiará la forma de vincular las cuentas de Android con los perfiles en línea de Wingspan.\n\n<style=base>Esto es lo que conlleva:</style>\n- Si inicias sesión en el modo en línea de Wingspan antes de la actualización, tu cuenta se vinculará automáticamente.\n- Si no inicias sesión en el modo en línea de Wingspan, tendrás que configurar un nuevo perfil de Wingspan tras la actualización. Es decir, que perderás tu nombre de usuario, tu nivel de karma y cualquier partida que tengas en curso.\n\nPuedes iniciar sesión desde el menú en línea y solo te costará un segundo, pero así podrás conservar tu perfil actual del modo en línea de Wingspan.\n\nGracias por tomarte la molestia. Verás que tu nombre de usuario y tus partidas seguirán justo donde las dejaste."
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Junto com o lançamento de nossa próxima versão, precisaremos realizar uma atualização que mudará a maneira como as contas Android são vinculadas aos perfis online de Wingspan.\n\n<style=base>O que isso significa:</style>\n- Se você fizer login no Wingspan Online pelo menos uma vez antes da atualização, sua conta será vinculada automaticamente.\n- Se você não fizer o login no Wingspan Online, terá de criar um novo perfil Wingspan após a atualização. Isso implica na perda de seu nome de usuário, seu nível de Karma e quaisquer jogos em andamento.\n\nFazer o login é rápido – basta acessar o menu Online – e garante que você mantenha seu perfil atual do Wingspan Online.\n\nAgradecemos por reservar um tempo para isso, assim seu nome de usuário e seus jogos estarão esperando por você exatamente como os deixou."
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "今後のリリースに伴い、Androidアカウントとウイングスパンのオンラインプロフィールのリンク方法を変更するアップデートを行う必要があります。\n\n<style=base>以下がその説明となります：</style>\n- アップデート前に最低一度でもウイングスパンのオンラインにログインすると、ご利用のアカウントが自動でリンクされます。\n- ウイングスパンのオンラインにログインしない場合、新しいウイングスパンのプロフィールをアップデート後に設定する必要があります。つまり、ご利用のユーザー名、カルマレベル、進行中のゲームが消滅します。\n\nログインにかかる時間はわずかで、オンラインロビーに入るだけで完了しますが、現在のウイングスパンのオンラインプロフィールをキープして継続利用できます。\n\n作業を行なっていただきありがとうございます。ご利用のユーザー名とゲームは中断した時のままになります。"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Скоро мы выпустим обновление, которое изменит алгоритм привязки учётной записи Android к сетевому профилю Wingspan.\n\n<style=base>Вот что это значит.</style>\n– Если перед обновлением вы хотя бы раз войдёте в сетевой режим Wingspan, ваша учётная запись будет привязана автоматически.\n– Если вы не войдёте в сетевой режим Wingspan, после обновления вам нужно будет создать новый профиль. В этом случае вы потеряете своё имя пользователя, уровень кармы и все текущие игры.\n\nВход в игру занимает считанные секунды: достаточно зайти в сетевое лобби, и это позволит сохранить ваш профиль для сетевого режима Wingspan.\n\nНайдите минутку времени, чтобы ваше имя пользователя и текущие игры остались с вами. Спасибо!"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "随着我们即将发布的新版本，我们需要进行一次更新，以更改安卓账户与《展翅翱翔》在线档案的关联方式。\n\n<style=base>这意味着：</style>\n- 如果您在更新前至少登录过一次《展翅翱翔》线上模式，您的账户将会自动关联。\n- 如果您未登录《展翅翱翔》线上模式，更新后您将需要重新创建新的《展翅翱翔》档案。这意味着您将失去当前的用户名、缘分点等级以及任何正在进行的游戏。\n\n登录只需片刻——您只需进入在线大厅——但这能确保您保留现有的《展翅翱翔》在线档案。\n\n感谢您花时间完成此操作——您的用户名和游戏将会原封不动地保留下来。"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "隨着我們即將發布的新版本，我們需要進行一次更新，以更改安卓賬戶與《展翅翱翔》在線檔案的關聯方式。\n\n<style=base>這意味着：</style>\n- 如果您在更新前至少登錄過一次《展翅翱翔》線上模式，您的賬戶將會自動關聯。\n- 如果您未登錄《展翅翱翔》線上模式，更新後您將需要重新創建新的《展翅翱翔》檔案。這意味着您將失去當前的用戶名、緣分點等級以及任何正在進行的遊戲。\n\n登錄只需片刻——您只需進入在線大廳——但這能確保您保留現有的《展翅翱翔》在線檔案。\n\n感謝您花時間完成此操作——您的用戶名和遊戲將會原封不動地保留下來。"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Insieme alla prossima uscita, pubblicheremo anche un aggiornamento che modificherà il modo in cui gli account Android vengono collegati ai profili online di Wingspan. \n\n<style=base>Questo significa che:</style>\n- se accedi a Wingspan Online almeno una volta prima dell'aggiornamento, il tuo account verrà collegato automaticamente;\n- se non accedi a Wingspan Online, dovrai configurare un nuovo profilo di Wingspan dopo l'aggiornamento. Ciò significa che perderai il tuo nome utente, il livello di Karma e tutte le partite in corso.\n\nEffettuare l'accesso è rapido: ti basterà entrare nella lobby online per mantenere il tuo profilo di Wingspan Online.\n\nTi ringraziamo se deciderai di farlo: ritroverai il tuo nome utente e le tue partite esattamente dove le hai lasciate."
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "다가오는 발매에 맞춰, 안드로이드 계정이 윙스팬 온라인 프로필과 연결되는 방식을 변경하는 업데이트를 진행하고 있습니다.\n\n<style=base>아래의 내용을 의미합니다.</style>\n- 업데이트 전에 최소 한 번 윙스팬 온라인에 로그인하면 계정이 자동으로 연결됩니다.\n- 윙스팬 온라인에 로그인하지 않으면 업데이트 후 새로운 윙스팬 프로필을 설정해야 합니다. 이는 사용자 이름, 카르마 레벨, 진행 중인 모든 게임을 잃게 된다는 것을 의미합니다.\n\n로그인은 잠시만 시간을 내면 됩니다. 온라인 로비에 들어가기만 하면 됩니다. 현재 윙스팬 온라인 프로필을 유지할 수 있습니다.\n\n시간을 내어 주셔서 감사합니다. 여러분의 사용자 이름과 게임은 그대로 남아있을 것입니다."
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "У межах майбутнього оновлення ми змінимо спосіб пов'язування облікових записів Android до профілів мережевої гри «Крил». \n\n<style=base>Ось що ми маємо на увазі:</style>\n- Якщо ви ввійдете до мережевої гри «Крил» принаймні раз до оновлення, ваш обліковий запис буде зв'язано автоматично.\n- Якщо ви не ввійдете до мережевої гри «Крил», після оновлення вам буде необхідно створити новий профіль «Крил». Це означатиме втрату імені гравця, рівня карми й усіх розпочатих ігор.\n\nВхід займатиме лише мить — просто ввійдіть у меню «Онлайн». Цей процес збереже ваш профіль мережевої гри «Крил».\n\nДякуємо, що приділили час на вхід: ваші ім'я гравця й прогрес залишаться на місці."
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": []
-        },
-        {
             "ID": "9203c788-1acb-4ff1-9c27-89996f548283",
             "Tags": [
                 "Update",
@@ -5569,70 +5338,72 @@
             "Actions": []
         },
         {
-            "ID": "1db9b57f-2e0b-4695-95fb-0f9f1b3a0be7",
+            "ID": "3e8f7cf7-4154-4494-86c1-a43b399e423c",
             "Tags": [
-                "Online"
+                "Update",
+                "Online",
+                "NewContent"
             ],
             "PlatformsToShowOn": 1023,
-            "StartDateTicks": 638966880000000000,
+            "StartDateTicks": 638971200000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 2,
-            "IsPinned": false,
-            "PresetImageName": "Online",
-            "RemoteImageName": "",
+            "IsPinned": true,
+            "PresetImageName": "",
+            "RemoteImageName": "Wingspan_OnlineUpdate_Available.png",
             "Title": {
                 "LocalizedTexts": [
                     {
                         "Language": "en",
-                        "Text": "Online Maintenance"
+                        "Text": "Wingspan Online Update Is Now Live!"
                     },
                     {
                         "Language": "pl",
-                        "Text": "Konserwacja trybu online"
+                        "Text": "Aktualizacja trybu Online w Na Skrzydłach jest już dostępna!"
                     },
                     {
                         "Language": "de",
-                        "Text": "Online-Wartungsarbeiten"
+                        "Text": "Update zur Wingspan-Onlinefunktion ist jetzt live!"
                     },
                     {
                         "Language": "fr",
-                        "Text": "Maintenance en ligne"
+                        "Text": "La mise à jour en ligne de Wingspan est disponible !"
                     },
                     {
                         "Language": "es",
-                        "Text": "Mantenimiento en línea"
+                        "Text": "Actualización del modo en línea de Wingspan disponible"
                     },
                     {
                         "Language": "pt-BR",
-                        "Text": "Manutenção online"
+                        "Text": "A atualização online de Wingspan está no ar!"
                     },
                     {
                         "Language": "ja",
-                        "Text": "オンラインメンテナンス"
+                        "Text": "ウイングスパン・オンラインアップデートが登場しました！"
                     },
                     {
                         "Language": "ru",
-                        "Text": "Технические работы над онлайн-режимом"
+                        "Text": "В Wingspan вышло обновление для сетевой игры!"
                     },
                     {
                         "Language": "zh",
-                        "Text": "在线维护"
+                        "Text": "《展翅翱翔》线上模式更新现已发布！"
                     },
                     {
                         "Language": "zh-Hant",
-                        "Text": "在線維護"
+                        "Text": "《展翅翱翔》線上模式更新現已發布！"
                     },
                     {
                         "Language": "it",
-                        "Text": "Manutenzione online"
+                        "Text": "L'aggiornamento di Wingspan Online è ora disponibile!"
                     },
                     {
                         "Language": "ko",
-                        "Text": "온라인 점검"
+                        "Text": "윙스팬 온라인 업데이트!"
                     },
                     {
                         "Language": "uk",
-                        "Text": "Технічні роботи на серверах"
+                        "Text": "У Wingspan вийшло оновлення для мережевої гри!"
                     }
                 ]
             },
@@ -5640,55 +5411,55 @@
                 "LocalizedTexts": [
                     {
                         "Language": "en",
-                        "Text": "Working on your online experience so you can fly with no struggles."
+                        "Text": "Birders, we hear you! \nThe winds of change are blowing your way again!"
                     },
                     {
                         "Language": "pl",
-                        "Text": "Pracujemy nad Waszym doświadczeniem online, aby wasz lot przebiegał bez przeszkód."
+                        "Text": "Ptasiarze, słyszymy Was!\nWiatr zmian znowu wieje w Waszą stronę!"
                     },
                     {
                         "Language": "de",
-                        "Text": "Wir verbessern dein Online-Erlebnis, damit du problemlos durch die Lüfte schnellen kannst."
+                        "Text": "Vogelbeobachter, wir hören euch!\nEin frischer Wind weht wieder Neues herein!"
                     },
                     {
                         "Language": "fr",
-                        "Text": "Nous améliorons votre expérience en ligne afin que vous puissiez voler sans accrocs."
+                        "Text": "Chers ornithologues, nous vous avons entendus ! \nLe vent du changement souffle à nouveau dans votre direction !"
                     },
                     {
                         "Language": "es",
-                        "Text": "Estamos trabajando en tu experiencia en línea para que puedas volar sin sobresaltos."
+                        "Text": "¡Fans de las aves, os hemos escuchado!\n¡Vuelven a soplar los vientos del cambio!"
                     },
                     {
                         "Language": "pt-BR",
-                        "Text": "Estamos trabalhando para melhorar sua experiência online, para que você possa voar suavemente."
+                        "Text": "Observadores, nós te ouvimos! \nOs ventos da mudança estão soprando em sua direção!"
                     },
                     {
                         "Language": "ja",
-                        "Text": "快適にオンラインプレイがご利用いただけるよう、作業を行っています。"
+                        "Text": "鳥類愛好家の皆様、私たちは皆様の声を聞いています！\n変化の風が再び皆様の方へと吹いています！"
                     },
                     {
                         "Language": "ru",
-                        "Text": "Мы работаем над онлайн-режимом, чтобы вы могли летать без проблем."
+                        "Text": "Мы услышали вас, птицеловы!\nВетры перемен снова дуют в вашу сторону!"
                     },
                     {
                         "Language": "zh",
-                        "Text": "服务器正在维护，以确保各位之后能够享受正常的联机体验。"
+                        "Text": "观鸟者们，我们听到你们的声音了！\n变革之风再次向你吹来！"
                     },
                     {
                         "Language": "zh-Hant",
-                        "Text": "伺服器正在維護，以確保各位之後能夠享受正常的聯機體驗。"
+                        "Text": "觀鳥者們，我們聽到你們的聲音了！\n變革之風再次向你吹來！"
                     },
                     {
                         "Language": "it",
-                        "Text": "Stiamo lavorando all’esperienza online affinché il tuo volo proceda senza intoppi."
+                        "Text": "Birdwatcher, vi abbiamo ascoltato!\nI venti del cambiamento soffiano di nuovo a vostro favore!"
                     },
                     {
                         "Language": "ko",
-                        "Text": "어려움 없이 날개짓할 수 있도록 온라인 환경을 개선 중입니다."
+                        "Text": "탐조가 여러분, 들려옵니다!\n변화의 바람이 다시금 여러분에게 불어오고 있습니다!"
                     },
                     {
                         "Language": "uk",
-                        "Text": "Працюємо над онлайн-грою, щоб ви літали без перешкод."
+                        "Text": "Ми вас почули, птахолови!\nВітри змін знову дмуть у ваш бік!"
                     }
                 ]
             },
@@ -5699,55 +5470,55 @@
                         "LocalizedTexts": [
                             {
                                 "Language": "en",
-                                "Text": "<style=asia>On October 27, Wingspan servers will undergo short maintenance works. During this time, entering online mode will be limited. Maintenance will begin at 10:00AM UTC / 11:00AM CET / 3:00AM PDT and will last for around 30 minutes.\n</style>\r\nAs with every online maintenance, please end all your matches before the maintenance and do not start any new ones close to the maintenance hours. Otherwise, there's a risk of losing ongoing games and karma points.\n\r\nLet your fellow birders know about online maintenance, so the process can go smoothly. \n\r\nWe apologize for the inconvenience.\r\n"
+                                "Text": "You’ve been sharing your thoughts with us, and we’ve been listening. Thanks to your feedback, the Online mode just got a bunch of quality-of-life upgrades:\n\n<style=base>In-game “Your Friends” list - set up games quicker with your favourite Birders! </style> \n- “Your Friends” option in the Online menu allows you to add other Wingspan players to your list by typing in their in-game nicknames.\n- The list displays two sections: your platform friends and Wingspan in-game friends.\n- Check the star for your favourite in-game friends to display them at the top of the “In-game Friends” list. \n- When setting up a custom online game, use the “Invite a friend” option to easily add your friends to the match - either in bulk or one by one. \n<style=base>AI upgrade for all online games:</style>:\n- Now, whenever a player times out or forfeits in a matchmaking or a custom online game, AI will step in their place!\n- In the matchmaking games, this means the remaining players can finish the match and gain Karma! \n<style=base>Oceania Expansion in the Duet Matchmaking</style> - enjoy the sweet nectar with both Asia and Oceania Expansions enabled!\n<style=base>Online Notifications</style>- never miss your move again! You’ll now receive in-game alerts when:\n- it’s your turn in another matchmaking game, and/or\n- there’s only 1 minute left before your turn times out.\nYou can tweak these notifications in the game settings anytime.\n<style=base>Bug report visibility is now an option that can be easily changed in Settings.</style>\n\nWe hope these updates make your time in Wingspan even smoother, more fun, and more Birder-friendly. Thank you for helping us make the game better! \nAs always - check out the new features and let us know what you think! \n\nHappy gaming!"
                             },
                             {
                                 "Language": "pl",
-                                "Text": "<style=asia>W dniu 27 października serwery Na Skrzydłach zostaną poddane pracom konserwacyjnym. W tym czasie, wejście do trybu online będzie niemożliwe. Prace rozpoczną się o 11:00 i będą trwały około pół godziny.\n</style>\r\nJak przy wszystkich dotychczasowych pracach konserwacyjnych, prosimy, zakończcie swoje mecze przed rozpoczęciem konserwacji i nie zaczynajcie żadnych nowych rozgrywek w okolicy czasu rozpoczęcia prac. W przeciwnym razie, istnieje ryzyko utracenia trwających rozgrywek a wraz z nimi punktów karmy. \n\nDajcie znać znajomym Ptasiarzom o pracach konserwacyjnych trybu online, aby cały proces przebiegł sprawnie. \n\r\nPrzepraszamy za niedogodności.\r\n"
+                                "Text": "Dzieliliście się z nami swoimi opiniami, a my uważnie słuchaliśmy. Dzięki Waszym sugestiom tryb Online dostał właśnie garść usprawnień jakości rozgrywki:\n\n<style=base>Lista Znajomych w grze - zakładaj rozgrywki szybciej ze swoimi ulubionymi Ptasiarzami! </style>\n- Opcja „Lista Znajomych” w menu Online pozwala dodawać innych graczy Na Skrzydłach, wpisując ich imię z gry.\n- Lista pokazuje dwa działy: znajomych z platformy, na której grasz, oraz znajomych w Na Skrzydłach.\n- Oznacz gwiazdką swoich ulubionych znajomych z gry, aby pojawiali się na górze listy „Znajomi Wewnątrz Gry”.\n- Podczas zakładania Własnej Gry online możesz użyć opcji „Zaproś znajomego”, aby łatwo dodać ich do rozgrywki - pojedynczo lub całym stadem.\n<style=base>Ulepszona SI we wszystkich grach online: </style>\n- Teraz, gdy gracz przekroczy czas tury lub porzuci rozgrywkę w trybie Szukania Graczy lub we Własnej Grze online, SI automatycznie zajmie jego miejsce!\n- W grach w trybie Szukania Graczy oznacza to, że pozostali gracze mogą dokończyć mecz i zdobyć Karmę!\n<style=base>Ptaki Oceanii w duecie w trybie Szukania Graczy </style> - ciesz się słodkim nektarem z włączonymi dodatkami Ptaki Azji i Ptaki Oceanii!\n<style=base>Powiadomienia Online </style> - już nigdy nie przegapisz swojej tury! Teraz otrzymasz powiadomienia w grze, gdy:\n- będzie Twoja kolej w innej grze w trybie Szukania Graczy, i/lub\n- zostanie tylko 1 minuta do końca Twojej tury.\nMożesz zmienić ustawienia tych powiadomień w dowolnym momencie w opcjach gry.\n<style=base>Pokaż przycisk zgłaszania błędów </style> - teraz możesz łatwo włączyć lub wyłączyć tę opcję w ustawieniach.\n\nMamy nadzieję, że te zmiany sprawią, że rozgrywki w Na Skrzydłach będą jeszcze płynniejsze, przyjemniejsze i bardziej przyjazne dla wszystkich Ptasiarzy! Dziękujemy, że pomagacie nam ulepszać grę!\nJak zawsze sprawdźcie nowe funkcje i dajcie nam znać, co myślicie!\n\nMiłej zabawy!"
                             },
                             {
                                 "Language": "de",
-                                "Text": "<style=asia>Am 27.10.2025 werden die Server von Wingspan (Flügelschlag) gewartet. Während der Wartungsarbeiten ist der Online-Modus nicht verfügbar. Die Wartungsarbeiten beginnen um 10:00AM UTC / 11:00AM CET / 3:00AM PDT und dauern etwa 1 Stunden.\n</style>\r\nWie bei jeder Serverwartung gilt: Bitte beende all deine Spiele vorher und beginne keine neuen kurz davor. Ansonsten können der Fortschritt laufender Spiele und Karmapunkte verloren gehen.\n\r\nInformiere andere Vogelfreunde über die Wartungsarbeiten, damit sie ohne Schwierigkeiten vonstattengehen.\n\r\nWir entschuldigen uns für die Unannehmlichkeiten.\r\n"
+                                "Text": "Ihr habt uns gesagt, was ihr denkt, und wir haben zugehört. Danke für das Feedback, der Online-Modus hat einige Verbesserungen erhalten, die euch das Spiel angenehmer machen:\n\n<style=base>In-Game-Freundesliste – startet schneller Spiele mit euren Lieblingsvogelfreunden! </style> \n– Über die Option „Deine Freunde“ im Online-Menü könnt ihr die Spielernamen anderer Wingspan-Spieler eintippen, um sie eurer Freundesliste hinzuzufügen.\n– Die Liste hat zwei Abschnitte: eure Freunde auf der Plattform und eure Freunde in Wingspan.\n– Markiert den Stern für eure Lieblingsmitspieler, und sie werden auf eurer Freundesliste für Wingspan ganz oben angezeigt. \n– Wenn ihr ein individuelles Online-Spiel starten wollt, könnt ihr mit der Option „Lade einen Freund ein“ ganz einfach Freunde zu eurem Spiel einladen – einzeln oder gleich mehrere auf einmal. \n<style=base> KI-Verbesserungen für alle Online-Spiele</style>:\n– Wenn in Zukunft ein Spieler in einem Spielersuche-Spiel oder individuellem Online-Spiel die Zeit ablaufen lässt oder aufgibt, springt die KI für ihn ein!\n– Für Spielersuche-Spiele bedeutet das, dass die übrigen Spieler das Spiel beenden und Karma erhalten können! \n<style=base> Ozeanien-Erweiterung in der Duellmodus-Spielersuche</style> – Für diejenigen, die sowohl die Asien- als auch die Ozeanien-Erweiterung besitzen, werden süße Nektarträume wahr!\n<style=base> Online-Benachrichtigungen</style> – verpasst nie wieder euren Zug! Ihr erhaltet in Zukunft In-Game-Benachrichtigungen, wenn:\n– ihr in einem anderen Spielersuche-Spiel am Zug seid und/oder\n– nur noch 1 Minute Zeit übrig ist, bevor euer Zug abläuft.\nIhr könnt diese Benachrichtigungen jederzeit in den Einstellungen des Spiels anpassen.\n<style=base>Die Anzeige für Fehlermeldungen kann jetzt als Option in den Einstellungen angepasst werden.</style>\n\nWir hoffen, diese Aktualisierungen machen eure Zeit in Wingspan noch reibungsloser, unterhaltsamer und vogelfreier. Danke für eure Hilfe dabei, unser Spiel noch besser zu machen!\nUnd wie immer: Probiert die neuen Funktionen aus und teilt uns eure Meinung mit!\n\nViel Spaß beim Spielen!"
                             },
                             {
                                 "Language": "fr",
-                                "Text": "<style=asia>Le 27.10.2025, les serveurs de Wingspan subiront des opérations de maintenance. Le mode en ligne sera alors indisponible. La maintenance commencera à 10:00AM UTC / 11:00AM CET / 3:00AM PDT et durera environ 1 heure.</style> \n\r\nComme pour chaque maintenance, merci de mettre fin à tous vos matchs avant le début des opérations et n’en commencez aucun peu de temps avant l’heure de départ. Vous risquez sinon de perdre les parties en cours et vos points de karma.\n\r\nInformez vos proches ornithologues de ces opérations de maintenance afin que tout se passe correctement. \n\r\nVeuillez nous excuser de ce désagrément.\r\n"
+                                "Text": "Vous nous avez fait part de vos impressions, et nous les avons prises en compte. Grâce à vos retours, nous avons pu apporter plusieurs améliorations au mode en ligne afin de rendre votre expérience de jeu plus agréable :\n\n<style=base> Liste d'amis dans le jeu : lancez plus rapidement des parties contre vos ornithologues préférés !</style>\n- L'option « Vos amis » dans le menu En ligne vous permet d'ajouter d'autres joueurs de Wingspan à votre liste d'amis en saisissant leur pseudo dans le jeu.\n- La liste comporte deux sections : vos amis sur la plateforme et vos amis sur Wingspan.\n- Cochez l'étoile correspondant à vos amis préférés pour les faire apparaître en haut de votre liste d'amis en jeu.\n- Lorsque vous créez une partie en ligne personnalisée, utilisez l'option « Inviter un(e) ami(e) » pour ajouter facilement vos amis à la partie, soit en bloc, soit un par un.\n<style=base>Mise à niveau de l'IA pour toutes les parties en ligne :</style>\n- Désormais, lorsqu'un joueur se déconnecte ou déclare forfait lors d'une partie en ligne trouvée automatiquement ou d'une partie personnalisée, l'IA prendra sa place !\n- Cela signifie que lors des parties trouvées automatiquement, les joueurs restants peuvent terminer la partie et gagner du Karma !\n<style=base> Extension Océanie en mode Duo</style> : savourez le doux nectar en activant à la fois les extensions Asie et Océanie !\n<style=base> Notifications en ligne</style> : ne manquez plus jamais votre tour ! Vous recevrez désormais des alertes dans le jeu quand :\n- c'est à vous de jouer dans une autre partie en cours, et/ou\n- il ne reste plus qu'une minute avant la fin de votre tour.\nVous pouvez activer et désactiver ces notifications à tout moment dans les paramètres du jeu.\n<style=base>La visibilité des rapports d'erreurs est désormais une option qui peut être facilement modifiée dans les paramètres.</style>\n\nNous espérons que ces mises à jour rendront l'expérience Wingspan encore plus fluide, plus amusante et plus conviviale. Merci de nous aider à améliorer le jeu ! \nComme toujours, découvrez les nouvelles fonctionnalités et faites-nous part de vos impressions ! \n\nAmusez-vous bien !"
                             },
                             {
                                 "Language": "es",
-                                "Text": "<style=asia>El 27.10.2025, los servidores de Wingspan se someterá a trabajos de mantenimiento. Durante este periodo de tiempo será imposible acceder al modo en línea. Las labores de mantenimiento comenzarán a las 10:00AM UTC / 11:00AM CET / 3:00AM PDT y durarán al menos 1 hora.</style> \n\r\nComo siempre en casos de mantenimiento en línea, terminad vuestras partidas antes de que empiecen estas labores y no comencéis nuevas cerca de la hora a la que van a empezar. De lo contrario, es probable que perdáis las partidas y también puntos de karma.\n\r\nContad al resto de vuestros amigos amantes de los pájaros que tendrán lugar estas labores para que el proceso vaya sobre ruedas.\n\r\nNos disculpamos por las molestias.\r\n"
+                                "Text": "Nos habéis dado vuestras opiniones y las hemos tenido en cuenta. Gracias a vuestros comentarios, hemos implementado unas cuantas mejoras de calidad de vida para el modo en línea:\n\n<style=base> Lista de amigos dentro del juego: ¡cread partidas más rápido con los fans de las aves que mejor os caen! </style> \n- La opción «Tus amigos» del menú en línea os permite añadir a otros jugadores de Wingspan a vuestra lista solo con escribir sus nombres de usuario en el juego.\n- La lista tiene dos secciones: vuestros amigos en la plataforma y vuestros amigos de Wingspan.\n- Activad la estrella para vuestros amigos favoritos del juego y así se mostrarán los primeros en vuestra lista de amigos.\n- Al configurar una partida en línea, usad la opción «Invitar a un amigo» para añadir fácilmente a vuestros amigos a la partida (de uno en uno o todos a la vez).\n<style=base> Mejora de la IA para todas las partidas en línea</style>:\n- Ahora, cuando un jugador se quede sin tiempo o abandone una partida una partida de emparejamiento o personalizada en línea, ¡la IA ocupará su lugar!\n- En las partidas de emparejamiento, ¡eso significa que los jugadores que queden podrán terminar la partida y obtener karma!\n<style=base>Expansión de Oceanía en partidas en línea del modo dúo</style>: disfrutad del dulce néctar de las Expansiones de Asia y Oceanía, ¡que ahora están habilitadas!\n<style=base>Notificaciones en línea</style>: ¡nunca más volveréis a perderos nada! Ahora, recibiréis alertas en el juego cuando:\n- sea vuestro turno en otra partida en línea, y/o\n- solo quede 1 minuto para que se acabe el tiempo de vuestro turno.\nPodéis configurar estas notificaciones en los ajustes del juego en cualquier momento.\n<style=base>Ya puedes cambiar fácilmente desde los ajustes la visibilidad del informe de errores.</style>\n\nEsperamos que estas actualizaciones hagan que vuestra experiencia en Wingspan sea aún más fluida y divertida para todos. ¡Gracias por ayudarnos a que el juego sea mejor!\nComo siempre, ¡probad las nuevas funciones y dadnos vuestra opinión!\n\n¡A pasarlo bien jugando!"
                             },
                             {
                                 "Language": "pt-BR",
-                                "Text": "<style=asia>Em 27.10.2025, os servidores Wingspan passarão por manutenção. Durante esse período não será possível acessar o modo online. A manutenção começará em 10:00AM UTC / 11:00AM CET / 3:00AM PDT e durará cerca de 1 hora.\n</style>\r\nComo em toda manutenção online, encerre todas as suas partidas antes da manutenção e não inicie nenhuma nova perto do horário de início. Caso contrário, há o risco de perder partidas em andamento e pontos de karma.\n\r\nInforme seus colegas observadores sobre a manutenção online, para que o processo ocorra sem problemas.\n\r\nPedimos desculpas pelo inconveniente.\r\n"
+                                "Text": "Vocês compartilharam suas opiniões e nós escutamos. Agradecemos pelo feedback. O modo online recebeu uma série de melhorias para sua qualidade de vida:\n\n<style=base> Lista \"Seus Amigos\" dentro do jogo – Faça o pareamento mais rápido com seus observadores de pássaros preferidos! </style> \n- A opção \"Seus Amigos\" no menu Online permite que você adicione outros jogadores de Wingspan à sua lista de amigos, digitando seus apelidos no jogo.\n- A lista agora exibe duas seções: seus amigos da plataforma e seus amigos do jogo Wingspan.\n- Marque a estrela correspondente aos seus amigos de jogo preferidos para que eles sejam exibidos no topo da lista \"Amigos do Jogo\". \n- Ao preparar um jogo online personalizado, use a opção \"Convidar um amigo\" para adicionar facilmente seus amigos à partida, individualmente ou em grupo. \n<style=base> Melhoria de IA para todas os jogos online:</style>:\n- Agora, sempre que um jogador desistir ou for desconectado por inatividade durante um jogo online personalizado ou por pareamento, a IA assumirá seu lugar!\n- Em jogos por pareamento, isso significa que os jogadores restantes poderão terminar a partida e ganhar Karma! \n<style=base> Pareamento do Modo Dueto na expansão Oceania</style> – Aproveite o doce néctar com as expansões da Ásia e Oceania habilitadas!\n<style=base> Notificações online</style> – Nunca mais perca um movimento! Agora, você receberá alertas no jogo quando:\n– For sua vez em outro jogo de pareamento;\n– Faltar apenas 1 minuto para o seu turno acabar.\nÉ possível ajustar essas notificações nas configurações do jogo a qualquer momento.\n<style=base>A visibilidade da opção para relatar erros agora pode ser alterada facilmente nas Configurações.</style>\n\nEsperamos que essas atualizações deixem Wingspan ainda mais fluido, divertido e amigável. Agradecemos por nos ajudar a tornar o jogo ainda melhor! \nComo sempre, não deixem de conferir os novos recursos e nos contar o que acharam das novidades! \n\nBons jogos!"
                             },
                             {
                                 "Language": "ja",
-                                "Text": "<style=asia>『ウィングスパン』は27.10.2025にメンテナンスを予定しており、その間サーバーが停止となります。メンテナンス中はオンラインモードをご利用いただけませんので、予めご了承ください。メンテナンスは10:00AM UTC / 11:00AM CET / 3:00AM PDTに開始いたします。また、作業時間は1時間を想定しております。\n</style>\r\nメンテナンス直前に新たな試合を開始されると、進行中の試合状況やカルマポイントを失う可能性があるため、ご注意ください。\n\r\n仲間の野鳥観察家の皆様にもぜひお伝えください。\r\n\r\n大変ご迷惑おかけしますが、何卒よろしく申し上げます。\r\n"
+                                "Text": "皆様からのフィードバックに、私たちは耳を傾けてきました。皆様からのフィードバックに感謝します。オンラインモードに様々なQOLアップグレードが導入されました。\n\n<style=base>ゲーム内「フレンド」リスト - お気に入りの鳥類愛好家たちと素早くゲームをセットアップできます！</style>\n- オンラインメニューの「フレンド」オプションで、ゲーム内のニックネームを入力すると他のウイングスパンプレイヤーをリストに追加できます。\n- リストには、あなたのプラットフォームのフレンドと、ウイングスパンのゲーム内フレンドの2つのセクションが表示されています。\n- お気に入りのゲーム内フレンドの星にチェックを入れて、「ゲーム内フレンド」リストの一番上に表示させよう。\n- カスタムオンラインゲームの設定時は、「友達を招待」オプションを使えば、まとめてでも一人ずつでも、簡単にフレンドをマッチに追加できます。\n<style=base>全オンラインゲームのAIアップグレード：</style>：\n- マッチメイキングやカスタムオンラインゲームで、プレイヤーがタイムアウトした時やゲームを放棄した場合は、AIがそのプレイヤーの代役を務めるようになりました！\n- マッチメイキングゲームでは、残りのプレイヤーが最後までマッチを行い、カルマを獲得できます！\n<style=base>つがいモードのマッチメイキングでの「大洋の翼」</style> -「大洋の翼」と「東洋の翼」拡張の両方を使って、甘い花蜜をお楽しみください！\n<style=base>オンライン通知</style>- もう二度と動きを見逃すことはありません！以下のような場合のどちらか片方、または両方の場合に、ゲーム内アラートを受け取ります。\n- 別のマッチメイキングゲームであなたの手番が回ってきた場合\n- あなたの手番が時間切れになる1分前\nこれらの通知は、ゲーム設定からいつでも変更が可能です。\n<style=base>バグレポートの表示がオプションになり、設定から簡単に変更できるようになりました。</style>\n\nこのアップデートにより、ウイングスパンで過ごす時間がさらにスムースで楽しく、鳥類愛好家の皆様にとってプレイしやすくなることを期待しています。ゲームの改善にご協力いただきありがとうございます！\nいつものように、新機能をチェックしてご意見をお聞かせください！\n\n幸せなゲーミング体験を！"
                             },
                             {
                                 "Language": "ru",
-                                "Text": "<style=asia>27.10.2025 на серверах Wingspan будут проводиться технические работы. В это время онлайн-режим будет недоступен. Работы начнутся 10:00AM UTC / 11:00AM CET / 3:00AM PDT и продлятся 1 ч. \n</style>\r\nКак обычно при любых технических работах, связанных с онлайн-режимом, завершите все игры до начала работ и не начинайте новые в их преддверии — иначе вы рискуете потерять текущие игры и очки кармы.\n\r\nПредупредите знакомых игроков о технических работах, чтобы все точно прошло гладко.\n \r\nПриносим извинения за доставленные неудобства.\r\n"
+                                "Text": "Вы делились с нами мыслями, и мы внимательно слушали. Благодаря вашим отзывам сетевой режим получил целый набор приятных улучшений.\n\n<style=base> Внутриигровой список друзей: теперь вы сможете быстрее создавать игры с друзьями-птицеловами!</style> \n– Опция «Ваши друзья» в меню «Онлайн» позволяет добавить в список друзей других игроков. Для этого нужно просто ввести их игровое имя.\n– Список делится на два раздела: друзья с вашей платформы и друзья в Wingspan.\n– Отметьте своих лучших друзей звёздочкой, чтобы их имена оказались вверху списка в игре. \n– Воспользуйтесь опцией «Пригласить друга» при создании пользовательской игры по сети, чтобы быстро добавить друзей в игру — по одному или сразу нескольких. \n<style=base> Улучшение ИИ для всех игр по сети</style>\n– Если игрок бросает игру или не успевает сделать ход в рейтинговом матче или пользовательской игре по сети, его место займёт ИИ!\n– Для рейтинговых матчей это означает, что оставшиеся игроки теперь смогут довести игру до конца и получить карму! \n<style=base> Птицы Океании в режиме дуэта</style>: наслаждайтесь сладким нектаром, играя с включёнными дополнениями «Птицы Азии» и «Птицы Океании»!\n<style=base> Сетевые уведомления</style>: вы больше не пропустите свой ход! Уведомления приходят в следующих случаях:\n— если в другом рейтинговом матче наступил ваш ход;\n— если до конца вашего хода остаётся 1 минута.\nПараметры уведомлений можно изменить в любое время в настройках игры.\n<style=base>Теперь в настройках игры можно скрыть кнопку отправки отчёта об ошибках.</style>\n\nНадеемся, что эти нововведения сделают Wingspan комфортнее, увлекательнее и приятнее для всех птицеловов. Спасибо, что помогаете улучшать игру!\nОпробуйте новые функции и расскажите, что вы думаете!\n\nПриятной игры!"
                             },
                             {
                                 "Language": "zh",
-                                "Text": "<style=asia>27.10.2025，《展翅翱翔》的服务器将进行维护。期间将无法进行联机游戏。维护于10:00AM UTC / 11:00AM CET / 3:00AM PDT开始，并将持续1小时。</style> \r\n\r\n和往常的在线维护一样，请在维护开始前结束所有游戏，并避免在维护时间临近时开始新的游戏。否则，可能会丢失正在进行的游戏和缘分点。\n\r\n如果方便的话，也烦请告知其他鸟类爱好者在线维护的消息，以便维护能顺利进行。\n\r\n为您带来不便，深感歉意。\r\n"
+                                "Text": "你们一直与我们分享对游戏的想法，我们也始终在倾听。感谢你们的反馈，在线模式迎来了一系列生活质量优化更新：\n\n<style=base>游戏内好友列表</style> - 快速与你最喜欢的观鸟者组局！</style> \n- 在线菜单中的“你的好友”选项允许您通过输入游戏内昵称，将其他《展翅翱翔》玩家添加到好友列表中。\n- 列表包含两个部分：平台好友和《展翅翱翔》游戏内好友。\n- 给您最喜爱的游戏内好友加上星标，就能让他们显示在“游戏内好友”列表的顶部。\n- 在创建自定义在线游戏时，使用“邀请好友”选项即可轻松邀请好友加入对局——可以一次性邀请多个，也可以逐个添加。\n\n<style=base>所有线上游戏的 AI 升级：</style> \n- 现在，无论是在匹配对战还是自定义在线游戏中，当有玩家超时或弃赛时，AI 都会接替他们的位置！\n- 在匹配对战中，这意味着剩下的玩家可以完成比赛并获得缘分点！\n\n<style=base>3分钟匹配 AI 升级</style>：\n- 第一次超时？别担心——AI 会接手并为你进行一步操作。\n- 再次超时，或是直接离开游戏，AI 将全面接管，确保对局顺利进行。\n- 完成整局游戏还能获得缘分点数！\n\n<style=base>对决模式匹配中开启大洋洲扩展</style> \n- 在亚洲和大洋洲扩展包都开启的情况下，尽情享受甜美的花蜜吧！\n\n<style=base>在线通知功能</style> - 不再错过你的回合！你将在以下情况下收到游戏内提醒：\n- 在其他匹配对局中轮到你行动，和/或\n- 距离你超时仅剩 1 分钟。\n你可以随时在游戏设置中调整这些通知选项。\n\n<style=base>现在可以在设置中轻松更改错误报告的可见性。</style>\n\n我们希望这些更新让你在《展翅翱翔》的时光更加顺畅、有趣，也更适合观鸟者们。感谢你帮助我们让这款游戏变得更好！\n\n一如既往 —— 体验新功能后，记得告诉我们你的感受！\n\n祝游戏愉快！"
                             },
                             {
                                 "Language": "zh-Hant",
-                                "Text": "<style=asia>27.10.2025，《展翅翱翔》的伺服器將進行維護。期間將無法進行聯機遊戲。維護於10:00AM UTC / 11:00AM CET / 3:00AM PDT開始，並將持續1小時。</style> \n\r\n和往常的在線維護一樣，請在維護開始前結束所有遊戲，並避免在維護時間臨近時開始新的遊戲。否則，可能會丟失正在進行的遊戲和緣分點。\n\r\n如果方便的話，也煩請告知其他鳥類愛好者在線維護的消息，以便維護能順利進行。\n\r\n為您帶來不便，深感歉意。\r\n"
+                                "Text": "你們一直與我們分享對遊戲的想法，我們也始終在傾聽。感謝你們的反饋，在線模式迎來了一系列生活質量優化更新：\n\n<style=base>遊戲內好友列表</style> - 快速與你最喜歡的觀鳥者組局！</style> \n- 在線菜單中的「你的好友」選項允許您通過輸入遊戲內暱稱，將其他《展翅翱翔》玩家添加到好友列表中。\n- 列表包含兩個部分：平台好友和《展翅翱翔》遊戲內好友。\n- 給您最喜愛的遊戲內好友加上星標，就能讓他們顯示在「遊戲內好友」列表的頂部。\n- 在創建自定義在線遊戲時，使用「邀請好友」選項即可輕鬆邀請好友加入對局——可以一次性邀請多個，也可以逐個添加。\n\n<style=base>所有線上遊戲的 AI 升級：</style> \n- 現在，無論是在匹配對戰還是自定義在線遊戲中，當有玩家超時或棄賽時，AI 都會接替他們的位置！\n- 在匹配對戰中，這意味着剩下的玩家可以完成比賽並獲得緣分點！\n\n<style=base>3分鐘匹配 AI 升級</style>：\n- 第一次超時？別擔心——AI 會接手並為你進行一步操作。\n- 再次超時，或是直接離開遊戲，AI 將全面接管，確保對局順利進行。\n- 完成整局遊戲還能獲得緣分點數！\n\n<style=base>對決模式匹配中開啟大洋洲擴展</style> \n- 在亞洲和大洋洲擴展包都開啟的情況下，盡情享受甜美的花蜜吧！\n\n<style=base>在線通知功能</style> - 不再錯過你的回合！你將在以下情況下收到遊戲內提醒：\n- 在其他匹配對局中輪到你行動，和/或\n- 距離你超時僅剩 1 分鐘。\n你可以隨時在遊戲設置中調整這些通知選項。\n\n<style=base>現在可以在設置中輕鬆更改錯誤報告的可見性。</style>\n\n我們希望這些更新讓你在《展翅翱翔》的時光更加順暢、有趣，也更適合觀鳥者們。感謝你幫助我們讓這款遊戲變得更好！\n\n一如既往 —— 體驗新功能後，記得告訴我們你的感受！\n\n祝遊戲愉快！"
                             },
                             {
                                 "Language": "it",
-                                "Text": "<style=asia>Il giorno 27.10.2025 i server di Wingspan verranno sottoposti a dei lavori di manutenzione. Durante questo periodo, sarà impossibile accedere alla modalità online. La manutenzione avrà inizio alle 10:00AM UTC / 11:00AM CET / 3:00AM PDT e durerà all’incirca 1 ore.\n</style>\r\nCome da prassi, ti chiediamo di concludere tutte le partite in corso prima dell’inizio della manutenzione e di non iniziarne di nuove durante i lavori in corso, onde evitare di perdere progressi e punti di Karma.\n\r\nSpargi la voce con gli altri birdwatcher affinché l’intera procedura avvenga senza intoppi.\n\r\nCi scusiamo per l’inconveniente.\r\n"
+                                "Text": "Avete condiviso le vostre opinioni con noi e vi abbiamo ascoltato. Grazie al vostro feedback, la modalità online ha ricevuto diversi aggiornamenti:\n\n<style=base>\"Lista amici\" all'interno del gioco - Per giocare più rapidamente con i vostri birdwatcher preferiti! </style> \n- L'opzione \"Lista amici\" nel menu online consente di aggiungere altri giocatori di Wingspan alla lista digitando i loro nickname di gioco.\n- La lista mostra due sezioni: i vostri amici di piattaforma e quelli di Wingspan.\n- Selezionate la stella per gli amici di gioco preferiti e visualizzare i loro nomi in cima alla lista. \n- Quando configurate una partita online personalizzata, usate l'opzione \"Invita un amico\" per aggiungere facilmente gli amici alla partita, in gruppo o uno alla volta. \n<style=base> IA migliorata per tutte le partite online</style>:\n- Ora, quando un giocatore termina il tempo o abbandona una partita matchmaking o online personalizzata, l'IA prenderà il suo posto!\n- Nelle partite matchmaking, i giocatori potranno quindi terminare la partita e ottenere Karma! \n<style=base>Espansione Oceania nel matchmaking Duetto</style> - Godetevi il dolce nettare attivando l'Espansione Asia e Oceania!\n<style=base>Notifiche online</style> - Non dimenticherete più di fare la vostra mossa! Ora riceverete un avviso all'interno del gioco quando:\n- è il vostro turno in un'altra partita e/o\n- resta solo 1 minuto prima che il vostro turno termini.\nPotete modificare queste notifiche nelle impostazioni di gioco in qualsiasi momento.\n<style=base>Ora, la visibilità delle segnalazioni dei bug è un'opzione che può essere facilmente modificata nelle impostazioni.</style>\n\nCi auguriamo che questi aggiornamenti rendano la vostra esperienza su Wingspan più fluida, divertente e adatta a tutti i birdwatcher. Grazie per aiutarci a migliorare il gioco!\nCome sempre, date un'occhiata alle nuove funzioni e fateci sapere cosa ne pensate!\n\nBuon divertimento!"
                             },
                             {
                                 "Language": "ko",
-                                "Text": "<style=asia>27.10.2025에 윙스팬 서버가 점검을 진행합니다. 이 시간 동안 온라인 모드로 플레이할 수 없습니다. 점검은 10:00AM UTC / 11:00AM CET / 3:00AM PDT에 시작되며 약 1시간 동안 지속됩니다.\n</style>\r\n모든 온라인 점검과 마찬가지로, 점검 전에 모든 게임을 종료하고 점검 시간에 가까워지면 새로운 게임을 시작하지 마세요. 진행 중인 게임과 카르마 포인트를 잃을 위험이 있습니다.\n\r\n점검이 원활하게 진행될 수 있도록 동료 탐조가에게 온라인 점검에 대해 알려주세요.\n\r\n불편을 드려 죄송합니다.\r\n"
+                                "Text": "여러분들의 고견을 잘 들었습니다. 피드백에 감사하며 온라인 모드에서 이제 편의성 업그레이드를 진행하고자 합니다.\n\n<style=base> 인게임 \"친구 목록\" - 가장 좋아하는 탐조가들과 함께 게임을 더 빠르게 꾸려보세요!</style>\n- 온라인 메뉴의 “친구 목록” 옵션을 사용하면 게임 내 닉네임을 입력하여 다른 윙스팬 플레이어를 목록에 추가할 수 있습니다.\n- 본 요소는 여러분의 플랫폼 친구와 윙스팬 속 인게임 친구로 나뉘어 있습니다.\n- 인게임 친구 중 즐겨찾는 친구에 별표를 체크하면 \"인게임 친구\" 목록 상단에 표시됩니다.\n- 커스텀 온라인 게임을 설정할 때 \"친구 초대\" 옵션을 사용하여 친구를 한 번에 또는 한 명씩 쉽게 매치에 추가할 수 있습니다.\n<style=base> 모든 온라인 게임 AI 업그레이드</style>:\n- 이제 매치메이킹이나 커스텀 온라인 게임에서 플레이어가 시간 초과되거나 포기하면 AI가 그 자리를 대신합니다!\n- 매치메이킹 게임의 경우 남은 플레이어가 게임을 마치고 카르마를 얻을 수 있습니다.\n<style=base> 3분 매치메이킹 AI 업그레이드</style>: 한 번 시간을 초과했나요? 걱정 마세요. AI가 대신 게임을 해줄 테니까요.\n- 게임에 다시 참여하건, 아니면 게임을 떠나건, AI가 여러분의 자리를 차지해 게임을 계속 이어나갈 것입니다. \n- 게임을 완료하고 카르마 점수를 획득하세요!\n<style=base> 듀엣 매치메이킹에서 오세아니아 확상 사용 가능</style> - 아시아, 오세아니아 확장과 함께 달콤한 당밀을 즐겨보세요!\n<style=base> 온라인 알림</style>- 게임을 놓치지 마세요! 다음의 경우 인게임 알림을 받게 됩니다: \n- 매치메이킹에서 여러분의 턴이 돌아올 경우, 및/혹은\n- 여러분의 차례가 1분밖에 남지 않았을 경우.\n게임 설정에서 이 알림 설정을 언제든 변경 가능합니다.\n<style=base>버그 제보 표시 여부는 이제 설정에서 손쉽게 변경할 수 있습니다.</style>\n\n이번 업데이트로 윙스팬에서의 여러분의 경험이 보다 부드럽고, 재밌으며, 더욱 친탐조가적이길 바랍니다. 게임 개선에 함께 해주셔서 정말 감사합니다! \n언제나 그렇듯, 새로운 요소를 확인하시고 여러분의 생각을 알려주세요! \n\n즐거운 게임 되세요!"
                             },
                             {
                                 "Language": "uk",
-                                "Text": "<style=asia>27.10.2025 сервери «Крил» пройдуть технічне обслуговування. Поки воно не закінчиться, онлайн-режим буде недоступний. Ремонтні роботи почнуться о 10:00AM UTC / 11:00AM CET / 3:00AM PDT і триватимуть 1 год. (приблизно). \n</style>\r\nЯк і завжди в таких ситуаціях, будь ласка, завершіть усі свої матчі до початку робіт і не починайте нових, якщо до обслуговування залишилося мало часу. Інакше ви ризикуєте втратити поточні ігри й очки карми.\n\r\nПопередьте про техобслуговування своїх друзів, щоб усе минуло без завад. \n\r\nМи перепрошуємо за незручності.\r\n"
+                                "Text": "Ви ділилися своїми думками, ми уважно слухали. Завдяки вашим відгукам мережевий режим отримав набір приємних покращень.\n\n<style=base> Перелік «Ваші друзі» у грі: тепер ви зможете швидше створювати ігри з друзями-птахоловами! </style> \n— Завдяки функції «Ваші друзі» в меню «Онлайн» можна додавати інших гравців «Крил» до свого переліку за нікнеймом у грі.\n— Перелік ділиться на два розділи: друзі з вашої платформи й друзі у «Крилах».\n— Позначте зірочкою ваших улюблених друзів, щоб вони були на вершині переліку друзів із гри. \n— Під час створення власної онлайн-гри скористайтеся функцією «Запросити друга», щоб легко додати друзів до матчу. Вибирайте всіх одразу чи по одному. \n<style=base> Оновлення ШІ для всіх онлайн-ігор:</style>:\n— Тепер якщо гравець не зробив хід або відмовляється від участі в підборі гравців у матчі або онлайн-грі, його місце займе ШІ!\n— Це означає, що гравці, які залишися, зможуть завершити матч у рейтинговій грі й здобути карму! \n<style=base> Птахи Океанії в режимі дуету</style>: насолоджуйтесь солодким нектаром, граючи з увімкненими доповненнями «Птахи Азії» й «Птахи Океанії»!\n<style=base> Мережеві сповіщення</style>: ви більше не пропустите свій хід! Сповіщення приходять у наступних випадках:\n— якщо в іншій рейтинговій грі наступив ваш хід;\n— якщо до кінця вашого ходу залишається 1 хвилина.\nЦі сповіщення можна ввімкнути або вимкнути будь-коли в налаштуваннях гри.\n<style=base>Відображення кнопки звіту про помилку тепер можна легко вмикати або вимикати в налаштуваннях.</style>\n\nСподіваємося, що ці оновлення зроблять гру у «Крилах» комфортнішою, цікавішою й приємнішою для всіх птахоловів. Дякуємо, що допомагаєте покращувати гру!\nСпробуйте нові функції й розкажіть, що думаєте!\n\nПриємної гри!"
                             }
                         ]
                     }
