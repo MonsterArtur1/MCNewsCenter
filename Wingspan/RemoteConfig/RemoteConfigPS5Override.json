@@ -3,7 +3,7 @@
   "OnlineDisabledBirds": [],
   "LiveServerOverrides": [{
       "PlatformName": "PS5",
-      "BuildVersion": 354,
+      "BuildVersion": 9999,
       "ServerID": 1
     }]
 }
