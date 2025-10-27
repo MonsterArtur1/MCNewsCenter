@@ -3,7 +3,7 @@
   "OnlineDisabledBirds": [],
   "LiveServerOverrides": [{
       "PlatformName": "iOS",
-      "BuildVersion": 1151,
+      "BuildVersion": 1152,
       "ServerID": 1
     }]
 }
