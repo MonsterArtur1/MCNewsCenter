@@ -3,12 +3,12 @@
   "OnlineDisabledBirds": [],
   "LiveServerOverrides": [{
       "PlatformName": "GDKXboxOne",
-      "BuildVersion": 232,
+      "BuildVersion": 9999,
       "ServerID": 1
     },
     {
       "PlatformName": "GDKXboxSeries",
-      "BuildVersion": 189,
+      "BuildVersion": 9999,
       "ServerID": 1
     }]
 }
