@@ -3,12 +3,12 @@
   "OnlineDisabledBirds": [],
   "LiveServerOverrides": [{
       "PlatformName": "Steam_win",
-      "BuildVersion": 1134,
+      "BuildVersion": 9999,
       "ServerID": 1
     },
     {
       "PlatformName": "Steam_mac",
-      "BuildVersion": 1033,
+      "BuildVersion": 9999,
       "ServerID": 1
     }]
 }
