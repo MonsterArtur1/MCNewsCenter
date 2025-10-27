@@ -3,12 +3,12 @@
   "OnlineDisabledBirds": [],
   "LiveServerOverrides": [{
       "PlatformName": "Gog_win",
-      "BuildVersion": 286,
+      "BuildVersion": 9999,
       "ServerID": 1
     },
     {
       "PlatformName": "Gog_mac",
-      "BuildVersion": 252,
+      "BuildVersion": 9999,
       "ServerID": 1
     }]
 }
