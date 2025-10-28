@@ -5712,6 +5712,255 @@
                 }
             ],
             "Actions": []
+        },
+        {
+            "ID": "4884f2f2-be43-4ed5-ab2d-ec0de1216299",
+            "Tags": [
+                "Online"
+            ],
+            "PlatformsToShowOn": 8,
+            "StartDateTicks": 638972064000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 2,
+            "IsPinned": false,
+            "PresetImageName": "",
+            "RemoteImageName": "Wingpsan_iOSAccount_NewsCenter.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Account Desynchronization Issue on iOS and macOS"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Account Desynchronization Issue on iOS and macOS"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Account Desynchronization Issue on iOS and macOS"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Account Desynchronization Issue on iOS and macOS"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Account Desynchronization Issue on iOS and macOS"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Account Desynchronization Issue on iOS and macOS"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "Account Desynchronization Issue on iOS and macOS"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Account Desynchronization Issue on iOS and macOS"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "Account Desynchronization Issue on iOS and macOS"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "Account Desynchronization Issue on iOS and macOS"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Account Desynchronization Issue on iOS and macOS"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "Account Desynchronization Issue on iOS and macOS"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Account Desynchronization Issue on iOS and macOS"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "iOS and macOS Birders!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "iOS and macOS Birders!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "iOS and macOS Birders!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "iOS and macOS Birders!"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "iOS and macOS Birders!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "iOS and macOS Birders!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "iOS and macOS Birders!"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "iOS and macOS Birders!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "iOS and macOS Birders!"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "iOS and macOS Birders!"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "iOS and macOS Birders!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "iOS and macOS Birders!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "iOS and macOS Birders!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "We’re aware of an issue that caused accounts to become desynchronized after updating the game on another iOS device or Mac using the same Apple account.\n\r\nBefore opening the game and entering Online mode, please make sure the app is fully updated. Previously, if you saw a message saying “There’s an update available” that prevented you from accessing Online mode, updating at that point caused accounts to become desynchronized.\n\r\n<style=asia>If this issue has affected you, please fill out the form below so we can help restore your account.\n</style>\r\nWe sincerely apologize for the inconvenience. Our team has deployed a fix, and updating the game is now safe - if you enter Online mode without installing the latest update, you’ll see an “Error 404” message, and that’s expected.\r\n\nWe’re also continuing to work on other reported bugs, thank you for your patience and for continuing to share your reports with us.\r\n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "We’re aware of an issue that caused accounts to become desynchronized after updating the game on another iOS device or Mac using the same Apple account.\n\r\nBefore opening the game and entering Online mode, please make sure the app is fully updated. Previously, if you saw a message saying “There’s an update available” that prevented you from accessing Online mode, updating at that point caused accounts to become desynchronized.\n\r\n<style=asia>If this issue has affected you, please fill out the form below so we can help restore your account.\n</style>\r\nWe sincerely apologize for the inconvenience. Our team has deployed a fix, and updating the game is now safe - if you enter Online mode without installing the latest update, you’ll see an “Error 404” message, and that’s expected.\r\n\nWe’re also continuing to work on other reported bugs, thank you for your patience and for continuing to share your reports with us.\r\n"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "We’re aware of an issue that caused accounts to become desynchronized after updating the game on another iOS device or Mac using the same Apple account.\n\r\nBefore opening the game and entering Online mode, please make sure the app is fully updated. Previously, if you saw a message saying “There’s an update available” that prevented you from accessing Online mode, updating at that point caused accounts to become desynchronized.\n\r\n<style=asia>If this issue has affected you, please fill out the form below so we can help restore your account.\n</style>\r\nWe sincerely apologize for the inconvenience. Our team has deployed a fix, and updating the game is now safe - if you enter Online mode without installing the latest update, you’ll see an “Error 404” message, and that’s expected.\r\n\nWe’re also continuing to work on other reported bugs, thank you for your patience and for continuing to share your reports with us.\r\n"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "We’re aware of an issue that caused accounts to become desynchronized after updating the game on another iOS device or Mac using the same Apple account.\n\r\nBefore opening the game and entering Online mode, please make sure the app is fully updated. Previously, if you saw a message saying “There’s an update available” that prevented you from accessing Online mode, updating at that point caused accounts to become desynchronized.\n\r\n<style=asia>If this issue has affected you, please fill out the form below so we can help restore your account.\n</style>\r\nWe sincerely apologize for the inconvenience. Our team has deployed a fix, and updating the game is now safe - if you enter Online mode without installing the latest update, you’ll see an “Error 404” message, and that’s expected.\r\n\nWe’re also continuing to work on other reported bugs, thank you for your patience and for continuing to share your reports with us.\r\n"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "We’re aware of an issue that caused accounts to become desynchronized after updating the game on another iOS device or Mac using the same Apple account.\n\r\nBefore opening the game and entering Online mode, please make sure the app is fully updated. Previously, if you saw a message saying “There’s an update available” that prevented you from accessing Online mode, updating at that point caused accounts to become desynchronized.\n\r\n<style=asia>If this issue has affected you, please fill out the form below so we can help restore your account.\n</style>\r\nWe sincerely apologize for the inconvenience. Our team has deployed a fix, and updating the game is now safe - if you enter Online mode without installing the latest update, you’ll see an “Error 404” message, and that’s expected.\r\n\nWe’re also continuing to work on other reported bugs, thank you for your patience and for continuing to share your reports with us.\r\n"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "We’re aware of an issue that caused accounts to become desynchronized after updating the game on another iOS device or Mac using the same Apple account.\n\r\nBefore opening the game and entering Online mode, please make sure the app is fully updated. Previously, if you saw a message saying “There’s an update available” that prevented you from accessing Online mode, updating at that point caused accounts to become desynchronized.\n\r\n<style=asia>If this issue has affected you, please fill out the form below so we can help restore your account.\n</style>\r\nWe sincerely apologize for the inconvenience. Our team has deployed a fix, and updating the game is now safe - if you enter Online mode without installing the latest update, you’ll see an “Error 404” message, and that’s expected.\r\n\nWe’re also continuing to work on other reported bugs, thank you for your patience and for continuing to share your reports with us.\r\n"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "We’re aware of an issue that caused accounts to become desynchronized after updating the game on another iOS device or Mac using the same Apple account.\n\r\nBefore opening the game and entering Online mode, please make sure the app is fully updated. Previously, if you saw a message saying “There’s an update available” that prevented you from accessing Online mode, updating at that point caused accounts to become desynchronized.\n\r\n<style=asia>If this issue has affected you, please fill out the form below so we can help restore your account.\n</style>\r\nWe sincerely apologize for the inconvenience. Our team has deployed a fix, and updating the game is now safe - if you enter Online mode without installing the latest update, you’ll see an “Error 404” message, and that’s expected.\r\n\nWe’re also continuing to work on other reported bugs, thank you for your patience and for continuing to share your reports with us.\r\n"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "We’re aware of an issue that caused accounts to become desynchronized after updating the game on another iOS device or Mac using the same Apple account.\n\r\nBefore opening the game and entering Online mode, please make sure the app is fully updated. Previously, if you saw a message saying “There’s an update available” that prevented you from accessing Online mode, updating at that point caused accounts to become desynchronized.\n\r\n<style=asia>If this issue has affected you, please fill out the form below so we can help restore your account.\n</style>\r\nWe sincerely apologize for the inconvenience. Our team has deployed a fix, and updating the game is now safe - if you enter Online mode without installing the latest update, you’ll see an “Error 404” message, and that’s expected.\r\n\nWe’re also continuing to work on other reported bugs, thank you for your patience and for continuing to share your reports with us.\r\n"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "We’re aware of an issue that caused accounts to become desynchronized after updating the game on another iOS device or Mac using the same Apple account.\n\r\nBefore opening the game and entering Online mode, please make sure the app is fully updated. Previously, if you saw a message saying “There’s an update available” that prevented you from accessing Online mode, updating at that point caused accounts to become desynchronized.\n\r\n<style=asia>If this issue has affected you, please fill out the form below so we can help restore your account.\n</style>\r\nWe sincerely apologize for the inconvenience. Our team has deployed a fix, and updating the game is now safe - if you enter Online mode without installing the latest update, you’ll see an “Error 404” message, and that’s expected.\r\n\nWe’re also continuing to work on other reported bugs, thank you for your patience and for continuing to share your reports with us.\r\n"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "We’re aware of an issue that caused accounts to become desynchronized after updating the game on another iOS device or Mac using the same Apple account.\n\r\nBefore opening the game and entering Online mode, please make sure the app is fully updated. Previously, if you saw a message saying “There’s an update available” that prevented you from accessing Online mode, updating at that point caused accounts to become desynchronized.\n\r\n<style=asia>If this issue has affected you, please fill out the form below so we can help restore your account.\n</style>\r\nWe sincerely apologize for the inconvenience. Our team has deployed a fix, and updating the game is now safe - if you enter Online mode without installing the latest update, you’ll see an “Error 404” message, and that’s expected.\r\n\nWe’re also continuing to work on other reported bugs, thank you for your patience and for continuing to share your reports with us.\r\n"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "We’re aware of an issue that caused accounts to become desynchronized after updating the game on another iOS device or Mac using the same Apple account.\n\r\nBefore opening the game and entering Online mode, please make sure the app is fully updated. Previously, if you saw a message saying “There’s an update available” that prevented you from accessing Online mode, updating at that point caused accounts to become desynchronized.\n\r\n<style=asia>If this issue has affected you, please fill out the form below so we can help restore your account.\n</style>\r\nWe sincerely apologize for the inconvenience. Our team has deployed a fix, and updating the game is now safe - if you enter Online mode without installing the latest update, you’ll see an “Error 404” message, and that’s expected.\r\n\nWe’re also continuing to work on other reported bugs, thank you for your patience and for continuing to share your reports with us.\r\n"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "We’re aware of an issue that caused accounts to become desynchronized after updating the game on another iOS device or Mac using the same Apple account.\n\r\nBefore opening the game and entering Online mode, please make sure the app is fully updated. Previously, if you saw a message saying “There’s an update available” that prevented you from accessing Online mode, updating at that point caused accounts to become desynchronized.\n\r\n<style=asia>If this issue has affected you, please fill out the form below so we can help restore your account.\n</style>\r\nWe sincerely apologize for the inconvenience. Our team has deployed a fix, and updating the game is now safe - if you enter Online mode without installing the latest update, you’ll see an “Error 404” message, and that’s expected.\r\n\nWe’re also continuing to work on other reported bugs, thank you for your patience and for continuing to share your reports with us.\r\n"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "We’re aware of an issue that caused accounts to become desynchronized after updating the game on another iOS device or Mac using the same Apple account.\n\r\nBefore opening the game and entering Online mode, please make sure the app is fully updated. Previously, if you saw a message saying “There’s an update available” that prevented you from accessing Online mode, updating at that point caused accounts to become desynchronized.\n\r\n<style=asia>If this issue has affected you, please fill out the form below so we can help restore your account.\n</style>\r\nWe sincerely apologize for the inconvenience. Our team has deployed a fix, and updating the game is now safe - if you enter Online mode without installing the latest update, you’ll see an “Error 404” message, and that’s expected.\r\n\nWe’re also continuing to work on other reported bugs, thank you for your patience and for continuing to share your reports with us.\r\n"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 8,
+                    "Value": "https://forms.gle/7gzNCDfsoCTTFrUPA",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Go to the form"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Go to the form"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Go to the form"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Go to the form"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Go to the form"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Go to the form"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "Go to the form"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Go to the form"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "Go to the form"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "Go to the form"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Go to the form"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "Go to the form"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Go to the form"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
