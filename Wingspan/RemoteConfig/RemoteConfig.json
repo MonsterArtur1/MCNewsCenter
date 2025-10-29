@@ -2,6 +2,7 @@
   "LocalDisabledBirds": [],
   "OnlineDisabledBirds": [],
   "GlobalServerMaintenance": false,
+  "ExtraLogsEnabled": true,
   "PlatformMaintenances": [
     {
       "PlatformName": "DrmFree",
