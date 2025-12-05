@@ -5776,70 +5776,70 @@
             ]
         },
         {
-            "ID": "d9b62311-2bc3-4ff3-b26b-11976b8e660a",
+            "ID": "b3d24edd-800e-46ff-8ae1-6ceddab7e112",
             "Tags": [
-                "Online"
+                "Events"
             ],
             "PlatformsToShowOn": 1023,
-            "StartDateTicks": 638986752000000000,
-            "EndDateTicks": 638989704000000000,
+            "StartDateTicks": 639006084000000000,
+            "EndDateTicks": 639028223400000000,
             "Priority": 2,
             "IsPinned": false,
-            "PresetImageName": "Online",
-            "RemoteImageName": "",
+            "PresetImageName": "",
+            "RemoteImageName": "WS_WINTER_BG.png",
             "Title": {
                 "LocalizedTexts": [
                     {
                         "Language": "en",
-                        "Text": "Online Maintenance"
+                        "Text": "Happy Holiday!"
                     },
                     {
                         "Language": "pl",
-                        "Text": "Konserwacja trybu online"
+                        "Text": "Wesołych Świąt!"
                     },
                     {
                         "Language": "de",
-                        "Text": "Online-Wartungsarbeiten"
+                        "Text": "Frohe Feiertage!"
                     },
                     {
                         "Language": "fr",
-                        "Text": "Maintenance en ligne"
+                        "Text": "Joyeuses fêtes !"
                     },
                     {
                         "Language": "es",
-                        "Text": "Mantenimiento en línea"
+                        "Text": "¡Felices fiestas!"
                     },
                     {
                         "Language": "pt-BR",
-                        "Text": "Manutenção online"
+                        "Text": "Boas Festas!"
                     },
                     {
                         "Language": "ja",
-                        "Text": "オンラインメンテナンス"
+                        "Text": "ハッピー・ホリデー！"
                     },
                     {
                         "Language": "ru",
-                        "Text": "Технические работы над онлайн-режимом"
+                        "Text": "Счастливых праздников!"
                     },
                     {
                         "Language": "zh",
-                        "Text": "在线维护"
+                        "Text": "节日快乐！"
                     },
                     {
                         "Language": "zh-Hant",
-                        "Text": "在線維護"
+                        "Text": "節日快樂！"
                     },
                     {
                         "Language": "it",
-                        "Text": "Manutenzione online"
+                        "Text": "Buone feste!"
                     },
                     {
                         "Language": "ko",
-                        "Text": "온라인 점검"
+                        "Text": "즐거운 연말!"
                     },
                     {
                         "Language": "uk",
-                        "Text": "Технічні роботи на серверах"
+                        "Text": "Зі святом!"
                     }
                 ]
             },
@@ -5847,55 +5847,55 @@
                 "LocalizedTexts": [
                     {
                         "Language": "en",
-                        "Text": "Working on your online experience so you can fly with no struggles."
+                        "Text": "Holiday Background is back!"
                     },
                     {
                         "Language": "pl",
-                        "Text": "Pracujemy nad Waszym doświadczeniem online, aby wasz lot przebiegał bez przeszkód."
+                        "Text": "Tło świąteczne wróciło!"
                     },
                     {
                         "Language": "de",
-                        "Text": "Wir verbessern dein Online-Erlebnis, damit du problemlos durch die Lüfte schnellen kannst."
+                        "Text": "Der Feiertag-Hintergrund ist wieder da!"
                     },
                     {
                         "Language": "fr",
-                        "Text": "Nous améliorons votre expérience en ligne afin que vous puissiez voler sans accrocs."
+                        "Text": "L'arrière-plan des fêtes est de retour !"
                     },
                     {
                         "Language": "es",
-                        "Text": "Estamos trabajando en tu experiencia en línea para que puedas volar sin sobresaltos."
+                        "Text": "¡Vuelve el fondo de Navidad!"
                     },
                     {
                         "Language": "pt-BR",
-                        "Text": "Estamos trabalhando para melhorar sua experiência online, para que você possa voar suavemente."
+                        "Text": "O fundo de Festas de Fim de Ano está de volta!"
                     },
                     {
                         "Language": "ja",
-                        "Text": "快適にオンラインプレイがご利用いただけるよう、作業を行っています。"
+                        "Text": "ホリデー背景が戻ってきました！"
                     },
                     {
                         "Language": "ru",
-                        "Text": "Мы работаем над онлайн-режимом, чтобы вы могли летать без проблем."
+                        "Text": "Праздничный фон снова в игре!"
                     },
                     {
                         "Language": "zh",
-                        "Text": "服务器正在维护，以确保各位之后能够享受正常的联机体验。"
+                        "Text": "节日背景返场了！"
                     },
                     {
                         "Language": "zh-Hant",
-                        "Text": "伺服器正在維護，以確保各位之後能夠享受正常的聯機體驗。"
+                        "Text": "節日背景返場了！"
                     },
                     {
                         "Language": "it",
-                        "Text": "Stiamo lavorando all’esperienza online affinché il tuo volo proceda senza intoppi."
+                        "Text": "Lo sfondo Festivo è tornato!"
                     },
                     {
                         "Language": "ko",
-                        "Text": "어려움 없이 날개짓할 수 있도록 온라인 환경을 개선 중입니다."
+                        "Text": "연말 배경이 돌아왔습니다!"
                     },
                     {
                         "Language": "uk",
-                        "Text": "Працюємо над онлайн-грою, щоб ви літали без перешкод."
+                        "Text": "Святковий фон повертається!"
                     }
                 ]
             },
@@ -5906,61 +5906,123 @@
                         "LocalizedTexts": [
                             {
                                 "Language": "en",
-                                "Text": "<style=asia>On November 17, Wingspan servers will undergo short maintenance works. During this time, entering online mode will be limited. Maintenance will begin at 9:15AM UTC / 10:15 AM CET / 2:15AM PDT and will last for around 30 minutes. \n</style>\r\nAs with every online maintenance, please end all your matches before the maintenance and do not start any new ones close to the maintenance hours. Otherwise, there's a risk of losing ongoing games and karma points.\n\r\nLet your fellow birders know about online maintenance, so the process can go smoothly. \n\r\nWe apologize for the inconvenience.\r\n"
+                                "Text": "Can you feel the festive vibes? It’s the Holiday Background coming back to Wingspan! \n\nSettle in with your birds in a snowy and festive nature preserve, find hidden interactions, and feel the holiday spirit!\n\nThe background is available until December 31st or without limits with the Seasonal Decorative Pack. \n"
                             },
                             {
                                 "Language": "pl",
-                                "Text": "<style=asia>W dniu 17 listopada serwery Na Skrzydłach zostaną poddane pracom konserwacyjnym. W tym czasie, wejście do trybu online będzie niemożliwe. Prace rozpoczną się o 10:15 i będą trwały około pół godziny.\n</style>\r\nJak przy wszystkich dotychczasowych pracach konserwacyjnych, prosimy, zakończcie swoje mecze przed rozpoczęciem konserwacji i nie zaczynajcie żadnych nowych rozgrywek w okolicy czasu rozpoczęcia prac. W przeciwnym razie, istnieje ryzyko utracenia trwających rozgrywek a wraz z nimi punktów karmy. \n\nDajcie znać znajomym Ptasiarzom o pracach konserwacyjnych trybu online, aby cały proces przebiegł sprawnie. \n\r\nPrzepraszamy za niedogodności.\r\n"
+                                "Text": "Czujesz klimat świąt? Świąteczne tło powraca do Na Skrzydłach! \n\nRozgość się ze swoimi ptakami w zaśnieżonym i świątecznym rezerwacie przyrody, znajdź ukryte interakcje i poczuj świąteczny nastrój!\n\nTło jest dostępne do 31 grudnia lub bez ograniczeń z Sezonowym Zestawem Dekoracyjnym."
                             },
                             {
                                 "Language": "de",
-                                "Text": "<style=asia>Am 17.11.2025 werden die Server von Wingspan (Flügelschlag) gewartet. Während der Wartungsarbeiten ist der Online-Modus nicht verfügbar. Die Wartungsarbeiten beginnen um 9:15AM UTC / 10:15 AM CET / 2:15AM PDT und dauern etwa 1 Stunde.\n</style>\r\nWie bei jeder Serverwartung gilt: Bitte beende all deine Spiele vorher und beginne keine neuen kurz davor. Ansonsten können der Fortschritt laufender Spiele und Karmapunkte verloren gehen.\n\r\nInformiere andere Vogelfreunde über die Wartungsarbeiten, damit sie ohne Schwierigkeiten vonstattengehen.\n\r\nWir entschuldigen uns für die Unannehmlichkeiten.\r\n"
+                                "Text": "Spürst du die festlichen Vibes? Der Feiertag-Hintergrund kehrt zu Wingspan zurück! \n\nMach es dir mit deinen Vögeln in einem verschneiten und festlichen Naturschutzpark gemütlich, finde versteckte Interaktionen und genieße die Feiertagsstimmung!\n\n Der Hintergrund ist bis zum 31. Dezember verfügbar – oder unbegrenzt im Jahreszeiten-Dekopaket"
                             },
                             {
                                 "Language": "fr",
-                                "Text": "<style=asia>Le 17.11.2025, les serveurs de Wingspan subiront des opérations de maintenance. Le mode en ligne sera alors indisponible. La maintenance commencera à 9:15AM UTC / 10:15 AM CET / 2:15AM PDT et durera environ 1 heure.</style> \n\r\nComme pour chaque maintenance, merci de mettre fin à tous vos matchs avant le début des opérations et n’en commencez aucun peu de temps avant l’heure de départ. Vous risquez sinon de perdre les parties en cours et vos points de karma.\n\r\nInformez vos proches ornithologues de ces opérations de maintenance afin que tout se passe correctement. \n\r\nVeuillez nous excuser de ce désagrément.\r\n"
+                                "Text": "Ressentez-vous l'ambiance festive ? C'est le retour de l'arrière-plan des fêtes sur Wingspan !\n\nInstallez-vous avec vos oiseaux dans une réserve naturelle festive et enneigée, découvrez des interactions cachées, et profitez des fêtes !\n\nL'arrière-plan est disponible jusqu'au 31 décembre, ou en permanence avec le pack décoratif saisonnier."
                             },
                             {
                                 "Language": "es",
-                                "Text": "<style=asia>El 17.11.2025, los servidores de Wingspan se someterá a trabajos de mantenimiento. Durante este periodo de tiempo será imposible acceder al modo en línea. Las labores de mantenimiento comenzarán a las 9:15AM UTC / 10:15 AM CET / 2:15AM PDT y durarán al menos 1 hora.</style> \n\r\nComo siempre en casos de mantenimiento en línea, terminad vuestras partidas antes de que empiecen estas labores y no comencéis nuevas cerca de la hora a la que van a empezar. De lo contrario, es probable que perdáis las partidas y también puntos de karma.\n\r\nContad al resto de vuestros amigos amantes de los pájaros que tendrán lugar estas labores para que el proceso vaya sobre ruedas.\n\r\nNos disculpamos por las molestias.\r\n"
+                                "Text": "¿Notas el ambiente festivo? ¡Es el fondo de Navidad, que vuelve a Wingspan!\n\nRelájate junto a tus aves en una reserva natural alegre y nevada, descubre interacciones ocultas y siente el espíritu navideño.\n\nEl fondo estará disponible hasta el 31 de diciembre o de forma ilimitada con el paquete decorativo estacional."
                             },
                             {
                                 "Language": "pt-BR",
-                                "Text": "<style=asia>Em 17.11.2025, os servidores Wingspan passarão por manutenção. Durante esse período não será possível acessar o modo online. A manutenção começará em 9:15AM UTC / 10:15 AM CET / 2:15AM PDT e durará cerca de 1 hora.\n</style>\r\nComo em toda manutenção online, encerre todas as suas partidas antes da manutenção e não inicie nenhuma nova perto do horário de início. Caso contrário, há o risco de perder partidas em andamento e pontos de karma.\n\r\nInforme seus colegas observadores sobre a manutenção online, para que o processo ocorra sem problemas.\n\r\nPedimos desculpas pelo inconveniente.\r\n"
+                                "Text": "Consegue sentir o clima festivo? O Fundo de Festas de Fim de Ano está de volta ao Wingspan! \n\nAcomode-se com suas aves em uma reserva natural nevada e festiva, descubra interações ocultas e sinta o espírito de fim de ano!\n\nO fundo estará disponível até 31 de dezembro ou sem limites com o Pacote Decorativo Sazonal."
                             },
                             {
                                 "Language": "ja",
-                                "Text": "<style=asia>『ウィングスパン』は17.11.2025にメンテナンスを予定しており、その間サーバーが停止となります。メンテナンス中はオンラインモードをご利用いただけませんので、予めご了承ください。メンテナンスは9:15AM UTC / 10:15 AM CET / 2:15AM PDTに開始いたします。また、作業時間は1時間を想定しております。</style>\r\nメンテナンス直前に新たな試合を開始されると、進行中の試合状況やカルマポイントを失う可能性があるため、ご注意ください。\r\n仲間の野鳥観察家の皆様にもぜひお伝えください。\r\n\r\n大変ご迷惑おかけしますが、何卒よろしく申し上げます。\r\n"
+                                "Text": "お祭りの雰囲気に気付きましたか？　ホリデー背景がウイングスパンに戻ってきました！\n\n鳥たちと一緒に雪景色とお祭りの保護区に腰を落ちつけて、隠されたインタラクションを探し、祝日の気分を味わいましょう！\n\n背景は12月31日まで使用可能です。または、季節の装飾パックがあれば制限なしに使用できます。"
                             },
                             {
                                 "Language": "ru",
-                                "Text": "<style=asia>17.11.2025 на серверах Wingspan будут проводиться технические работы. В это время онлайн-режим будет недоступен. Работы начнутся 9:15AM UTC / 10:15 AM CET / 2:15AM PDT и продлятся 1 ч. </style>\r\nКак обычно при любых технических работах, связанных с онлайн-режимом, завершите все игры до начала работ и не начинайте новые в их преддверии — иначе вы рискуете потерять текущие игры и очки кармы.\r\nПредупредите знакомых игроков о технических работах, чтобы все точно прошло гладко. \r\nПриносим извинения за доставленные неудобства.\r\n"
+                                "Text": "Чувствуете праздничную атмосферу? В игре «Крылья» снова появился праздничный фон!\n\nУстраивайтесь вместе со своими птицами в украшенном снежном заповеднике, ищите интерактивные действия и заряжайтесь праздничным настроением!\n\nФон останется в игре до 31 декабря, а для владельцев декоративного набора «Времена года» — навсегда."
                             },
                             {
                                 "Language": "zh",
-                                "Text": "<style=asia>17.11.2025，《展翅翱翔》的服务器将进行维护。期间将无法进行联机游戏。维护于9:15AM UTC / 10:15 AM CET / 2:15AM PDT开始，并将持续1小时。</style> \r\n\r\n和往常的在线维护一样，请在维护开始前结束所有游戏，并避免在维护时间临近时开始新的游戏。否则，可能会丢失正在进行的游戏和缘分点。\r\n如果方便的话，也烦请告知其他鸟类爱好者在线维护的消息，以便维护能顺利进行。\r\n为您带来不便，深感歉意。\r\n"
+                                "Text": "你能感受到节日的氛围吗？《展翅翱翔》的节日背景返场了！\n\n在一个白雪皑皑且充满节日气氛的自然保护区里，和你的鸟儿们一起安顿下来，发现隐藏的互动，感受节日的氛围！\n\n此背景在 12 月 31 日前可用，或者购买季节性装饰包永久使用。"
                             },
                             {
                                 "Language": "zh-Hant",
-                                "Text": "<style=asia>17.11.2025，《展翅翱翔》的伺服器將進行維護。期間將無法進行聯機遊戲。維護於9:15AM UTC / 10:15 AM CET / 2:15AM PDT開始，並將持續1小時。</style> \r\n和往常的在線維護一樣，請在維護開始前結束所有遊戲，並避免在維護時間臨近時開始新的遊戲。否則，可能會丟失正在進行的遊戲和緣分點。\r\n如果方便的話，也煩請告知其他鳥類愛好者在線維護的消息，以便維護能順利進行。\r\n為您帶來不便，深感歉意。\r\n"
+                                "Text": "你能感受到節日的氛圍嗎？《展翅翱翔》的節日背景返場了！\n\n在一個白雪皚皚且充滿節日氣氛的自然保護區里，和你的鳥兒們一起安頓下來，發現隱藏的互動，感受節日的氛圍！\n\n此背景在 12 月 31 日前可用，或者購買季節性裝飾包永久使用。"
                             },
                             {
                                 "Language": "it",
-                                "Text": "<style=asia>Il giorno 17.11.2025 i server di Wingspan verranno sottoposti a dei lavori di manutenzione. Durante questo periodo, sarà impossibile accedere alla modalità online. La manutenzione avrà inizio alle 9:15AM UTC / 10:15 AM CET / 2:15AM PDT e durerà all’incirca 1 ora.</style>\r\nCome da prassi, ti chiediamo di concludere tutte le partite in corso prima dell’inizio della manutenzione e di non iniziarne di nuove durante i lavori in corso, onde evitare di perdere progressi e punti di Karma.\r\nSpargi la voce con gli altri birdwatcher affinché l’intera procedura avvenga senza intoppi.\r\nCi scusiamo per l’inconveniente.\r\n"
+                                "Text": "Senti l'atmosfera delle feste? Lo sfondo Festivo è tornato su Wingspan!\n\nSistemati insieme ai tuoi uccelli in una riserva naturale innevata e festiva, scopri interazioni segrete e vivi lo spirito delle feste!\n\nLo sfondo è disponibile fino al 31 dicembre oppure può essere tuo per sempre acquistando il pacchetto decorativo stagionale."
                             },
                             {
                                 "Language": "ko",
-                                "Text": "<style=asia>17.11.2025에 윙스팬 서버가 점검을 진행합니다. 이 시간 동안 온라인 모드로 플레이할 수 없습니다. 점검은 9:15AM UTC / 10:15 AM CET / 2:15AM PDT에 시작되며 약 1시간 동안 지속됩니다.</style>\r\n모든 온라인 점검과 마찬가지로, 점검 전에 모든 게임을 종료하고 점검 시간에 가까워지면 새로운 게임을 시작하지 마세요. 진행 중인 게임과 카르마 포인트를 잃을 위험이 있습니다.\r\n점검이 원활하게 진행될 수 있도록 동료 탐조가에게 온라인 점검에 대해 알려주세요.\r\n불편을 드려 죄송합니다.\r\n"
+                                "Text": "축제 분위기가 느껴지시나요? 윙스팬에 연말 배경이 돌아왔습니다!\n\n눈 덮인 축제 분위기의 자연 보호구역에서 새들과 함께 숨은 교감을 나누며 연말 분위기를 느껴보세요!\n\n배경은 12월 31일까지 사용 가능하며, 계절 장식 팩을 구입하면 제한 없이 사용할 수 있습니다."
                             },
                             {
                                 "Language": "uk",
-                                "Text": "<style=asia>17.11.2025 сервери «Крил» пройдуть технічне обслуговування. Поки воно не закінчиться, онлайн-режим буде недоступний. Ремонтні роботи почнуться о 9:15AM UTC / 10:15 AM CET / 2:15AM PDT і триватимуть 1 год. (приблизно). </style>\r\nЯк і завжди в таких ситуаціях, будь ласка, завершіть усі свої матчі до початку робіт і не починайте нових, якщо до обслуговування залишилося мало часу. Інакше ви ризикуєте втратити поточні ігри й очки карми.\r\nПопередьте про техобслуговування своїх друзів, щоб усе минуло без завад. \r\nМи перепрошуємо за незручності.\r\n"
+                                "Text": "Свято наближається, чи не так? До «Крил» повертається святковий фон! \n\nОселіться зі своїми птахами в сніжному й ошатному заповіднику, знайдіть приховані взаємодії й відчуйте дух свята!\n\nФон доступний до 31 грудня або без обмежень за умови придбання декоративного набору «Пори року»."
                             }
                         ]
                     }
                 }
             ],
-            "Actions": []
+            "Actions": [
+                {
+                    "ActionType": 1,
+                    "PlatformsToShowOn": 257,
+                    "Value": "SB_DLC",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Check out Decorative DLC"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Sprawdź dekoracyjne DLC"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Sieh dir den Deko-DLC an"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Voir le DLC décoratif"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Ver DLC decorativo"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Conferir o DLC Decorativo"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "装飾DLCをチェックしましょう"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Посмотреть декоративный набор"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "查看装饰包DLC"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "查看裝飾包DLC"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Dai un'occhiata al DLC decorativo"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "장식 DLC 확인"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Ознайомтеся з декоративним доповненням"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
