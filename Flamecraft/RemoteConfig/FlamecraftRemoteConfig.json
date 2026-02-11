@@ -1,7 +1,7 @@
 {
   "GlobalServerMaintenance": true,
   "ShortMatchmakingMatchPlayerAmount": 3,
-  "ShortMatchmakingMatchTimeoutSeconds": 180,
+  "ShortMatchmakingMatchTimeoutSeconds": 300,
 	
   "LongMatchmakingMatchPlayerAmount": 3,
   "LongMatchmakingMatchTimeoutSeconds": 259200,
