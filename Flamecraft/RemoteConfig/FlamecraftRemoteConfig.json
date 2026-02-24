@@ -4,5 +4,5 @@
   "ShortMatchmakingMatchTimeoutSeconds": 120,
 	
   "LongMatchmakingMatchPlayerAmount": 3,
-  "LongMatchmakingMatchTimeoutSeconds": 259200,
+  "LongMatchmakingMatchTimeoutSeconds": 360000,
 }
