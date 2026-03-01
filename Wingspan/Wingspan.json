@@ -7266,6 +7266,255 @@
                 }
             ],
             "Actions": []
+        },
+        {
+            "ID": "e0065e50-22a1-4340-a2f0-2cc8ee648975",
+            "Tags": [
+                "Events"
+            ],
+            "PlatformsToShowOn": 1023,
+            "StartDateTicks": 639079200000000000,
+            "EndDateTicks": 639092159400000000,
+            "Priority": 2,
+            "IsPinned": false,
+            "PresetImageName": "",
+            "RemoteImageName": "Wingspan_CalicoAnniversary.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Happy Anniversary, Quilts and Cats of Calico!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Wszystkiego najlepszego z okazji rocznicy, Quilts i Cats of Calico!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Alles Gute zum Jahrestag, Quilts and Cats of Calico!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Joyeux anniversaire, Quilts and Cats of Calico !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Feliz aniversario, Quilts and Cats of Calico!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Feliz aniversário, Quilts and Cats of Calico!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『キャリコ～陽だまりネコとパッチワーク～』のハッピーアニバーサリー！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "С днём рождения, Quilts and Cats of Calico!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "周年快乐，猫与花毯！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "周年快樂，貓與花毯！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Buon anniversario, Quilts and Cats of Calico!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "캘리코의 퀄트와 고양이의 주년을 축하합니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "З днем народження, Quilts and Cats of Calico!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Special Calico Anniversary Background in Wingspan!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Specjalne rocznicowe tło Calico w Na Skrzydłach powraca!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Ein besonderer Calico-Jahrestag-Hintergrund wartet in Wingspan!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Arrière-plan spécial Anniversaire de Calico dans Wingspan !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Llega a Wingspan el fondo especial del aniversario de Calico!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Plano de fundo especial Aniversário de Calico no Wingspan!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『キャリコ』の特別な記念背景が『ウイングスパン』に登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Особый юбилейный фон «Котиков» в «Крыльях»!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《展翅翱翔》有了特别的《猫与花毯》周年背景！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《展翅翱翔》有了特別的《貓與花毯》周年背景！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Sfondo speciale Anniversario di Calico su Wingspan!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "윙스팬의 특별한 캘리코 주년 기념 배경!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Особливий ювілейний фон «Каліко» у «Крилах»!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "We’re celebrating our purr-fect friends at Quilts and Cats of Calico with a cozy, quilted anniversary background in Wingspan! Imagine your preserve surrounded by patchwork charm and a little extra coziness.\n\nThe limited-time Calico background will be available until March 15, or you can snuggle up with it all year in the Seasonal Decorative Pack 2. Let’s make your preserve as comfy as a quilt!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Świętujemy z naszymi mruczącymi przyjaciółmi z Quilts and Cats of Calico z przytulnym, pikowanym tłem rocznicowym w Na Skrzydłach! Wyobraź sobie swój dom otoczony patchworkowym urokiem i odrobiną dodatkowej przytulności.\nLimitowane tło Calico będzie dostępne do <b>15 marca</b>, ale można się w nie wtulać przez cały rok w ramach Sezonowego Zestawu Dekoracyjnego 2. Spraw, by Twój rezerwat był przytulny jak kołderka!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Wir feiern unsere pfotastischen Freunde von Quilts and Cats of Calico mit einem kuscheligen gesteppten Jahrestag-Hintergrund in Wingspan! Male dir dein Reservat aus, umhüllt von Patchwork-Charme und ein wenig Extra-Gemütlichkeit.\n\nDer zeitlich limitierte Calico-Hintergrund ist bis zum 15. März verfügbar – oder du kuschelst dich das ganze Jahr darin ein, mit dem Jahreszeiten-Dekopaket 2. Mach dein Reservat so gemütlich wie die kuscheligste Steppdecke!\n"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Nos miaougnifiques amis de Quilts and Cats of Calico sont à l'honneur dans Wingspan avec cet arrière-plan d'anniversaire douillet ! Imaginez votre volière pleine de patchworks confortables.\n\nCet arrière-plan Calico à durée limitée sera disponible jusqu'au 15 mars, ou vous pouvez vous blottir dedans toute l'année grâce au pack décoratif saisonnier 2. Rendez votre volière aussi confortable qu'un duvet !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Queremos homenajear a nuestros amigos gatunos de Quilts and Cats of Calico con un acogedor y acolchado fondo de aniversario de Wingspan! Imagina tu aviario un pelín más calentito y lleno de encantadores retales.\n\nEl fondo por tiempo limitado de Calico estará disponible hasta el 15 de marzo, pero, si quieres hacerte un ovillo todo el año, también puedes conseguir el paquete decorativo estacional 2. ¡Haz que tu aviario sea tan confortable como una colcha!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Estamos celebrando nossos perfeitos amigos felpudos de Quilts and Cats of Calico com um fundo de aniversário aconchegante e acolchoado no Wingspan! Imagine sua reserva cercada por um charme acolhedor e um toque extra de aconchego.\n\nO fundo limitado de Calico estará disponível até 15 de março, ou você pode se aconchegar com ele o ano todo no Pacote Decorativo Sazonal 2. Vamos deixar sua reserva tão confortável quanto uma colcha!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "『キャリコ～陽だまりネコとパッチワーク～』の登場を記念した『ウイングスパン』のキルト背景で、\"\"ニャーフェクト\"\"な友達をお祝いしよう！可愛らしいパッチワークとちょっとしたくつろぎ感がプラスされた保護区を想像してみよう。\n\n期間限定の『キャリコ』背景は[3月15日]まで利用できる予定。または、「季節の装飾パック2」を購入すれば、1年じゅうこの気持ち良さを楽しめる。保護区をキルトと同じくらい心地良くしよう！\n"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Отмечаем день рождения наших чудесных друзей-мурлык из Quilts and Cats of Calico с уютным ситцевым фоном для «Крыльев»! Представьте, что ваш заповедник укутан милыми и тёплыми одеялками!\n\nФон «Котики» будет доступен в игре только до 15 марта, но с декоративным набором «Времена года 2» он будет радовать вас хоть круглый год! Добавьте вашему заповеднику домашнего уюта!\n"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "我们正在为《猫与花毯》中的猫咪伙伴们庆祝，特别推出温馨的周年背景！你的鸟类栖息地被花毯的魅力包围，增添了一份舒适与惬意。\n\n限时《猫与花毯》背景将开放至 [3月15日]，或通过购买“季节性装饰包2”永久获得。让你的栖息地像拼布一样温暖舒适吧！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "我們正在為《貓與花毯》中的貓咪夥伴們慶祝，特別推出溫馨的周年背景！你的鳥類棲息地被花毯的魅力包圍，增添了一份舒適與愜意。\n\n限時《貓與花毯》背景將開放至 [3月15日]，或通過購買「季節性裝飾包2」永久獲得。讓你的棲息地像拼布一樣溫暖舒適吧！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Su Wingspan, festeggiamo i nostri amici purr-fetti di Quilts and Cats of Calico con uno sfondo per l'anniversario caldo e trapuntato! Immagina la tua voliera circondata dal fascino della trapunta e un po' di tepore in più!\n\nQuesto sfondo di Calico a tempo limitato sarà disponibile fino al 15 marzo o puoi farlo tuo per tutto l'anno con il pacchetto decorativo stagionale 2. Rendi la tua voliera confortevole come una trapunta!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "캘리코의 퀄트와 고양이의 포근한 퀼트 주년 기념 배경을 윙스팬에서 만들어 친구들을 축하합시다! 퀼트의 매력과 약간의 아늑함으로 둘러싸인 보존 지역을 상상해 보세요.\n\n기간 한정으로 제공되는 캘리코 배경은 [3월 15일]까지 한정적으로 사용할 수 있으며, 계절 장식 팩 2에서 일 년 내내 사용할 수 있습니다. 이불처럼 포근한 보존 지역을 만들어 보세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Святкуємо день народження наших чудових котячих друзів з Quilts and Cats of Calico із затишним ситцевим фоном для «Крил»! Уявіть, що ваш заповідник загорнутий у милі й теплі ковдри!\n\nФон «Каліко» буде доступний у грі тільки до 15 березня, але з декоративним набором «Пори року 2» він буде радувати вас весь рік! Додайте домашньої затишності вашому заповіднику!"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 1,
+                    "PlatformsToShowOn": 257,
+                    "Value": "SDP2_DLC",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Check out Decorative DLC"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Sprawdź dekoracyjne DLC"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Sieh dir den Deko-DLC an"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Voir le DLC décoratif"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Ver DLC decorativo"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Conferir o DLC Decorativo"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "装飾DLCをチェックしましょう"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Посмотреть декоративный набор"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "查看装饰包DLC"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "查看裝飾包DLC"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Dai un'occhiata al DLC decorativo"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "장식 DLC 확인"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Ознайомтеся з декоративним доповненням"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
