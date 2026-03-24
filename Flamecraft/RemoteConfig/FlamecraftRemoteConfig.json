@@ -1,5 +1,5 @@
 {
   "GlobalServerMaintenance": true,
-  "ShortMatchmakingMatchTimeoutSeconds": 120,
+  "ShortMatchmakingMatchTimeoutSeconds": 30,
   "LongMatchmakingMatchTimeoutSeconds": 259200,
 }
