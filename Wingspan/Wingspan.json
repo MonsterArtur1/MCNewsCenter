@@ -5840,6 +5840,194 @@
                 }
             ],
             "Actions": []
+        },
+        {
+            "ID": "f6593091-a3c8-4b0a-83a9-5dca87d75967",
+            "Tags": [
+                "Update",
+                "Online"
+            ],
+            "PlatformsToShowOn": 4,
+            "StartDateTicks": 639147456000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 2,
+            "IsPinned": false,
+            "PresetImageName": "Events1",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Important Android Support Update"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Ważna aktualizacja wsparcia urządzeń z systemem Android"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Wichtige Android-Support-Aktualisierung"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Mise à jour importante du support Android"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Importante actualización de compatibilidad con Android"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Atualização importante de suporte ao Android"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "Androidサポートについて重要なお知らせ"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Важное обновление поддержки Android"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "重要 Android 支持更新"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "重要 Android 支援更新"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Importante aggiornamento sul supporto Android"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "중요한 Android 지원 업데이트"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Важливе оновлення підтримки Android"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Starting May 25, Wingspan will require Android 7.1 or newer for online features and future updates. Here's what you need to know:"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Od 25 maja Na Skrzydłach będzie wymagało systemu Android 7.1 lub nowszego do korzystania z trybu online i pobrania przyszłych aktualizacji. Oto, co musisz wiedzieć:"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Ab dem 25. Mai benötigt Flügelschlag Android 7.1 oder neuer für den Online-Modus und zukünftige Updates. Das solltest du wissen:"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "À partir du 25 mai, Wingspan nécessitera Android 7.1 ou une version plus récente pour le mode en ligne et les futures mises à jour. Voici ce qu'il faut savoir :"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "A partir del 25 de mayo, Wingspan requerirá Android 7.1 o superior para el modo online y futuras actualizaciones. Esto es lo que necesitas saber:"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "A partir de 25 de maio, Wingspan exigirá Android 7.1 ou superior para o modo online e futuras atualizações. Veja o que você precisa saber:"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "5月25日より、『ウィングスパン』のオンラインモードおよび今後のアップデートにはAndroid 7.1以降が必要になります。詳細はこちらをご確認ください："
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Начиная с 25 мая, Wingspan будет требовать Android 7.1 или новее для онлайн-режима и будущих обновлений. Вот что важно знать:"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "从 5 月 25 日起，《展翅翱翔》的联机模式和未来更新将需要 Android 7.1 或更高版本。以下是你需要了解的内容："
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "自 5 月 25 日起，《展翅翱翔》的聯機模式與未來更新將需要 Android 7.1 或更新版本。以下是你需要了解的內容："
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Dal 25 maggio, Wingspan richiederà Android 7.1 o versioni successive per la modalità online e i futuri aggiornamenti. Ecco cosa devi sapere:"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "5월 25일부터 윙스팬의 온라인 모드 및 향후 업데이트를 위해 Android 7.1 이상이 필요합니다. 아래 내용을 확인해 주세요:\r\n"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Починаючи з 25 травня, «Крил» потребуватиме Android 7.1 або новішої версії для онлайн-режиму та майбутніх оновлень. Ось що варто знати:"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "With the upcoming patch on May 25 we'll be ending support for devices running Android 7.0 and older. Players on unsupported versions will no longer be able to download future updates or access online play.\r\n\r\nOffline modes will still remain available, including local multiplayer, playing against bots, or playing against the Automa.\r\n\r\nTo continue receiving updates and playing online, please update your device to Android 7.1 or newer if possible.\r\n\r\nNot sure which version you're on? Search for \"Android version\" in your device's Settings.\r\n\r\nWe're sorry for this inconvenience.\r\n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Wraz z aktualizacją z 25 maja zakończymy wsparcie dla urządzeń działających na systemach Android 7.0 i starszych. Gracze korzystający z niewspieranych wersji nie będą mogli pobierać przyszłych aktualizacji ani korzystać z trybu online.\r\n\r\nTryby offline nadal będą dostępne, w tym lokalny tryb wieloosobowy, rozgrywki przeciwko botom oraz przeciwko Automie.\r\n\r\nAby nadal otrzymywać aktualizacje i grać online, zaktualizuj swoje urządzenie do Android 7.1 lub nowszego, jeśli to możliwe.\r\n\r\nNie wiesz, jaką wersję systemu masz? Wyszukaj „Wersja Androida\" w ustawieniach swojego urządzenia.\r\n\r\nPrzepraszamy za wszelkie niedogodności.\r\n"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Mit dem kommenden Patch am 25. Mai beenden wir den Support für Geräte mit Android 7.0 oder älter. Spieler mit nicht unterstützten Versionen können keine zukünftigen Updates herunterladen oder den Online-Modus nutzen.\r\n\r\nOffline-Modi bleiben weiterhin verfügbar, darunter lokaler Mehrspielermodus, Spiele gegen Bots oder gegen den Automa.\r\n\r\nUm weiterhin Updates zu erhalten und online spielen zu können, aktualisiere dein Gerät bitte nach Möglichkeit auf Android 7.1 oder neuer.\r\n\r\nNicht sicher, welche Version du nutzt? Suche in den Einstellungen deines Geräts nach „Android-Version\".\r\n\r\nWir entschuldigen uns für die Unannehmlichkeiten.\r\n"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Avec le prochain patch du 25 mai, nous cesserons de prendre en charge les appareils sous Android 7.0 ou une version antérieure. Les joueurs utilisant des versions non prises en charge ne pourront plus télécharger les futures mises à jour ni accéder au mode en ligne.\r\n\r\nLes modes hors ligne resteront disponibles, y compris le mode multijoueur local, les parties contre des bots ou contre l'Automa.\r\n\r\nPour continuer à recevoir les mises à jour et jouer en ligne, veuillez mettre à jour votre appareil vers Android 7.1 ou une version plus récente si possible.\r\n\r\nVous ne savez pas quelle version vous utilisez ? Recherchez « version Android » dans les paramètres de votre appareil.\r\n\r\nVeuillez nous excuser pour ce désagrément.\r\n"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Con el próximo parche del 25 de mayo dejaremos de dar soporte a dispositivos con Android 7.0 o versiones anteriores. Los jugadores con versiones no compatibles ya no podrán descargar futuras actualizaciones ni acceder al modo online.\r\n\r\nLos modos offline seguirán estando disponibles, incluyendo el modo multijugador local, partidas contra bots o contra el Automa.\r\n\r\nPara seguir recibiendo actualizaciones y jugando online, actualiza tu dispositivo a Android 7.1 o superior si es posible.\r\n\r\n¿No sabes qué versión tienes? Busca «versión de Android» en los ajustes de tu dispositivo.\r\n\r\nNos disculpamos por las molestias.\r\n"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Com o próximo patch em 25 de maio, encerraremos o suporte para dispositivos com Android 7.0 ou versões anteriores. Jogadores em versões não suportadas não poderão baixar futuras atualizações nem acessar o modo online.\r\n\r\nOs modos offline continuarão disponíveis, incluindo o modo multijogador local, partidas contra bots ou contra o Automa.\r\n\r\nPara continuar recebendo atualizações e jogando online, atualize seu dispositivo para Android 7.1 ou superior, se possível.\r\n\r\nNão sabe qual versão está usando? Pesquise por \"versão do Android\" nas configurações do seu aparelho.\r\n\r\nPedimos desculpas pelo inconveniente.\r\n"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "5月25日に配信予定のパッチ以降、Android 7.0以前を使用している端末のサポートを終了いたします。対象外のバージョンをご利用中のプレイヤーは、今後のアップデートのダウンロードやオンラインプレイをご利用いただけなくなります。\r\n\r\nローカルマルチプレイ、ボット戦、Automa戦などのオフラインモードは引き続きご利用いただけます。\r\n\r\n今後もアップデートを受け取りオンラインプレイを続けるには、可能な場合は端末をAndroid 7.1以降にアップデートしてください。\r\n\r\nご利用中のバージョンが分からない場合は、端末の設定で「Androidバージョン」と検索してみてください。\r\n\r\nご不便をおかけしますが、何卒よろしくお願いいたします。\r\n"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "С выходом обновления 25 мая мы прекращаем поддержку устройств с Android 7.0 и более старыми версиями. Владельцы таких устройств больше не смогут загружать будущие обновления или пользоваться онлайн-режимом.\r\n\r\nОфлайн-режимы останутся доступны, включая локальный многопользовательский режим, игры против ботов и против Automa.\r\n\r\nЧтобы продолжать получать обновления и играть онлайн, пожалуйста, обновите устройство до Android 7.1 или новее, если это возможно.\r\n\r\nНе знаете, какая у вас версия? Введите «Версия Android» в строке поиска в настройках устройства.\r\n\r\nПриносим извинения за доставленные неудобства.\r\n"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "随着 5 月 25 日即将推出的补丁更新，我们将停止对运行 Android 7.0 及更早版本设备的支持。使用不受支持版本的玩家将无法获取未来更新或访问联机模式。\r\n\r\n离线模式仍将可用，包括本地多人模式、与机器人对战以及与 Automa 对战。\r\n\r\n如果你希望继续接收更新并进行联机游戏，请尽可能将设备更新至 Android 7.1 或更高版本。\r\n\r\n不确定你当前的系统版本？在设备的「设置」中搜索「Android 版本」即可查看。\r\n\r\n对于由此带来的不便，我们深感歉意。\r\n"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "隨著 5 月 25 日即將推出的更新，我們將停止支援執行 Android 7.0 及更早版本的裝置。使用不受支援版本的玩家將無法獲取未來更新或使用聯機模式。\r\n\r\n離線模式仍將可使用，包括本機多人模式、與機器人對戰，以及與 Automa 對戰。\r\n\r\n若想繼續接收更新並進行聯機遊戲，請盡可能將裝置更新至 Android 7.1 或更新版本。\r\n\r\n不確定目前的系統版本？在裝置的「設定」中搜尋「Android 版本」即可查看。\r\n\r\n為您帶來不便，深感歉意。\r\n"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Con la prossima patch del 25 maggio termineremo il supporto per i dispositivi con Android 7.0 o versioni precedenti. I giocatori con versioni non supportate non potranno più scaricare futuri aggiornamenti né accedere alla modalità online.\r\n\r\nLe modalità offline resteranno disponibili, incluse la modalità multigiocatore locale, le partite contro i bot o contro l'Automa.\r\n\r\nPer continuare a ricevere aggiornamenti e giocare online, aggiorna il tuo dispositivo a Android 7.1 o successivo, se possibile.\r\n\r\nNon sai quale versione stai usando? Cerca «versione Android» nelle impostazioni del tuo dispositivo.\r\n\r\nCi scusiamo per l'inconveniente.\r\n"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "5월 25일 예정된 패치 이후부터 Android 7.0 이하 버전을 사용하는 기기에 대한 지원이 종료됩니다. 구버전 기기를 사용 중인 플레이어는 향후 업데이트를 다운로드하거나 온라인 플레이를 이용할 수 없습니다.\r\n\r\n로컬 멀티플레이 모드, AI 대전, Automa 대전 등 오프라인 모드는 계속 이용할 수 있습니다.\r\n\r\n업데이트를 계속 받고 온라인 플레이를 이용하려면 가능하다면 기기를 Android 7.1 이상으로 업데이트해 주세요.\r\n\r\n현재 버전이 확실하지 않으신가요? 기기 설정에서 'Android 버전'을 검색해 보세요.\r\n\r\n불편을 드려 죄송합니다.\r\n"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Із виходом оновлення 25 травня ми припиняємо підтримку пристроїв з Android 7.0 та старішими версіями. Гравці на непідтримуваних версіях більше не зможуть завантажувати майбутні оновлення або користуватися онлайн-режимом.\r\n\r\nОфлайн-режими залишаться доступними, включно з локальним багатокористувацьким режимом, іграми проти ботів та проти Automa.\r\n\r\nЩоб і надалі отримувати оновлення та грати онлайн, будь ласка, оновіть свій пристрій до Android 7.1 або новішої версії, якщо це можливо.\r\n\r\nНе знаєте, яка у вас версія? Введіть «Версія Android» у рядку пошуку в налаштуваннях пристрою.\r\n\r\nПерепрошуємо за незручності.\r\n"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
         }
     ]
 }
