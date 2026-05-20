@@ -6028,6 +6028,495 @@
                 }
             ],
             "Actions": []
+        },
+        {
+            "ID": "8b0625f3-6008-4c52-81e5-5b801cfe38df",
+            "Tags": [
+                "MonsterCouch"
+            ],
+            "PlatformsToShowOn": 257,
+            "StartDateTicks": 639149760000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 2,
+            "IsPinned": false,
+            "PresetImageName": "",
+            "RemoteImageName": "Wyrmspan_Announcement.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "A New Adventure Awaits  - Wyrmspan Announcement"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "\"Nadlatuje nowa przygoda! Zapowiedź gry Na Skrzydłach Smoków! \r\n\""
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Ein neues Abenteuer wartet – Ankündigung von Schwingenschlag"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Une nouvelle aventure vous attend — Annonce de Wyrmspan"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Una nueva aventura te espera - Anuncio de Wyrmspan"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Uma nova aventura espera por você - Anúncio de Wyrmspan"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "新たな冒険が待っている—『ワイアームスパン』の発表"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Новое приключение ждёт — встречайте игру «Драконы»"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "全新冒险即将展开，《龙翼翱翔》正式公布"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "全新冒險即將展開，《龍翼翱翔》正式公布"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Una nuova avventura ti attende: annuncio di Wyrmspan"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "새로운 모험이 기다립니다 - Wyrmspan 공개"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Нова пригода чекає. Оголошення про вихід гри «Змієвир»"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "We’re excited to announce that we’re now working on our next game: Wyrmspan! "
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Z radością ogłaszamy, że pracujemy nad naszą kolejną grą: Na Skrzydłach Smoków!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Wir freuen uns sehr, dich darüber zu informieren, dass wir jetzt an unserem nächsten Spiel arbeiten: Schwingenschlag!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Nous avons le plaisir de vous annoncer que nous travaillons sur notre prochain jeu : Wyrmspan !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Nos emociona anunciar que estamos trabajando en nuestro próximo juego: Wyrmspan!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Estamos animados em anunciar que já estamos trabalhando em nosso próximo jogo: Wyrmspan!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "鋭意製作中の次回作『ワイアームスパン』を公開！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Рады сообщить, что мы работаем над нашей следующей игрой — «Драконы»!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "我们很高兴宣布，我们已经开始制作下一款游戏：《龙翼翱翔》！\n"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "我們很高興宣布，我們已經開始製作下一款遊戲：《龍翼翱翔》！\n"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Siamo lieti di annunciare che stiamo lavorando al nostro prossimo gioco: Wyrmspan!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "현재 작업 중인 새로운 게임인 Wyrmspan을 공개하게 되어 기쁩니다"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "З радістю повідомляємо, що зараз ми працюємо над нашою наступною грою — «Змієвиром»!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 257,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Wyrmspan takes you on a journey to a world of mysterious hidden caverns and extraordinary dragons, introducing new layers of strategy for aspiring dracologists to master. It’s a standalone strategy card game that feels familiar to Wingspan, but introduces new mechanics and lore to explore. \n\n<style=asia>Wishlist Wyrmspan on Steam to be among the first to explore this new world of dragons - just hit the button below!</style> \n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Na Skrzydłach Smoków zabierze Was do świata pełnego tajemniczych jaskiń i niezwykłych smoków, otwierając przed przyszłymi smokologami zupełnie nowe możliwości strategiczne. To samodzielna gra karciana, która zachowuje klimat dobrze znany z Na Skrzydłach, a jednocześnie wprowadza do rozgrywki nowe mechaniki i bogate uniwersum pełne smoczych ciekawostek.\n\n<style=asia>Dodaj Na Skrzydłach Smoków do listy życzeń na Steamie i dołącz do grona pierwszych smokologów - wystarczy kliknąć przycisk poniżej!</style>"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Schwingenschlag nimmt dich mit auf eine Reise in die Welt geheimnisvoller verborgener Höhlen und außergewöhnlicher Drachen – ganz neue strategische Ebenen warten darauf, von aufstrebenden Drakologen gemeistert zu werden. Schwingenschlag ist ein eigenständiges Strategie-Kartenspiel, das an Wingspan (Flügelschlag) erinnert, aber neue Mechaniken und eine Hintergrundgeschichte mitbringt.\n\n <style=asia>Setze Schwingenschlag auf deine Steam-Wunschliste und gehöre zu den Ersten, die diese neue Welt der Drachen erforschen – tippe einfach auf die Schaltfläche unten!</style>"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Wyrmspan vous transporte dans un monde mystérieux rempli de cavernes cachées et de dragons extraordinaires, offrant aux dracologues en herbe de nouvelles dimensions stratégiques à maîtriser. Ce jeu de cartes stratégique indépendant ressemble à Wingspan, mais propose des mécaniques inédites et un nouvel univers à découvrir.\n \n <style=asia>Ajoutez Wyrmspan à votre liste de souhaits Steam pour faire partie des premiers joueurs à explorer ce nouveau monde peuplé de dragons. Il vous suffit de cliquer sur le bouton ci-dessous !</style>"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "En Wyrmspan, emprenderás una aventura por un mundo repleto de misteriosas cavernas ocultas y dragones extraordinarios en el que los dracólogos principiantes podrán desarrollar sus estrategias. Se trata de un juego de estrategia de cartas independiente que recuerda a Wingspan, pero que también introduce nuevas mecánicas e historia que explorar. \n \n <style=asia>Añade Wyrmspan a tu lista de deseados de Steam para ser de las primeras personas en explorar este nuevo mundo de dragones. ¡Solo tienes que pulsar el botón de abajo!</style>"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "\"Wyrmspan leva você a uma jornada por um mundo de cavernas misteriosas e dragões extraordinários, apresentando novas camadas de estratégia para dracologistas aspirantes dominarem. É um jogo de cartas estratégico independente que traz a familiaridade de Wingspan, mas apresenta novas mecânicas e uma nova mitologia para explorar. \n \n \n <style=asia>Adicione Wyrmspan à sua lista de desejos no Steam para explorar antes esse novo mundo de dragões – basta clicar no botão abaixo!</style>\""
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "『ワイアームスパン』は、プレイヤーを謎に満ちた秘密の洞窟と尋常ではないドラゴンの世界への冒険に連れ出します。本作は野心的なドラゴン研究者がマスターすべき、新たな深みを持った戦略をもたらします。『ウイングスパン』のシステムを踏襲しつつも、新たなシステムと物語をプラスした、スタンドアローンのストラテジーカードゲームです。\n \n \n <style=asia>『ワイアームスパン』をSteamのウィッシュリストに追加して、いち早く新しいドラゴンの世界を探索しましょう。今すぐ下のボタンをクリック！</style>"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "В Wyrmspan вы отправитесь в путешествие по миру таинственных пещер и причудливых драконов. Новые стратегические вершины ждут начинающих драконологов! «Драконы» — это самостоятельная стратегическая карточная игра, которая напоминает «Крылья», но имеет свои особенности и рассказывает новые истории.\n \n \n <style=asia>Добавьте «Драконы» в свой список желаемого в Steam и исследуйте новый мир в числе первых!</style>"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "《龙翼翱翔》将带你踏上一段探索神秘洞窟与奇异龙族的旅程，并为立志成为龙类学者的玩家带来更多值得钻研的全新策略层次。这是一款独立策略卡牌游戏，既保留了《展翅翱翔》熟悉的乐趣，又加入了全新的机制与世界观等待你去探索。\n\n<style=asia>现在就将《龙翼翱翔》加入Steam愿望单，成为最早探索这片全新龙族世界的玩家之一吧，只需点击下方按钮！</style>"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "《龍翼翱翔》將帶你踏上一段探索神秘洞窟與奇異龍族的旅程，並為立志成為龍類學者的玩家帶來更多值得探索的全新策略層次。這是一款獨立策略卡牌遊戲，既保留了《展翅翱翔》熟悉的樂趣，又加入了全新的機制與世界觀等待你去探索。\n\n\n<style=asia>現在就將《龍翼翱翔》加入Steam願望單，成為最早探索這片全新龍族世界的玩家之一吧，只需點擊下方按鈕！</style>"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "In Wyrmspan affronterai un viaggio in un mondo di caverne segrete misteriose e draghi straordinari, con nuovi elementi strategici che ogni aspirante dragologo deve padroneggiare. È un gioco di carte strategico simile a Wingspan, ma introduce nuove meccaniche e un nuovo universo. \n \n <style=asia>Aggiungi Wyrmspan alla tua Lista dei desideri di Steam per essere tra i primi a esplorare questo nuovo mondo di draghi: premi il pulsante qui sotto!</style>"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "Wyrmspan은 숨겨진 신비로운 동굴과 특별한 드래곤들이 있는 세계로 여러분들을 안내하며, 야심 넘치는 탐험가 여러분들을 위해 새로운 전략의 깊이를 제공합니다. 본 게임은 윙스팬과 비슷한 스타일의 독립형 전략 카드 게임이지만, 새로운 매커니즘과 세계관을 선보입니다.\n\n<style=asia>Steam에서 Wyrmspan을 찜 목록에 추가해 새로운 드래곤의 세계를 탐험해보세요. 아래 버튼을 누르세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "«Змієвир» перенесе вас до світу таємничих печер і дивовижних драконів, що дозволить допитливим драконологам відкрити нові горизонти стратегії. Це самостійна стратегічна карткова гра, яка дещо нагадує «Крила», але пропонує нові механіки й історію, з якими вам належить познайомитися. \n \n <style=asia>Додайте «Змієвир» до списку бажаного в Steam, щоб першими дослідити цей новий світ драконів, — лише натисніть на кнопку нижче!</style>"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 766,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Wyrmspan takes you on a journey to a world of mysterious hidden caverns and extraordinary dragons, introducing new layers of strategy for aspiring dracologists to master. It’s a standalone strategy card game that feels familiar to Wingspan, but introduces new mechanics and lore to explore. \n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Na Skrzydłach Smoków zabierze Was do świata pełnego tajemniczych jaskiń i niezwykłych smoków, otwierając przed przyszłymi smokologami zupełnie nowe możliwości strategiczne. To samodzielna gra karciana, która zachowuje klimat dobrze znany z Na Skrzydłach, a jednocześnie wprowadza do rozgrywki nowe mechaniki i bogate uniwersum pełne smoczych ciekawostek.\n"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Schwingenschlag nimmt dich mit auf eine Reise in die Welt geheimnisvoller verborgener Höhlen und außergewöhnlicher Drachen – ganz neue strategische Ebenen warten darauf, von aufstrebenden Drakologen gemeistert zu werden. Schwingenschlag ist ein eigenständiges Strategie-Kartenspiel, das an Wingspan (Flügelschlag) erinnert, aber neue Mechaniken und eine Hintergrundgeschichte mitbringt."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Wyrmspan vous transporte dans un monde mystérieux rempli de cavernes cachées et de dragons extraordinaires, offrant aux dracologues en herbe de nouvelles dimensions stratégiques à maîtriser. Ce jeu de cartes stratégique indépendant ressemble à Wingspan, mais propose des mécaniques inédites et un nouvel univers à découvrir.\n"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "En Wyrmspan, emprenderás una aventura por un mundo repleto de misteriosas cavernas ocultas y dragones extraordinarios en el que los dracólogos principiantes podrán desarrollar sus estrategias. Se trata de un juego de estrategia de cartas independiente que recuerda a Wingspan, pero que también introduce nuevas mecánicas e historia que explorar. \n"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Wyrmspan leva você a uma jornada por um mundo de cavernas misteriosas e dragões extraordinários, apresentando novas camadas de estratégia para dracologistas aspirantes dominarem. É um jogo de cartas estratégico independente que traz a familiaridade de Wingspan, mas apresenta novas mecânicas e uma nova mitologia para explorar. \n"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "『ワイアームスパン』は、プレイヤーを謎に満ちた秘密の洞窟と尋常ではないドラゴンの世界への冒険に連れ出します。本作は野心的なドラゴン研究者がマスターすべき、新たな深みを持った戦略をもたらします。『ウイングスパン』のシステムを踏襲しつつも、新たなシステムと物語をプラスした、スタンドアローンのストラテジーカードゲームです。\n"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "В Wyrmspan вы отправитесь в путешествие по миру таинственных пещер и причудливых драконов. Новые стратегические вершины ждут начинающих драконологов! «Драконы» — это самостоятельная стратегическая карточная игра, которая напоминает «Крылья», но имеет свои особенности и рассказывает новые истории.\n"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "《龙翼翱翔》将带你踏上一段探索神秘洞窟与奇异龙族的旅程，并为立志成为龙类学者的玩家带来更多值得钻研的全新策略层次。这是一款独立策略卡牌游戏，既保留了《展翅翱翔》熟悉的乐趣，又加入了全新的机制与世界观等待你去探索。\n"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "《龍翼翱翔》將帶你踏上一段探索神秘洞窟與奇異龍族的旅程，並為立志成為龍類學者的玩家帶來更多值得探索的全新策略層次。這是一款獨立策略卡牌遊戲，既保留了《展翅翱翔》熟悉的樂趣，又加入了全新的機制與世界觀等待你去探索。\n"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "In Wyrmspan affronterai un viaggio in un mondo di caverne segrete misteriose e draghi straordinari, con nuovi elementi strategici che ogni aspirante dragologo deve padroneggiare. È un gioco di carte strategico simile a Wingspan, ma introduce nuove meccaniche e un nuovo universo. \n \n"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "Wyrmspan은 숨겨진 신비로운 동굴과 특별한 드래곤들이 있는 세계로 여러분들을 안내하며, 야심 넘치는 탐험가 여러분들을 위해 새로운 전략의 깊이를 제공합니다. 본 게임은 윙스팬과 비슷한 스타일의 독립형 전략 카드 게임이지만, 새로운 매커니즘과 세계관을 선보입니다.\n<style=asia>"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "«Змієвир» перенесе вас до світу таємничих печер і дивовижних драконів, що дозволить допитливим драконологам відкрити нові горизонти стратегії. Це самостійна стратегічна карткова гра, яка дещо нагадує «Крила», але пропонує нові механіки й історію, з якими вам належить познайомитися. \n"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "For updates, discussions, and sneak peeks, join our Discord server. For exclusive announcements and playtest invites, sign up for the Monster Couch newsletter.\n\n<style=asia>See you in the Dragon Guild! </style>"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Zajrzyj na nasz serwer Discord, aby śledzić aktualności, brać udział w dyskusjach i podglądać kulisy powstawania gry. Jeśli chcesz otrzymywać ekskluzywne ogłoszenia oraz zaproszenia do testów, zapisz się do newslettera Monster Couch.\n\r\n<style=asia>Do zobaczenia w Smoczej Gildii!</style>\r\""
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Für Neuigkeiten, Diskussionen und erste Einblicke tritt unserem Discord-Server bei. Um exklusive Ankündigungen und Einladungen zu Spieltests zu erhalten, melde dich für den Monster Couch-Newsletter an.\n \n <style=asia>Wir sehen uns in der Drachengilde! </style>"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Pour suivre nos actualités, échanger avec nous et découvrir les dernières nouveautés en avant-première, rejoignez notre serveur Discord. Pour recevoir des annonces exclusives et des invitations aux tests de jeu, inscrivez-vous à la newsletter de Monster Couch.\n \n <style=asia>À bientôt dans la Guilde Draconique ! </style>"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Para ver actualizaciones, debates y adelantos, únete a nuestro servidor de Discord. Si quieres ver anuncios exclusivos y recibir invitaciones a pruebas del juego, apúntate al boletín de Monster Couch.\n \n <style=asia>¡Nos vemos en el Gremio de los Dragones! </style>"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Para ficar por dentro das atualizações, discussões e prévias exclusivas, entre no nosso servidor do Discord. Para anúncios exclusivos e convites para testes, inscreva-se na newsletter de Monster Couch.\n \n <style=asia>Nos vemos na Guilda do Dragão! </style>"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "Discordサーバーに参加すると、アップデート、ディスカッション、プレビューの情報が得られます。限定アナウンスとプレイテストへの招待を受けるには、Monster CouchのNewsletterにサインアップしてください。\n \n <style=asia>ドラゴンギルドでお会いしましょう！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Чтобы всегда оставаться в курсе новостей, обсуждений и подробностей, присоединяйтесь к нашему серверу в Discord. Или подпишитесь на новостную рассылку Monster Couch, чтобы не упустить эксклюзивные анонсы и приглашения на тестирование.\n \n <style=asia>До встречи в гильдии драконов!</style>"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "想获取最新动态、参与交流并抢先观看开发内容，欢迎加入我们的Discord服务器。若想收到独家公告与测试邀请，也别忘了订阅Monster Couch新闻通讯。\n\n<style=asia>飞龙公会见！</style>"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "想獲取最新動態、參與討論並搶先觀看開發內容，歡迎加入我們的Discord服務器。若想收到獨家公告與測試邀請，也別忘了訂閱Monster Couch新聞通訊。\n\n<style=asia>飛龍公會見！</style>"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Per aggiornamenti, discussioni e anteprime, unisciti al nostro server Discord. Per annunci esclusivi e inviti ai test di gioco, iscriviti alla newsletter di Monster Couch.\n \n <style=asia>Ci vediamo nella Gilda dei Draghi! </style>"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "업데이트, 토론, 그냥 지켜보기 등 원하는 게 있다면 Discord 서버로 오세요. 독점 공고 및 플레이 테스트 초대를 위해 Monster Couch 뉴스레터에 가입하세요.\n\n<style=asia>드래곤 길드에서 뵙죠!</style>"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Щоб дізнаватися про найсвіжіші новини й подробиці, а також брати участь в обговореннях, приєднуйтеся до нашого Discord-сервера. А отримувати ексклюзивні оголошення та запрошення на тестування ви зможете, підписавшись на розсилання від Monster Couch.\n \n <style=asia>До зустрічі в Гільдії драконів! </style>"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 257,
+                    "Value": "https://store.steampowered.com/app/3339080/Wyrmspan/",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Wishlist now!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Dodaj Do Listy Życzeń!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Auf die Wunschliste!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Ajoutez-le à votre liste de souhaits !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Añadidlo ya a vuestra lista de deseados!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "+ Lista de desejos!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "今すぐウィッシュリストに追加！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Добавьте в список желаемого!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "立即新增至願望清單！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "即刻加入愿望单！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Aggiungi alla lista dei desideri!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "지금 찜 목록에 추가하세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Додайте до списку бажаного!"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 269,
+                    "Value": "https://discord.gg/AeEaKpKC2G",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Join Discord!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Dołącz do Discorda!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Discord beitreten!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Rejoignez notre serveur Discord !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Uníos a Discord!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Participe do Discord!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "Discordに参加しよう！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Присоединяйтесь к Discord!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "加入 Discord！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "加入 Discord！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Entra nel nostro Discord!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "디스코드에 참여하세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Приєднуйтесь у Discord!"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 783,
+                    "Value": "https://www.monstercouch.com/game/wyrmspan/",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Visit Website! "
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Odwiedź Stronę Internetową!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Website besuchen! "
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Explorez notre site Internet ! "
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Visitad la página web! "
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Visite nosso site! "
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "ウェブサイトを見てみよう！ "
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Посетите сайт! "
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "造訪網站！ "
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "访问官方网站！ "
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Visita il sito web! "
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "웹사이트에 방문해보세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Відвідайте сайт! "
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
