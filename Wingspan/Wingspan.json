@@ -6214,66 +6214,7 @@
                     }
                 },
                 {
-                    "PlatformsToShowOn": 766,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Wyrmspan takes you on a journey to a world of mysterious hidden caverns and extraordinary dragons, introducing new layers of strategy for aspiring dracologists to master. It’s a standalone strategy card game that feels familiar to Wingspan, but introduces new mechanics and lore to explore. \n"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Na Skrzydłach Smoków zabierze Was do świata pełnego tajemniczych jaskiń i niezwykłych smoków, otwierając przed przyszłymi smokologami zupełnie nowe możliwości strategiczne. To samodzielna gra karciana, która zachowuje klimat dobrze znany z Na Skrzydłach, a jednocześnie wprowadza do rozgrywki nowe mechaniki i bogate uniwersum pełne smoczych ciekawostek.\n"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Schwingenschlag nimmt dich mit auf eine Reise in die Welt geheimnisvoller verborgener Höhlen und außergewöhnlicher Drachen – ganz neue strategische Ebenen warten darauf, von aufstrebenden Drakologen gemeistert zu werden. Schwingenschlag ist ein eigenständiges Strategie-Kartenspiel, das an Wingspan (Flügelschlag) erinnert, aber neue Mechaniken und eine Hintergrundgeschichte mitbringt."
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Wyrmspan vous transporte dans un monde mystérieux rempli de cavernes cachées et de dragons extraordinaires, offrant aux dracologues en herbe de nouvelles dimensions stratégiques à maîtriser. Ce jeu de cartes stratégique indépendant ressemble à Wingspan, mais propose des mécaniques inédites et un nouvel univers à découvrir.\n"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "En Wyrmspan, emprenderás una aventura por un mundo repleto de misteriosas cavernas ocultas y dragones extraordinarios en el que los dracólogos principiantes podrán desarrollar sus estrategias. Se trata de un juego de estrategia de cartas independiente que recuerda a Wingspan, pero que también introduce nuevas mecánicas e historia que explorar. \n"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Wyrmspan leva você a uma jornada por um mundo de cavernas misteriosas e dragões extraordinários, apresentando novas camadas de estratégia para dracologistas aspirantes dominarem. É um jogo de cartas estratégico independente que traz a familiaridade de Wingspan, mas apresenta novas mecânicas e uma nova mitologia para explorar. \n"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "『ワイアームスパン』は、プレイヤーを謎に満ちた秘密の洞窟と尋常ではないドラゴンの世界への冒険に連れ出します。本作は野心的なドラゴン研究者がマスターすべき、新たな深みを持った戦略をもたらします。『ウイングスパン』のシステムを踏襲しつつも、新たなシステムと物語をプラスした、スタンドアローンのストラテジーカードゲームです。\n"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "В Wyrmspan вы отправитесь в путешествие по миру таинственных пещер и причудливых драконов. Новые стратегические вершины ждут начинающих драконологов! «Драконы» — это самостоятельная стратегическая карточная игра, которая напоминает «Крылья», но имеет свои особенности и рассказывает новые истории.\n"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "《龙翼翱翔》将带你踏上一段探索神秘洞窟与奇异龙族的旅程，并为立志成为龙类学者的玩家带来更多值得钻研的全新策略层次。这是一款独立策略卡牌游戏，既保留了《展翅翱翔》熟悉的乐趣，又加入了全新的机制与世界观等待你去探索。\n"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "《龍翼翱翔》將帶你踏上一段探索神秘洞窟與奇異龍族的旅程，並為立志成為龍類學者的玩家帶來更多值得探索的全新策略層次。這是一款獨立策略卡牌遊戲，既保留了《展翅翱翔》熟悉的樂趣，又加入了全新的機制與世界觀等待你去探索。\n"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "In Wyrmspan affronterai un viaggio in un mondo di caverne segrete misteriose e draghi straordinari, con nuovi elementi strategici che ogni aspirante dragologo deve padroneggiare. È un gioco di carte strategico simile a Wingspan, ma introduce nuove meccaniche e un nuovo universo. \n \n"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "Wyrmspan은 숨겨진 신비로운 동굴과 특별한 드래곤들이 있는 세계로 여러분들을 안내하며, 야심 넘치는 탐험가 여러분들을 위해 새로운 전략의 깊이를 제공합니다. 본 게임은 윙스팬과 비슷한 스타일의 독립형 전략 카드 게임이지만, 새로운 매커니즘과 세계관을 선보입니다.\n<style=asia>"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "«Змієвир» перенесе вас до світу таємничих печер і дивовижних драконів, що дозволить допитливим драконологам відкрити нові горизонти стратегії. Це самостійна стратегічна карткова гра, яка дещо нагадує «Крила», але пропонує нові механіки й історію, з якими вам належить познайомитися. \n"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "PlatformsToShowOn": 1023,
+                    "PlatformsToShowOn": 257,
                     "Text": {
                         "LocalizedTexts": [
                             {
@@ -6336,7 +6277,7 @@
                 {
                     "ActionType": 0,
                     "PlatformsToShowOn": 257,
-                    "Value": "https://store.steampowered.com/app/3339080/Wyrmspan/",
+                    "Value": "https://store.steampowered.com/app/3339080?utm_source=wingspan_newscenter&utm_campaign=wyrmspan_reveal&utm_medium=ingame&utm_content=reveal_post",
                     "ButtonText": {
                         "LocalizedTexts": [
                             {
@@ -6397,7 +6338,7 @@
                 {
                     "ActionType": 0,
                     "PlatformsToShowOn": 269,
-                    "Value": "https://discord.gg/AeEaKpKC2G",
+                    "Value": "https://discord.gg/9Cbewgxt4q",
                     "ButtonText": {
                         "LocalizedTexts": [
                             {
