@@ -6337,7 +6337,7 @@
                 },
                 {
                     "ActionType": 0,
-                    "PlatformsToShowOn": 269,
+                    "PlatformsToShowOn": 257,
                     "Value": "https://discord.gg/9Cbewgxt4q",
                     "ButtonText": {
                         "LocalizedTexts": [
@@ -6398,7 +6398,7 @@
                 },
                 {
                     "ActionType": 0,
-                    "PlatformsToShowOn": 783,
+                    "PlatformsToShowOn": 257,
                     "Value": "https://www.monstercouch.com/game/wyrmspan/",
                     "ButtonText": {
                         "LocalizedTexts": [
