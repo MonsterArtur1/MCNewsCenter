@@ -1,6 +1,7 @@
 {
   "LocalDisabledBirds": [],
   "OnlineDisabledBirds": [],
+  "IsSeasonPassEnabled": true,
   "LiveServerOverrides": [{
       "PlatformName": "Gog_win",
       "BuildVersion": 9999,
