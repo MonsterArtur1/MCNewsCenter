@@ -1,6 +1,7 @@
 {
   "LocalDisabledBirds": [],
   "OnlineDisabledBirds": [],
+  "IsSeasonPassEnabled": true,
   "LiveServerOverrides": [{
       "PlatformName": "Switch",
       "BuildVersion": 9999,
