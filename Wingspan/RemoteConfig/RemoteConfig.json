@@ -200,11 +200,11 @@
     },
     {
       "EventType": "GameplayActions",
-      "Enabled": false
+      "Enabled": true
     },
     {
       "EventType": "GameSetup",
-      "Enabled": false
+      "Enabled": true
     }
   ],
   "LiveServerOverrides": []
