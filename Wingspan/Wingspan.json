@@ -4842,194 +4842,6 @@
             "Actions": []
         },
         {
-            "ID": "9203c788-1acb-4ff1-9c27-89996f548283",
-            "Tags": [
-                "Update",
-                "Online"
-            ],
-            "PlatformsToShowOn": 1023,
-            "StartDateTicks": 638965152000000000,
-            "EndDateTicks": 946391904000000000,
-            "Priority": 2,
-            "IsPinned": false,
-            "PresetImageName": "",
-            "RemoteImageName": "Wingspan_OnlineUpdate_Announcement.png",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Wingspan Online Update Coming Soon"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Aktualizacja Trybu Online Na Skrzydłach już wkrótce!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Update zur Wingspan-Onlinefunktion kommt bald"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Mise à jour en ligne de Wingspan bientôt disponible"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "Llega una actualización del modo en línea a Wingspan"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Atualização online de Wingspan em breve"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "ウイングスパン・オンラインアップデートが間もなく登場"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "В Wingspan скоро выйдет обновление для сетевой игры"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "《展翅翱翔》线上模式更新即将到来"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "《展翅翱翔》線上模式更新即將到來"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Aggiornamento di Wingspan Online presto in arrivo"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "윙스팬 온라인 업데이트 발매 예정"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "У Wingspan скоро вийде оновлення для мережевої гри"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "We’ve been listening closely to your feedback, and we’re excited to announce that our next Online Mode update is coming soon to Wingspan!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Uważnie słuchaliśmy Waszych opinii i z radością ogłaszamy, że nadchodzi kolejna aktualizacja trybu Online w Na Skrzydłach!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Wir haben euer Feedback gehört und freuen uns, ankündigen zu können, das unser nächstes Wingspan-Update zum Online-Modus in Kürze ansteht!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Nous avons écouté attentivement vos commentaires et sommes ravis de vous annoncer que la prochaine mise à jour du mode en ligne sera bientôt disponible dans Wingspan !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Hemos tenido en cuenta vuestros comentarios y es un placer anunciar que nuestra próxima actualización del modo en línea llegará pronto a Wingspan!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Ouvimos atentamente a todos os comentários e estamos animados em anunciar que nossa próxima atualização do modo online chegará em breve em Wingspan!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "私たちは皆様からのフィードバックに注意深く耳を傾けてきました。まもなく次のオンラインモードアップデートがウイングスパンに登場することをお知らせいたします！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Мы внимательно изучили ваши отзывы и теперь с радостью сообщаем, что скоро для сетевого режима Wingspan выйдет свежее обновление!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "我们一直在认真聆听大家的反馈，并很高兴地宣布：《展翅翱翔》的下一次线上模式更新即将到来！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "我們一直在認真聆聽大家的反饋，並很高興地宣布：《展翅翱翔》的下一次線上模式更新即將到來！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Abbiamo ascoltato attentamente il vostro feedback e siamo lieti di annunciare che il prossimo aggiornamento per la modalità online arriverà presto su Wingspan!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "여러분의 피드백을 면밀히 확인했으며, 곧 다음 업데이트로 온라인 모드 업데이트가 윙스팬에 찾아옵니다!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Ми уважно прочитали ваші відгуки і тепер з радістю повідомляємо, що скоро для мережевого режиму Wingspan вийде свіже оновлення!"
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 1023,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Soon, you’ll be able to connect with fellow players more easily thanks to the new <style=base>in-game Your Friends list</style>, enjoy a more forgiving and uninterrupted experience in matchmaking with <style=base>AI that steps in if you run out of time</style>, and spread your wings in <style=base>Duet Mode with both the Asia and Oceania expansions enabled</style>. And to make sure you never miss a move, we’re also introducing <style=base>in-game notifications</style> that will let you know when it’s your turn in another matchmaking game, or when time is almost up. \n\nBefore the update goes live, we’ll be performing a short server maintenance. We’ll be sharing the exact time and duration soon, so stay tuned! \n\nWe hope these quality of life improvements will make your Wingspan experience feathery smooth. \n\nSee you soon! "
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Już wkrótce będziecie mogli łatwiej łączyć się z innymi graczami dzięki nowej <style=base>Liście Znajomych w grze</style>, cieszyć się bardziej przyjaznym i nieprzerywanym trybem Szukania Graczy dzięki <style=base>Sztucznej Inteligencji, która wkracza, gdy zabraknie Ci czasu</style>, oraz rozwinąć skrzydła w <style=base>Trybie Duetu z włączonymi dodatkami Ptaki Azji i Ptaki Oceanii</style>. Aby nigdy nie przegapić swojego ruchu, wprowadzamy też <style=base>powiadomienia w grze</style>, które poinformują Cię, kiedy nadejdzie Twój ruch w innym meczu, lub gdy czas w aktywnej rozgrywce dobiega końca.\n\nPrzed udostępnieniem aktualizacji przeprowadzimy krótkie prace konserwacyjne serwerów. Dokładną datę i czas trwania prac podamy wkrótce, więc bądźcie czujni!\n\nMamy nadzieję, że te usprawnienia sprawią, że Wasze doświadczenia w „Na Skrzydłach” będą przyjemne i lekkie jak piórko.\n \nDo zobaczenia wkrótce!"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Bald könnt ihr euch – dank der neuen <style=base>Freundesliste im Spiel</style> – noch leichter mit euren Mitspielern verbinden, im neu verfügbaren <style=base>Duellmodus für die Asien- und Ozeanien-Erweiterungen</style> eure Flügel ausbreiten und eine tolerantere und störungsfreiere Erfahrung in Spielersuche-Spielen genießen, denn <style=base>die KI übernimmt Züge für Spieler, deren Zeit abgelaufen ist</style>. Und damit ihr keine eurer Spielzüge mehr verpasst, führen wir <style=base>In-Game-Benachrichtigungen</style> ein, die euch Bescheid geben, wenn ihr in einem anderen Spielersuche-Spiel am Zug seid oder eure Zeit fast abgelaufen ist.\n\nBevor das Update veröffentlicht wird, führen wir eine kurze Serverwartung durch. Den genauen Zeitpunkt und die Dauer geben wir in Kürze bekannt, also bleibt dran!\n\nWir hoffen, diese Verbesserungen bereiten euch ein federleichtes Wingspan-Erlebnis.\n\nBis bald!"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Bientôt, vous pourrez plus facilement entrer en contact avec d'autres joueurs grâce à la nouvelle <style=base>liste d'amis dans le jeu</style>, profiter d'une expérience de jeu plus fluide et sans interruption grâce à <style=base>l'IA qui intervient lorsque le temps de jeu est écoulé</style> et déployer vos ailes dans le <style=base>mode Duo avec les extensions Asie et Océanie</style>. Et pour vous permettre de ne jamais manquer votre tour, nous avons également mis en place un système de <style=base>notifications dans le jeu</style> qui vous avertit lorsque c'est à votre tour de jouer dans une autre partie en cours ou lorsque le temps imparti est presque écoulé. \n\nNous procéderons à une brève maintenance du serveur avant le lancement de la mise à jour. Nous vous communiquerons bientôt ses horaires et sa durée exacte, alors restez à l'affût ! \n\nNous espérons que ces améliorations de la qualité de vie rendront votre expérience Wingspan aussi fluide que possible. \n\nÀ bientôt ! "
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Dentro de poco, podréis conectar con amigos jugadores más fácilmente gracias a la <style=base>lista de amigos dentro del juego</style>. Además, disfrutaréis de una experiencia más permisiva y con menos interrupciones en el sistema de emparejamiento, ya que <style=base>la IA jugará los turnos cuando os quedéis sin tiempo</style>, y podréis alzar el vuelo aún más alto en el <style=base>modo dúo con las expansiones tanto de Asia como de Oceanía habilitadas</style>. Por otro lado, para garantizar que nunca os perdáis ni una jugada, también vamos a introducir las <style=base>notificaciones dentro del juego</style>, que os avisarán cuando sea vuestro turno en una partida en línea o cuando estéis a punto de quedaros sin tiempo.\n\nAntes de lanzar la actualización, llevaremos a cabo un breve mantenimiento del servidor. Pronto os informaremos de la hora y la duración exactas, ¡así que manteneos al tanto!\n\nEsperamos que estas mejoras de calidad de vida hagan que vuestra experiencia en Wingspan sea más fluida que el vuelo de un ave majestuosa. \n\n¡Nos vemos pronto!"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Logo, você poderá se conectar aos seus amigos com mais facilidade graças à nova <style=base>lista de amigos do jogo</style>, curtir uma experiência mais fluida no pareamento com <style=base>IA que intervém ao acabar o tempo</style>, e abrir suas asas no <style=base>Modo Dueto com as expansões da Ásia e Oceania habilitadas</style>. E para não perder nenhum movimento, também estamos apresentando as <style=base>notificações do jogo</style> que informarão quando for sua vez em outro pareamento ou quando seu tempo estiver quase acabando. \n\nAntes da atualização ser lançada, realizaremos uma breve manutenção no servidor. Compartilharemos o horário exato e duração em breve, então fiquem ligados! \n\nEsperemos que estas melhorias de qualidade de vida tornem sua experiência em Wingspan mais fluida. \n\nNos vemos em breve! "
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "新しい<style=base>ゲーム内フレンドリスト</style>により、まもなくより簡単に仲間プレイヤーと繋がることができるようになります。マッチメイキングで<style=base>時間切れになった場合はAIが代わりにプレイします。</style>さらに遊びやすく途切れることのないゲーム体験をお楽しみください。また、<style=base>「東洋の翼」および「大洋の翼」拡張の両方を使って、つがいモード</style>で翼を広げましょう。また、ひとつの動きも見逃さないように、他のマッチメイキングゲームで手番が回ってきた時や、もうすぐ時間切れになりそうな時に通知を行う<style=base>ゲーム内通知</style>を導入しました。\n\nアップデートの導入前に、短時間のサーバーメンテナンスを実施します。正確な日時と期間は間もなくお知らせいたしますので、情報をお見逃しなく！\n\nこのQOLの改善で、ウイングスパンのプレイ体験が羽毛のように滑らかになることでしょう。\n\nまたお会いしましょう！"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Благодаря новому <style=base>списку друзей</style> вам будет проще находить друзей и играть с ними. Матчи станут комфортнее и динамичнее: теперь <style=base>ИИ будет делать ход за игроков, которые не успели сделать его сами</style>. И наконец, вы сможете расправить крылья в <style=base>режиме дуэта с включёнными дополнениями «Птицы Азии» и «Птицы Океании»</style>! А чтобы вы больше не пропускали свои ходы, мы добавили <style=base>уведомления</style>. Они напомнят о том, что в другом сетевом матче наступил ваш ход или что время на ход истекает.\n\nПеред установкой обновления мы отключим серверы для проведения технических работ. Точное время и продолжительность отключения станут известны очень скоро. Следите за новостями!\n\nНадеемся, что благодаря нововведениям игра в Wingspan станет лёгкой как пёрышко. \n\nДо скорого!"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "很快，你将能通过新的 <style=base>游戏内好友列表</style> 更轻松地与其他玩家建立联系。如果你超时，将由 <style=base>AI 接管继续游戏</style>，在匹配中也能享受更宽容、不易中断的体验。你还可以在 <style=base>开启亚洲与大洋洲扩展包的双人对决模式</style> 中尽情展翅飞翔。为了确保你不错过任何一步，我们还将推出 <style=base>游戏内通知功能</style>，在你参加其他匹配游戏中轮到行动或时间即将用尽时提醒你。\n\n在更新正式上线前，我们将进行一次短暂的服务器维护。我们很快就会公布具体的时间，敬请关注！\n\n我们希望这些优化能让你的《展翅翱翔》体验更加轻盈流畅。\n\n不久之后见！"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "很快，你將能通過新的 <style=base>遊戲內好友列表</style> 更輕鬆地與其他玩家建立聯繫。如果你超時，將由 <style=base>AI 接管繼續遊戲</style>，在匹配中也能享受更寬容、不易中斷的體驗。你還可以在 <style=base>開啟亞洲與大洋洲擴展包的雙人對決模式</style> 中盡情展翅飛翔。為了確保你不錯過任何一步，我們還將推出 <style=base>遊戲內通知功能</style>，在你參加其他匹配遊戲中輪到行動或時間即將用盡時提醒你。\n\n在更新正式上線前，我們將進行一次短暫的服務器維護。我們很快就會公布具體的時間，敬請關注！\n\n我們希望這些優化能讓你的《展翅翱翔》體驗更加輕盈流暢。\n\n不久之後見！"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Presto, potrete collegarvi con gli altri giocatori più facilmente grazie alla nuova <style=base>lista amici all'interno del gioco</style>, godervi un'esperienza più flessibile e senza pause nel matchmaking, grazie <style=base>all'IA che interviene se termina il tempo</style> e spiccare il volo nella <style=base>modalità Duetto attivando entrambe le espansioni Asia e Oceania</style>. E per essere sicuri che non vi perdiate neanche una mossa, abbiamo aggiunto anche le <style=base>notifiche all'interno del gioco</style> per comunicarvi quando è il vostro turno in un'altra partita o quando il tempo sta per scadere.\n\nPrima di rilasciare l'aggiornamento, eseguiremo una breve manutenzione dei server. Vi comunicheremo presto la data e la durata precise!\n\nCi auguriamo che questi miglioramenti renderanno più fluida la vostra esperienza su Wingspan.\n\nA presto!"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "이제 새로운 <style=base>인게임 친구 목록</style>과 함께 친구들과 더 쉽게 연결되고, 매치메이킹에서 <style=base>시간 초과 시 AI가 대신 게임을 진행</style>해주는 요소로 보다 너그럽고 연속적인 경험을 이어나가며, <style=base>듀엣 모드가 활성화된 아시아 및 오세아니아 확장</style>에서 날개를 펼쳐보세요. 또한 게임을 놓치지 않기 위해, 다른 매치메이킹 게임에서 여러분의 턴이 되거나, 시간이 거의 다 되었을 경우를 알려주는 <style=base>인게임 알림</style>을 소개합니다.\n\n업데이트 전, 짧은 서버 유지 보수 절차가 있을 예정입니다. 정확한 시간 고지는 곧 알려드릴 테니, 기다려주세요!\n\n이번 편의성 개선 업데이트로 여러분의 윙스팬 경험이 솜털처럼 부드럽길 바랍니다. \n\n곧 다시 뵙지요!"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Завдяки новому <style=base>переліку друзів</style> вам буде простіше знаходити друзів і грати з ними. Матчі стануть комфортнішими й динамічнішими: тепер <style=base>ШІ буде робити хід за гравців, які не встигли зробити його самі</style>. І нарешті, ви зможете розправити крила у <style=base>режимі дуету з увімкненими доповненнями «Птахи Азії» й «Птахи Океанії»</style>! А щоб ви більше не пропускали свої ходи, ми додали <style=base>сповіщення</style>. Вони нагадають про те, що в іншому мережевому матчі наступив ваш хід або що час на хід спливає.\n\nПеред встановленням оновлення ми відключимо сервери для проведення технічних робіт. Точний час і тривалість відключення будуть відомі вже скоро. Слідкуйте за новинами!\n\nСподіваємося, що завдяки нововведенням гра у Wingspan стане легкою, наче пір'їнка. \n\nСкоро побачимося! "
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": []
-        },
-        {
             "ID": "3e8f7cf7-4154-4494-86c1-a43b399e423c",
             "Tags": [
                 "Update",
@@ -6460,749 +6272,6 @@
             ]
         },
         {
-            "ID": "7becd317-9e47-4d7e-bcb6-2af1cbdfc7db",
-            "Tags": [
-                "NewContent"
-            ],
-            "PlatformsToShowOn": 257,
-            "StartDateTicks": 639164736000000000,
-            "EndDateTicks": 946391904000000000,
-            "Priority": 2,
-            "IsPinned": false,
-            "PresetImageName": "",
-            "RemoteImageName": "British Birds Newscenter.png",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Introducing Wingspan Bird Pack: British Birds! "
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Przedstawiamy Na Skrzydłach: Ptasia Paczka – Brytyjskie Ptaki!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Jetzt erhältlich: „Wingspan-Vogelpaket: Vögel aus Großbritannien“!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Découvrez le Pack Oiseaux britanniques de Wingspan !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Presentamos el paquete Aves británicas de Wingspan!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Apresentando o Pacote de Aves de Wingspan: Aves Britânicas!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "『ウイングスパン』バードパック「英国の鳥類」が登場！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Встречайте набор «Птицы Британии» для «Крыльев»!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "《展翅翱翔》鸟类牌包：英国鸟类 正式登场！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "《展翅翱翔》鳥類牌包：英國鳥類 正式登場！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Vi presentiamo il Pacchetto di uccelli di Wingspan: Uccelli britannici!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "윙스팬 조류 팩: 영국의 새를 소개합니다!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "До вашої уваги — набір «Крила: Птахи Великої Британії»!"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Expand your wildlife preserve with the Wingspan Bird Pack: British Birds, featuring species from across the British Isles - now also coming with the first Bird Packs Season Pass!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Rozwiń swój rezerwat przyrody dzięki Na Skrzydłach: Ptasia Paczka – Brytyjskie Ptaki, zawierającej gatunki z Wysp Brytyjskich – dostępnej teraz także wraz z pierwszą Przepustką Sezonową Ptasich Paczek!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Erweitere dein Vogelreservat mit dem „Wingspan-Vogelpaket: Vögel aus Großbritannien“, das Vogelarten von den Britischen Inseln umfasst – jetzt auch im Rahmen des ersten Vogelpaket-Saisonpasses!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Enrichissez votre volière avec le Pack Oiseaux britanniques de Wingspan, qui regroupe des espèces de toutes les îles Britanniques. Il est également disponible dans le tout premier Passe de saison « Packs d'oiseaux » !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "Amplía tu aviario con el paquete Aves británicas de Wingspan, repleto de especies de las islas británicas. ¡Ahora también disponible con el primer Pase de temporada de paquetes de aves!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Expanda sua reserva natural com o Pacote de Aves de Wingspan: Aves Britânicas, trazendo espécies de todas as Ilhas Britânicas — agora incluindo o primeiro Passe de Temporada de Pacotes de Aves!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "ブリテン島の種をフィーチャーした『ウイングスパン』バードパック「英国の鳥類」で野生動物の保護区を拡張しましょう！最初のバードパックシーズンパスも一緒に登場！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Разнообразьте свой заповедник с помощью набора «Птицы Британии» для «Крыльев». Вас ждут пернатые со всех уголков Британских островов — а также первый сезонный абонемент с наборами птиц!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "通过《展翅翱翔》鸟类牌包：英国鸟类，扩建你的自然保护区吧！本扩展收录了来自英伦群岛的多种鸟类，同时还将首次推出\"鸟类牌包季票!"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "通過《展翅翱翔》鳥類牌包：英國鳥類，擴建你的自然保護區吧！本擴展收錄了來自英倫群島的多種鳥類，同時還將首次推出「鳥類牌包季票」！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Ampliate la voliera con il Pacchetto di uccelli di Wingspan: Uccelli britannici, che comprende specie delle Isole Britanniche. Da ora anche disponibile con il primo Pass stagionale dei pacchetti di uccelli!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "영국 제도의 새들이 등장하는 '윙스팬 조류 팩: 영국의 새'와 함께 여러분의 야생 보존지를 확장해보세요. 첫 번째 조류 팩 시즌 패스에서도 만나보실 수 있습니다!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Урізноманітніть свій заповідник із дивовижним набором «Крила: Птахи Великої Британії», у якому міститься розмаїте птаство з Британських островів. Також він з'явиться в першій сезонній перепустці «Набори птахів»!"
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 257,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Wingspan Bird Pack: British Birds is coming June 15! Wishlist it now on Steam!"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Na Skrzydłach: Ptasia Paczka – Brytyjskie Ptaki zadebiutuje 15 czerwca! Dodaj ją już teraz do listy życzeń na Steam!"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Das „Wingspan-Vogelpaket: Vögel aus Großbritannien“ kommt am 15. Juni! Setze es jetzt auf deine Steam-Wunschliste!"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Le Pack Oiseaux britanniques de Wingspan sortira le 15 juin ! Ajoutez-le dès maintenant à votre liste de souhaits Steam !"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "¡El 15 de junio llega el paquete Aves británicas de Wingspan! ¡Añádelo a tu lista de deseados en Steam!"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "O Pacote de Aves de Wingspan: Aves Britânicas chega em 15 de junho! Adicione-o à sua lista de desejos do Steam!"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "『ウイングスパン』バードパック「英国の鳥類」が6月15日に登場！今すぐSteamでウィッシュリストに登録しましょう！"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Набор «Птицы Британии» для «Крыльев» выйдет 15 июня! Добавьте его в список желаемого в Steam!"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "《展翅翱翔》鸟类牌包：英国鸟类 将于6月15日推出！现在就前往Steam加入愿望单！"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "《展翅翱翔》鳥類牌包：英國鳥類 將於6月15日推出！現在就前往Steam加入願望單！"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Il Pacchetto di uccelli di Wingspan: Uccelli britannici arriverà il 15 giugno! Aggiungilo subito alla Lista dei desideri di Steam!"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "윙스팬 조류 팩: 영국의 새는 6월 15일에 찾아옵니다! Steam에서 지금 찜하세요!"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Набір «Крила: Птахи Великої Британії» виходить 15 червня! Додайте до списку бажаного в Steam уже зараз!"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "PlatformsToShowOn": 257,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Enhance your wildlife preserve with 25 British bird cards and hear them sing in this first fan-designed digital Bird Pack. Discover new favorite species from the United Kingdom that have never been seen in Wingspan Digital, and add an exclusive player portrait to your collection.\n\nThe British Pack is just the beginning. With it, we introduce the Wingspan: Bird Packs Season Pass! It’s a full collection of 6 Bird Packs released over time, each adding birds from regions already featured in the game.\n\nPick up the Wingspan: Bird Packs Season Pass to instantly secure all upcoming Bird Packs as they release and grow your collection over time. It’s also the most convenient way to expand your sanctuary while getting every pack together at a better price!"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Wzbogać swój rezerwat przyrody o 25 kart brytyjskich ptaków i wsłuchaj się w ich śpiew w pierwszej cyfrowej Ptasiej Paczce zaprojektowanej przez fanów. Odkryj nowe ulubione gatunki z Wielkiej Brytanii, które po raz pierwszy pojawiają się w cyfrowej wersji Na Skrzydłach, i dodaj do swojej kolekcji ekskluzywny portret gracza.\r\n\r\nBrytyjskie Ptaki to dopiero początek. Wraz z nią przedstawiamy Na Skrzydłach: Ptasie Paczki – Przepustkę Sezonową! To pełna kolekcja sześciu Ptasich Paczek wydawanych stopniowo, z których każda wprowadza ptaki z regionów już przedstawionych w grze.\r\n\r\nKup Na Skrzydłach: Ptasie Paczki – Przepustkę Sezonową, aby od razu zapewnić sobie dostęp do wszystkich nadchodzących Ptasich Paczek w dniu ich premiery i stopniowo rozbudowywać swoją kolekcję. To także najwygodniejszy sposób na rozwijanie swojego rezerwatu i zdobycie wszystkich paczek w niższej cenie!\r"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": " Ergänzt euer Wildtierreservat um 25 Karten britischer Vögel mit einzigartigen Fähigkeiten, und lauscht ihren Gesängen in diesem ersten von Fans gestalteten digitalen Vogelpaket. Entdeckt neue Lieblingsarten aus dem Vereinigten Königreich, die es in Wingspan Digital bisher nicht zu sehen gab, und ergänzt eure Sammlung um ein besonderes Spielerprofilbild.\n \nDas britische Paket ist nur der Anfang. Mit ihm führen wir den Wingspan-Vogelpaket-Saisonpass ein! Dabei handelt es sich um eine komplette Sammlung aus 6 Vogelpaketen, die im Laufe der Zeit veröffentlicht werden. Sie fügen eurem Habitat Vögel hinzu, die aus Regionen stammen, die ihr bereits aus dem Spiel kennt.\n \nHolt euch den Vogelpaket-Saisonpasses für Wingspan, um euch alle kommenden Vogelpakete direkt zum Veröffentlichungszeitpunkt zu sichern und eure Sammlung nach und nach zu vergrößern. Dies ist auch die einfachste Möglichkeit, eure Sammlung zu erweitern und dabei alle Sets zu einem günstigeren Preis zu erhalten!"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": " Enrichissez votre volière avec 25 cartes d'oiseaux britanniques et écoutez-les chanter dans ce premier pack d'oiseaux numérique conçu par les fans. Découvrez de nouvelles espèces phares du Royaume-Uni qui n'ont encore jamais été vues dans l'édition numérique de Wingspan, et ajoutez un portrait exclusif à votre collection.\n \n Le Pack britannique n'est qu'un début : il marque le lancement du Passe de saison « Packs d'oiseaux » de Wingspan, une collection complète de 6 packs d'oiseaux qui seront publiés au fil du temps, chacun ajoutant des espèces issues de régions déjà présentes dans le jeu.\n \n Procurez-vous le Passe de saison « Packs d'oiseaux » de Wingspan pour obtenir instantanément tous les prochains packs d'oiseaux dès leur sortie et enrichir votre collection au fil du temps. C'est le moyen le plus pratique d'agrandir votre sanctuaire tout en profitant d'un prix avantageux sur l'ensemble des packs !"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": " Mejora tu reserva de aves con 25 cartas de aves británicas y disfruta de su canto con este primer paquete de aves digital diseñado por los fans. Descubre a tus nuevas especies favoritas del Reino Unido nunca vistas en Wingspan Digital y añade un retrato de jugador exclusivo a tu colección.\n \n El paquete Aves británicas no es más que el principio. Con él, ¡introducimos el Pase de temporada de paquetes de aves de Wingspan! Se trata de toda una colección de 6 paquetes de aves que se publicarán con el tiempo, y cada uno de los cuales añadirá aves de regiones ya incluidas en el juego.\n \n Hazte con el Pase de temporada de paquetes de aves de Wingspan para asegurarte todos los paquetes de aves venideros a medida que se lancen y haz crecer tu colección con el tiempo. También es la forma más cómoda de expandir tu santuario, ¡ya que consigues todos los paquetes a la vez y al mejor precio!"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": " Aprimore sua reserva natural com 25 cartas de aves britânicas e ouça seus cantos no primeiro Pacote de Aves digital criado por fãs. Descubra novas espécies favoritas do Reino Unido que nunca apareceram no Wingspan Digital e adicione uma imagem de jogador exclusiva à sua coleção.\n \n O Pacote Britânico é apenas o começo. Com ele, apresentamos o Wingspan: Passe de Temporada de Pacotes de Aves! Uma coleção completa de 6 Pacotes de Aves lançados ao longo do tempo, cada um adicionando aves de regiões já presentes no jogo.\n \n Adquira o Wingspan: Passe de Temporada de Pacotes de Aves para garantir instantaneamente todos os próximos pacotes conforme forem lançados e expandir sua coleção ao longo do tempo. Além disso, é a forma mais prática de ampliar seu santuário enquanto obtém todos os pacotes por um valor promocional!"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "  25種類の英国の鳥カードで野生動物の保護区を充実させて、『ウイングスパン』初のファンのデザインによるデジタルバードパックで鳥たちの歌声を楽しみましょう。『ウイングスパン』デジタル版で初登場のイギリスの種の中から新しいお気に入りを見つけて、限定のプレイヤーポートレイトをコレクションに加えましょう。\n \n 『英国のバードパック』は始まりに過ぎません。このパックに加えて、『ウイングスパン』バードパックシーズンパスをご紹介します！このシーズンパスは、今後リリースされる6つのバードパックの完全コレクションとなります。各バードパックではゲームで既にフィーチャーされているエリアの鳥が追加されます。\n \n 『ウイングスパン』バードパックシーズンパスを入手すれば、今後リリースされる全てのバードパックをリリースと同時に手に入れることができ、時が経つにつれコレクションが拡大します。あなたの鳥たちの楽園を拡張しつつ、お得な価格で全てのパックを手に入れられる、最も便利な方法です！"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": " Пополните свой заповедник с помощью 25 карт британских птиц и насладитесь их пением с первым созданным фанатами цифровым набором пернатых. Найдите новых любимцев из Соединённого Королевства, прежде не летавших по просторам цифровой версии «Крыльев», и добавьте в коллекцию эксклюзивный портрет игрока.\n \n Но гости из Британии — лишь начало. Одновременно с ним в «Крыльях» появится сезонный абонемент с другими наборами птиц! Их будет 6, и каждый из них будет добавлять птиц из уже знакомых вами регионов.\n \n Купите сезонный абонемент на наборы птиц для «Крыльев», чтобы получать новинки по мере их выхода и постепенно расширять свою коллекцию. Добавьте новые экземпляры в свой заповедник по выгодной цене!"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "通过25张英国鸟类卡牌扩展你的生态保育区，并聆听它们的歌声吧！这是首个由玩家设计的数字版鸟类牌包。探索来自英国、此前从未在《展翅翱翔》数字版中登场的全新鸟种，并将专属玩家头像加入你的收藏。\n\n而“英国鸟类牌包“仅仅只是开始。随着它的推出，我们也正式带来了《展翅翱翔：鸟类牌包季票》！该季票将包含未来陆续推出的6个鸟类牌包，每个牌包都会加入来自游戏现有地区的新鸟类。\n\n购买《展翅翱翔：鸟类牌包季票》，即可在后续牌包发布时自动获得全部内容，逐步壮大你的收藏。这也是扩建自然保护区最方便、最划算的方式，让你以更低廉的价格一次性获得所有牌包吧！\n"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "通過25張英國鳥類卡牌擴展你的生態保育區，並聆聽它們的歌聲吧！這是首個由玩家設計的數位版鳥類牌包。探索來自英國、此前從未在《展翅翱翔》數位版中登場的全新鳥種，並將專屬玩家頭像加入你的收藏。\n\n而「英國鳥類牌包「僅僅只是開始。隨着它的推出，我們也正式帶來了《展翅翱翔：鳥類牌包季票》！該季票將包含未來陸續推出的6個鳥類牌包，每個牌包都會加入來自遊戲現有地區的新鳥類。\n\n購買《展翅翱翔：鳥類牌包季票》，即可在後續牌包發布時自動獲得全部內容，逐步壯大你的收藏。這也是擴建自然保護區最方便、最划算的方式，讓你以更划算的價格一次性獲得所有牌包吧！"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": " Migliorate la vostra voliera con 25 carte uccello britanniche e ascoltate il loro canto nel primo pacchetto di uccelli digitale ispirato dai fan. Scoprite nuove specie preferite del Regno Unito mai viste prima nella versione digitale di Wingspan e aggiungete un ritratto del giocatore esclusivo alla vostra raccolta.\n \n Il pacchetto britannico è soltanto l'inizio. Insieme a esso, vi presentiamo anche il Pass stagionale dei pacchetti di uccelli di Wingspan! Si tratta di una raccolta completa di 6 pacchetti di uccelli rilasciati nel corso del tempo, ognuno contenente uccelli provenienti da regioni già presenti nel gioco.\n \n Acquistate il Pass stagionale dei pacchetti di uccelli di Wingspan per assicurarvi subito tutti i prossimi pacchetti di uccelli e aumentare la vostra raccolta. Inoltre, è il modo più economico per ampliare la vostra riserva e ottenere tutti i pacchetti al prezzo migliore!"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "팬들이 디자인 한 디지털 조류 팩에서 25종의 영국 새들과 함께 여러분의 야생 보존 지역 경험을 확장하고 이들의 노랫소리를 들어보세요. 윙스팬 디지털에서는 선보인 적 없는 영국의 새로운 새들을 발견하고, 전용 플레이어 초상화를 컬렉션에 추가하세요.\n\n영국 팩은 시작일 뿐입니다. 이와 함께 '윙스팬: 조류 팩 시즌 패스'를 소개합니다! 본 시즌 패스는 차례차례 발매되는 6개의 조류 팩으로, 각각 이미 등장한 적 있는 지역에서 새로운 새들을 선보입니다.\n\n윙스팬: 조류 팩 시즌 패스를 구매해 지금 바로 다가올 조류 팩들을 발매와 함께 바로 컬렉션에 추가해보세요.  보다 합리적인 가격으로 모든 팩을 구매해 여러분의 안식처를 확장할 수 있는 가장 간편한 방법입니다!"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Урізноманітніть свій заповідник 25 картками птахів Великої Британії та насолоджуйтеся співом пернатих у першому створеному шанувальниками цифровому наборі птахів. Відкрийте для себе нових улюбленців із Великої Британії, яких раніше не було в цифровій версії «Крил», і додайте ексклюзивний портрет гравця до своєї колекції.\n \n Але набір птахів Великої Британії — це лише початок. Водночас ми хочемо представити сезонну перепустку «Крила: Набори птахів»! Вона містить повну колекцію із 6 наборів птахів, що виходитимуть з часом і додаватимуть птахів із регіонів, уже знайомих вам у грі.\n \n Придбайте сезонну перепустку «Крила: Набори птахів», щоб отримати всі майбутні набори птахів одразу після їх виходу та з часом поповнити свою колекцію. Це не тільки найзручніший спосіб отримати більше карт, але й найвигідніший: купувати кожен набір окремо вийде дорожче!"
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": [
-                {
-                    "ActionType": 0,
-                    "PlatformsToShowOn": 257,
-                    "Value": "https://store.steampowered.com/app/4683500/Wingspan_Bird_Pack_British_Birds/",
-                    "ButtonText": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "GET Wingspan Bird Pack: British Birds"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Kup Na Skrzydłach: Ptasia Paczka – Brytyjskie Ptaki"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "„Wingspan-Vogelpaket: Vögel aus Großbritannien“ HOLEN"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "OBTENIR le Pack Oiseaux britanniques de Wingspan"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Obtén el paquete Aves británicas de Wingspan"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Obtenha o Pacote de Aves de Wingspan: Aves Britânicas"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "『ウイングスパン』バードパック「英国の鳥類」を手に入れましょう"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Купите набор «Птицы Британии» для «Крыльев»"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "获取《展翅翱翔》鸟类牌包：英国鸟类"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "獲取《展翅翱翔》鳥類牌包：英國鳥類"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "ACQUISTA il Pacchetto di uccelli di Wingspan: Uccelli britannici"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "윙스팬 조류 팩: 영국의 새 구매하기"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "ПРИДБАТИ набір «Крила: Птахи Великої Британії»"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "ActionType": 0,
-                    "PlatformsToShowOn": 257,
-                    "Value": "https://store.steampowered.com/app/4677530/Wingspan_Bird_Packs_Season_Pass/",
-                    "ButtonText": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Get Wingspan: Bird Packs Season Pass"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Kup Na Skrzydłach: Ptasie Paczki – Przepustka Sezonowa"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Vogelpaket-Saisonpasses für Wingspan holen"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Obtenir le Passe de saison « Packs d'oiseaux » de Wingspan"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Obtén el Pase de temporada de paquetes de aves de Wingspan"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Obtenha o Wingspan: Passe de Temporada de Pacote de Aves"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "『ウイングスパン』バードパックシーズンパスを手に入れましょう"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Купите сезонный абонемент на наборы птиц для «Крыльев»"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "获取《展翅翱翔：鸟类牌包季票》"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "獲取《展翅翱翔：鳥類牌包季票》"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Acquista il Pass stagionale dei pacchetti di uccelli di Wingspan"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "윙스팬: 조류 팩 시즌 패스 구매하기"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Придбати сезонну перепустку «Крила: Набори птахів»"
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "ID": "e470378b-8dc9-4745-a0b8-a8f49176fcf0",
-            "Tags": [
-                "NewContent"
-            ],
-            "PlatformsToShowOn": 766,
-            "StartDateTicks": 639164736000000000,
-            "EndDateTicks": 946391904000000000,
-            "Priority": 2,
-            "IsPinned": false,
-            "PresetImageName": "",
-            "RemoteImageName": "British Birds Newscenter.png",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Introducing Wingspan Bird Pack: British Birds! "
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Przedstawiamy Na Skrzydłach: Ptasia Paczka – Brytyjskie Ptaki!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Jetzt erhältlich: „Wingspan-Vogelpaket: Vögel aus Großbritannien“!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Découvrez le Pack Oiseaux britanniques de Wingspan !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Presentamos el paquete Aves británicas de Wingspan!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Apresentando o Pacote de Aves de Wingspan: Aves Britânicas!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "『ウイングスパン』バードパック「英国の鳥類」が登場！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Встречайте набор «Птицы Британии» для «Крыльев»!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "《展翅翱翔》鸟类牌包：英国鸟类 正式登场！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "《展翅翱翔》鳥類牌包：英國鳥類 正式登場！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Vi presentiamo il Pacchetto di uccelli di Wingspan: Uccelli britannici!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "윙스팬 조류 팩: 영국의 새를 소개합니다!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "До вашої уваги — набір «Крила: Птахи Великої Британії»!"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Wingspan Bird Pack: British Birds is coming June 15!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Na Skrzydłach: Ptasia Paczka – Brytyjskie Ptaki zadebiutuje 15 czerwca!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Das „Wingspan-Vogelpaket: Vögel aus Großbritannien\" kommt am 15. Juni!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Le Pack Oiseaux britanniques de Wingspan sortira le 15 juin !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡El 15 de junio llega el paquete Aves británicas de Wingspan!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "O Pacote de Aves de Wingspan: Aves Britânicas chega em 15 de junho!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "『ウイングスパン』バードパック「英国の鳥類」が6月15日に登場！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Набор «Птицы Британии» для «Крыльев» выйдет 15 июня!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "《展翅翱翔》鸟类牌包：英国鸟类 将于6月15日推出！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "《展翅翱翔》鳥類牌包：英國鳥類 將於6月15日推出！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Il Pacchetto di uccelli di Wingspan: Uccelli britannici arriverà il 15 giugno!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "윙스팬 조류 팩: 영국의 새는 6월 15일에 찾아옵니다!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Набір «Крила: Птахи Великої Британії» виходить 15 червня!"
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 766,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "<style=base>Birders! \n\nNew birds from Great Britain are coming to your sanctuary!</style>\n\nEnhance your wildlife preserve with 25 British bird cards and hear them sing in this first fan-designed digital Bird Pack. Discover new favorite species from the United Kingdom that have never been seen in Wingspan Digital, and add an exclusive player portrait to your collection."
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "<style=base>Ptasiarze!\n\nNowe ptaki z Wielkiej Brytanii nadlatują do Waszych rezerwatów!</style>\n\nWzbogać swój rezerwat przyrody o 25 kart brytyjskich ptaków i wsłuchaj się w ich śpiew w pierwszej cyfrowej Ptasiej Paczce zaprojektowanej przez fanów. Odkryj nowe ulubione gatunki z Wielkiej Brytanii, które po raz pierwszy pojawiają się w cyfrowej wersji Na Skrzydłach, i dodaj do swojej kolekcji ekskluzywny portret gracza.\n"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "<style=base>Hallo, Vogelbeobachter!\n \n Neue Vögel aus Großbritannien sind im Anflug auf euer Habitat!</style>\n \n Ergänzt euer Wildtierreservat um 25 Karten britischer Vögel mit einzigartigen Fähigkeiten, und lauscht ihren Gesängen in diesem ersten von Fans gestalteten digitalen Vogelpaket. Entdeckt neue Lieblingsarten aus dem Vereinigten Königreich, die es in Wingspan Digital bisher nicht zu sehen gab, und ergänzt eure Sammlung um ein besonderes Spielerprofilbild."
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "<style=base>Camarades ornithologues !\n \n De nouveaux oiseaux tout droit venus de Grande-Bretagne arrivent dans votre sanctuaire !</style>\n \n Enrichissez votre volière avec 25 cartes d'oiseaux britanniques et écoutez-les chanter dans ce premier pack d'oiseaux numérique conçu par les fans. Découvrez de nouvelles espèces phares du Royaume-Uni qui n'ont encore jamais été vues dans l'édition numérique de Wingspan, et ajoutez un portrait exclusif à votre collection.\n "
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "<style=base>¡Atención, fans de las aves! \n \n ¡Llegan nuevas aves de Gran Bretaña a vuestros santuarios!</style>\n \n Mejora tu reserva de aves con 25 cartas de aves británicas y disfruta de su canto con este primer paquete de aves digital diseñado por los fans. Descubre a tus nuevas especies favoritas del Reino Unido nunca vistas en Wingspan Digital y añade un retrato de jugador exclusivo a tu colección.\n "
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "<style=base>Passarinheiros! \n \n Novas aves da Grã-Bretanha estão chegando ao seu santuário!</style>\n \n Aprimore sua reserva natural com 25 cartas de aves britânicas e ouça seus cantos no primeiro Pacote de Aves digital criado por fãs. Descubra novas espécies favoritas do Reino Unido que nunca apareceram no Wingspan Digital e adicione uma imagem de jogador exclusiva à sua coleção."
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "<style=base>鳥類愛好家の皆様！\n \n グレートブリテン島の新しい鳥たちがあなたの楽園にやって来ます！</style>\n \n 25種類の英国の鳥カードで野生動物の保護区を充実させて、『ウイングスパン』初のファンのデザインによるデジタルバードパックで鳥たちの歌声を楽しみましょう。『ウイングスパン』デジタル版で初登場のイギリスの種の中から新しいお気に入りを見つけて、限定のプレイヤーポートレイトをコレクションに加えましょう。"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "<style=base>Птицеловы!\n \n Новые птицы из Великобритании летят в ваш заповедник!</style>\n \n Пополните свой заповедник с помощью 25 карт британских птиц и насладитесь их пением с первым созданным фанатами цифровым набором пернатых. Найдите новых любимцев из Соединённого Королевства, прежде не летавших по просторам цифровой версии «Крыльев», и добавьте в коллекцию эксклюзивный портрет игрока."
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "<style=base>鸟友们！\n\n来自英国的新鸟类即将飞入你的自然保护区！</style>\n\n通过25张英国鸟类卡牌扩展你的生态保育区，并聆听它们的歌声吧！这是首个由玩家设计的数字版鸟类牌包。探索来自英国、此前从未在《展翅翱翔》数字版中登场的全新鸟种，并将专属玩家头像加入你的收藏。"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "<style=base>鳥友們！\n\n來自英國的新鳥類即將飛入你的自然保護區！</style>\n\n通過25張英國鳥類卡牌擴展你的生態保育區，並聆聽它們的歌聲吧！這是首個由玩家設計的數位版鳥類牌包。探索來自英國、此前從未在《展翅翱翔》數位版中登場的全新鳥種，並將專屬玩家頭像加入你的收藏。"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "<style=base>Birdwatcher! \n \n Nella vostra riserva stanno arrivando nuovi uccelli dalla Gran Bretagna!</style>\n \n Migliorate la vostra voliera con 25 carte uccello britanniche e ascoltate il loro canto nel primo pacchetto di uccelli digitale ispirato dai fan. Scoprite nuove specie preferite del Regno Unito mai viste prima nella versione digitale di Wingspan e aggiungete un ritratto del giocatore esclusivo alla vostra raccolta."
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "<style=base>탐조가 여러분! \n\n그레이트브리튼섬의 새로운 새들이 여러분의 안식처로 찾아옵니다!</style>\n\n팬들이 디자인 한 디지털 조류 팩에서 25종의 영국 새들과 함께 여러분의 야생 보존 지역 경험을 확장하고 이들의 노랫소리를 들어보세요. 윙스팬 디지털에서는 선보인 적 없는 영국의 새로운 새들을 발견하고, 전용 플레이어 초상화를 컬렉션에 추가하세요."
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "<style=base>Птахолови! \n \n Готуйтеся зустрічати нових пернатих з Великої Британії!</style>\n \n Урізноманітніть свій заповідник 25 картками птахів Великої Британії та насолоджуйтеся співом пернатих у першому створеному шанувальниками цифровому наборі птахів. Відкрийте для себе нових улюбленців із Великої Британії, яких раніше не було в цифровій версії «Крил», і додайте ексклюзивний портрет гравця до своєї колекції."
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": []
-        },
-        {
-            "ID": "2185c802-522e-41d6-a0b8-308d20ee4391",
-            "Tags": [
-                "Online"
-            ],
-            "PlatformsToShowOn": 1023,
-            "StartDateTicks": 639167328000000000,
-            "EndDateTicks": 639171378000000000,
-            "Priority": 2,
-            "IsPinned": false,
-            "PresetImageName": "Online",
-            "RemoteImageName": "",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Online Maintenance"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Konserwacja trybu online"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Online-Wartungsarbeiten"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Maintenance en ligne"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "Mantenimiento en línea"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Manutenção online"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "オンラインメンテナンス"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Технические работы над онлайн-режимом"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "在线维护"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "在線維護"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Manutenzione online"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "온라인 점검"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Технічні роботи на серверах"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Working on your online experience so you can fly with no struggles."
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Pracujemy nad Waszym doświadczeniem online, aby wasz lot przebiegał bez przeszkód."
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Wir verbessern dein Online-Erlebnis, damit du problemlos durch die Lüfte schnellen kannst."
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Nous améliorons votre expérience en ligne afin que vous puissiez voler sans accrocs."
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "Estamos trabajando en tu experiencia en línea para que puedas volar sin sobresaltos."
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Estamos trabalhando para melhorar sua experiência online, para que você possa voar suavemente."
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "快適にオンラインプレイがご利用いただけるよう、作業を行っています。"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Мы работаем над онлайн-режимом, чтобы вы могли летать без проблем."
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "服务器正在维护，以确保各位之后能够享受正常的联机体验。"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "伺服器正在維護，以確保各位之後能夠享受正常的聯機體驗。"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Stiamo lavorando all’esperienza online affinché il tuo volo proceda senza intoppi."
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "어려움 없이 날개짓할 수 있도록 온라인 환경을 개선 중입니다."
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Працюємо над онлайн-грою, щоб ви літали без перешкод."
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 1023,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "<style=asia>On June 15, with the release of the Wingspan Bird Pack: British Birds, Wingspan servers will undergo short maintenance works. During this time, entering online mode will be limited.\n\nMaintenance will begin at 17:50 CEST / 15:50 UTC / 08:50 PDT and will last for around half an hour.\n </style>\r\n<style=asia>IMPORTANT NOTE: After the maintenance, you'll need to update your game to access Online mode. The update may take some time to become available on all platforms, so if you don't see it right away, please check back later. We appreciate your patience and understanding!\n</style>\r\nAs with every online maintenance, please end all your matches before the maintenance and do not start any new ones close to the maintenance hours. Otherwise, there's a risk of losing ongoing games and karma points.\n\r\nLet your fellow birders know about online maintenance, so the process can go smoothly. \n\r\nWe apologize for the inconvenience.\r\n"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "<style=asia>W dniu 15 czerwca serwery Na Skrzydłach zostaną poddane pracom konserwacyjnym. W tym czasie, wejście do trybu online będzie niemożliwe. Prace rozpoczną się o 17:50 i będą trwały około pół godziny.\n</style>\r\nJak przy wszystkich dotychczasowych pracach konserwacyjnych, prosimy, zakończcie swoje mecze przed rozpoczęciem konserwacji i nie zaczynajcie żadnych nowych rozgrywek w okolicy czasu rozpoczęcia prac. W przeciwnym razie, istnieje ryzyko utracenia trwających rozgrywek a wraz z nimi punktów karmy. \n\nDajcie znać znajomym Ptasiarzom o pracach konserwacyjnych trybu online, aby cały proces przebiegł sprawnie. \n\r\nPrzepraszamy za niedogodności.\r\n"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "<style=asia>Am 15.06.2026 werden die Server von Wingspan (Flügelschlag) gewartet. Während der Wartungsarbeiten ist der Online-Modus nicht verfügbar. Die Wartungsarbeiten beginnen um 17:50 CEST / 15:50 UTC / 08:50 PDT und dauern etwa 1 Stunde.\n</style>\r\nWie bei jeder Serverwartung gilt: Bitte beende all deine Spiele vorher und beginne keine neuen kurz davor. Ansonsten können der Fortschritt laufender Spiele und Karmapunkte verloren gehen.\n\r\nInformiere andere Vogelfreunde über die Wartungsarbeiten, damit sie ohne Schwierigkeiten vonstattengehen.\n\r\nWir entschuldigen uns für die Unannehmlichkeiten.\r\n"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "<style=asia>Le 15.06.2026, les serveurs de Wingspan subiront des opérations de maintenance. Le mode en ligne sera alors indisponible. La maintenance commencera à 17:50 CEST / 15:50 UTC / 08:50 PDT et durera environ 1 heure.</style> \n\r\nComme pour chaque maintenance, merci de mettre fin à tous vos matchs avant le début des opérations et n’en commencez aucun peu de temps avant l’heure de départ. Vous risquez sinon de perdre les parties en cours et vos points de karma.\n\r\nInformez vos proches ornithologues de ces opérations de maintenance afin que tout se passe correctement. \n\r\nVeuillez nous excuser de ce désagrément.\r\n"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "<style=asia>El 15.06.2026, los servidores de Wingspan se someterá a trabajos de mantenimiento. Durante este periodo de tiempo será imposible acceder al modo en línea. Las labores de mantenimiento comenzarán a las 17:50 CEST / 15:50 UTC / 08:50 PDT y durarán al menos 1 hora.</style> \n\r\nComo siempre en casos de mantenimiento en línea, terminad vuestras partidas antes de que empiecen estas labores y no comencéis nuevas cerca de la hora a la que van a empezar. De lo contrario, es probable que perdáis las partidas y también puntos de karma.\n\r\nContad al resto de vuestros amigos amantes de los pájaros que tendrán lugar estas labores para que el proceso vaya sobre ruedas.\n\r\nNos disculpamos por las molestias.\r\n"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "<style=asia>Em 15.06.2026, os servidores Wingspan passarão por manutenção. Durante esse período não será possível acessar o modo online. A manutenção começará às 17:50 CEST / 15:50 UTC / 08:50 PDT e durará cerca de 1 hora.\n</style>\r\nComo em toda manutenção online, encerre todas as suas partidas antes da manutenção e não inicie nenhuma nova perto do horário de início. Caso contrário, há o risco de perder partidas em andamento e pontos de karma.\n\r\nInforme seus colegas observadores sobre a manutenção online, para que o processo ocorra sem problemas.\n\r\nPedimos desculpas pelo inconveniente.\r\n"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "<style=asia>『ウィングスパン』は15.06.2026にメンテナンスを予定しており、その間サーバーが停止となります。メンテナンス中はオンラインモードをご利用いただけませんので、予めご了承ください。メンテナンスは17:50 CEST / 15:50 UTC / 08:50 PDTに開始いたします。また、作業時間は1時間を想定しております。</style>\r\nメンテナンス直前に新たな試合を開始されると、進行中の試合状況やカルマポイントを失う可能性があるため、ご注意ください。\r\n仲間の野鳥観察家の皆様にもぜひお伝えください。\r\n\r\n大変ご迷惑おかけしますが、何卒よろしく申し上げます。\r\n"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "<style=asia>15.06.2026 на серверах Wingspan будут проводиться технические работы. В это время онлайн-режим будет недоступен. Работы начнутся 17:50 CEST / 15:50 UTC / 08:50 PDT и продлятся 1 ч. \n</style>\r\nКак обычно при любых технических работах, связанных с онлайн-режимом, завершите все игры до начала работ и не начинайте новые в их преддверии — иначе вы рискуете потерять текущие игры и очки кармы.\n\r\nПредупредите знакомых игроков о технических работах, чтобы все точно прошло гладко. \n\r\nПриносим извинения за доставленные неудобства.\r\n"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "<style=asia>15.06.2026，《展翅翱翔》的服务器将进行维护。期间将无法进行联机游戏。维护于17:50 CEST / 15:50 UTC / 08:50 PDT开始，并将持续1小时。</style> \r\n\r\n和往常的在线维护一样，请在维护开始前结束所有游戏，并避免在维护时间临近时开始新的游戏。否则，可能会丢失正在进行的游戏和缘分点。\r\n如果方便的话，也烦请告知其他鸟类爱好者在线维护的消息，以便维护能顺利进行。\r\n为您带来不便，深感歉意。\r\n"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "<style=asia>15.06.2026，《展翅翱翔》的伺服器將進行維護。期間將無法進行聯機遊戲。維護於17:50 CEST / 15:50 UTC / 08:50 PDT開始，並將持續1小時。</style> \n\r\n和往常的在線維護一樣，請在維護開始前結束所有遊戲，並避免在維護時間臨近時開始新的遊戲。否則，可能會丟失正在進行的遊戲和緣分點。\r\n如果方便的話，也煩請告知其他鳥類愛好者在線維護的消息，以便維護能順利進行。\r\n為您帶來不便，深感歉意。\r\n"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "<style=asia>Il giorno 15.06.2026 i server di Wingspan verranno sottoposti a dei lavori di manutenzione. Durante questo periodo, sarà impossibile accedere alla modalità online. La manutenzione avrà inizio alle 17:50 CEST / 15:50 UTC / 08:50 PDT e durerà all’incirca 1 ora.\n</style>\r\nCome da prassi, ti chiediamo di concludere tutte le partite in corso prima dell’inizio della manutenzione e di non iniziarne di nuove durante i lavori in corso, onde evitare di perdere progressi e punti di Karma.\n\r\nSpargi la voce con gli altri birdwatcher affinché l’intera procedura avvenga senza intoppi.\n\r\nCi scusiamo per l’inconveniente.\r\n"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "<style=asia>15.06.2026에 윙스팬 서버가 점검을 진행합니다. 이 시간 동안 온라인 모드로 플레이할 수 없습니다. 점검은 17:50 CEST / 15:50 UTC / 08:50 PDT에 시작되며 약 1시간 동안 지속됩니다.\n</style>\r\n모든 온라인 점검과 마찬가지로, 점검 전에 모든 게임을 종료하고 점검 시간에 가까워지면 새로운 게임을 시작하지 마세요. 진행 중인 게임과 카르마 포인트를 잃을 위험이 있습니다.\n\r\n점검이 원활하게 진행될 수 있도록 동료 탐조가에게 온라인 점검에 대해 알려주세요.\n\r\n불편을 드려 죄송합니다.\r\n"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "<style=asia>15.06.2026 сервери «Крил» пройдуть технічне обслуговування. Поки воно не закінчиться, онлайн-режим буде недоступний. Ремонтні роботи почнуться о 17:50 CEST / 15:50 UTC / 08:50 PDT і триватимуть 1 год. (приблизно). \n</style>\r\nЯк і завжди в таких ситуаціях, будь ласка, завершіть усі свої матчі до початку робіт і не починайте нових, якщо до обслуговування залишилося мало часу. Інакше ви ризикуєте втратити поточні ігри й очки карми.\n\r\nПопередьте про техобслуговування своїх друзів, щоб усе минуло без завад. \n\r\nМи перепрошуємо за незручності.\r\n"
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": []
-        },
-        {
             "ID": "7e72c854-1cdc-4b8a-8f14-d2e779e4b98b",
             "Tags": [
                 "Events"
@@ -7388,6 +6457,567 @@
                 }
             ],
             "Actions": []
+        },
+        {
+            "ID": "4d7b2abb-649d-4dca-b3b3-82eb1916c113",
+            "Tags": [
+                "Update",
+                "NewContent"
+            ],
+            "PlatformsToShowOn": 257,
+            "StartDateTicks": 639170784000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 2,
+            "IsPinned": false,
+            "PresetImageName": "",
+            "RemoteImageName": "British Birds Newscenter.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Introducing Wingspan Bird Pack: British Birds! "
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Przedstawiamy Na Skrzydłach: Ptasia Paczka – Brytyjskie Ptaki!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Jetzt erhältlich: „Wingspan-Vogelpaket: Vögel aus Großbritannien“!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Découvrez le Pack Oiseaux britanniques de Wingspan !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Presentamos el paquete Aves británicas de Wingspan!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Apresentando o Pacote de Aves de Wingspan: Aves Britânicas!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『ウイングスパン』バードパック「英国の鳥類」が登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Встречайте набор «Птицы Британии» для «Крыльев»!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《展翅翱翔》鸟类牌包：英国鸟类 正式登场！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《展翅翱翔》鳥類牌包：英國鳥類 正式登場！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Vi presentiamo il Pacchetto di uccelli di Wingspan: Uccelli britannici!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "윙스팬 조류 팩: 영국의 새를 소개합니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "До вашої уваги — набір «Крила: Птахи Великої Британії»!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Expand your wildlife preserve with the Wingspan Bird Pack: British Birds, featuring species from across the British Isles - now also coming with the first Bird Packs Season Pass!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Rozwiń swój rezerwat przyrody dzięki Na Skrzydłach: Ptasia Paczka – Brytyjskie Ptaki, zawierającej gatunki z Wysp Brytyjskich – dostępnej teraz także wraz z pierwszą Przepustką Sezonową Ptasich Paczek!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Erweitere dein Vogelreservat mit dem „Wingspan-Vogelpaket: Vögel aus Großbritannien“, das Vogelarten von den Britischen Inseln umfasst – jetzt auch im Rahmen des ersten Vogelpaket-Saisonpasses!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Enrichissez votre volière avec le Pack Oiseaux britanniques de Wingspan, qui regroupe des espèces de toutes les îles Britanniques. Il est également disponible dans le tout premier Passe de saison « Packs d'oiseaux » !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Amplía tu aviario con el paquete Aves británicas de Wingspan, repleto de especies de las islas británicas. ¡Ahora también disponible con el primer Pase de temporada de paquetes de aves!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Expanda sua reserva natural com o Pacote de Aves de Wingspan: Aves Britânicas, trazendo espécies de todas as Ilhas Britânicas — agora incluindo o primeiro Passe de Temporada de Pacotes de Aves!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "ブリテン島の種をフィーチャーした『ウイングスパン』バードパック「英国の鳥類」で野生動物の保護区を拡張しましょう！最初のバードパックシーズンパスも一緒に登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Разнообразьте свой заповедник с помощью набора «Птицы Британии» для «Крыльев». Вас ждут пернатые со всех уголков Британских островов — а также первый сезонный абонемент с наборами птиц!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "通过《展翅翱翔》鸟类牌包：英国鸟类，扩建你的自然保护区吧！本扩展收录了来自英伦群岛的多种鸟类，同时还将首次推出\"鸟类牌包季票!"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "通過《展翅翱翔》鳥類牌包：英國鳥類，擴建你的自然保護區吧！本擴展收錄了來自英倫群島的多種鳥類，同時還將首次推出「鳥類牌包季票」！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Ampliate la voliera con il Pacchetto di uccelli di Wingspan: Uccelli britannici, che comprende specie delle Isole Britanniche. Da ora anche disponibile con il primo Pass stagionale dei pacchetti di uccelli!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "영국 제도의 새들이 등장하는 '윙스팬 조류 팩: 영국의 새'와 함께 여러분의 야생 보존지를 확장해보세요. 첫 번째 조류 팩 시즌 패스에서도 만나보실 수 있습니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Урізноманітніть свій заповідник із дивовижним набором «Крила: Птахи Великої Британії», у якому міститься розмаїте птаство з Британських островів. Також він з'явиться в першій сезонній перепустці «Набори птахів»!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Enhance your wildlife preserve with 25 British bird cards and hear them sing in this first fan-designed digital Bird Pack. Discover new favorite species from the United Kingdom that have never been seen in Wingspan Digital, and add an exclusive player portrait to your collection.\n\nThe British Pack is just the beginning. With it, we introduce the Wingspan: Bird Packs Season Pass! It’s a full collection of 6 Bird Packs released over time, each adding birds from regions already featured in the game.\n\nPick up the Wingspan: Bird Packs Season Pass to instantly secure all upcoming Bird Packs as they release and grow your collection over time. It’s also the most convenient way to expand your sanctuary while getting every pack together at a better price!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Wzbogać swój rezerwat przyrody o 25 kart brytyjskich ptaków i wsłuchaj się w ich śpiew w pierwszej cyfrowej Ptasiej Paczce zaprojektowanej przez fanów. Odkryj nowe ulubione gatunki z Wielkiej Brytanii, które po raz pierwszy pojawiają się w cyfrowej wersji Na Skrzydłach, i dodaj do swojej kolekcji ekskluzywny portret gracza.\r\n\r\nBrytyjskie Ptaki to dopiero początek. Wraz z nią przedstawiamy Na Skrzydłach: Ptasie Paczki – Przepustkę Sezonową! To pełna kolekcja sześciu Ptasich Paczek wydawanych stopniowo, z których każda wprowadza ptaki z regionów już przedstawionych w grze.\r\n\r\nKup Na Skrzydłach: Ptasie Paczki – Przepustkę Sezonową, aby od razu zapewnić sobie dostęp do wszystkich nadchodzących Ptasich Paczek w dniu ich premiery i stopniowo rozbudowywać swoją kolekcję. To także najwygodniejszy sposób na rozwijanie swojego rezerwatu i zdobycie wszystkich paczek w niższej cenie!\r"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Ergänzt euer Wildtierreservat um 25 Karten britischer Vögel mit einzigartigen Fähigkeiten, und lauscht ihren Gesängen in diesem ersten von Fans gestalteten digitalen Vogelpaket. Entdeckt neue Lieblingsarten aus dem Vereinigten Königreich, die es in Wingspan Digital bisher nicht zu sehen gab, und ergänzt eure Sammlung um ein besonderes Spielerprofilbild.\n \nDas britische Paket ist nur der Anfang. Mit ihm führen wir den Wingspan-Vogelpaket-Saisonpass ein! Dabei handelt es sich um eine komplette Sammlung aus 6 Vogelpaketen, die im Laufe der Zeit veröffentlicht werden. Sie fügen eurem Habitat Vögel hinzu, die aus Regionen stammen, die ihr bereits aus dem Spiel kennt.\n \nHolt euch den Vogelpaket-Saisonpasses für Wingspan, um euch alle kommenden Vogelpakete direkt zum Veröffentlichungszeitpunkt zu sichern und eure Sammlung nach und nach zu vergrößern. Dies ist auch die einfachste Möglichkeit, eure Sammlung zu erweitern und dabei alle Sets zu einem günstigeren Preis zu erhalten!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Enrichissez votre volière avec 25 cartes d'oiseaux britanniques et écoutez-les chanter dans ce premier pack d'oiseaux numérique conçu par les fans. Découvrez de nouvelles espèces phares du Royaume-Uni qui n'ont encore jamais été vues dans l'édition numérique de Wingspan, et ajoutez un portrait exclusif à votre collection.\n \n Le Pack britannique n'est qu'un début : il marque le lancement du Passe de saison « Packs d'oiseaux » de Wingspan, une collection complète de 6 packs d'oiseaux qui seront publiés au fil du temps, chacun ajoutant des espèces issues de régions déjà présentes dans le jeu.\n \n Procurez-vous le Passe de saison « Packs d'oiseaux » de Wingspan pour obtenir instantanément tous les prochains packs d'oiseaux dès leur sortie et enrichir votre collection au fil du temps. C'est le moyen le plus pratique d'agrandir votre sanctuaire tout en profitant d'un prix avantageux sur l'ensemble des packs !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Mejora tu reserva de aves con 25 cartas de aves británicas y disfruta de su canto con este primer paquete de aves digital diseñado por los fans. Descubre a tus nuevas especies favoritas del Reino Unido nunca vistas en Wingspan Digital y añade un retrato de jugador exclusivo a tu colección.\n \n El paquete Aves británicas no es más que el principio. Con él, ¡introducimos el Pase de temporada de paquetes de aves de Wingspan! Se trata de toda una colección de 6 paquetes de aves que se publicarán con el tiempo, y cada uno de los cuales añadirá aves de regiones ya incluidas en el juego.\n \n Hazte con el Pase de temporada de paquetes de aves de Wingspan para asegurarte todos los paquetes de aves venideros a medida que se lancen y haz crecer tu colección con el tiempo. También es la forma más cómoda de expandir tu santuario, ¡ya que consigues todos los paquetes a la vez y al mejor precio!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Aprimore sua reserva natural com 25 cartas de aves britânicas e ouça seus cantos no primeiro Pacote de Aves digital criado por fãs. Descubra novas espécies favoritas do Reino Unido que nunca apareceram no Wingspan Digital e adicione uma imagem de jogador exclusiva à sua coleção.\n \n O Pacote Britânico é apenas o começo. Com ele, apresentamos o Wingspan: Passe de Temporada de Pacotes de Aves! Uma coleção completa de 6 Pacotes de Aves lançados ao longo do tempo, cada um adicionando aves de regiões já presentes no jogo.\n \n Adquira o Wingspan: Passe de Temporada de Pacotes de Aves para garantir instantaneamente todos os próximos pacotes conforme forem lançados e expandir sua coleção ao longo do tempo. Além disso, é a forma mais prática de ampliar seu santuário enquanto obtém todos os pacotes por um valor promocional!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "25種類の英国の鳥カードで野生動物の保護区を充実させて、『ウイングスパン』初のファンのデザインによるデジタルバードパックで鳥たちの歌声を楽しみましょう。『ウイングスパン』デジタル版で初登場のイギリスの種の中から新しいお気に入りを見つけて、限定のプレイヤーポートレイトをコレクションに加えましょう。\n \n 『英国のバードパック』は始まりに過ぎません。このパックに加えて、『ウイングスパン』バードパックシーズンパスをご紹介します！このシーズンパスは、今後リリースされる6つのバードパックの完全コレクションとなります。各バードパックではゲームで既にフィーチャーされているエリアの鳥が追加されます。\n \n 『ウイングスパン』バードパックシーズンパスを入手すれば、今後リリースされる全てのバードパックをリリースと同時に手に入れることができ、時が経つにつれコレクションが拡大します。あなたの鳥たちの楽園を拡張しつつ、お得な価格で全てのパックを手に入れられる、最も便利な方法です！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Пополните свой заповедник с помощью 25 карт британских птиц и насладитесь их пением с первым созданным фанатами цифровым набором пернатых. Найдите новых любимцев из Соединённого Королевства, прежде не летавших по просторам цифровой версии «Крыльев», и добавьте в коллекцию эксклюзивный портрет игрока.\n \n Но гости из Британии — лишь начало. Одновременно с ним в «Крыльях» появится сезонный абонемент с другими наборами птиц! Их будет 6, и каждый из них будет добавлять птиц из уже знакомых вами регионов.\n \n Купите сезонный абонемент на наборы птиц для «Крыльев», чтобы получать новинки по мере их выхода и постепенно расширять свою коллекцию. Добавьте новые экземпляры в свой заповедник по выгодной цене!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "通过25张英国鸟类卡牌扩展你的生态保育区，并聆听它们的歌声吧！这是首个由玩家设计的数字版鸟类牌包。探索来自英国、此前从未在《展翅翱翔》数字版中登场的全新鸟种，并将专属玩家头像加入你的收藏。\n\n而“英国鸟类牌包“仅仅只是开始。随着它的推出，我们也正式带来了《展翅翱翔：鸟类牌包季票》！该季票将包含未来陆续推出的6个鸟类牌包，每个牌包都会加入来自游戏现有地区的新鸟类。\n\n购买《展翅翱翔：鸟类牌包季票》，即可在后续牌包发布时自动获得全部内容，逐步壮大你的收藏。这也是扩建自然保护区最方便、最划算的方式，让你以更低廉的价格一次性获得所有牌包吧！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "通過25張英國鳥類卡牌擴展你的生態保育區，並聆聽它們的歌聲吧！這是首個由玩家設計的數位版鳥類牌包。探索來自英國、此前從未在《展翅翱翔》數位版中登場的全新鳥種，並將專屬玩家頭像加入你的收藏。\n\n而「英國鳥類牌包「僅僅只是開始。隨着它的推出，我們也正式帶來了《展翅翱翔：鳥類牌包季票》！該季票將包含未來陸續推出的6個鳥類牌包，每個牌包都會加入來自遊戲現有地區的新鳥類。\n\n購買《展翅翱翔：鳥類牌包季票》，即可在後續牌包發布時自動獲得全部內容，逐步壯大你的收藏。這也是擴建自然保護區最方便、最划算的方式，讓你以更划算的價格一次性獲得所有牌包吧！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Migliorate la vostra voliera con 25 carte uccello britanniche e ascoltate il loro canto nel primo pacchetto di uccelli digitale ispirato dai fan. Scoprite nuove specie preferite del Regno Unito mai viste prima nella versione digitale di Wingspan e aggiungete un ritratto del giocatore esclusivo alla vostra raccolta.\n \n Il pacchetto britannico è soltanto l'inizio. Insieme a esso, vi presentiamo anche il Pass stagionale dei pacchetti di uccelli di Wingspan! Si tratta di una raccolta completa di 6 pacchetti di uccelli rilasciati nel corso del tempo, ognuno contenente uccelli provenienti da regioni già presenti nel gioco.\n \n Acquistate il Pass stagionale dei pacchetti di uccelli di Wingspan per assicurarvi subito tutti i prossimi pacchetti di uccelli e aumentare la vostra raccolta. Inoltre, è il modo più economico per ampliare la vostra riserva e ottenere tutti i pacchetti al prezzo migliore!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "팬들이 디자인 한 디지털 조류 팩에서 25종의 영국 새들과 함께 여러분의 야생 보존 지역 경험을 확장하고 이들의 노랫소리를 들어보세요. 윙스팬 디지털에서는 선보인 적 없는 영국의 새로운 새들을 발견하고, 전용 플레이어 초상화를 컬렉션에 추가하세요.\n\n영국 팩은 시작일 뿐입니다. 이와 함께 '윙스팬: 조류 팩 시즌 패스'를 소개합니다! 본 시즌 패스는 차례차례 발매되는 6개의 조류 팩으로, 각각 이미 등장한 적 있는 지역에서 새로운 새들을 선보입니다.\n\n윙스팬: 조류 팩 시즌 패스를 구매해 지금 바로 다가올 조류 팩들을 발매와 함께 바로 컬렉션에 추가해보세요.  보다 합리적인 가격으로 모든 팩을 구매해 여러분의 안식처를 확장할 수 있는 가장 간편한 방법입니다!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Урізноманітніть свій заповідник 25 картками птахів Великої Британії та насолоджуйтеся співом пернатих у першому створеному шанувальниками цифровому наборі птахів. Відкрийте для себе нових улюбленців із Великої Британії, яких раніше не було в цифровій версії «Крил», і додайте ексклюзивний портрет гравця до своєї колекції.\n \n Але набір птахів Великої Британії — це лише початок. Водночас ми хочемо представити сезонну перепустку «Крила: Набори птахів»! Вона містить повну колекцію із 6 наборів птахів, що виходитимуть з часом і додаватимуть птахів із регіонів, уже знайомих вам у грі.\n \n Придбайте сезонну перепустку «Крила: Набори птахів», щоб отримати всі майбутні набори птахів одразу після їх виходу та з часом поповнити свою колекцію. Це не тільки найзручніший спосіб отримати більше карт, але й найвигідніший: купувати кожен набір окремо вийде дорожче!"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 1,
+                    "PlatformsToShowOn": 259,
+                    "Value": "FP_BB_DLC",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "GET Wingspan Bird Pack: British Birds"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Kup Na Skrzydłach: Ptasia Paczka – Brytyjskie Ptaki"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "„Wingspan-Vogelpaket: Vögel aus Großbritannien“ HOLEN"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "OBTENIR le Pack Oiseaux britanniques de Wingspan"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Obtén el paquete Aves británicas de Wingspan"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Obtenha o Pacote de Aves de Wingspan: Aves Britânicas"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "『ウイングスパン』バードパック「英国の鳥類」を手に入れましょう"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Купите набор «Птицы Британии» для «Крыльев»"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "获取《展翅翱翔》鸟类牌包：英国鸟类"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "獲取《展翅翱翔》鳥類牌包：英國鳥類"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "ACQUISTA il Pacchetto di uccelli di Wingspan: Uccelli britannici"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "윙스팬 조류 팩: 영국의 새 구매하기"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "ПРИДБАТИ набір «Крила: Птахи Великої Британії»"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "ActionType": 1,
+                    "PlatformsToShowOn": 259,
+                    "Value": "BP_SEASONPASS",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Get Wingspan: Bird Packs Season Pass"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Kup Na Skrzydłach: Ptasie Paczki – Przepustka Sezonowa"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Vogelpaket-Saisonpasses für Wingspan holen"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Obtenir le Passe de saison « Packs d'oiseaux » de Wingspan"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Obtén el Pase de temporada de paquetes de aves de Wingspan"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Obtenha o Wingspan: Passe de Temporada de Pacote de Aves"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "『ウイングスパン』バードパックシーズンパスを手に入れましょう"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Купите сезонный абонемент на наборы птиц для «Крыльев»"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "获取《展翅翱翔：鸟类牌包季票》"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "獲取《展翅翱翔：鳥類牌包季票》"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Acquista il Pass stagionale dei pacchetti di uccelli di Wingspan"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "윙스팬: 조류 팩 시즌 패스 구매하기"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Придбати сезонну перепустку «Крила: Набори птахів»"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "ID": "161671ff-7608-41d8-bd83-67a6cf38b121",
+            "Tags": [
+                "Update",
+                "NewContent"
+            ],
+            "PlatformsToShowOn": 766,
+            "StartDateTicks": 639170784000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 2,
+            "IsPinned": false,
+            "PresetImageName": "",
+            "RemoteImageName": "British Birds Newscenter.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Introducing Wingspan Bird Pack: British Birds! "
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Przedstawiamy Na Skrzydłach: Ptasia Paczka – Brytyjskie Ptaki!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Jetzt erhältlich: „Wingspan-Vogelpaket: Vögel aus Großbritannien“!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Découvrez le Pack Oiseaux britanniques de Wingspan !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Presentamos el paquete Aves británicas de Wingspan!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Apresentando o Pacote de Aves de Wingspan: Aves Britânicas!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『ウイングスパン』バードパック「英国の鳥類」が登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Встречайте набор «Птицы Британии» для «Крыльев»!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《展翅翱翔》鸟类牌包：英国鸟类 正式登场！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《展翅翱翔》鳥類牌包：英國鳥類 正式登場！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Vi presentiamo il Pacchetto di uccelli di Wingspan: Uccelli britannici!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "윙스팬 조류 팩: 영국의 새를 소개합니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "До вашої уваги — набір «Крила: Птахи Великої Британії»!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Wingspan Bird Pack: British Birds is out now!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Na Skrzydłach: Ptasia Paczka – Brytyjskie Ptaki jest już dostępna!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Das „Wingspan-Vogelpaket: Vögel aus Großbritannien“ ist jetzt da!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Le Pack Oiseaux britanniques de Wingspan est désormais disponible !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Ya está disponible el paquete Aves británicas de Wingspan!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Pacote de Aves de Wingspan: Aves Britânicas já disponível!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『ウイングスパン』バードパック「英国の鳥類」が配信中！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Набор «Птицы Британии» для «Крыльев» уже доступен!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《展翅翱翔》鸟类牌包：英国鸟类 现已推出！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《展翅翱翔》鳥類牌包：英國鳥類 現已推出！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "È disponibile il Pacchetto di uccelli di Wingspan: Uccelli britannici!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "윙스팬 조류 팩: 영국의 새가 출시되었습니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Набір «Крила: Птахи Великої Британії» уже доступний!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "<style=base>Birders! \nNew birds from Great Britain are coming to your sanctuary!</style>\n\nEnhance your wildlife preserve with 25 British bird cards and hear them sing in this first fan-designed digital Bird Pack. Discover new favorite species from the United Kingdom that have never been seen in Wingspan Digital, and add an exclusive player portrait to your collection."
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "<style=base>Ptasiarze!\nNowe ptaki z Wielkiej Brytanii nadlatują do Waszych rezerwatów!</style>\n\nWzbogać swój rezerwat przyrody o 25 kart brytyjskich ptaków i wsłuchaj się w ich śpiew w pierwszej cyfrowej Ptasiej Paczce zaprojektowanej przez fanów. Odkryj nowe ulubione gatunki z Wielkiej Brytanii, które po raz pierwszy pojawiają się w cyfrowej wersji Na Skrzydłach, i dodaj do swojej kolekcji ekskluzywny portret gracza."
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "<style=base>Hallo, Vogelbeobachter!\n Neue Vögel aus Großbritannien sind im Anflug auf euer Habitat!</style>\n \n Ergänzt euer Wildtierreservat um 25 Karten britischer Vögel mit einzigartigen Fähigkeiten, und lauscht ihren Gesängen in diesem ersten von Fans gestalteten digitalen Vogelpaket. Entdeckt neue Lieblingsarten aus dem Vereinigten Königreich, die es in Wingspan Digital bisher nicht zu sehen gab, und ergänzt eure Sammlung um ein besonderes Spielerprofilbild."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "<style=base>Camarades ornithologues !\nDe nouveaux oiseaux tout droit venus de Grande-Bretagne arrivent dans votre sanctuaire !</style>\n \n Enrichissez votre volière avec 25 cartes d'oiseaux britanniques et écoutez-les chanter dans ce premier pack d'oiseaux numérique conçu par les fans. Découvrez de nouvelles espèces phares du Royaume-Uni qui n'ont encore jamais été vues dans l'édition numérique de Wingspan, et ajoutez un portrait exclusif à votre collection.\n"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "\"<style=base>¡Atención, fans de las aves! \n \n ¡Llegan nuevas aves de Gran Bretaña a vuestros santuarios!</style>\n \n Mejora tu reserva de aves con 25 cartas de aves británicas y disfruta de su canto con este primer paquete de aves digital diseñado por los fans. Descubre a tus nuevas especies favoritas del Reino Unido nunca vistas en Wingspan Digital y añade un retrato de jugador exclusivo a tu colección.\n \""
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "<style=base>Passarinheiros!  \n Novas aves da Grã-Bretanha estão chegando ao seu santuário!</style>\n \n Aprimore sua reserva natural com 25 cartas de aves britânicas e ouça seus cantos no primeiro Pacote de Aves digital criado por fãs. Descubra novas espécies favoritas do Reino Unido que nunca apareceram no Wingspan Digital e adicione uma imagem de jogador exclusiva à sua coleção."
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "<style=base>鳥類愛好家の皆様！\n グレートブリテン島の新しい鳥たちがあなたの楽園にやって来ます！</style>\n \n 25種類の英国の鳥カードで野生動物の保護区を充実させて、『ウイングスパン』初のファンのデザインによるデジタルバードパックで鳥たちの歌声を楽しみましょう。『ウイングスパン』デジタル版で初登場のイギリスの種の中から新しいお気に入りを見つけて、限定のプレイヤーポートレイトをコレクションに加えましょう。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "<style=base>Птицеловы!\n Новые птицы из Великобритании летят в ваш заповедник!</style>\n \n Пополните свой заповедник с помощью 25 карт британских птиц и насладитесь их пением с первым созданным фанатами цифровым набором пернатых. Найдите новых любимцев из Соединённого Королевства, прежде не летавших по просторам цифровой версии «Крыльев», и добавьте в коллекцию эксклюзивный портрет игрока."
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "<style=base>鸟友们！\n来自英国的新鸟类即将飞入你的自然保护区！</style>\n\n通过25张英国鸟类卡牌扩展你的生态保育区，并聆听它们的歌声吧！这是首个由玩家设计的数字版鸟类牌包。探索来自英国、此前从未在《展翅翱翔》数字版中登场的全新鸟种，并将专属玩家头像加入你的收藏。"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "<style=base>鳥友們！\n來自英國的新鳥類即將飛入你的自然保護區！</style>\n\n通過25張英國鳥類卡牌擴展你的生態保育區，並聆聽它們的歌聲吧！這是首個由玩家設計的數位版鳥類牌包。探索來自英國、此前從未在《展翅翱翔》數位版中登場的全新鳥種，並將專屬玩家頭像加入你的收藏。"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "<style=base>Birdwatcher! \n Nella vostra riserva stanno arrivando nuovi uccelli dalla Gran Bretagna!</style>\n \n Migliorate la vostra voliera con 25 carte uccello britanniche e ascoltate il loro canto nel primo pacchetto di uccelli digitale ispirato dai fan. Scoprite nuove specie preferite del Regno Unito mai viste prima nella versione digitale di Wingspan e aggiungete un ritratto del giocatore esclusivo alla vostra raccolta."
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "<style=base>탐조가 여러분! \n그레이트브리튼섬의 새로운 새들이 여러분의 안식처로 찾아옵니다!</style>\n\n팬들이 디자인 한 디지털 조류 팩에서 25종의 영국 새들과 함께 여러분의 야생 보존 지역 경험을 확장하고 이들의 노랫소리를 들어보세요. 윙스팬 디지털에서는 선보인 적 없는 영국의 새로운 새들을 발견하고, 전용 플레이어 초상화를 컬렉션에 추가하세요."
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "<style=base>Птахолови! \n Готуйтеся зустрічати нових пернатих з Великої Британії!</style>\n \n Урізноманітніть свій заповідник 25 картками птахів Великої Британії та насолоджуйтеся співом пернатих у першому створеному шанувальниками цифровому наборі птахів. Відкрийте для себе нових улюбленців із Великої Британії, яких раніше не було в цифровій версії «Крил», і додайте ексклюзивний портрет гравця до своєї колекції."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 1,
+                    "PlatformsToShowOn": 752,
+                    "Value": "FP_BB_DLC",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "GET Wingspan Bird Pack: British Birds"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Kup Na Skrzydłach: Ptasia Paczka – Brytyjskie Ptaki"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "„Wingspan-Vogelpaket: Vögel aus Großbritannien“ HOLEN"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "OBTENIR le Pack Oiseaux britanniques de Wingspan"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Obtén el paquete Aves británicas de Wingspan"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Obtenha o Pacote de Aves de Wingspan: Aves Britânicas"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "『ウイングスパン』バードパック「英国の鳥類」を手に入れましょう"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Купите набор «Птицы Британии» для «Крыльев»"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "获取《展翅翱翔》鸟类牌包：英国鸟类"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "獲取《展翅翱翔》鳥類牌包：英國鳥類"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "ACQUISTA il Pacchetto di uccelli di Wingspan: Uccelli britannici"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "윙스팬 조류 팩: 영국의 새 구매하기"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "ПРИДБАТИ набір «Крила: Птахи Великої Британії»"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
