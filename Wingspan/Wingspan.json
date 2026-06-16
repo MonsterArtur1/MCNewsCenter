@@ -7018,6 +7018,255 @@
                     }
                 }
             ]
+        },
+        {
+            "ID": "4c8651f6-96ad-4443-87ec-46830899d036",
+            "Tags": [
+                "MonsterCouch"
+            ],
+            "PlatformsToShowOn": 257,
+            "StartDateTicks": 639171648000000000,
+            "EndDateTicks": 639176832000000000,
+            "Priority": 2,
+            "IsPinned": false,
+            "PresetImageName": "",
+            "RemoteImageName": "Flamecraft_Announcement_Newscenter.jpg",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Flamecraft Demo Is Out Now!  "
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Demo Flamecraft już dostępne!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Die Flamecraft-Demo ist da!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "La démo de Flamecraft est désormais disponible !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡La demo de Flamecraft ya está disponible!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Demo de Flamecraft disponível!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『Flamecraft』のデモ版が配信中！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Вышла демоверсия Flamecraft!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《龍焰魔法陣》Demo現已上線！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《龍焰魔法陣》Demo現已上線！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "La demo di Flamecraft è qui!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "플레임크래프트 데모 출시!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Демоверсія гри Flamecraft уже доступна!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Visit a world of tiny dragons in Flamecraft during Steam Next Fest!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Odwiedź świat małych smoków we Flamecraft podczas Steam Next Fest!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Besuche während des „Steam Next Fest“ eine Welt voller winziger Drachen in Flamecraft (Flammenkunst)!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "À l'occasion du Steam Néo Fest, plongez dans un monde peuplé de petits dragons avec Flamecraft !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Visita un mundo plagado de dragoncitos en Flamecraft durante el Next Fest de Steam!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Visite um mundo de dragõezinhos em Flamecraft durante o Steam Next Fest!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "Steam Nextフェス期間中に『Flamecraft』で小さなドラゴンの世界を訪ねましょう！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Посетите мир крошечных дракончиков в Flamecraft во время фестиваля «Играм быть» в Steam!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "在Steam新品节期间，前往《龙焰魔法镇》的小龙世界展开冒险吧！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "在Steam新品節期間，前往《龍焰魔法鎮》的小龍世界展開冒險吧！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Visita un mondo di draghi minuscoli in Flamecraft durante lo Steam Next Fest!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "Steam Next Fest 기간 동안 플레임크래프트에서 작은 드래곤의 세계를 만나보세요!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Вирушайте до світу крихіток драконів у Flamecraft під час Фестивалю новинок у Steam!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Birders, Steam Next Fest has just begun, and we’ve got something truly magical for you! \n\n<style=oceania>The demo of our upcoming game, Flamecraft, is available until June 22!</style> \n\n<style=oceania>Play the demo on Steam today and add Flamecraft to your wishlists - tiny dragons await!</style> \n\nIn the demo, you’ll play with a hand-picked selection of magical shops and Fancy Dragons, with both Sun and Moon dragons ready to lend you their talents. Learn the game through a comprehensive, easy-to-follow tutorial fully narrated by Becca Scott. Challenge bot opponents across multiple difficulty levels, or gather around for local multiplayer with friends. With the same setup available each time you play, you’ll discover new strategies, refine your approach, and master your favorite combos. We can’t wait to see the scores - share them with us on Discord and Steam! \n\n<style=oceania>About Flamecraft:</style>  \n\nBecome a Flamekeeper and step into a cozy, whimsical world where artisan dragons bring the bustling shopping district to life. Thoughtfully place dragons across the town, gather resources from shops, use them to cast enchantments, and trigger powerful chains of abilities. Befriend extraordinary Fancy Dragons, boost your reputation, and work your way toward the title of Master of Flamecraft!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Ptasiarze!\n\nSteam Next Fest właśnie wystartował, a my mamy dla was coś naprawdę magicznego!\n\n<style=oceania>Demo naszej nadchodzącej gry Flamecraft jest już dostępne i będzie można w nie zagrać do 22 czerwca!</style>\n\n<style=oceania>Zagraj w demo na Steam już dziś i dodaj Flamecraft do listy życzeń - frymuśne smoki już na was czekają!</style>\n\nW demie czeka na ciebie starannie wybrany zestaw magicznych sklepów i Frymuśnych Smoków. Do dyspozycji będziesz mieć zarówno Słoneczne Smoki, jak i Smoki Księżycowe, gotowe wesprzeć cię swoimi wyjątkowymi talentami. Zasady poznacie dzięki rozbudowanemu samouczkowi z pełnym angielskim dubbingiem Becci Scott. Możecie sprawdzić swoje umiejętności przeciwko SI na różnych poziomach trudności albo zaprosić znajomych do wspólnej rozgrywki w trybie lokalnym.\n\nKażda partia dema rozpoczyna się z tym samym układem, dzięki czemu możecie testować nowe strategie, doskonalić swoje umiejętności i odkrywać coraz potężniejsze kombinacje smoczych umiejętności. Jesteśmy bardzo ciekawi waszych wyników - koniecznie podzielcie się nimi z nami na Discordzie i Steamie!\n\n<style=oceania>O Flamecraft:</style>\n\nZostań Smokoustym i wkrocz do przytulnego, magicznego świata, w którym smoki-rzemieślnicy ożywiają tętniącą życiem dzielnicę handlową. Przemyślanie rozmieszczaj smoki w sklepach, zdobywaj zasoby, wykorzystuj je do rzucania zaklęć i uruchamiaj potężne kombinacje smoczych umiejętności. Poznawaj niezwykłe Frymuśne Smoki, zdobywaj reputację i wypracuj sobie drogę do tytułu Mistrza Płomieniarstwa!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Hallo, Vogelbeobachter! Das „Steam Next Fest“ hat gerade begonnen und wir haben etwas wahrlich Magisches für euch!\n \n <style=oceania>Die Demo unseres kommenden Spiels, Flamecraft (Flammenkunst), ist bis zum 22. Juni verfügbar!</style>\n \n <style=oceania>Spielt die Demo heute noch auf Steam und setzt Flamecraft (Flammenkunst) auf eure Wunschliste – winzige Drachen warten auf euch!</style>\n \n In der Demo spielt ihr mit einer sorgfältig ausgewählten Anzahl magischer Läden und Schmuckdrachen – sowohl Sonnen- als auch Monddrachen warten darauf, euch mit ihren Talenten zu dienen. Erlernt das Spiel mithilfe einer umfassenden, leicht verständlichen Anleitung, die vollständig von Becca Scott gesprochen wird. Fordert Computergegner in verschiedenen Schwierigkeitsgraden heraus oder spielt zusammen mit Freunden im lokalen Mehrspielermodus. Da euch bei jedem Spiel die gleiche Ausgangslage zur Verfügung steht, könnt ihr immer wieder neue Strategien entdecken, eure Herangehensweise verfeinern und eure bevorzugten Combos perfektionieren. Wir sind gespannt auf eure Punktzahlen – verratet sie uns auf Discord und Steam!\n \n <style=oceania>Über Flamecraft (Flammenkunst):</style>\n \n Werdet zur Flammenhüterin oder zum Flammenhüter und taucht ein in eine gemütliche, verspielte Welt, in der Werkeldrachen das geschäftige Ladenviertel zum Leben erwecken. Setzt Drachen überlegt in der Stadt ein, sammelt Ressourcen in den Läden, nutzt sie, um Verzauberungen zu wirken, und löst mächtige Fähigkeitenketten aus. Freundet euch mit außergewöhnlichen Schmuckdrachen an, mehrt euren Ruhm und arbeitet euch hoch auf eurem Weg zum Meister der Flammenkunst!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Camarades ornithologues, Steam Néo Fest vient de commencer, et nous avons une incroyable surprise pour vous !\n \n <style=oceania>La démo de notre prochain jeu, Flamecraft, est disponible jusqu'au 22 juin !</style>\n \n <style=oceania>Essayez la démo sur Steam dès aujourd'hui et ajoutez Flamecraft à votre liste de souhaits. Les petits dragons n'attendent que vous !</style>\n \n Dans cette démo, vous découvrirez une sélection triée sur le volet de boutiques enchantées et de Dragons Fantaisie, notamment les Dragons Solaires et les Dragons Lunaires, tous prêts à mettre leurs talents à votre service. Apprenez à jouer grâce à un tutoriel complet et facile à suivre, entièrement narré par Becca Scott. Défiez des adversaires contrôlés par l'IA à travers plusieurs niveaux de difficulté, ou réunissez-vous pour une partie multijoueur en local avec vos amis. Comme la configuration reste la même à chaque partie, vous découvrirez de nouvelles stratégies, affinerez votre approche et maîtriserez vos combos préférés au fil du temps. Nous avons hâte de voir vos scores : partagez-les avec nous sur Discord et Steam !\n \n <style=oceania>À propos de Flamecraft :</style>\n \n Incarnez un Gardien des Flammes, découvrez un univers chaleureux et fantaisiste, et plongez dans l'effervescence d'un quartier commerçant où s'affairent des Dragons Artisans. Placez judicieusement des dragons à travers la ville, récupérez des ressources dans les boutiques, utilisez-les pour lancer des enchantements et déclencher de puissantes réactions en chaîne. Liez-vous d'amitié avec d'extraordinaires Dragons Fantaisie, renforcez votre réputation et tentez de décrocher le titre de Maître des Flammes !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Fans de las aves, el Next Fest de Steam acaba de empezar y os hemos preparado algo de lo más mágico! \n \n <style=oceania>¡La demo de nuestro próximo juego, Flamecraft, estará disponible hasta el 22 de junio!</style> \n \n <style=oceania>Juega ya a la demo en Steam y añade Flamecraft a tu lista de deseados. ¡Los dragoncitos te esperan!</style> \n \n En la demo, jugarás con una cuidadosa selección de Tiendas Mágicas y Dragones Selectos, tanto Solares como Lunares, que arden en deseos de ayudarte con sus talentos. Aprende a jugar con el completo y sencillo tutorial narrado por Becca Scott. Desafía a bots en distintos niveles de dificultad o reúne a tus amigos para jugar al modo multijugador local. Al tener disponible la misma configuración cada vez que juegues, podrás descubrir nuevas estrategias, mejorar tu enfoque y dominar tus combos favoritos. Tenemos muchas ganas de ver vuestras puntuaciones, ¡así que compartidlas en Discord y Steam! \n \n <style=oceania>Sobre Flamecraft:</style> \n \n Conviértete en Guardallamas y adéntrate en un acogedor mundo de fantasía en el que los Dragones Artesanos llenan de vida el bullicioso distrito comercial. Reparte Dragones por la ciudad de forma estratégica, reúne recursos de las Tiendas para usarlos en encantamientos y desata poderosas cadenas de habilidades. ¡Entabla amistad con los extraordinarios Dragones Selectos, mejora tu Reputación y trabaja arduamente para lograr obtener el título de Maestro de Llamas!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Passarinheiros, o Steam Next Fest acabou de começar e temos algo incrivelmente mágico para vocês! \n \n <style=oceania>A demo do nosso próximo jogo, Flamecraft, estará disponível até 22 de junho!</style> \n \n <style=oceania>Jogue a demo no Steam hoje mesmo e adicione Flamecraft à sua lista de desejos – dragõezinhos te esperam!</style> \n \n Na demo, você jogará com uma seleção especial de compras mágicas e Dragões Extravagantes, além de dragões do Sol e da Lua prontos para emprestar todos os seus talentos. Aprenda o jogo com um tutorial completo e fácil de acompanhar, narrado por Becca Scott. Enfrente adversários de IA em vários níveis de dificuldade ou junte seus amigos para jogar partidas locais de multijogador. Como a mesma configuração estará disponível toda vez que jogar, você poderá descobrir novas estratégias, aprimorar sua jogabilidade e dominar suas combinações preferidas. Mal podemos esperar para conferir seus recordes – compartilhe-os conosco no Discord e no Steam! \n \n <style=oceania>Sobre Flamecraft:</style> \n \n Torne-se um Guardachamas e entre num mundo aconchegante e encantador, onde dragões-artesãos dão vida ao movimentado distrito comercial. Posicione dragões cuidadosamente pela cidade, reúna recursos das lojas, use-os para lançar encantamentos e desencadear poderosas correntes de habilidades. Faça amizade com Dragões Extravagantes, aumente sua reputação e trilhe seu caminho rumo ao título de Mestre do Fogo!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "鳥類愛好家の皆様、Steam Nextフェスが始まりました。私たちも真の魔法のような作品をご用意しています！\n \n <style=oceania>今後発売予定のゲーム『Flamecraft』のデモ版が6月22日まで配信中です！</style>\n \n <style=oceania>Steamで今すぐデモをプレイして、『Flamecraft』をウィッシュリストに加えましょう。小さなドラゴンが待っています！</style>\n \n デモ版では、厳選された魔法ショップのセレクションやファンシーなドラゴンと一緒にプレイが可能です。また、太陽と月のドラゴンの両方があなたに力を貸す準備をして待っています！Becca Scottがナレーションを担当する、包括的で分かりやすいチュートリアルを通じてゲームを学びましょう。BOTの対戦相手に様々な難易度でチャレンジすることも、友人と一緒に集まってローカルマルチプレイを楽しむことも可能。プレイするたびに同じ設定が利用可能なので、新しい戦略を考えたり、アプローチを洗練させたり、お気に入りのコンボをマスターしたりできます。皆様のスコアを見るのが待ちきれません！DiscordやSteamでスコアをシェアしましょう！\n \n <style=oceania>『Flamecraft』について：</style>\n \n \n フレイムキーパーとなって、ほんわかとした風変わりな世界へと足を踏み入れましょう。そこでは働きドラゴンが賑やかな商店街地区に命を吹き込んでいます。町じゅうに慎重にドラゴンを配置して、店から資源を集めて魔法を使い、強力な能力の連鎖を発動。驚くほどファンシーなドラゴンと仲良くなり、自分の名声を高めて、働いて「真の炎の理解者」の称号を手に入れましょう！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Птицеловы, в Steam только что начался фестиваль «Играм быть», и по этому поводу мы подготовили для вас кое-что волшебное!\n \n <style=oceania>Демоверсия нашей грядущей игры Flamecraft будет доступна до 22 июня!</style> \n \n <style=oceania>Сыграйте в демоверсию в Steam и добавьте Flamecraft в свой список желаемого — дракончики ждут!</style> \n \n В демоверсии вам будут доступны некоторые магические лавки и яркие драконы, — как солнечные, так и лунные. Изучите основы игры во всестороннем, но простом и понятном обучении, озвученном Беккой Скотт. Бросьте вызов ботам-соперникам на различных уровнях сложности или соберитесь в локальной многопользовательской игре с друзьями. Все игровые сессии будут начинаться одинаково, так что у вас будет множество возможностей открыть новые стратегии, отработать порядок действий и освоить любимые комбо. С нетерпением ждём ваших рекордов — делитесь ими с нами в Discord и Steam!\n \n <style=oceania>О Flamecraft:</style> \n  \n Станьте мастером пламени и изучите уютный и немного чудной мир, где в торговом квартале всем заправляют мастера-драконы. Вдумчиво размещайте их на улочках города, собирайте в магазинах ресурсы, накладывайте чары и активируйте мощные цепочки способностей. Подружитесь с невероятными яркими дракончиками, повышайте свою репутацию и станьте мастером пламени!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "爱鸟人士们，Steam新品节现已开启，我们也为大家带来了一款真正充满魔法气息的游戏！\n\n<style=oceania>我们即将推出的新作《龙焰魔法镇》Demo现已开放试玩，活动将持续至6月22日！</style>\n\n<style=oceania>现在就前往Steam体验Demo，并将《龙焰魔法镇》加入愿望单吧，小小龙族正在等待你的到来！</style>\n\n在Demo中，你将体验精心挑选的魔法商店与华丽龙族。太阳龙与月亮龙也已准备好施展它们的才能。通过由 Becca Scott 全程配音、内容详尽且易于上手的教学，你可以轻松学习游戏规则。你还可以挑战多个难度的AI对手，或与朋友一起进行本地多人游戏。由于每次游玩的初始配置相同，你将能够不断探索新的策略、优化自己的玩法，并掌握最喜欢的连锁组合。我们已经迫不及待想看到大家的分数了，欢迎在Discord与Steam社区分享你的战绩！\n\n<style=oceania>关于《龙焰魔法镇》：</style>\n\n\n成为一名驭焰师，踏入一个温馨又奇幻的世界，让工匠龙族为热闹的商业街注入活力。巧妙地将龙族安排在城镇各处，从商店收集资源，并利用它们施展附魔，触发强力的连锁能力。结识独一无二的华丽龙族，提升你的声望，一步步迈向“龙焰大师”的称号！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "愛鳥人士們，Steam新品節現已開啟，我們也為大家帶來了一款真正充滿魔法氣息的遊戲！\n\n<style=oceania>我們即將推出的新作《龍焰魔法鎮》Demo現已開放試玩，活動將持續至6月22日！</style>\n\n<style=oceania>現在就前往Steam體驗Demo，並將《龍焰魔法鎮》加入願望單吧，小小龍族正在等待你的到來！</style>\n\n在Demo中，你將體驗精心挑選的魔法商店與華麗龍族。太陽龍與月亮龍也已準備好施展它們的才能。通過由 Becca Scott 全程配音、內容詳盡且易於上手的教學，你可以輕鬆學習遊戲規則。你還可以挑戰多個難度的AI對手，或與朋友一起進行本地多人遊戲。由於每次遊玩的初始配置相同，你將能夠不斷探索新的策略、優化自己的玩法，並掌握最喜歡的連鎖組合。我們已經迫不及待想看到大家的分數了，歡迎在Discord與Steam社區分享你的戰績！\n\n<style=oceania>關於《龍焰魔法鎮》：</style>\n\n\n成為一名馭焰師，踏入一個溫馨又奇幻的世界，讓工匠龍族為熱鬧的商業街注入活力。巧妙地將龍族安排在城鎮各處，從商店收集資源，並利用它們施展附魔，觸發強力的連鎖能力。結識獨一無二的華麗龍族，提升你的聲望，一步步邁向「龍焰大師」的稱號！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Birdwatcher, lo Steam Next Fest è appena iniziato e abbiamo qualcosa di davvero magico per voi! \n \n <style=oceania>La demo del nostro prossimo gioco, Flamecraft, è disponibile fino al 22 giugno!</style> \n \n <style=oceania>Giocate oggi stesso alla demo su Steam e aggiungete Flamecraft alla vostra Lista dei desideri: vi aspettano dei draghi minuscoli!</style> \n \n Nella demo, giocherete con una selezione di negozi magici e Draghi Eleganti, con i draghi del sole e della luna pronti ad aiutarvi con i loro talenti. Imparerete a giocare con un tutorial esaustivo e facile da seguire, completamente narrato da Becca Scott. Sfidate avversari bot con diversi livelli di difficoltà oppure riunitevi con gli amici per provare la modalità multigiocatore locale. Avendo sempre la stessa configurazione a disposizione, scoprirete nuove strategie, perfezionerete il vostro approccio e padroneggerete le vostre combo preferite. Non vediamo l'ora di scoprire i punteggi: condivideteli con noi su Discord e Steam! \n \n <style=oceania>Informazioni su Flamecraft:</style> \n \n Ricopri il ruolo di Custode della Fiamma ed entra in un mondo accogliente e stravagante in cui i draghi artigiani animano il trafficato quartiere dello shopping. Posiziona con attenzione i draghi nella città, raccogli risorse dai negozi, usale per lanciare incantesimi e attiva potenti catene di abilità. Stringi amicizia con i Draghi Eleganti, migliora la tua reputazione e cerca di ottenere il titolo di Signore della Fiamma!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "탐조가 여러분, Steam Next Fest가 시작되었습니다. 정말 멋진 걸 준비했어요! \n\n<style=oceania>다가오는 우리 게임, 플레임크래프트의 데모를 6월 22일까지 플레이 가능합니다!</style> \n\n<style=oceania>오늘 Steam에서 데모를 플레이하고 찜 목록에 플레임크래프트를 추가해보세요. 작은 드래곤들이 기다립니다!</style> \n\n데모에서 여러분은 엄선된 마법 상점과 멋진 드래곤을 만나보실 수 있습니다. 해와 달의 드래곤이 여러분들을 도와줄 것입니다. 따라하기 쉽고 친절한 Becca Scott의 나레이션과 함께 게임을 배워보세요. 다양한 난이도에서 상대와 겨루거나, 친구들과 로컬 멀티플레이로 함께 플레이 해보세요. 매번 똑같은 설정으로 진행되는 게임에서 새로운 전략을 발견하고, 자신만의 플레이 방식을 가다듬으며, 콤보를 마스터 해보세요. 여러분의 점수가 기대되네요. Discord와 Steam에서 공유해주세요! \n\n<style=oceania>플레임크래프트에 관하여:</style> \n\n\n불꽃지기가 되어 장인 드래곤들이 쇼핑 거리에 북적거리는 생명을 불어넣는 아늑하고도 엉뚱한 세계에 발 디디세요. 마을 곳곳에 드래곤을 주의깊게 배치하고, 상점에서 자원을 모아 마법을 부리며 강력한 능력 연쇄를 일으키세요. 특별한 '멋쟁이 드래곤'들과 친구가 되고, 명성을 쌓아 최고의 불꽃지기 장인이 되어보세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Птахолови, Фестиваль новинок у Steam саме розпочався, і ми підготували для вас дещо справді чарівне! \n \n <style=oceania>Демоверсія нашої майбутньої гри Flamecraft доступна до 22 червня!</style> \n \n <style=oceania>Спробуйте демоверсію в Steam вже сьогодні та додайте Flamecraft до списку бажаного: крихітки дракони вже чекають зустрічі з вами!</style> \n \n У демоверсії вам буде доступна добірка магічних крамниць та розкішних драконів, зокрема сонячних і місячних, які завжди готові прийти вам на допомогу. Знайомтеся з грою в зрозумілій та доступній формі завдяки підказкам, озвученим Беккою Скотт. Змагайтеся з ШІ різного рівня складності або грайте разом з друзями в локальному багатокористувацькому режимі. Оскільки кожна гра починається з однакових умов, ви відкриватимете для себе нові стратегії, вдосконалюватимете свій підхід та опановуватимете улюблені комбінації. Нам вже не терпиться побачити ваші результати — обов'язково діліться ними в Discord та Steam!\n \n <style=oceania>Про Flamecraft:</style>\n \n Станьте хранителем полум'я і перенесіться у затишний, казковий світ, де вмілі дракони-майстри наповнюють торговий квартал життям і метушнею. Розміщуйте драконів у різних куточках міста, збирайте ресурси з крамниць, чаклуйте та запускайте неймовірні ланцюжки здібностей. Заприятелюйте з дивовижними драконами, поліпшуйте свою репутацію та здобувайте титул майстра полум'я!"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 257,
+                    "Value": "https://store.steampowered.com/app/3201730/Flamecraft/",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "PLAY FLAMECRAFT DEMO "
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "ZAGRAJ W DEMO FLAMECRAFT"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "FLAMMENKUNST-DEMO SPIELEN"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "JOUER À LA DÉMO DE FLAMECRAFT"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "JUEGA A LA DEMO DE FLAMECRAFT"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "JOGUE A DEMO DE FLAMECRAFT"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "『FLAMECRAFT』のデモ版をプレイする"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "СЫГРАЙТЕ В ДЕМОВЕРСИЮ FLAMECRAFT"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "试玩《龙焰魔法镇》Demo"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "試玩《龍焰魔法鎮》Demo"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "GIOCA LA DEMO DI FLAMECRAFT"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "플레임크래프트 데모 플레이 하기"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "ГРАТИ В ДЕМОВЕРСІЮ FLAMECRAFT"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
