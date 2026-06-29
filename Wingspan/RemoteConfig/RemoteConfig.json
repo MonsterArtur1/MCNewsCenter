@@ -82,11 +82,11 @@
     },
     {
       "DlcKey": "FLAMECRAFT_WISHLIST",
-      "Enabled": true
+      "Enabled": false
     },
     {
       "DlcKey": "FLAMECRAFT",
-      "Enabled": false
+      "Enabled": true
     }
   ],
   "SeasonalBackgroundsData": [
