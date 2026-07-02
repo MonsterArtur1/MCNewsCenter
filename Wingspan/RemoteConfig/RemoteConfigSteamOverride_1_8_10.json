@@ -1,0 +1,15 @@
+{
+  "LocalDisabledBirds": [3,10],
+  "OnlineDisabledBirds": [],
+  "IsSeasonPassEnabled": true,
+  "LiveServerOverrides": [{
+      "PlatformName": "Steam_win",
+      "BuildVersion": 9999,
+      "ServerID": 1
+    },
+    {
+      "PlatformName": "Steam_mac",
+      "BuildVersion": 9999,
+      "ServerID": 1
+    }]
+}
