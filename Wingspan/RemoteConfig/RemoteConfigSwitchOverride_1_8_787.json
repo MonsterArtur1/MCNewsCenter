@@ -1,5 +1,5 @@
 {
-  "LocalDisabledBirds": [],
+  "LocalDisabledBirds": [1],
   "OnlineDisabledBirds": [],
   "IsSeasonPassEnabled": false,
   "LiveServerOverrides": [{
