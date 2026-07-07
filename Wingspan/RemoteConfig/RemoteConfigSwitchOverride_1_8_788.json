@@ -1,6 +1,7 @@
 {
   "LocalDisabledBirds": [1],
   "OnlineDisabledBirds": [],
+  "SaveAsLocal": true,
   "IsSeasonPassEnabled": true,
   "LiveServerOverrides": [{
       "PlatformName": "Switch",
@@ -9,7 +10,7 @@
     }],
   "DLCs": [{
       "DlcKey": "FP_AAA_DLC",
-      "IsPublished": false
+      "IsPublished": true
     }
   ]
 }

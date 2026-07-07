@@ -77,10 +77,6 @@
   ],
   "RemoteShopElements": [
     {
-      "DlcKey": "AE_DLC",
-      "Enabled": true
-    },
-    {
       "DlcKey": "FLAMECRAFT_WISHLIST",
       "Enabled": true
     },
