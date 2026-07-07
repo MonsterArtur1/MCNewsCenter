@@ -2,6 +2,7 @@
   "LocalDisabledBirds": [3,10],
   "OnlineDisabledBirds": [],
   "IsSeasonPassEnabled": true,
+  "SaveAsLocal": true,
   "LiveServerOverrides": [{
       "PlatformName": "Steam_win",
       "BuildVersion": 9999,
