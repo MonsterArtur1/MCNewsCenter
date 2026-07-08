@@ -1,7 +1,7 @@
 {
   "LocalDisabledBirds": [],
   "OnlineDisabledBirds": [],
-  "IsSeasonPassEnabled": true,
+  "IsSeasonPassEnabled": false,
   "LiveServerOverrides": [{
       "PlatformName": "PS5",
       "BuildVersion": 9999,
@@ -9,7 +9,7 @@
     }],
   "DLCs": [{
       "DlcKey": "FP_AAA_DLC",
-      "IsPublished": true
+      "IsPublished": false
     }
   ]
 }
