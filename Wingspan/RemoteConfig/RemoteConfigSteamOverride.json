@@ -11,10 +11,5 @@
       "PlatformName": "Steam_mac",
       "BuildVersion": 9999,
       "ServerID": 1
-    }],
-	"DLCs": [
-    {
-      "DlcKey": "FP_AAA_DLC",
-      "IsPublished": true
-    }
+    }]
 }
