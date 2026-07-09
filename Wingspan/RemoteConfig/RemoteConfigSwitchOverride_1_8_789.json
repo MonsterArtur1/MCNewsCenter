@@ -1,20 +1,16 @@
 {
   "LocalDisabledBirds": [],
   "OnlineDisabledBirds": [],
+  "SaveAsLocal": true,
   "IsSeasonPassEnabled": true,
   "LiveServerOverrides": [{
-      "PlatformName": "Steam_win",
-      "BuildVersion": 9999,
-      "ServerID": 1
-    },
-    {
-      "PlatformName": "Steam_mac",
+      "PlatformName": "Switch",
       "BuildVersion": 9999,
       "ServerID": 1
     }],
-	"DLCs": [
-    {
+  "DLCs": [{
       "DlcKey": "FP_AAA_DLC",
       "IsPublished": true
     }
+  ]
 }
