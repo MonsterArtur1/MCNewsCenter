@@ -2,6 +2,7 @@
   "LocalDisabledBirds": [],
   "OnlineDisabledBirds": [],
   "IsSeasonPassEnabled": false,
+  "SaveAsLocal": true,
   "LiveServerOverrides": [{
       "PlatformName": "PS5",
       "BuildVersion": 9999,
