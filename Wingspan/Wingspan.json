@@ -7267,6 +7267,193 @@
                     }
                 }
             ]
+        },
+        {
+            "ID": "0e3ff6e2-a8c6-49ad-9eca-699efa2dc9b1",
+            "Tags": [
+                "Online"
+            ],
+            "PlatformsToShowOn": 1023,
+            "StartDateTicks": 639198432000000000,
+            "EndDateTicks": 639202473000000000,
+            "Priority": 2,
+            "IsPinned": false,
+            "PresetImageName": "Online",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Online Maintenance"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Konserwacja trybu online"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Online-Wartungsarbeiten"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Maintenance en ligne"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Mantenimiento en línea"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Manutenção online"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "オンラインメンテナンス"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Технические работы над онлайн-режимом"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "在线维护"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "在線維護"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Manutenzione online"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "온라인 점검"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Технічні роботи на серверах"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Working on your online experience so you can fly with no struggles."
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Pracujemy nad Waszym doświadczeniem online, aby wasz lot przebiegał bez przeszkód."
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Wir verbessern dein Online-Erlebnis, damit du problemlos durch die Lüfte schnellen kannst."
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Nous améliorons votre expérience en ligne afin que vous puissiez voler sans accrocs."
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Estamos trabajando en tu experiencia en línea para que puedas volar sin sobresaltos."
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Estamos trabalhando para melhorar sua experiência online, para que você possa voar suavemente."
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "快適にオンラインプレイがご利用いただけるよう、作業を行っています。"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Мы работаем над онлайн-режимом, чтобы вы могли летать без проблем."
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "服务器正在维护，以确保各位之后能够享受正常的联机体验。"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "伺服器正在維護，以確保各位之後能夠享受正常的聯機體驗。"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Stiamo lavorando all’esperienza online affinché il tuo volo proceda senza intoppi."
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "어려움 없이 날개짓할 수 있도록 온라인 환경을 개선 중입니다."
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Працюємо над онлайн-грою, щоб ви літали без перешкод."
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "On July 21 Wingspan servers will undergo maintenance works. During this time, entering online mode will be impossible. Maintenance will begin at 8:00 UTC / 10:00 CEST / 1:00 PDT and will last for around 8 hours.\n\nAs with every online maintenance, please end all your matches before the maintenance and do not start any new ones close to the maintenance hours. Otherwise, there's a risk of losing ongoing games and karma points.\nLet your fellow birders know about online maintenance, so the process can go smoothly.\n\nWe apologize for the inconvenience."
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "W dniu 21 lipca serwery Na Skrzydłach zostaną poddane pracom konserwacyjnym. W tym czasie wejście do trybu online będzie niemożliwe. Prace rozpoczną się o 10:00 i będą trwały 8 godzin.\n\nJak przy wszystkich dotychczasowych pracach konserwacyjnych, prosimy, zakończcie swoje mecze przed rozpoczęciem konserwacji i nie zaczynajcie żadnych nowych rozgrywek w okolicy czasu rozpoczęcia prac. W przeciwnym razie istnieje ryzyko utracenia trwających rozgrywek, a wraz z nimi punktów karmy.\n\nDajcie znać znajomym Ptasiarzom o pracach konserwacyjnych trybu online, aby cały proces przebiegł sprawnie.\n\nPrzepraszamy za niedogodności."
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Am 21. Juli werden die Server von Wingspan (Flügelschlag) gewartet. Während der Wartungsarbeiten ist der Online-Modus nicht verfügbar. Die Wartungsarbeiten beginnen um 8:00 UTC / 10:00 CEST / 1:00 PDT und dauern etwa 8 Stunden.\n\nWie bei jeder Serverwartung gilt: Bitte beende all deine Spiele vorher und beginne keine neuen kurz davor. Ansonsten können der Fortschritt laufender Spiele und Karmapunkte verloren gehen.\nInformiere andere Vogelfreunde über die Wartungsarbeiten, damit sie ohne Schwierigkeiten vonstattengehen.\n\nWir entschuldigen uns für die Unannehmlichkeiten."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Le 21 juillet, les serveurs de Wingspan subiront des opérations de maintenance. Le mode en ligne sera alors indisponible. La maintenance commencera à 8:00 UTC / 10:00 CEST / 1:00 PDT et durera environ 8 heures.\n\nComme pour chaque maintenance, merci de mettre fin à tous vos matchs avant le début des opérations et n’en commencez aucun peu de temps avant l’heure de départ. Vous risquez sinon de perdre les parties en cours et vos points de karma.\nInformez vos proches ornithologues de ces opérations de maintenance afin que tout se passe correctement.\n\nVeuillez nous excuser de ce désagrément."
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "El 21 de julio, los servidores de Wingspan se someterán a trabajos de mantenimiento. Durante este periodo de tiempo será imposible acceder al modo en línea. Las labores de mantenimiento comenzarán a las 8:00 UTC / 10:00 CEST / 1:00 PDT y durarán al menos 8 horas.\n\nComo siempre en casos de mantenimiento en línea, terminad vuestras partidas antes de que empiecen estas labores y no comencéis nuevas cerca de la hora a la que van a empezar. De lo contrario, es probable que perdáis las partidas y también puntos de karma.\nContad al resto de vuestros amigos amantes de los pájaros que tendrán lugar estas labores para que el proceso vaya sobre ruedas.\n\nNos disculpamos por las molestias."
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Em 21 de julho, os servidores Wingspan passarão por manutenção. Durante esse período não será possível acessar o modo online. A manutenção começará às 8:00 UTC / 10:00 CEST / 1:00 PDT e durará cerca de 8 horas.\n\nComo em toda manutenção online, encerre todas as suas partidas antes da manutenção e não inicie nenhuma nova perto do horário de início. Caso contrário, há o risco de perder partidas em andamento e pontos de karma.\nInforme seus colegas observadores sobre a manutenção online, para que o processo ocorra sem problemas.\n\nPedimos desculpas pelo inconveniente."
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "『ウィングスパン』は7月21日にメンテナンスを予定しており、その間サーバーが停止となります。メンテナンス中はオンラインモードをご利用いただけませんので、予めご了承ください。メンテナンスは8:00 UTC / 10:00 CEST / 1:00 PDTに開始いたします。また、作業時間は8時間を想定しております。\n\nメンテナンス直前に新たな試合を開始されると、進行中の試合状況やカルマポイントを失う可能性があるため、ご注意ください。\n仲間の野鳥観察家の皆様にもぜひお伝えください。\n\n大変ご迷惑おかけしますが、何卒よろしく申し上げます。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "21 июля на серверах Wingspan будут проводиться технические работы. В это время онлайн-режим будет недоступен. Работы начнутся 8:00 UTC / 10:00 CEST / 1:00 PDT и продлятся 8 ч.\n\nКак обычно при любых технических работах, связанных с онлайн-режимом, завершите все игры до начала работ и не начинайте новые в их преддверии — иначе вы рискуете потерять текущие игры и очки кармы.\nПредупредите знакомых игроков о технических работах, чтобы все точно прошло гладко.\n\nПриносим извинения за доставленные неудобства."
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "7月21日，《展翅翱翔》的服务器将进行维护。期间将无法进行联机游戏。维护于8:00 UTC / 10:00 CEST / 1:00 PDT开始，并将持续8小时。\n\n和往常的在线维护一样，请在维护开始前结束所有游戏，并避免在维护时间临近时开始新的游戏。否则，可能会丢失正在进行的游戏和缘分点。\n如果方便的话，也烦请告知其他鸟类爱好者在线维护的消息，以便维护能顺利进行。\n\n为您带来不便，深感歉意。"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "7月21日，《展翅翱翔》的伺服器將進行維護。期間將無法進行聯機遊戲。維護於8:00 UTC / 10:00 CEST / 1:00 PDT開始，並將持續8小時。\n\n和往常的在線維護一樣，請在維護開始前結束所有遊戲，並避免在維護時間臨近時開始新的遊戲。否則，可能會丟失正在進行的遊戲和緣分點。\n如果方便的話，也煩請告知其他鳥類愛好者在線維護的消息，以便維護能順利進行。\n\n為您帶來不便，深感歉意。"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Il giorno 21 luglio i server di Wingspan verranno sottoposti a dei lavori di manutenzione. Durante questo periodo, sarà impossibile accedere alla modalità online. La manutenzione avrà inizio alle 8:00 UTC / 10:00 CEST / 1:00 PDT e durerà all’incirca 8 ore.\n\nCome da prassi, ti chiediamo di concludere tutte le partite in corso prima dell’inizio della manutenzione e di non iniziarne di nuove durante i lavori in corso, onde evitare di perdere progressi e punti di Karma.\nSpargi la voce con gli altri birdwatcher affinché l’intera procedura avvenga senza intoppi.\n\nCi scusiamo per l’inconveniente."
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "7월 21일, 윙스팬 서버가 점검을 진행합니다. 이 시간 동안 온라인 모드로 플레이할 수 없습니다. 점검은 8:00 UTC / 10:00 CEST / 1:00 PDT에 시작되며 약 8시간 동안 지속됩니다.\n\n모든 온라인 점검과 마찬가지로, 점검 전에 모든 게임을 종료하고 점검 시간에 가까워지면 새로운 게임을 시작하지 마세요. 진행 중인 게임과 카르마 포인트를 잃을 위험이 있습니다.\n점검이 원활하게 진행될 수 있도록 동료 탐조가에게 온라인 점검에 대해 알려주세요.\n\n불편을 드려 죄송합니다."
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "21 липня сервери «Крил» пройдуть технічне обслуговування. Поки воно не закінчиться, онлайн-режим буде недоступний. Ремонтні роботи почнуться о 8:00 UTC / 10:00 CEST / 1:00 PDT і триватимуть приблизно 8 годин.\n\nЯк і завжди в таких ситуаціях, будь ласка, завершіть усі свої матчі до початку робіт і не починайте нових, якщо до обслуговування залишилося мало часу. Інакше ви ризикуєте втратити поточні ігри й очки карми.\nПопередьте про техобслуговування своїх друзів, щоб усе минуло без завад.\n\nМи перепрошуємо за незручності."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
         }
     ]
 }
