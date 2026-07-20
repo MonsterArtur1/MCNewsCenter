@@ -5861,7 +5861,7 @@
                     },
                     {
                         "Language": "pl",
-                        "Text": "\"Nadlatuje nowa przygoda! Zapowiedź gry Na Skrzydłach Smoków! \r\n\""
+                        "Text": "Nadlatuje nowa przygoda! Zapowiedź gry Na Skrzydłach Smoków! \r\n"
                     },
                     {
                         "Language": "de",
@@ -7448,6 +7448,317 @@
                             {
                                 "Language": "uk",
                                 "Text": "21 липня сервери «Крил» пройдуть технічне обслуговування. Поки воно не закінчиться, онлайн-режим буде недоступний. Ремонтні роботи почнуться о 8:00 UTC / 10:00 CEST / 1:00 PDT і триватимуть приблизно 8 годин.\n\nЯк і завжди в таких ситуаціях, будь ласка, завершіть усі свої матчі до початку робіт і не починайте нових, якщо до обслуговування залишилося мало часу. Інакше ви ризикуєте втратити поточні ігри й очки карми.\nПопередьте про техобслуговування своїх друзів, щоб усе минуло без завад.\n\nМи перепрошуємо за незручності."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
+        },
+        {
+            "ID": "81706ba5-7b21-4302-9662-83000fbac9ec",
+            "Tags": [
+                "NewContent"
+            ],
+            "PlatformsToShowOn": 752,
+            "StartDateTicks": 639201024000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 2,
+            "IsPinned": false,
+            "PresetImageName": "",
+            "RemoteImageName": "BPSP_Newscenter.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Bird Packs Season Pass Available Now!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Przepustka Sezonowa Ptasich Paczek już dostępna!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Vogelpaket-Saisonpass jetzt verfügbar!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Le Passe de saison « Packs d'oiseaux » est désormais disponible !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡El Pase de temporada de paquetes de aves ya está disponible!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Wingspan: Passe de Temporada de Pacotes de Aves já disponível!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『ウイングスパン』バードパックシーズンパスが好評販売中！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Сезонный абонемент на наборы птиц уже в продаже!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《展翅翱翔：鸟类牌包季票》现已推出！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《展翅翱翔：鳥類牌包季票》現已推出！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Pass stagionale dei pacchetti di uccelli disponibile!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "조류 팩 시즌 패스가 출시되었습니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Сезонна перепустка «Набори птахів» вже у продажу!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": []
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 528,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "<style=base>Wingspan: Bird Packs Season Pass Is Now Available on XBOX!</style>"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "<style=base>Na Skrzydłach: Ptasie Paczki – Przepustka Sezonowa już dostępna na XBOX!</style>"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "<style=base>Vogelpaket-Saisonpass für Wingspan jetzt auf XBOX verfügbar!</style>"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "<style=base>Le Passe de saison « Packs d'oiseaux » de Wingspan est désormais disponible sur XBOX !</style>"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "<style=base>¡El Pase de temporada de paquetes de aves de Wingspan ya está disponible en XBOX!</style>"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "<style=base>Wingspan: Passe de Temporada de Pacote de Aves já disponível para XBOX!</style>"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "<style=base>『ウイングスパン』バードパックシーズンパスがXBOXで好評販売中！</style>"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "<style=base>Сезонный абонемент на наборы птиц для «Крыльев» уже доступен на XBOX!</style>"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "<style=base>《展翅翱翔：鸟类牌包季票》现已登陆XBOX！</style>"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "<style=base>《展翅翱翔：鳥類牌包季票》現已登陸XBOX！</style>"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "<style=base>Il Pass stagionale dei pacchetti di uccelli di Wingspan è ora disponibile su XBOX!</style>"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "<style=base>윙스팬: 조류 팩 시즌 패스가 XBOX에 출시되었습니다!</style>"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "<style=base>Сезонна перепустка «Крила: Набори птахів» вже доступна на XBOX!</style>"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 192,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "<style=base>Wingspan: Bird Packs Season Pass Is Now Available on PlayStation!</style>"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "<style=base>Na Skrzydłach: Ptasie Paczki – Przepustka Sezonowa już dostępna na PlayStation!</style>"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "<style=base>Vogelpaket-Saisonpass für Wingspan jetzt auf PlayStation verfügbar!</style>"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "<style=base>Le Passe de saison « Packs d'oiseaux » de Wingspan est désormais disponible sur PlayStation !</style>"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "<style=base>¡El Pase de temporada de paquetes de aves de Wingspan ya está disponible en PlayStation!</style>"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "<style=base>Wingspan: Passe de Temporada de Pacote de Aves já disponível para PlayStation!</style>"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "<style=base>『ウイングスパン』バードパックシーズンパスがPlayStationで好評販売中！</style>"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "<style=base>Сезонный абонемент на наборы птиц для «Крыльев» уже доступен на PlayStation!</style>"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "<style=base>《展翅翱翔：鸟类牌包季票》现已登陆PlayStation！</style>"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "<style=base>《展翅翱翔：鳥類牌包季票》現已登陸PlayStation！</style>"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "<style=base>Il Pass stagionale dei pacchetti di uccelli di Wingspan è ora disponibile su PlayStation!</style>"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "<style=base>윙스팬: 조류 팩 시즌 패스가 PlayStation에 출시되었습니다!</style>"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "<style=base>Сезонна перепустка «Крила: Набори птахів» вже доступна на PlayStation!</style>"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 32,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "<style=base>Wingspan: Bird Packs Season Pass Is Now Available on Nintendo Switch!</style>"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "<style=base>Na Skrzydłach: Ptasie Paczki – Przepustka Sezonowa już dostępna na Nintendo Switch!</style>"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "<style=base>Vogelpaket-Saisonpass für Wingspan jetzt auf Nintendo Switch verfügbar!</style>"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "<style=base>Le Passe de saison « Packs d'oiseaux » de Wingspan est désormais disponible sur Nintendo Switch !</style>"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "<style=base>¡El Pase de temporada de paquetes de aves de Wingspan ya está disponible en Nintendo Switch!</style>"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "<style=base>Wingspan: Passe de Temporada de Pacote de Aves já disponível para Nintendo Switch!</style>"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "<style=base>『ウイングスパン』バードパックシーズンパスがNintendo Switchで好評販売中！</style>"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "<style=base>Сезонный абонемент на наборы птиц для «Крыльев» уже доступен на Nintendo Switch!</style>"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "<style=base>《展翅翱翔：鸟类牌包季票》现已登陆Nintendo Switch！</style>"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "<style=base>《展翅翱翔：鳥類牌包季票》現已登陸Nintendo Switch！</style>"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "<style=base>Il Pass stagionale dei pacchetti di uccelli di Wingspan è ora disponibile su Nintendo Switch!</style>"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "<style=base>윙스팬: 조류 팩 시즌 패스가 Nintendo Switch에 출시되었습니다!</style>"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "<style=base>Сезонна перепустка «Крила: Набори птахів» вже доступна на Nintendo Switch!</style>"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 752,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Expand your wildlife preserve with the first Bird Packs Season Pass! It’s a full collection of 6 Bird Packs released over time, each adding birds from regions already featured in the game.\n\nEach pack, designed by Wingspan fans, adds 25 beautiful bird cards with unique powers connected to a different part of the world, along with an exclusive player portrait.\n\nWith Wingspan: Bird Packs Season Pass, you’ll get:\n\n1. Wingspan Bird Pack: British Birds\n2. Wingspan Bird Pack: Additional Asian Avians\n3. Wingspan Bird Pack: Birds of Continental Europe\n4. Wingspan Bird Pack: Birds of the U.S.A.\n5. Wingspan Bird Pack: Birds of Canada\n6. Wingspan Bird Pack: Birds of New Zealand\n\nPick up the Wingspan: Bird Packs Season Pass to instantly secure all upcoming Bird Packs as they release and grow your collection over time. It’s also the most convenient way to expand your sanctuary while getting every pack together at a better price!\n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Rozwiń swój rezerwat przyrody wraz z pierwszą Przepustką Sezonową Ptasich Paczek! To pełna kolekcja sześciu Ptasich Paczek wydawanych stopniowo, z których każda wprowadza ptaki z regionów już przedstawionych w grze.\n\nKażda z paczek, zaprojektowana przez fanów Na Skrzydłach, dodaje do gry 25 pięknych kart ptaków z unikalnymi zdolnościami, powiązanymi z innym regionem świata, a także ekskluzywny portret gracza.\n\nWraz z produktem Na Skrzydłach: Ptasie Paczki – Przepustka Sezonowa otrzymasz:\n\n1. Na Skrzydłach: Ptasia Paczka – Ptaki Brytyjskie\n2. Na Skrzydłach: Ptasia Paczka – Dodatkowe Ptaki Azji\n3. Na Skrzydłach: Ptasia Paczka – Ptaki Europy Kontynentalnej\n4. Na Skrzydłach: Ptasia Paczka – Ptaki Stanów Zjednoczonych\n5. Na Skrzydłach: Ptasia Paczka – Ptaki Kanady\n6. Na Skrzydłach: Ptasia Paczka – Ptaki Nowej Zelandii\n\nKup Na Skrzydłach: Ptasie Paczki – Przepustkę Sezonową, aby od razu zapewnić sobie dostęp do wszystkich nadchodzących Ptasich Paczek w dniu ich premiery i stopniowo rozbudowywać swoją kolekcję. To także najwygodniejszy sposób na rozwijanie swojego rezerwatu i zdobycie wszystkich paczek w niższej cenie!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Erweitere dein Wildtierreservat mit dem ersten Vogelpaket-Saisonpass! Dabei handelt es sich um eine komplette Sammlung aus 6 Vogelpaketen, die im Laufe der Zeit veröffentlicht werden. Sie fügen eurem Habitat Vögel hinzu, die aus Regionen stammen, die ihr bereits aus dem Spiel kennt.\n\nJedes Paket wurde von Wingspan-Fans gestaltet und ergänzt das Spiel um 25 wunderschöne Vogelkarten mit einzigartigen Fähigkeiten, die jeweils einem anderen Teil der Welt zuzuordnen sind, sowie ein besonderes Spielerprofilbild.\n\nMit dem Vogelpaket-Saisonpass für Wingspan erhältst du:\n\n1. Wingspan-Vogelpaket: Vögel aus Großbritannien\n2. Wingspan-Vogelpaket: Weitere Vögel aus Asien\n3. Wingspan-Vogelpaket: Vögel aus Kontinentaleuropa\n4. Wingspan-Vogelpaket: Vögel aus den USA\n5. Wingspan-Vogelpaket: Vögel aus Kanada\n6. Wingspan-Vogelpaket: Vögel aus Neuseeland\n\nHolt euch den Vogelpaket-Saisonpass für Wingspan, um euch alle kommenden Vogelpakete direkt zum Veröffentlichungszeitpunkt zu sichern und eure Sammlung nach und nach zu vergrößern. Dies ist auch die einfachste Möglichkeit, eure Sammlung zu erweitern und dabei alle Sets zu einem günstigeren Preis zu erhalten!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Enrichissez votre volière avec le tout premier Passe de saison « Packs d'oiseaux » ! Il s'agit d'une collection complète de 6 packs d'oiseaux qui seront publiés au fil du temps, chacun ajoutant des espèces issues de régions déjà présentes dans le jeu.\n\nChaque pack, conçu par des fans de Wingspan, comprend 25 superbes cartes Oiseau dotées de pouvoirs uniques venus d'une région différente du monde, ainsi qu'un portrait exclusif.\n\nAvec le Passe de saison « Packs d'oiseaux », vous obtiendrez :\n\n1. Le Pack Oiseaux britanniques de Wingspan\n2. Le Pack Autres oiseaux d'Asie de Wingspan\n3. Le Pack Oiseaux d'Europe continentale de Wingspan\n4. Le Pack Oiseaux des États-Unis de Wingspan\n5. Le Pack Oiseaux du Canada de Wingspan\n6. Le Pack Oiseaux de Nouvelle-Zélande de Wingspan\n\nProcurez-vous le Passe de saison « Packs d'oiseaux » de Wingspan pour obtenir instantanément tous les prochains packs d'oiseaux dès leur sortie et enrichir votre collection au fil du temps. C'est le moyen le plus pratique d'agrandir votre sanctuaire tout en profitant d'un prix avantageux sur l'ensemble des packs !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Amplía tu aviario con el primer Pase de temporada de paquetes de aves! Se trata de toda una colección de 6 paquetes de aves que se publicarán con el tiempo, y cada uno de ellos añadirá aves de regiones ya incluidas en el juego.\n\nCada paquete ha sido diseñado por fans de Wingspan y añade 25 hermosas cartas de ave con poderes únicos que están conectadas a distintas partes del mundo, así como un retrato de jugador exclusivo.\n\nCon el Pase de temporada de paquetes de aves de Wingspan, recibirás:\n\n1. Paquete Aves británicas de Wingspan.\n2. Paquete Aves asiáticas adicionales de Wingspan.\n3. Paquete Aves de Europa continental de Wingspan.\n4. Paquete Aves de EE. UU. de Wingspan.\n5. Paquete Aves de Canadá de Wingspan.\n6. Paquete Aves de Nueva Zelanda de Wingspan.\n\nHazte con el Pase de temporada de paquetes de aves de Wingspan para asegurarte todos los paquetes de aves venideros a medida que se lancen y haz crecer tu colección con el tiempo. También es la forma más cómoda de expandir tu santuario, ¡ya que consigues todos los paquetes a la vez y al mejor precio!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Expanda sua reserva natural com o primeiro Passe de Temporada de Pacotes de Aves! Uma coleção completa de 6 Pacotes de Aves lançados ao longo do tempo, cada um adicionando aves de regiões já presentes no jogo.\n\nCada pacote, criado pelos fãs de Wingspan, contém 25 cartas incríveis de aves com poderes exclusivos conectados a diferentes partes do mundo, além de uma imagem de jogador exclusiva.\n\nCom Wingspan: Passe de Temporada de Pacotes de Aves, você receberá:\n\n1. Pacote de Aves de Wingspan: Aves Britânicas\n2. Pacote de Aves de Wingspan: Aves Asiáticas Adicionais\n3. Pacote de Aves de Wingspan: Aves da Europa Continental\n4. Pacote de Aves de Wingspan: Aves dos EUA\n5. Pacote de Aves de Wingspan: Aves do Canadá\n6. Pacote de Aves de Wingspan: Aves da Nova Zelândia\n\nAdquira o Wingspan: Passe de Temporada de Pacotes de Aves para garantir instantaneamente todos os próximos pacotes conforme forem lançados e expandir sua coleção ao longo do tempo. Além disso, é a forma mais prática de ampliar seu santuário enquanto obtém todos os pacotes por um valor promocional!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "『ウイングスパン』初のバードパックシーズンパスで、野生動物の保護区を拡張しましょう！このシーズンパスは、今後リリースされる6つのバードパックの完全コレクションとなります。各バードパックではゲームで既にフィーチャーされているエリアの鳥が追加されます。\n\n『ウイングスパン』のファンがデザインした各パックには、世界の様々な地域との関連性があるユニークな能力を持つ25種類の美しい鳥カードの他、限定プレイヤーポートレイトも含まれています。\n\n『ウイングスパン』バードパックシーズンパスで入手可能なコンテンツ\n\n1. 『ウイングスパン』バードパック「英国の鳥類」\n2. 『ウイングスパン』バードパック「アジアのさらなる鳥類」\n3. 『ウイングスパン』バードパック「大陸ヨーロッパの鳥類」\n4. 『ウイングスパン』バードパック「米国の鳥類」\n5. 『ウイングスパン』バードパック「カナダの鳥類」\n6. 『ウイングスパン』バードパック「ニュージーランドの鳥類」\n\n『ウイングスパン』バードパックシーズンパスを入手すれば、今後リリースされる全てのバードパックをリリースと同時に手に入れることができ、時が経つにつれコレクションが拡大します。あなたの鳥たちの楽園を拡張しつつ、お得な価格で全てのパックを手に入れられる、最も便利な方法です！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Пополните свой заповедник с первым сезонным абонементом с наборами птиц для «Крыльев»! Он включает 6 наборов птиц, которые будут выходить постепенно, и каждый из них добавит птиц из уже знакомых регионов.\n\nВсе наборы были созданы фанатами игры и добавляют 25 красивейших карт птиц из разных уголков мира — каждая с уникальными свойствами, а также эксклюзивный портрет игрока.\n\nСезонный абонемент на наборы карт для «Крыльев» включает:\n\n1. Набор «Птицы Британии» для «Крыльев».\n2. Набор «Дополнительные птицы Азии» для «Крыльев».\n3. Набор «Птицы континентальной Европы» для «Крыльев».\n4. Набор «Птицы США» для «Крыльев».\n5. Набор «Птицы Канады» для «Крыльев».\n6. Набор «Птицы Новой Зеландии» для «Крыльев».\n\nКупите сезонный абонемент на наборы птиц для «Крыльев», чтобы получать новинки по мере их выхода и постепенно расширять свою коллекцию. Добавьте новые экземпляры в свой заповедник по выгодной цене!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "通过《展翅翱翔：鸟类牌包季票》，进一步扩展你的自然保护区吧！该季票将包含未来陆续推出的6个鸟类牌包，每个牌包都会加入来自游戏现有地区的新鸟类。\n\n每个牌包均由《展翅翱翔》玩家设计，包含25张精美鸟类卡牌，以及与世界不同地区相关的独特能力，同时还附带专属玩家头像。\n\n《展翅翱翔：鸟类牌包季票》包含：\n\n1. 《展翅翱翔》鸟类牌包：英国鸟类\n2. 《展翅翱翔》鸟类牌包：亚洲新增鸟类\n3. 《展翅翱翔》鸟类牌包：欧洲大陆鸟类\n4. 《展翅翱翔》鸟类牌包：美国鸟类\n5. 《展翅翱翔》鸟类牌包：加拿大鸟类\n6. 《展翅翱翔》鸟类牌包：新西兰鸟类\n\n购买《展翅翱翔：鸟类牌包季票》，即可在后续牌包发布时自动获得全部内容，逐步壮大你的收藏。这也是扩建自然保护区最方便、最划算的方式，让你以更超值的价格一次性获得所有牌包吧！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "通過《展翅翱翔：鳥類牌包季票》，進一步擴展你的自然保護區吧！該季票將包含未來陸續推出的6個鳥類牌包，每個牌包都會加入來自遊戲現有地區的新鳥類。\n\n每個牌包均由《展翅翱翔》玩家設計，包含25張精美鳥類卡牌，以及與世界不同地區相關的獨特能力，同時還附帶專屬玩家頭像。\n\n《展翅翱翔：鳥類牌包季票》包含：\n\n1. 《展翅翱翔》鳥類牌包：英國鳥類\n2. 《展翅翱翔》鳥類牌包：亞洲新增鳥類\n3. 《展翅翱翔》鳥類牌包：歐洲大陸鳥類\n4. 《展翅翱翔》鳥類牌包：美國鳥類\n5. 《展翅翱翔》鳥類牌包：加拿大鳥類\n6. 《展翅翱翔》鳥類牌包：紐西蘭鳥類\n\n購買《展翅翱翔：鳥類牌包季票》，即可在後續牌包發布時自動獲得全部內容，逐步壯大你的收藏。這也是擴建自然保護區最方便、最划算的方式，讓你以更超值的價格一次性獲得所有牌包吧！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Amplia la tua voliera con il primo Pass stagionale dei pacchetti di uccelli! Si tratta di una raccolta completa di 6 pacchetti di uccelli rilasciati nel corso del tempo, ognuno contenente uccelli provenienti da regioni già presenti nel gioco.\n\nOgni pacchetto, ideato dai fan di Wingspan, aggiunge 25 bellissime carte uccello con abilità uniche legate a una diversa parte del mondo, oltre a un ritratto del giocatore esclusivo.\n\nCon il Pass stagionale dei pacchetti di uccelli di Wingspan riceverai:\n\n1. Pacchetto di uccelli di Wingspan: Uccelli britannici\n2. Pacchetto di uccelli di Wingspan: Volatili asiatici aggiuntivi\n3. Pacchetto di uccelli di Wingspan: Uccelli dell'Europa continentale\n4. Pacchetto di uccelli di Wingspan: Uccelli degli Stati Uniti\n5. Pacchetto di uccelli di Wingspan: Uccelli del Canada\n6. Pacchetto di uccelli di Wingspan: Uccelli della Nuova Zelanda\n\nAcquistate il Pass stagionale dei pacchetti di uccelli di Wingspan per assicurarvi subito tutti i prossimi pacchetti di uccelli e aumentare la vostra raccolta. Inoltre, è il modo più economico per ampliare la vostra riserva e ottenere tutti i pacchetti al prezzo migliore!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "첫 번째 윙스팬: 조류 팩 시즌 패스와 함께 여러분의 야생 보존지를 확장해보세요! 본 시즌 패스는 차례차례 발매되는 6개의 조류 팩으로, 각각 이미 등장한 적 있는 지역에서 새로운 새들을 선보입니다.\n\n팬들이 디자인한 각 팩에는 세계 곳곳의 특징을 담은 고유한 능력을 가진 25장의 새 카드와 고유 플레이어 초상화가 들어있습니다.\n\n윙스팬: 조류 팩 시즌 패스를 구매 시 다음을 획득합니다.\n\n1. 윙스팬 조류 팩: 영국의 새\n2. 윙스팬 조류 팩: 추가 아시아 조류\n3. 윙스팬 조류 팩: 유럽 대륙의 새\n4. 윙스팬 조류 팩: 미국의 새\n5. 윙스팬 조류 팩: 캐나다의 새\n6. 윙스팬 조류 팩: 뉴질랜드의 새\n\n윙스팬: 조류 팩 시즌 패스를 구매해 지금 바로 다가올 조류 팩들을 발매와 함께 바로 컬렉션에 추가해보세요. 보다 합리적인 가격으로 모든 팩을 구매해 여러분의 안식처를 확장할 수 있는 가장 간편한 방법입니다!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Доповніть свій заповідник першою сезонною перепусткою «Крила: Набори птахів»! Вона містить повну колекцію із 6 наборів птахів, що виходитимуть з часом і додаватимуть птахів із регіонів, уже знайомих вам у грі.\n\nКожен створений шанувальниками набір містить 25 неймовірних карт птахів з унікальними властивостями, що пов'язані з різними куточками світу, а також ексклюзивний портрет гравця.\n\nЗавдяки сезонній перепустці «Крила: Набори птахів» ви отримаєте:\n\n1. Набір «Крила: Птахи Великої Британії»\n2. Набір «Крила: Додаткові птахи Азії»\n3. Набір «Крила: Птахи континентальної Європи»\n4. Набір «Крила: Птахи США»\n5. Набір «Крила: Птахи Канади»\n6. Набір «Крила: Птахи Нової Зеландії»\n\nПридбайте сезонну перепустку «Крила: Набори птахів», щоб отримати всі майбутні набори птахів одразу після їх виходу та з часом поповнити свою колекцію. Це не тільки найзручніший спосіб отримати більше карт, але й найвигідніший: купувати кожен набір окремо вийде дорожче!"
                             }
                         ]
                     }
