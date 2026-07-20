@@ -1,6 +1,7 @@
 {
   "LocalDisabledBirds": [],
   "OnlineDisabledBirds": [],
+  "IsSeasonPassEnabled": true,
   "LiveServerOverrides": [{
       "PlatformName": "GDKXboxOne",
       "BuildVersion": 9999,
