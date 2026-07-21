@@ -15,7 +15,7 @@
     }],
   "DLCs": [{
       "DlcKey": "FP_AAA_DLC",
-      "IsPublished": true
+      "IsPublished": false
     }
   ]
 }
