@@ -1,7 +1,7 @@
 {
   "LocalDisabledBirds": [],
   "OnlineDisabledBirds": [],
-  "GlobalServerMaintenance": false,
+  "GlobalServerMaintenance": true,
   "ExtraLogsEnabled": false,
   "PlatformMaintenances": [
     {
