@@ -211,5 +211,10 @@
       "Enabled": true
     }
   ],
-  "LiveServerOverrides": []
+  "LiveServerOverrides": [],
+  "DLCs": [{
+      "DlcKey": "FP_AAA_DLC",
+      "IsPublished": false
+    }
+  ]
 }
