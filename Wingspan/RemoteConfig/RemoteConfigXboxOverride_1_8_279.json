@@ -1,0 +1,21 @@
+{
+  "LocalDisabledBirds": [],
+  "OnlineDisabledBirds": [],
+  "SaveAsLocal": true,
+  "IsSeasonPassEnabled": true,
+  "LiveServerOverrides": [{
+      "PlatformName": "GDKXboxOne",
+      "BuildVersion": 9999,
+      "ServerID": 1
+    },
+    {
+      "PlatformName": "GDKXboxSeries",
+      "BuildVersion": 9999,
+      "ServerID": 1
+    }],
+  "DLCs": [{
+      "DlcKey": "FP_AAA_DLC",
+      "IsPublished": false
+    }
+  ]
+}
