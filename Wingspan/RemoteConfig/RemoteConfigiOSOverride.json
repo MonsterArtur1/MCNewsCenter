@@ -1,9 +1,16 @@
 {
-  "LocalDisabledBirds": [],
-  "OnlineDisabledBirds": [],
+  "LocalDisabledBirds": [418,442,443],
+  "OnlineDisabledBirds": [418,442,443],
+  "IsSeasonPassEnabled": false,
+  "SaveAsLocal": true,
   "LiveServerOverrides": [{
       "PlatformName": "iOS",
       "BuildVersion": 9999,
       "ServerID": 1
-    }]
+    }],
+  "DLCs": [{
+      "DlcKey": "FP_AAA_DLC",
+      "IsPublished": false
+    }
+  ]
 }
