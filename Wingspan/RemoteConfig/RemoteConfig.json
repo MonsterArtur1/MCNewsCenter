@@ -94,7 +94,7 @@
     },
     {
       "DlcKey": "MOBILE_BUNDLE_DLCS",
-      "Enabled": true
+      "Enabled": false
     },
     {
       "DlcKey": "MOBILE_BUNDLE_SEASON_PASS",
