@@ -215,22 +215,6 @@
   "DLCs": [{
       "DlcKey": "FP_AAA_DLC",
       "IsPublished": false
-    },
-    {
-      "DlcKey": "MOBILE_BUNDLE_DECORATIVES",
-      "IsPublished": true
-    },
-    {
-      "DlcKey": "MOBILE_BUNDLE_DELUXE",
-      "IsPublished": true
-    },
-    {
-      "DlcKey": "MOBILE_BUNDLE_DLCS",
-      "IsPublished": false
-    },
-    {
-      "DlcKey": "MOBILE_BUNDLE_SEASON_PASS",
-      "IsPublished": true
     }
   ]
 }
