@@ -83,6 +83,22 @@
     {
       "DlcKey": "FLAMECRAFT",
       "Enabled": false
+    },
+    {
+      "DlcKey": "MOBILE_BUNDLE_DECORATIVES",
+      "Enabled": true
+    },
+    {
+      "DlcKey": "MOBILE_BUNDLE_DELUXE",
+      "Enabled": true
+    },
+    {
+      "DlcKey": "MOBILE_BUNDLE_DLCS",
+      "Enabled": true
+    },
+    {
+      "DlcKey": "MOBILE_BUNDLE_SEASON_PASS",
+      "Enabled": true
     }
   ],
   "SeasonalBackgroundsData": [
