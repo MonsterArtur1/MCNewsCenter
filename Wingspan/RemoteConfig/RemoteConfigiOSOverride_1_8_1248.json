@@ -1,7 +1,7 @@
 {
-  "LocalDisabledBirds": [418,442,443],
+  "LocalDisabledBirds": [],
   "OnlineDisabledBirds": [418,442,443],
-  "IsSeasonPassEnabled": false,
+  "IsSeasonPassEnabled": true,
   "SaveAsLocal": true,
   "LiveServerOverrides": [{
       "PlatformName": "iOS",
@@ -14,15 +14,15 @@
     },
 	{
       "DlcKey": "MOBILE_BUNDLE_DLCS",
-      "IsPublished": true
+      "IsPublished": false
     },
 	{
       "DlcKey": "MOBILE_BUNDLE_DELUXE",
-      "IsPublished": true
+      "IsPublished": false
     },
 	{
       "DlcKey": "MOBILE_BUNDLE_DECORATIVES",
-      "IsPublished": true
+      "IsPublished": false
     }
   ]
 }
