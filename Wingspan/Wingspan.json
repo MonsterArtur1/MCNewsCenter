@@ -7765,6 +7765,311 @@
                 }
             ],
             "Actions": []
+        },
+        {
+            "ID": "bf0b01ff-034e-4cd7-a836-f21c19178f27",
+            "Tags": [
+                "NewContent"
+            ],
+            "PlatformsToShowOn": 1023,
+            "StartDateTicks": 639209664000000000,
+            "EndDateTicks": 639213732000000000,
+            "Priority": 2,
+            "IsPinned": false,
+            "PresetImageName": "",
+            "RemoteImageName": "Wingspan_BPAAA_NewsCenter.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Introducing Wingspan Bird Pack: Additional Asian Avians!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Przedstawiamy Na Skrzydłach: Ptasia Paczka – Dodatkowe Ptaki Azji!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Jetzt erhältlich: „Wingspan-Vogelpaket: Weitere Vögel aus Asien“!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Découvrez le Pack Autres oiseaux d'Asie de Wingspan !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Presentamos el paquete Aves asiáticas adicionales de Wingspan!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Apresentando o Pacote de Aves de Wingspan: Aves Asiáticas Adicionais!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『ウイングスパン』バードパック「アジアのさらなる鳥類」が登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Встречайте набор «Дополнительные птицы Азии» для «Крыльев»!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《展翅翱翔》鸟类牌包：亚洲新增鸟类 正式登场！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《展翅翱翔》鳥類牌包：亞洲新增鳥類 正式登場！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Vi presentiamo il Pacchetto di uccelli di Wingspan: Volatili asiatici aggiuntivi!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "윙스팬 조류 팩: 추가 아시아 조류를 소개합니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "До вашої уваги — набір «Крила: Додаткові птахи Азії»!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "New birds from across Asia are coming to your sanctuary!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Nowe ptaki z całej Azji nadlatują do Twojego rezerwatu!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Neue Vögel aus ganz Asien ziehen in dein Habitat ein!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "De nouveaux oiseaux venus d'Asie arrivent à votre sanctuaire !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Llegan a tu santuario nuevas aves de toda Asia!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Novas aves estão chegando diretamente da Ásia para o seu santuário!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "アジアの新しい鳥たちがあなたの楽園にやって来ます！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "К вам в заповедник слетаются новые птицы со всей Азии!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "来自亚洲各地的全新鸟类即将加入你的栖息地！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "亞洲各地的鳥類即將飛來你的保護區！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Stanno per arrivare nuovi uccelli dall'Asia nella tua riserva!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "아시아 전역에서 온 새로운 새들이 안식처로 찾아옵니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Нові птахи з усієї Азії вже летять до вашого заповідника!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Expand your bird sanctuary with Wingspan Bird Pack: Additional Asian Avians, featuring species from across Asia!\n\nEnhance your wildlife preserve with the fan-designed 25 unique Asian bird cards with unique powers, and hear them sing in this digital Bird Pack.\n\nAdd new favorites to your collection with bird species from diverse Asian habitats never before seen in Wingspan Digital, and unlock an exclusive player portrait.\n\nGive your preserves a vibrant splash of new feathers from across the Asian continent."
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Rozwiń swoje ptasie sanktuarium dzięki Na Skrzydłach: Ptasia Paczka – Dodatkowe Ptaki Azji, zawierającej gatunki z całej Azji!\n\nWraz z pakietem wzbogać swój rezerwat o 25 zaprojektowanych przez fanów kart azjatyckich ptaków z unikalnymi zdolnościami i wsłuchaj się w ich czarujący śpiew.\n\nDodaj do swojej kolekcji nowe ulubione gatunki z różnorodnych azjatyckich siedlisk, pojawiające się po raz pierwszy w cyfrowej wersji Na Skrzydłach, i odblokuj ekskluzywny portret gracza.\n\nWprowadź do swoich rezerwatów feerię nowych barw i piór z całego azjatyckiego kontynentu."
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Erweitere dein Vogelreservat mit dem „Wingspan-Vogelpaket: Weitere Vögel aus Asien“, das Vogelarten aus ganz Asien umfasst!\n \n Ergänze dein Wildtierreservat um 25 von Fans gestaltete Karten ganz besonderer asiatischer Vögel mit einzigartigen Fähigkeiten, und lausche ihren Gesängen in diesem digitalen Vogelpaket.\n \n Bereichere deine Sammlung mit neuen Lieblingen – Vogelarten aus den vielfältigen Lebensräumen Asiens, die es in Wingspan Digital bisher nicht zu sehen gab – und schalte ein besonderes Spielerprofilbild frei.\n \n Verleihe deinen Reservaten lebhafte Farbtupfer in Form neuer Vögel vom asiatischen Kontinent."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Élargissez votre sanctuaire aviaire avec le Pack Autres oiseaux d'Asie de Wingspan, qui met à l'honneur des espèces provenant de toute l'Asie !\n \n Enrichissez votre volière avec 25 cartes d'oiseaux asiatiques exceptionnelles, conçues par les fans et dotées de pouvoirs uniques, et écoutez-les chanter dans ce pack d'oiseaux numérique.\n \n Agrémentez votre collection de nouvelles espèces d'oiseaux issues de divers habitats asiatiques jamais vues auparavant dans l'édition numérique de Wingspan et débloquez un portrait exclusif.\n \n Apportez une touche de couleur à votre volière grâce à ces nouvelles espèces venues de tout le continent asiatique."
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Amplía tu santuario de aves con el paquete Aves asiáticas adicionales de Wingspan, repleto de especies de toda Asia!\n \n Mejora tu aviario con 25 cartas de aves asiáticas con poderes únicos diseñadas por fans y disfruta de su canto con este paquete de aves digital.\n \n Añade tus nuevas aves favoritas a tu colección con estas especies de diversos hábitats asiáticos nunca vistas en Wingspan Digital y desbloquea un retrato de jugador exclusivo.\n \n Dale a tu reserva más variedad de coloridos plumajes del continente asiático."
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Expanda seu santuário de aves com o Pacote de Aves de Wingspan: Aves Asiáticas Adicionais, trazendo novas espécies da Ásia!\n \n Aprimore sua reserva natural com 25 cartas de aves asiáticas criadas por fãs, cada uma com poderes exclusivos, e ouça seus cantos neste Pacote de Aves digital.\n \n Adicione novas espécies favoritas à sua coleção com aves de diversos habitats asiáticos nunca vistas antes em Wingspan Digital e desbloqueie uma imagem de jogador exclusiva.\n \n Dê às suas reservas naturais um toque vibrante de novas plumagens vindas de todo o continente asiático."
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "アジアの鳥類種をフィーチャーした『ウイングスパン』バードパック「アジアのさらなる鳥類」追加パックで、鳥たちの楽園を拡張しましょう！\n \n ファンのデザインによるユニークな能力を持つ25種類の独特なアジアの鳥カードで、野生動物の保護区を充実させ、デジタルバードパックで新しい鳥たちの歌声を楽しみましょう。\n \n 『ウイングスパン』デジタル版で初登場の様々なアジアの生息地の鳥の種類をあなたの新しいお気に入りコレクションに加えて、限定プレイヤーポートレイトをアンロックしましょう。\n \n あなたの保護区にアジア大陸じゅうから鮮やかな新しい鳥類の仲間が加わります。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Пополните свой заповедник видами из Азии с помощью набора «Дополнительные птицы Азии» для «Крыльев»!\n \n С этим созданным фанатами цифровым набором пернатых вы получите 25 карт азиатских птиц и сможете насладиться их пением. У всех птиц уникальные свойства.\n \n Найдите новых любимцев из числа птиц из разных азиатских ареалов, прежде не летавших по просторам цифровой версии «Крыльев», и откройте эксклюзивный портрет игрока.\n \n Пусть ваш заповедник радует вас цветастыми экземплярами со всей Азии!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "通过《展翅翱翔》鸟类牌包：亚洲新增鸟类 中来自亚洲各地的多种鸟儿们，扩展你的鸟类保护区吧！\n\n通过这款由玩家设计的数字版鸟类牌包，为你的自然保护区加入25张拥有独特能力的亚洲鸟类卡牌，并聆听它们动人的歌声。\n\n将此前从未在《展翅翱翔》数字版中登场、来自亚洲多样栖息地的新鸟种加入收藏，并解锁专属玩家头像。\n\n为你的自然保护区增添来自亚洲大陆的缤纷羽翼吧。"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "通過《展翅翱翔》鳥類牌包：亞洲新增鳥類 中來自亞洲各地的多種鳥兒們，擴展你的鳥類保護區吧！\n\n通過這款由玩家設計的數位版鳥類牌包，為你的自然保護區加入25張擁有獨特能力的亞洲鳥類卡牌，並聆聽它們動人的歌聲。\n\n將此前從未在《展翅翱翔》數位版中登場、來自亞洲多樣棲息地的新鳥種加入收藏，並解鎖專屬玩家頭像。\n\n為你的自然保護區增添來自亞洲大陸的繽紛羽翼吧。"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Amplia la tua riserva con il Pacchetto di uccelli di Wingspan: Volatili asiatici aggiuntivi, che comprende specie dell'Asia!\n \n Migliora la tua voliera con 25 carte uccello asiatiche con abilità uniche ideate dai fan, e ascolta il loro canto in questo pacchetto di uccelli digitale.\n \n Aggiungi nuovi preferiti alla tua raccolta con specie di uccelli provenienti dai diversi habitat dell'Asia, mai viste prima nelle versione digitale di Wingspan, e sblocca un ritratto del giocatore esclusivo.\n \n Dai un tocco di vivacità alla tua voliera con nuovi piumaggi provenienti dal continente asiatico."
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "윙스팬 조류 팩: 추가 아시아 조류'와 함께 아시아에 있는 새들로 여러분의 새 안식처를 확장해보세요!\n\n팬들이 디자인한 25종의 아시아 새들은 각자 고유한 능력을 가지고 있습니다. 첫 번째 디지털 조류 팩에서 이들의 노랫소리를 들어보세요.\n\n윙스팬 디지털에서 보여준 적 없는 아시아 서식지의 새들로 여러분의 컬렉션에 새로운 새들을 추가하고, 고유 플레이어 초상화를 획득하세요.\n\n여러분의 보존 지역에 아시아 대륙에서 온 다양한 신규 깃털을 모아보세요."
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Не проґавте дивовижний набір «Крила: Додаткові птахи Азії», у якому міститься розмаїте птаство прямісінько з розлогої Азії!\n \n Урізноманітніть заповідник створеними шанувальниками 25 картами птахів Азії з унікальними властивостями та насолоджуйтеся співом пернатих у цьому цифровому наборі птахів.\n \n Доповніть колекцію новими улюбленцями — птахами з різних куточків Азії, яких раніше не було в цифровій версії «Крил», а також отримайте ексклюзивний портрет гравця.\n \n Запросіть до свого заповідника нових пернатих друзів із різних куточків Азії."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 1009,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Pick up the Wingspan: Bird Packs Season Pass to unlock Wingspan: Bird Pack – Additional Asian Avians as soon as it launches and get instant access to Wingspan: Bird Pack – British Birds."
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Kup Na Skrzydłach: Ptasie Paczki – Przepustkę Sezonową, aby odblokować Na Skrzydłach: Ptasią Paczkę – Dodatkowe Ptaki Azji od razu po jej premierze i zyskać natychmiastowy dostęp do Na Skrzydłach: Ptasiej Paczki – Brytyjskie Ptaki."
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Schnapp dir den Vogelpaket-Saisonpass für Wingspan und sichere dir das „Wingspan-Vogelpaket: Weitere Vögel aus Asien“ direkt bei der Veröffentlichung! So erhältst du außerdem sofortigen Zugriff auf das „Wingspan-Vogelpaket: Vögel aus Großbritannien“."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Avec le Passe de saison « Packs d'oiseaux » de Wingspan, débloquez le Pack Autres oiseaux d'Asie de Wingspan dès sa sortie et obtenez immédiatement l'accès au Pack Oiseaux britanniques de Wingspan."
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Hazte con el Pase de temporada de paquetes de aves de Wingspan para desbloquear el paquete Aves asiáticas adicionales en cuanto salga y obtener acceso al paquete Aves británicas de manera inmediata."
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Adquira o Wingspan: Passe de Temporada de Pacotes de Aves para desbloquear o Pacote de Aves de Wingspan: Aves Asiáticas Adicionais assim que for lançado, e obtenha acesso instantâneo ao Pacote de Aves de Wingspan: Aves Britânicas."
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "『ウイングスパン』バードパックシーズンパスを入手して、配信開始と同時に『ウイングスパン』バードパック「アジアのさらなる鳥類」をアンロックして、『ウイングスパン』バードパック「英国の鳥類」に即座にアクセスしましょう。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Купите сезонный абонемент на наборы птиц для «Крыльев». Набор «Птицы Британии» вы получите сразу, а набор «Дополнительные птицы Азии» — в день его выхода."
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "入手“《展翅翱翔》鸟类牌包季票”，即可在“《展翅翱翔》鸟类牌包：亚洲新增鸟类”上架后第一时间解锁，还能立即畅玩“《展翅翱翔》鸟类牌包：英国鸟类”。"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "凡購買「《展翅翱翔》鳥類牌包賽季通行證」，「《展翅翱翔》鳥類牌包：亞洲新增鳥類」將於推出時立即解鎖，並馬上獲得「《展翅翱翔》鳥類牌包：英國鳥類」。"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Acquista il Pass stagionale dei pacchetti di uccelli di Wingspan per sbloccare il Pacchetto di uccelli di Wingspan: Volatili asiatici aggiuntivi appena sarà disponibile e accedere subito al Pacchetto di uccelli di Wingspan: Uccelli britannici."
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "윙스팬: 조류 팩 시즌 패스를 구매해 '윙스팬 조류 팩 – 추가 아시아 조류'를 발매되는 대로 해제해 바로 '윙스팬: 조류 팩 – 영국의 새'를 플레이 해보세요."
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Придбайте сезонну перепустку «Крила: Набори птахів», щоб розблокувати набір «Крила: Додаткові птахи Азії» одразу в момент його виходу, а також миттєво отримати доступ до набору «Крила: Птахи Великої Британії»."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 1009,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "You'll also secure all remaining upcoming Bird Packs as they release, growing your collection over time."
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "We ten sposób zagwarantujesz sobie również dostęp do wszystkich pozostałych Ptasich Paczek od razu po ich premierze, poszerzając z czasem swoją kolekcję."
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "So sicherst du dir außerdem alle weiteren Vogelpakete direkt bei ihrer Veröffentlichung und baust deine Sammlung nach und nach aus."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Cela vous permettra d'obtenir avec certitude tous les Packs d'oiseaux à leur sortie, afin d'accroître votre collection au fil du temps."
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Además, conseguirás todos los paquetes de aves futuros cuando salgan para poder seguir aumentando tu colección con el paso del tiempo."
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Você também garantirá todos os próximos Pacotes de Aves conforme forem lançados, aumentando sua coleção ao longo do tempo."
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "また、今後リリースされる全てのバードパックをリリース時に確実に入手して、徐々にコレクションを拡大できます。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "С выходом новых наборов ваша коллекция будет пополняться."
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "还将确保能获得即将推出的所有鸟类牌包，随着游戏内容的丰富不断扩展你的收藏。"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "你也會獲得所有後續即將推出的鳥類牌包，讓收藏越來越豐富。"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Riceverai anche tutti i restanti Pacchetti di uccelli in arrivo non appena saranno disponibili, così da arricchire progressivamente la tua raccolta."
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "또한 앞으로 출시 될 나머지 조류팩도 출시되는 대로 모두 받아 컬렉션을 점점 키워갈 수 있습니다."
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Крім того, ви автоматично отримуватимете всі наступні набори птахів одразу після їх виходу, поступово поповнюючи свою колекцію."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
         }
     ]
 }
