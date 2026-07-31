@@ -17,6 +17,10 @@
     {
       "DlcKey": "FP_AAA_DLC",
       "IsPublished": false
+    },
+	{
+      "DlcKey": "FP_BoCE_DLC",
+      "IsPublished": false
     }
   ]
 }
