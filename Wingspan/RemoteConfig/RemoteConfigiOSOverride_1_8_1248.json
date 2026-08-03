@@ -10,7 +10,7 @@
     }],
   "DLCs": [{
       "DlcKey": "FP_AAA_DLC",
-      "IsPublished": true
+      "IsPublished": false
     },
 	{
       "DlcKey": "MOBILE_BUNDLE_DLCS",
@@ -22,6 +22,10 @@
     },
 	{
       "DlcKey": "MOBILE_BUNDLE_DECORATIVES",
+      "IsPublished": false
+    },
+	{
+      "DlcKey": "MOBILE_BUNDLE_SEASON_PASS-2",
       "IsPublished": false
     }
   ]
