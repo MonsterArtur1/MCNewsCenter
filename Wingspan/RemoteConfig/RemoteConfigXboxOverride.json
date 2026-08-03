@@ -12,10 +12,5 @@
       "PlatformName": "GDKXboxSeries",
       "BuildVersion": 9999,
       "ServerID": 1
-    }],
-  "DLCs": [{
-      "DlcKey": "FP_AAA_DLC",
-      "IsPublished": false
-    }
-  ]
+    }]
 }

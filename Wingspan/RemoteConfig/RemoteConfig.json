@@ -64,15 +64,15 @@
     },
     {
       "ParamName": "RC_SHORT_EXPANSIONS",
-      "ParamValue": "<sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_base\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ss\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_oe\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ae\"><sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bb\">"
+      "ParamValue": "<sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_base\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ss\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_oe\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ae\"><sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bb\"><sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_aaa\">"
     },
     {
       "ParamName": "RC_LONG_EXPANSIONS",
-      "ParamValue": "<sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_base\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ss\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_oe\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ae\"><sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bb\">"
+      "ParamValue": "<sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_base\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ss\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_oe\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ae\"><sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bb\"><sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_aaa\">"
     },
     {
       "ParamName": "RC_DUET_EXPANSIONS",
-      "ParamValue": "<sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_oe\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ae\"><sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bb\">"
+      "ParamValue": "<sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_oe\"><sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ae\"><sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bb\"><sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_aaa\">"
     }
   ],
   "RemoteShopElements": [
@@ -214,7 +214,7 @@
   "LiveServerOverrides": [],
   "DLCs": [{
       "DlcKey": "FP_AAA_DLC",
-      "IsPublished": false
+      "IsPublished": true
     }
   ]
 }
