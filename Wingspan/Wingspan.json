@@ -7772,9 +7772,9 @@
                 "NewContent"
             ],
             "PlatformsToShowOn": 1023,
-            "StartDateTicks": 639209664000000000,
-            "EndDateTicks": 639213732000000000,
-            "Priority": 2,
+            "StartDateTicks": 639214848000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 1,
             "IsPinned": false,
             "PresetImageName": "",
             "RemoteImageName": "Wingspan_BPAAA_NewsCenter.png",
@@ -7838,55 +7838,55 @@
                 "LocalizedTexts": [
                     {
                         "Language": "en",
-                        "Text": "New birds from across Asia are coming to your sanctuary!"
+                        "Text": "Wingspan Bird Pack: Additional Asian Avians is Available Now! "
                     },
                     {
                         "Language": "pl",
-                        "Text": "Nowe ptaki z całej Azji nadlatują do Twojego rezerwatu!"
+                        "Text": "Na Skrzydłach: Ptasia Paczka – Dodatkowe Ptaki Azji już dostępna!"
                     },
                     {
                         "Language": "de",
-                        "Text": "Neue Vögel aus ganz Asien ziehen in dein Habitat ein!"
+                        "Text": "Das „Wingspan-Vogelpaket: Weitere Vögel aus Asien“ ist jetzt verfügbar!"
                     },
                     {
                         "Language": "fr",
-                        "Text": "De nouveaux oiseaux venus d'Asie arrivent à votre sanctuaire !"
+                        "Text": "Le Pack Autres oiseaux d'Asie de Wingspan est désormais disponible !"
                     },
                     {
                         "Language": "es",
-                        "Text": "¡Llegan a tu santuario nuevas aves de toda Asia!"
+                        "Text": "¡Ya está disponible el paquete Aves asiáticas adicionales de Wingspan!"
                     },
                     {
                         "Language": "pt-BR",
-                        "Text": "Novas aves estão chegando diretamente da Ásia para o seu santuário!"
+                        "Text": "O Pacote de Aves de Wingspan: Aves Asiáticas Adicionais já está disponível!"
                     },
                     {
                         "Language": "ja",
-                        "Text": "アジアの新しい鳥たちがあなたの楽園にやって来ます！"
+                        "Text": "『ウイングスパン』バードパック「アジアのさらなる鳥類」が登場！"
                     },
                     {
                         "Language": "ru",
-                        "Text": "К вам в заповедник слетаются новые птицы со всей Азии!"
+                        "Text": "Набор «Дополнительные птицы Азии» для «Крыльев» уже доступен!"
                     },
                     {
                         "Language": "zh",
-                        "Text": "来自亚洲各地的全新鸟类即将加入你的栖息地！"
+                        "Text": "《展翅翱翔》鸟类牌包：亚洲新增鸟类”现已上架！"
                     },
                     {
                         "Language": "zh-Hant",
-                        "Text": "亞洲各地的鳥類即將飛來你的保護區！"
+                        "Text": "「《展翅翱翔》鳥類牌包：亞洲新增鳥類」現已推出！"
                     },
                     {
                         "Language": "it",
-                        "Text": "Stanno per arrivare nuovi uccelli dall'Asia nella tua riserva!"
+                        "Text": "Il Pacchetto di uccelli di Wingspan: Volatili asiatici aggiuntivi è ora disponibile!"
                     },
                     {
                         "Language": "ko",
-                        "Text": "아시아 전역에서 온 새로운 새들이 안식처로 찾아옵니다!"
+                        "Text": "윙스팬 조류 팩: 추가 아시아 조류를 지금 이용 가능합니다!"
                     },
                     {
                         "Language": "uk",
-                        "Text": "Нові птахи з усієї Азії вже летять до вашого заповідника!"
+                        "Text": "Набір «Крила: Додаткові птахи Азії» вже доступний!"
                     }
                 ]
             },
@@ -7956,55 +7956,55 @@
                         "LocalizedTexts": [
                             {
                                 "Language": "en",
-                                "Text": "Pick up the Wingspan: Bird Packs Season Pass to unlock Wingspan: Bird Pack – Additional Asian Avians as soon as it launches and get instant access to Wingspan: Bird Pack – British Birds."
+                                "Text": "Pick up the Wingspan: Bird Packs Season Pass to instantly unlock Wingspan: Bird Pack – Additional Asian Avians and Wingspan: Bird Pack – British Birds."
                             },
                             {
                                 "Language": "pl",
-                                "Text": "Kup Na Skrzydłach: Ptasie Paczki – Przepustkę Sezonową, aby odblokować Na Skrzydłach: Ptasią Paczkę – Dodatkowe Ptaki Azji od razu po jej premierze i zyskać natychmiastowy dostęp do Na Skrzydłach: Ptasiej Paczki – Brytyjskie Ptaki."
+                                "Text": "Kup Na Skrzydłach: Ptasie Paczki – Przepustkę Sezonową, aby natychmiast odblokować Na Skrzydłach: Ptasią Paczkę – Dodatkowe Ptaki Azji oraz Na Skrzydłach: Ptasią Paczkę – Brytyjskie Ptaki."
                             },
                             {
                                 "Language": "de",
-                                "Text": "Schnapp dir den Vogelpaket-Saisonpass für Wingspan und sichere dir das „Wingspan-Vogelpaket: Weitere Vögel aus Asien“ direkt bei der Veröffentlichung! So erhältst du außerdem sofortigen Zugriff auf das „Wingspan-Vogelpaket: Vögel aus Großbritannien“."
+                                "Text": "Schnapp dir den Vogelpaket-Saisonpass für Wingspan und erhalte sofortigen Zugriff auf das „Wingspan-Vogelpaket: Weitere Vögel aus Asien“ sowie das „Wingspan-Vogelpaket: Vögel aus Großbritannien“."
                             },
                             {
                                 "Language": "fr",
-                                "Text": "Avec le Passe de saison « Packs d'oiseaux » de Wingspan, débloquez le Pack Autres oiseaux d'Asie de Wingspan dès sa sortie et obtenez immédiatement l'accès au Pack Oiseaux britanniques de Wingspan."
+                                "Text": "Avec le Passe de saison « Packs d'oiseaux » de Wingspan, débloquez instantanément le Pack Autres oiseaux d'Asie de Wingspan ainsi que le Pack Oiseaux britanniques de Wingspan."
                             },
                             {
                                 "Language": "es",
-                                "Text": "Hazte con el Pase de temporada de paquetes de aves de Wingspan para desbloquear el paquete Aves asiáticas adicionales en cuanto salga y obtener acceso al paquete Aves británicas de manera inmediata."
+                                "Text": "Hazte con el Pase de temporada de paquetes de aves de Wingspan para desbloquear el paquete Aves asiáticas adicionales y el paquete Aves británicas."
                             },
                             {
                                 "Language": "pt-BR",
-                                "Text": "Adquira o Wingspan: Passe de Temporada de Pacotes de Aves para desbloquear o Pacote de Aves de Wingspan: Aves Asiáticas Adicionais assim que for lançado, e obtenha acesso instantâneo ao Pacote de Aves de Wingspan: Aves Britânicas."
+                                "Text": "Adquira Wingspan: Passe de Temporada de Pacotes de Aves para desbloquear instantaneamente o Pacote de Aves Asiáticas Adicionais e o Pacote de Aves de Wingspan: Aves Britânicas."
                             },
                             {
                                 "Language": "ja",
-                                "Text": "『ウイングスパン』バードパックシーズンパスを入手して、配信開始と同時に『ウイングスパン』バードパック「アジアのさらなる鳥類」をアンロックして、『ウイングスパン』バードパック「英国の鳥類」に即座にアクセスしましょう。"
+                                "Text": "『ウイングスパン』バードパックシーズンパスを入手して、『ウイングスパン』バードパック「アジアのさらなる鳥類」と『ウイングスパン』バードパック「英国の鳥類」を即座にアンロックしましょう。"
                             },
                             {
                                 "Language": "ru",
-                                "Text": "Купите сезонный абонемент на наборы птиц для «Крыльев». Набор «Птицы Британии» вы получите сразу, а набор «Дополнительные птицы Азии» — в день его выхода."
+                                "Text": "Купите сезонный абонемент на наборы птиц для «Крыльев», чтобы сразу получить наборы «Дополнительные птицы Азии» и «Птицы Британии»."
                             },
                             {
                                 "Language": "zh",
-                                "Text": "入手“《展翅翱翔》鸟类牌包季票”，即可在“《展翅翱翔》鸟类牌包：亚洲新增鸟类”上架后第一时间解锁，还能立即畅玩“《展翅翱翔》鸟类牌包：英国鸟类”。"
+                                "Text": "入手“《展翅翱翔》鸟类牌包季票”，即可立即解锁“《展翅翱翔》鸟类牌包：亚洲新增鸟类”和“《展翅翱翔》鸟类牌包：英国鸟类”。"
                             },
                             {
                                 "Language": "zh-Hant",
-                                "Text": "凡購買「《展翅翱翔》鳥類牌包賽季通行證」，「《展翅翱翔》鳥類牌包：亞洲新增鳥類」將於推出時立即解鎖，並馬上獲得「《展翅翱翔》鳥類牌包：英國鳥類」。"
+                                "Text": "購買「《展翅翱翔》鳥類牌包賽季通行證」，立即解鎖「《展翅翱翔》鳥類牌包：亞洲新增鳥類」與「《展翅翱翔》鳥類牌包：英國鳥類」。"
                             },
                             {
                                 "Language": "it",
-                                "Text": "Acquista il Pass stagionale dei pacchetti di uccelli di Wingspan per sbloccare il Pacchetto di uccelli di Wingspan: Volatili asiatici aggiuntivi appena sarà disponibile e accedere subito al Pacchetto di uccelli di Wingspan: Uccelli britannici."
+                                "Text": "Acquista il Pass stagionale dei pacchetti di uccelli di Wingspan per sbloccare immediatamente il Pacchetto di uccelli di Wingspan: Volatili asiatici aggiuntivi e il Pacchetto di uccelli di Wingspan: Uccelli britannici."
                             },
                             {
                                 "Language": "ko",
-                                "Text": "윙스팬: 조류 팩 시즌 패스를 구매해 '윙스팬 조류 팩 – 추가 아시아 조류'를 발매되는 대로 해제해 바로 '윙스팬: 조류 팩 – 영국의 새'를 플레이 해보세요."
+                                "Text": "윙스팬: 조류 팩 시즌 패스를 구매해 '윙스팬 조류 팩 – 추가 아시아 조류'와 '윙스팬: 조류 팩 – 영국의 새'를 즉시 해제해보세요."
                             },
                             {
                                 "Language": "uk",
-                                "Text": "Придбайте сезонну перепустку «Крила: Набори птахів», щоб розблокувати набір «Крила: Додаткові птахи Азії» одразу в момент його виходу, а також миттєво отримати доступ до набору «Крила: Птахи Великої Британії»."
+                                "Text": "Придбайте сезонну перепустку «Крила: Набори птахів», щоб миттєво розблокувати набори «Крила: Додаткові птахи Азії» та «Крила: Птахи Великої Британії»."
                             }
                         ]
                     }
@@ -8064,6 +8064,193 @@
                             {
                                 "Language": "uk",
                                 "Text": "Крім того, ви автоматично отримуватимете всі наступні набори птахів одразу після їх виходу, поступово поповнюючи свою колекцію."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
+        },
+        {
+            "ID": "b8290db0-8422-4a4f-a6e0-db0ca8ec2981",
+            "Tags": [
+                "Update"
+            ],
+            "PlatformsToShowOn": 4,
+            "StartDateTicks": 639214848000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 2,
+            "IsPinned": false,
+            "PresetImageName": "Update",
+            "RemoteImageName": "",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Hotfix – August 5, 2026"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Hotfix – August 5, 2026"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Hotfix – August 5, 2026"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Hotfix – August 5, 2026"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "Hotfix – August 5, 2026"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Hotfix – August 5, 2026"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "Hotfix – August 5, 2026"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Hotfix – August 5, 2026"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "Hotfix – August 5, 2026"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "Hotfix – August 5, 2026"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Hotfix – August 5, 2026"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "Hotfix – August 5, 2026"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Hotfix – August 5, 2026"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "<style=base>A new hotfix is now rolling out on Android devices.</style>\r\n"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "<style=base>A new hotfix is now rolling out on Android devices.</style>\r\n"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "<style=base>A new hotfix is now rolling out on Android devices.</style>\r\n"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "<style=base>A new hotfix is now rolling out on Android devices.</style>\r\n"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "<style=base>A new hotfix is now rolling out on Android devices.</style>\r\n"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "<style=base>A new hotfix is now rolling out on Android devices.</style>\r\n"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "<style=base>A new hotfix is now rolling out on Android devices.</style>\r\n"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "<style=base>A new hotfix is now rolling out on Android devices.</style>\r\n"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "<style=base>A new hotfix is now rolling out on Android devices.</style>\r\n"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "<style=base>A new hotfix is now rolling out on Android devices.</style>\r\n"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "<style=base>A new hotfix is now rolling out on Android devices.</style>\r\n"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "<style=base>A new hotfix is now rolling out on Android devices.</style>\r\n"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "<style=base>A new hotfix is now rolling out on Android devices.</style>\r\n"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "It fixes the issue that caused the game to crash or fail to load after the latest update.\r\n\r\n<style=base>Important: Please update the game directly through the Google Play Store, not via the in-game update popup. The in-game popup is what caused this issue, and updating through the Google Play Store will disable it for future updates. </style>\r\n\r\nThank you for your patience, and sorry for the inconvenience!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "It fixes the issue that caused the game to crash or fail to load after the latest update.\r\n\r\n<style=base>Important: Please update the game directly through the Google Play Store, not via the in-game update popup. The in-game popup is what caused this issue, and updating through the Google Play Store will disable it for future updates. </style>\r\n\r\nThank you for your patience, and sorry for the inconvenience!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "It fixes the issue that caused the game to crash or fail to load after the latest update.\r\n\r\n<style=base>Important: Please update the game directly through the Google Play Store, not via the in-game update popup. The in-game popup is what caused this issue, and updating through the Google Play Store will disable it for future updates. </style>\r\n\r\nThank you for your patience, and sorry for the inconvenience!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "It fixes the issue that caused the game to crash or fail to load after the latest update.\r\n\r\n<style=base>Important: Please update the game directly through the Google Play Store, not via the in-game update popup. The in-game popup is what caused this issue, and updating through the Google Play Store will disable it for future updates. </style>\r\n\r\nThank you for your patience, and sorry for the inconvenience!"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "It fixes the issue that caused the game to crash or fail to load after the latest update.\r\n\r\n<style=base>Important: Please update the game directly through the Google Play Store, not via the in-game update popup. The in-game popup is what caused this issue, and updating through the Google Play Store will disable it for future updates. </style>\r\n\r\nThank you for your patience, and sorry for the inconvenience!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "It fixes the issue that caused the game to crash or fail to load after the latest update.\r\n\r\n<style=base>Important: Please update the game directly through the Google Play Store, not via the in-game update popup. The in-game popup is what caused this issue, and updating through the Google Play Store will disable it for future updates. </style>\r\n\r\nThank you for your patience, and sorry for the inconvenience!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "It fixes the issue that caused the game to crash or fail to load after the latest update.\r\n\r\n<style=base>Important: Please update the game directly through the Google Play Store, not via the in-game update popup. The in-game popup is what caused this issue, and updating through the Google Play Store will disable it for future updates. </style>\r\n\r\nThank you for your patience, and sorry for the inconvenience!"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "It fixes the issue that caused the game to crash or fail to load after the latest update.\r\n\r\n<style=base>Important: Please update the game directly through the Google Play Store, not via the in-game update popup. The in-game popup is what caused this issue, and updating through the Google Play Store will disable it for future updates. </style>\r\n\r\nThank you for your patience, and sorry for the inconvenience!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "It fixes the issue that caused the game to crash or fail to load after the latest update.\r\n\r\n<style=base>Important: Please update the game directly through the Google Play Store, not via the in-game update popup. The in-game popup is what caused this issue, and updating through the Google Play Store will disable it for future updates. </style>\r\n\r\nThank you for your patience, and sorry for the inconvenience!"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "It fixes the issue that caused the game to crash or fail to load after the latest update.\r\n\r\n<style=base>Important: Please update the game directly through the Google Play Store, not via the in-game update popup. The in-game popup is what caused this issue, and updating through the Google Play Store will disable it for future updates. </style>\r\n\r\nThank you for your patience, and sorry for the inconvenience!"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "It fixes the issue that caused the game to crash or fail to load after the latest update.\r\n\r\n<style=base>Important: Please update the game directly through the Google Play Store, not via the in-game update popup. The in-game popup is what caused this issue, and updating through the Google Play Store will disable it for future updates. </style>\r\n\r\nThank you for your patience, and sorry for the inconvenience!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "It fixes the issue that caused the game to crash or fail to load after the latest update.\r\n\r\n<style=base>Important: Please update the game directly through the Google Play Store, not via the in-game update popup. The in-game popup is what caused this issue, and updating through the Google Play Store will disable it for future updates. </style>\r\n\r\nThank you for your patience, and sorry for the inconvenience!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "It fixes the issue that caused the game to crash or fail to load after the latest update.\r\n\r\n<style=base>Important: Please update the game directly through the Google Play Store, not via the in-game update popup. The in-game popup is what caused this issue, and updating through the Google Play Store will disable it for future updates. </style>\r\n\r\nThank you for your patience, and sorry for the inconvenience!"
                             }
                         ]
                     }
