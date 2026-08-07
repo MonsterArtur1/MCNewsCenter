@@ -8434,6 +8434,314 @@
                 }
             ],
             "Actions": []
+        },
+        {
+            "ID": "02860bf0-1362-4958-862e-a9cc3e2a60dd",
+            "Tags": [
+                "MonsterCouch"
+            ],
+            "PlatformsToShowOn": 257,
+            "StartDateTicks": 639216576000000000,
+            "EndDateTicks": 639220032000000000,
+            "Priority": 1,
+            "IsPinned": false,
+            "PresetImageName": "",
+            "RemoteImageName": "Flamecraft_Announcement_Newscenter.jpg",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Flamecraft Online Beta is now live!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Online Beta Flamecraft już wystartowała!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Die Flamecraft-Online-Beta ist jetzt live!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "La bêta en ligne de Flamecraft est disponible dès maintenant !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡La beta en línea de Flamecraft ya está disponible!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "O Beta Online de Flamecraft já está no ar!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『Flamecraft』オンラインベータ配信中！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Сетевая бета Flamecraft уже доступна!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《龍焰魔法鎮》在线 Beta 测试现已开启！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《龍焰魔法鎮》線上 Beta 測試現已開放！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "La beta online di Flamecraft è ora disponibile!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "플레임크래프트 온라인 베타 지금 플레이 가능!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Онлайн-бета Flamecraft уже доступна!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Sign up today and join <style=oceania>Flamekeepers</style> from around the world!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Dołącz już dziś i zagraj ze <style=oceania>Smokoustymi</style> z całego świata!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Melde dich noch heute an und schließe dich <style=oceania>Flammenhüterinnen und Flammenhütern</style> aus aller Welt an!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Inscrivez-vous dès aujourd'hui et rejoignez les <style=oceania>Gardiens des Flammes</style> du monde entier !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Ya puedes inscribirte y sumarte a otros <style=oceania>Guardallamas</style> de todo el mundo!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Inscreva-se hoje mesmo e junte-se aos <style=oceania>Guardachamas</style> de todo o mundo!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "今すぐサインアップして、世界中の<style=oceania>炎の理解者</style>の仲間になりましょう！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Зарегистрируйтесь и присоединитесь к <style=oceania>мастерам пламени</style> со всего света!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "立即注册，加入来自世界各地的<style=oceania>守焰人</style>行列！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "今天立即註冊，與世界各地的<style=oceania>守焰人</style>一同加入！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Iscriviti oggi e unisciti ai <style=oceania>Custodi della Fiamma</style> di tutto il mondo!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "지금 등록하고 전 세계의 <style=oceania>불꽃지기</style>들과 함께하세요!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Зареєструйтеся вже сьогодні й приєднайтеся до <style=oceania>хранителів полум'я</style> з усього світу!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 257,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Birders! If you've been following the development of <style=oceania> Flamecraft</style> , we have exciting news!\n\n<style=oceania>Flamecraft Online Beta is now live!</style>  Soon, you'll be able to play online with Flamekeepers from around the world and help us test the Online mode before launch!\nThe beta is available on Steam, participation is free and open to everyone, and you can try out all three online multiplayer modes: Short Matchmaking, Long Matchmaking, and Custom Online Games with friends. The tutorial is also included, giving first-time Flamekeepers a chance to learn the basics before joining online matches.\n\nIf you'd like to join the Beta, you can do it through Flamecraft Steam store page! Your feedback will help us improve the multiplayer mode before release, and we can't wait to see you online for the first time, Flamekeepers! \n"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Ptasiarze! Jeśli śledzicie rozwój <style=oceania>Flamecraft</style>, mamy dla was świetne wieści!\n\n<style=oceania>Beta online Flamecraft jest już dostępna!</style> Już teraz możecie grać ze Smokoustymi z całego świata i pomóc nam przetestować tryb wieloosobowy przed premierą!\n\nBeta jest dostępna na Steam, udział jest bezpłatny i otwarty dla wszystkich. Możecie wypróbować wszystkie trzy tryby online: szybkie gry, długie gry oraz własne gry online ze znajomymi. W becie znajduje się też samouczek, dzięki któremu nowi Smokouści poznają podstawy, zanim dołączą do pierwszych meczów online.\n\nJeśli chcecie dołączyć do bety, wystarczy odwiedzić stronę Flamecraft na Steam! Wasze opinie pomogą nam ulepszyć tryb wieloosobowy przed premierą - nie możemy się doczekać, aż wypróbujecie go po raz pierwszy, Smokouści!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Vogelbeobachter, aufgepasst! Wenn du die Entwicklung von <style=oceania>Flamecraft</style> mitverfolgt hast, haben wir großartige Neuigkeiten:\n\n <style=oceania>Die Anmeldung zur Online-Beta von Flamecraft ist offiziell eröffnet!\n</style>\nSchon bald kannst du gemeinsam mit Flammenhüterinnen und Flammenhütern aus aller Welt online spielen und uns dabei helfen, den Onlinemodus vor der Veröffentlichung ausgiebig zu testen!\n\n Die Beta wird auf Steam verfügbar sein. Die Teilnahme ist kostenlos und steht allen offen. Außerdem kannst du alle drei Online-Mehrspielermodi ausprobieren: Kurze Spielersuche, Lange Spielersuche und benutzerdefinierte Online-Partien mit Freunden. Das Tutorial ist natürlich auch dabei, damit neue Flammenhüterinnen und Flammenhüter die Grundlagen kennenlernen können, bevor sie sich in ihre ersten Online-Partien stürzen.\n \n Du möchtest bei der Beta dabei sein? Dann fülle einfach das untenstehende Anmeldeformular aus! Mit deinem Feedback hilfst du uns dabei, den Mehrspielermodus bis zur Veröffentlichung noch besser zu machen. Wir freuen uns darauf, euch bald zum ersten Mal online zu sehen. Bis bald!\""
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Chers ornithologues, nous avons des annonces passionnantes à faire sur <style=oceania>Flamecraft</style> pour vous qui suivez son développement !\n\n <style=oceania>Les inscriptions à la beta en ligne de Flamecraft sont ouvertes.</style> Vous pourrez bientôt jouer en ligne avec des Gardiens des Flammes du monde entier et nous aider à tester le mode en ligne avant son lancement !\n La beta sera disponible sur Steam, la participation est gratuite et ouverte à toutes et tous. Trois modes multijoueurs en ligne seront disponibles : parties rapides, parties longues ou parties personnalisées en ligne et entre amis. Le tutoriel sera également inclus pour permettre aux nouveaux Gardiens des Flammes d'apprendre les bases avant de se lancer dans des matchs en ligne.\n \n Si vous voulez participer à la beta, il suffit de remplir le formulaire d'inscription ci-dessous ! Vos retours nous aideront à améliorer le mode multijoueur avant sa sortie. Nous avons hâte de vous rencontrer en ligne pour la première fois, Gardiens des Flammes !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Fans de las aves! Si habéis estado siguiendo el desarrollo de <style=oceania>Flamecraft</style>, ¡tenemos grandes noticias para vosotros!\n\n <style=oceania>Ya se ha abierto el periodo de inscripción para la beta en línea de Flamecraft</style>. \nDentro de poco, podréis jugar con otros Guardallamas de todo el mundo y ayudarnos a probar el modo en línea antes del lanzamiento.\n La beta estará disponible en Steam. Todo el que quiera podrá participar de manera gratuita y podrá probar los tres modos multijugador en línea: emparejamiento para partida corta, emparejamiento para partida larga y partidas en línea personalizadas con amigos. También se incluirá el tutorial, para que los Guardallamas primerizos tengan la oportunidad de aprender los fundamentos del juego antes de entrar en las partidas en línea.\n \n Si quieres participar en la beta, solo tienes que rellenar el formulario de inscripción que hay más abajo. Tus comentarios nos ayudarán a mejorar el modo multijugador antes de su lanzamiento. ¡Estamos deseando veros en línea por primera vez, Guardallamas!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Observadores de pássaros! Se vocês vêm acompanhando o desenvolvimento de <style=oceania>Flamecraft</style>, temos notícias incríveis!\n\n <style=oceania>As inscrições para o Beta Online de Flamecraft estão abertas.</style> \nEm breve, vocês poderão jogar online com Guardachamas do mundo todo e nos ajudar a testar o modo online antes do lançamento!\n O beta estará disponível no Steam, a participação é gratuita e aberta para quem quiser, e vocês poderão testar todos os três modos multijogador online: pareamento longo, pareamento curto e partidas online personalizadas com amigos. O tutorial também estará incluso, oferecendo aos Guardachamas de primeira viagem a chance de aprender o básico antes de entrar em partidas online.\n \n Se quiser se inscrever no Beta, basta preencher nosso formulário abaixo! Sua opinião nos ajudará a melhorar o modo multijogador antes do lançamento, e mal podemos esperar para ver vocês online pela primeira vez, Guardachamas!\""
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "鳥類愛好家の皆様、<style=oceania>『Flamecraft』</style>の開発が気になっているなら、わくわくするようなお知らせがあります！\n <style=oceania>『Flamecraft』オンラインベータのサインアップが開始しました。</style>まもなく、世界中の炎の理解者と一緒にオンラインプレイが可能になり、ローンチ前のオンラインモードのテストにご協力いただけます！\n ベータテストはSteamで利用可能となり、無料でどなたでもご参加いただけます。また、3つのオンラインマルチプレイヤーモード（ショートマッチメイキング、ロングマッチメイキング、フレンドとのカスタムオンラインゲーム）を試すことができます。チュートリアルも含まれていますので、駆け出しの炎の理解者でもゲームの基本を学んでからオンラインマッチにご参加いただけます。\n \n ベータテストに参加をご希望の場合は、以下のサインアップフォームにご記入いただくだけで参加可能です！リリース前のマルチプレイヤーモードの改善のために、皆様からのフィードバックをお待ちしております。炎の理解者の皆様とオンラインでお会いするのが楽しみです！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Птицеловы! У нас отличные новости для тех из вас, кто интересовался разработкой игры <style=oceania>Flamecraft</style>!\n\n <style=oceania>Мы открываем регистрацию для участия в бета-тестировании сетевого режима Flamecraft.\n</style> Уже скоро вы сможете сыграть с другими мастерами пламени и помочь нам доработать игру перед официальным запуском!\n Бета-версия будет доступна в магазине Steam, участие в тестировании бесплатно для всех. Вы сможете опробовать все три сетевых режима: «Быстрый подбор игроков», «Долгий подбор игроков» и «Игру с друзьями». Бета-версия также включает в себя обучающий режим, чтобы начинающие мастера пламени могли изучить основы игры, прежде чем соревноваться в сети.\n \n Для участия в тестировании заполните форму ниже! Ваши отзывы помогут нам сделать многопользовательский режим ещё лучше. До встречи в игре, будущие мастера пламени!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "鸟友们！如果你一直在关注<style=oceania>《龍焰魔法鎮》</style>的开发，那这次有个好消息呦！\n <style=oceania>《龍焰魔法鎮》在线版 Beta 测试已经开放注册啦！</style>很快，你就可以与来自世界各地的守焰人同场竞技，在我们正式推出在线模式前帮我们进行测试！\n Beta 测试将在 Steam 推出，面向所有玩家开放，而且完全免费。玩家可以体验全部三种在线多人游戏模式：短局匹配、长局匹配，以及可以与好友共同参与的自定义在线游戏。测试还包含教程，让新手守焰人能够在加入在线匹配前学会基本知识。\n \n 想加入 Beta 测试，只需填写下方的注册表格即可！如果有任何意见和建议，请不吝告知，玩家反馈能够帮助我们在多人模式推出前对其进行打磨。守焰人，很期待与你的首次线上相会！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "龍友們，大家好！如果你有持續追蹤<style=oceania>《龍焰魔法鎮》</style>的開發進度，我們有好消息囉！\n <style=oceania>《龍焰魔法鎮》線上測試版現正開放註冊。</style>你很快就能與來自世界各地的守焰人一同線上遊玩，並協助我們在遊戲發行前先測試線上模式！\n 測試版將於 Steam 推出，人人皆可免費參加，還能試玩全部三種線上多人模式：短期配對、長期配對以及與朋友自訂線上遊戲。此版本也會包含教學手冊，讓首次遊玩的守焰人可以在參加線上對戰前先了解基本規則。\n \n 如果你想參加測試版，只需要在下方註冊即可！你的意見回饋將有助我們在正式發行前改善多人模式，我們也迫不及待與守焰人們在線上首次相見！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Birdwatcher! Se avete seguito lo sviluppo di <style=oceania>Flamecraft</style>, abbiamo grandi novità!\n\n <style=oceania>Le iscrizioni alla beta online di Flamecraft sono aperte.</style> Presto, potrete giocare online con i Custodi della Fiamma di tutto il mondo e aiutarci a collaudare la modalità Online prima del lancio!\n La beta sarà disponibile su Steam, la partecipazione è libera e aperta a tutti e potrete provare tutte e tre le modalità online: Matchmaking breve, Matchmaking lungo e Partite online personalizzate con gli amici. Sarà incluso anche un tutorial, che consentirà ai principianti di apprendere le basi del gioco prima di giocare online.\n \n Se volete partecipare alla beta, compilate il modulo sottostante! Il vostro feedback ci aiuterà a migliorare la modalità multigiocatore prima dell'uscita del gioco, e siamo impazienti di vedervi online per la prima volta, Custodi della Fiamma!\""
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "탐조가 여러분! <style=oceania>플레임크래프트</style>의 개발을 팔로우 중이셨다면 좋은 소식이 있습니다!\n\n<style=oceania>플레임크래프트 온라인 베타 등록이 이제 시작되었습니다.</style> \n곧 전세계의 불꽃지기들과 온라인으로 플레이하며 발매 전 온라인 모드의 테스트를 도와주실 수 있습니다!\n베타는 Steam에서 진행 가능하고, 참여의 기회는 모두에게 열려있으며 세 가지 멀티플레이 모드인 '짧은 매치매이킹', '긴 매치메이킹', '친구와 커스텀 온라인 게임'을 즐길 수 있습니다. 튜토리얼 또한 포함될 예정이며, 불꽃지기들이 온라인 매치에 참여하기 전 기초를 배울 기회를 제공합니다.\n\n베타에 참여하고 싶으시다면 하단의 등록 절차만 따라주세요! 귀하의 피드백이 발매 전 멀티플레이 모드의 개선에 도움이 될 것이기에, 하루빨리 처음으로 불꽃지기 여러분들을 만나고 싶군요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Птахолови! Якщо ви стежили за розробкою <style=oceania>Flamecraft</style>, у нас чудові новини!\n <style=oceania>Реєстрацію на онлайн-бету Flamecraft уже відкрито.</style> Незабаром ви зможете грати онлайн разом із хранителями полум'я з усього світу та допомогти нам протестувати мережевий режим до його виходу!\n Бета-версія буде доступна в Steam, участь у ній безплатна та відкрита для всіх. Ви зможете випробувати всі три мережеві режими: короткі матчі, довгі матчі та власні онлайн-ігри з друзями. Також буде доступне навчання, щоб нові хранителі полум'я могли опанувати основи гри перед тим, як долучитися до онлайн-матчів.\n \n Хочете приєднатися до бета-тестування? Просто заповніть форму реєстрації нижче! Ваші відгуки допоможуть нам удосконалити мережевий режим до релізу. Нетерпляче чекаємо на першу зустріч із вами онлайн, хранителі полум'я!"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 257,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "<style=oceania> The Flamecraft Online Beta starts on August 6 and will run until August 11.</style> "
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Beta online będzie trwać do 11 sierpnia."
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "<style=oceania>Die Online-Beta von Flamecraft läuft vom 6. bis 11. August.</style>"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "<style=oceania>La beta en ligne de Flamecraft sera ouverte du 6 au 11 août.</style>"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "<style=oceania>La beta de Flamecraft en línea comienza el 6 de agosto y terminará el día 11 del mismo mes.</style>"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "<style=oceania>O Beta de Flamecraft Online estará disponível de 6 a 11 de agosto.</style>"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "<style=oceania>『Flamecraft』オンラインベータは8月6日～8月11日の間で実施予定です。</style>"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "<style=oceania>Бета-тестирование сетевого режима Flamecraft пройдёт с 6 по 11 августа.</style>"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "<style=oceania>《龍焰魔法鎮》在线版 Beta 测试将于 8 月 6 日开始，持续至 8 月 11 日。</style>"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "<style=oceania>《龍焰魔法鎮》線上測試期間為 8 月 6 日起至 8 月 11 日止。</style>"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "<style=oceania>La beta online di Flamecraft inizia il 6 agosto e termina l'11 agosto.</style>"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "<style=oceania> 플레임크래프트 온라인 베타는 8월 6일부터 시작해 8월 11일까지 진행됩니다.</style>"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "<style=oceania>Онлайн-бета Flamecraft розпочнеться 6 серпня й триватиме до 11 серпня.</style>"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 257,
+                    "Value": "https://store.steampowered.com/app/3201730/Flamecraft/",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Sign Up for the Beta"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Dołącz do bety!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Jetzt für die Beta anmelden"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "S'inscrire à la beta"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Inscribirse en la beta"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Inscreva-se para o teste Beta"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "ベータにサインアップ"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Регистрация для участия в бета-тесте"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "注册 Beta 测试"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "註冊測試版"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Iscriviti alla beta"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "베타 참여 신청"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Зареєструватися на бета-тестування"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
