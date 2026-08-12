@@ -228,5 +228,19 @@
       "DlcKey": "MOBILE_BUNDLE_DECORATIVES",
       "IsPublished": false
     }
+  ],
+  "Portraits": [
+	  {
+		  "Name": "Flamecraft_BreadOnesie",
+		  "IsEnabled": false
+	  },
+	  {
+		  "Name": "Flamecraft_Gryphoone",
+		  "IsEnabled": false
+	  },
+	  {
+		  "Name": "Flamecraft_Plant_Dragon",
+		  "IsEnabled": false
+	  }
   ]
 }
