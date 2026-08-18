@@ -227,6 +227,10 @@
 	{
       "DlcKey": "MOBILE_BUNDLE_DECORATIVES",
       "IsPublished": true
+    },
+	{
+      "DlcKey": "FP_BoCE_DLC",
+      "IsPublished": false
     }
   ],
   "Portraits": [
