@@ -236,15 +236,15 @@
   "Portraits": [
 	  {
 		  "Name": "Flamecraft_BreadOnesie",
-		  "IsEnabled": true
+		  "IsEnabled": false
 	  },
 	  {
 		  "Name": "Flamecraft_Gryphoon",
-		  "IsEnabled": true
+		  "IsEnabled": false
 	  },
 	  {
 		  "Name": "Flamecraft_Plant_Dragon",
-		  "IsEnabled": true
+		  "IsEnabled": false
 	  }
   ]
 }
