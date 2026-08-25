@@ -1,0 +1,33 @@
+{
+  "LocalDisabledBirds": [],
+  "OnlineDisabledBirds": [],
+  "IsSeasonPassEnabled": true,
+  "SaveAsLocal": true,
+  "LiveServerOverrides": [{
+      "PlatformName": "iOS",
+      "BuildVersion": 9999,
+      "ServerID": 1
+    }],
+  "DLCs": [
+    {
+      "DlcKey": "FP_AAA_DLC",
+      "IsPublished": true
+    },
+	  {
+      "DlcKey": "MOBILE_BUNDLE_DLCS",
+      "IsPublished": true
+    },
+	  {
+      "DlcKey": "MOBILE_BUNDLE_DELUXE",
+      "IsPublished": true
+    },
+	  {
+      "DlcKey": "MOBILE_BUNDLE_DECORATIVES",
+      "IsPublished": true
+    },
+    {
+      "DlcKey": "FP_BoCE_DLC",
+      "IsPublished": true
+    }
+  ]
+}
