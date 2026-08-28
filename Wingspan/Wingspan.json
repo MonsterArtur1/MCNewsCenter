@@ -7580,370 +7580,6 @@
             "Actions": []
         },
         {
-            "ID": "99eb81e0-5421-46e9-9b31-b56c1afb7116",
-            "Tags": [
-                "MonsterCouch"
-            ],
-            "PlatformsToShowOn": 945,
-            "StartDateTicks": 639207936000000000,
-            "EndDateTicks": 946391904000000000,
-            "Priority": 1,
-            "IsPinned": false,
-            "PresetImageName": "",
-            "RemoteImageName": "800x300.png",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Flamecraft is coming to consoles! "
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Flamecraft wkrótce na konsolach! "
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Flamecraft kommt auf Konsolen!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Flamecraft arrive sur console !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Flamecraft llega a consolas!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Flamecraft está chegando aos consoles!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "『Flamecraft』がコンソール機にまもなく登場！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Flamecraft на консолях!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "《龍焰魔法鎮》即将登陆主机！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "《龍焰魔法鎮》即將登上主機平台！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Flamecraft sta arrivando su console!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "플레임크래프트가 콘솔에 찾아옵니다!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Flamecraft виходить на консолях!"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Flamecraft is coming soon to consoles. Play the demo now!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Już wkrótce Flamecraft zadebiutuje na konsolach. Sprawdź demo już teraz!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Flamecraft erscheint bald für Konsolen. Spiele jetzt die Demo!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Flamecraft arrive bientôt sur consoles. Jouez à la démo dès maintenant !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Flamecraft estará disponible muy pronto en consolas! ¡Jugad ya a la demo!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Flamecraft chegará em breve aos consoles. Jogue a demo agora mesmo!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "『Flamecraft』がまもなくコンソールに登場！今すぐデモをプレイしよう！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Совсем скоро Flamecraft выйдет на консолях. Сыграйте в демоверсию уже сегодня!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "《龍焰魔法鎮》即将登陆主机平台。先体验试玩版尝尝鲜吧！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "《龍焰魔法鎮》即將登上主機平台。立即試玩體驗版！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Flamecraft sarà presto disponibile su console. Gioca la demo ora!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "플레임크래프트가 곧 콘솔로 찾아옵니다. 지금 데모를 플레이해 보세요!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Flamecraft незабаром з'явиться на консолях. А поки що ви вже можете зіграти в демоверсію!"
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 257,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Birders! \n\nTiny dragons are spreading their magic to new platforms! We’re happy to announce that Flamecraft is coming to PlayStation 5, XBOX, and Nintendo Switch! In the meantime, if you're curious to see what awaits you in Flamecraft’s whimsical town, you can try out the demo right now on consoles and Steam!\n\n<style=oceania>Become a Flamekeeper </style>\nStep into the role of a Flamekeeper and help Artisan Dragons find the perfect shops to practice their craft. Plan your moves carefully as you gather resources, cast enchantments, and befriend Fancy Dragons, combining their abilities to earn Reputation and become the Master of Flamecraft.\n\n<style=oceania>Try the Demo Today</style>\nExplore a selection of charming shops, meet delightful Artisan and Fancy Dragons, play against bots across three difficulty levels, or gather up to five players for local multiplayer. A fully narrated tutorial will guide you through your first steps in this magical world.\n\nCheck out the demo and get ready to become the Flamekeeper tiny dragons need.<style=oceania>We can't wait to see you in town!</style>"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Ptasiarze!\n\nMagia małych smoczków już niebawem zapłonie na nowych platformach! Z radością ogłaszamy, że <style=oceania>Flamecraft zmierza na PlayStation 5, XBOX i Nintendo Switch!</style> A jeśli nie możecie doczekać się wizyty w naszym uroczym miasteczku, już teraz możecie wypróbować demo na konsolach i Steamie!\n\n<style=oceania>Zostań Smokoustym</style>\n\nWciel się w rolę Smokoustego i pomóż Smokom Rzemieślnikom znaleźć idealne sklepy, w których będą mogły rozwijać swoje rzemiosło. Planuj każdy ruch, zbieraj zasoby, rzucaj zaklęcia i zaprzyjaźniaj się z Frymuśnymi Smokami, łącząc ich umiejętności, by zdobywać punkty reputacji i zostać Mistrzem Płomieniarstwa.\n\n<style=oceania>Wypróbuj Demo Już Dziś</style>\n\nOdwiedź wybrane sklepy, poznaj Smoki Rzemieślników i Smoki Frymuśne, zmierz się z SI na trzech poziomach trudności lub graj do pięciu graczy do we wspólnej rozgrywce lokalnej. Dzięki Samouczkowi z profesjonalnym lektorem Becci Scott poznasz pierwsze kroki w tym magicznym świecie.\n\nWypróbuj demo i przygotuj się, by zostać Smokoustym, którego potrzebują małe smoki. <style=oceania>Nie możemy się doczekać, aż zobaczymy Cię w miasteczku!</style>"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Vogelbeobachter! \n \n Die kleinen Drachen verbreiten ihre Magie schon bald auf neuen Plattformen! Wir freuen uns, bekannt geben zu können, dass Flamecraft für PlayStation 5, XBOX und Nintendo Switch erscheint! Falls du in der Zwischenzeit neugierig bist, was dich in der zauberhaften Stadt von Flamecraft erwartet, kannst du die Demo schon jetzt auf Konsolen und Steam ausprobieren!\n \n <style=oceania>Werde Flammenhüterin oder Flammenhüter </style>\n Schlüpfe in die Rolle einer Flammenhüterin oder eines Flammenhüters und hilf den Werkeldrachen, die perfekten Läden für ihr Handwerk zu finden. Plane deine Züge sorgfältig, sammle Ressourcen, wirke Verzauberungen und freunde dich mit Schmuckdrachen an. Mit ihren Fähigkeiten kombinierst du Ruhm und wirst Meisterin oder Meister der Flammenkunst.\n \n <style=oceania>Probiere die Demo noch heute aus</style>\n Erforsche eine Auswahl charmanter Läden, lerne liebenswerte Werkel- und Schmuckdrachen kennen, tritt gegen KI in drei Schwierigkeitsgraden an oder spiele im lokalen Mehrspielermodus mit bis zu fünf Spielern. Eine vollständig vertonte Anleitung begleitet dich bei deinen ersten Schritten in dieser magischen Welt.\n \n Probier die Demo aus und mach dich bereit, als Flammenhüterin oder Flammenhüter genau die Hilfe zu sein, die die kleinen Drachen brauchen.<style=oceania>Wir können es kaum erwarten, dich in der Stadt zu sehen!</style>"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Chers ornithologues ! \n \n Les petits dragons et leur magie s'invitent sur de nouvelles plateformes ! Nous avons l'honneur d'annoncer que Flamecraft arrive sur PlayStation 5, XBOX et Nintendo Switch ! En attendant, si vous souhaitez découvrir ce qui vous attend dans la ville fantaisiste de Flamecraft, vous pouvez jouer à la démo dès maintenant sur console et sur Steam !\n \n <style=oceania>Incarnez un Gardien des Flammes </style>\n Devenez Gardien des Flammes et aidez les Dragons Artisans à trouver les boutiques parfaites pour pratiquer leur métier. Planifiez vos actions avec soin en collectant des ressources, en lançant des enchantements et vous liant d'amitié avec des Dragons Fantaisie. Combinez leurs capacités pour renforcer votre réputation et devenir le Maître de Flamecraft.\n \n <style=oceania>Jouez à la démo dès aujourd'hui</style>\n Explorez un éventail de charmantes boutiques, rencontrez les ravissants Dragons Artisans et Fantaisie, jouez contre des adversaires contrôlés par l'IA via trois niveaux de difficulté ou rassemblez jusqu'à cinq joueurs pour du multijoueur en local. Un tutoriel entièrement narré vous aidera à faire vos premiers pas dans ce monde magique.\n \n Découvrez la démo et préparez-vous à devenir le Gardien des Flammes de vos petits dragons.<style=oceania>Nous avons hâte de vous voir en ville !</style>"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "¡Saludos, fans de las aves!\n \n ¡Los dragoncitos llevan su magia a nuevas plataformas! ¡Nos alegra anunciar que Flamecraft estará disponible muy pronto en PlayStation 5, Xbox y Nintendo Switch! Mientras tanto, si sentís curiosidad por ver qué os espera en la pintoresca ciudad de Flamecraft, ¡ya podéis probar la demo en consolas y Steam!\n \n <style=oceania>Convertíos en Guardallamas</style>\n Asumid el papel de Guardallamas y ayudad a los Dragones Artesanos a encontrar los establecimientos ideales donde practicar su oficio. Planead vuestros movimientos con cuidado mientras reunís recursos, lanzáis encantamientos y entabláis amistad con Dragones Selectos, cuyas habilidades deberéis combinar para ganar Reputación y convertiros en Maestros de Llamas.\n \n <style=oceania>Demo ya disponible</style>\n Explorad una selección de tiendas encantadoras, conoced a adorables Dragones Artesanos y Selectos, jugad contra bots en tres niveles de dificultad distintos o juntaos hasta cinco jugadores en el modo multijugador local. Disponéis de un tutorial totalmente narrado que os guiará en vuestros primeros pasos por este mundo mágico.\n \n Echad un vistazo a la demo y preparaos para convertiros en los Guardallamas que necesitan estos dragoncitos. <style=oceania>¡Estamos deseando veros por la ciudad!</style>"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Observadores de pássaros!\n \n Os dragõezinhos vão espalhar sua magia em novas plataformas! Temos o prazer de anunciar que Flamecraft chegará ao PlayStation 5®, XBOX e Nintendo Switch™! Enquanto isso, se quiser ver o que espera por você na cidade fantástica de Flamecraft, experimente a demonstração agora mesmo nos consoles e no Steam!\n \n <style=oceania>Torne-se um Guardachamas </style>\n Assuma o papel de um Guardachamas e ajude os dragões-artesãos a encontrar as lojas perfeitas para praticar seu ofício. Planeje seus movimentos cuidadosamente enquanto coleta recursos, lança encantamentos e faz amizade com dragões extravagantes, combinando as habilidades deles para ganhar reputação e se tornar o Mestre do Fogo.\n \n <style=oceania>Jogue a demonstração hoje mesmo</style>\n Explore uma seleção de lojas encantadoras, conheça dragões-artesãos e dragões extravagantes adoráveis, jogue contra bots em três níveis de dificuldade ou reúna até cinco jogadores no modo multijogador local. Um tutorial totalmente narrado guiará você em seus primeiros passos neste mundo mágico.\n \n Confira a demonstração e prepare-se para se tornar o Guardachamas de que os dragõezinhos precisam.<style=oceania>Estamos ansiosos para ver você na cidade!</style>"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "鳥類愛好家のみなさん！\n \n 小さなドラゴンたちが、新しいプラットフォームに魔法を振りまいています！PlayStation 5、XBOX、Nintendo Switchに『Flamecraft』がまもなく登場！Flamecraftの風変わりな町でどんなことが待っているのか気になる方は、コンソール機とSteamでデモ版をプレイしていただけます！\n \n <style=oceania>炎の理解者になろう</style>\n 炎の理解者の役割を引き受けて、働きドラゴンを手伝って、ドラゴンたちが職人の腕を振るうのにぴったりなお店を見つけよう。次の動きを慎重に計画して、リソースを集めて、魔法を唱えて、伝説ドラゴンと仲良くなって能力を組み合わせて評判を獲得し、真の炎の理解者になろう。\n \n <style=oceania>今すぐデモをプレイ</style>\n 数々の魅力的なお店を訪ねて、陽気な働きドラゴンや伝説ドラゴンに会って、異なる3つの難易度レベルでBOTと対戦したり。最大5人のプレイヤーを集めてローカルマルチプレイを楽しもう。フルボイスのチュートリアルで、この魔法の世界での第一歩を踏み出そう。\n \n デモをチェックして、小さなドラゴンたちから必要とされる炎の理解者になる準備をしよう。<style=oceania>町で会えるのを楽しみにしています！</style>"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Птицеловы!\n \n Дракончики переносят своё волшебство на новые платформы! Мы рады сообщить, что Flamecraft уже скоро выйдет на PlayStation 5, XBOX и Nintendo Switch. Если хотите узнать, что вас ждёт в чудесном городке Flamecraft, сыграйте в демоверсию на консолях или в Steam!\n \n <style=oceania>Станьте хранителем пламени</style>\n Займите должность хранителя пламени и помогите драконам-мастерам выбрать лавки, где можно заниматься ремеслом. Собирайте ресурсы и накладывайте чары, просчитывая каждый шаг. Дружите с драконами-кудесниками и объединяйте их способности, чтобы повысить свою репутацию и стать мастером пламени.\n \n <style=oceania>Сыграйте в демоверсию уже сейчас</style>\n Заглядывайте в городские лавки, знакомьтесь с очаровательными мастерами и кудесниками, соревнуйтесь с ботами на трёх уровнях сложности и проводите время с друзьями в локальной игре на пять человек. Озвученное внутриигровое обучение поможет вам сделать первые шаги в волшебном мире Flamecraft.\n \n Приготовьтесь стать хранителем пламени, в котором так нуждаются крошечные дракончики.<style=oceania>Ждём встречи с вами в городке Flamecraft!</style>"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "鸟友们！\n \n 那群小龙正在把他们的魔法施展到全新平台！我们很高兴地宣布，《龍焰魔法鎮》即将登陆 PlayStation 5、Xbox，以及 Nintendo Switch！在此之前，如果你想一览《龍焰魔法鎮》奇幻小镇的风采，现在即可在主机和 Steam 平台体验试玩版！\n\n<style=oceania>成为守焰人</style>\n化身守焰人，帮助工匠龙找到适合磨练技艺的商店。精心规划行动，收集资源，施展魔法，结识奇幻龙，借助他们的能力赢得声望，最终成为龙焰大师。\n\n<style=oceania>立即体验试玩版</style>\n探索众多迷人的商店，结识可爱的工匠龙和奇幻龙；独自一人在三种不同的难度等级中对战 AI，或者与至多五位玩家共享本地多人游戏。配备完整的语音解说教程，一步步引导你深入这个魔法世界。\n \n 快来体验试玩版，为成为小龙们的守焰人打下坚实基础。<style=oceania>很期待在小镇与你再会！</style>"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "鳥友們！\n \n小龍們正將魔法散播到全新平台！我們欣然地宣布，《龍焰魔法鎮》即將登上 PlayStation 5、XBOX 和 Nintendo Switch！如果你好奇《龍焰魔法鎮》的奇幻城鎮中有什麼驚喜等著你，現在就能在主機和 Steam 上試玩體驗版！\n \n <style=oceania>成為守焰人</style>\n 化身守焰人，找到能讓工匠龍一展身手的商店。仔細規劃每一步，收集資源、施展魔法並與奇幻龍交朋友，結合牠們的能力來累積聲望，成為龍焰大師。\n \n <style=oceania>立即試玩體驗版</style>\n探索各種迷人商店，遇見可愛的工匠龍和奇幻龍。你可以挑戰三種難度的電腦玩家，也可以啟用本機多人模式，與最多五名玩家同樂。搭載全語音教學，引領你踏出探索這個魔法世界的第一步。\n \n 立即試玩體驗版，準備成為小龍們最需要的守焰人。<style=oceania>期待在城鎮與你相見！</style>"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Birdwatcher! \n \n La magia dei draghetti è pronta a incantare nuove piattaforme! Siamo lieti di annunciare che Flamecraft sarà disponibile su PlayStation 5, XBOX e Nintendo Switch! Nel frattempo, se volete scoprire cosa vi attende nella stravagante città di Flamecraft, potete provare subito la demo su console e Steam!\n \n <style=oceania>Diventate Custodi della Fiamma </style>\n Assumete il ruolo di Custodi della Fiamma e aiutate i draghi artigiani a trovare i negozi perfetti dove esercitare la loro professione. Pianificate le vostre mosse attentamente mentre raccogliete risorse, lanciate incantesimi e fate amicizia con i draghi eleganti, combinando le loro abilità per ottenere reputazione e diventare Signori della Fiamma.\n \n <style=oceania>Provate la demo oggi</style>\n Visitate una selezione di negozi incantevoli, fate la conoscenza dei draghi artigiani ed eleganti, giocate contro l'IA scegliendo tra tre livelli di difficoltà oppure radunate fino a cinque giocatori per divertirvi in modalità multigiocatore locale. Un tutorial completamente narrato vi aiuterà a muovere i primi passi in questo magico mondo.\n \n Provate la demo e preparatevi a diventare i Custodi della Fiamma di cui hanno bisogno questi draghetti.<style=oceania>Non vediamo l'ora di vedervi in città!</style>"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "탐조가 여러분!\n\n작은 드래곤들이 새로운 플랫폼으로 마법을 퍼뜨리고 있습니다! PlayStation 5, XBOX, Nintendo Switch로 플레임크래프트의 지원 확대를 공표하게 되어 기쁩니다! 그 동안 플레임크래프트의 신비로운 마을에서 무엇이 기다리는지 알고 싶으시다면 지금 바로 콘솔과 Steam에서 데모를 체험해보세요!\n\n<style=oceania>불꽃지기가 되자</style>\n불꽃지기가 되어 기예를 펼칠 완벽한 상점을 찾는 장인 드래곤들을 도와보세요. 여러분의 한 수를 신중히 계획해 자원을 모으고, 마법을 부리며 멋쟁이 드래곤들과 친구가 되어 이들의 능력을 조합해 명성을 얻고 최고의 불꽃지기 장인이 되어보세요.\n\n<style=oceania>지금 데모 플레이</style>\n매력적인 상점들을 알아보고, 사랑스러운 장인 및 멋쟁이 드래곤들을 만나며, 3가지 어려운 난이도에서 AI를 상대로 플레이하거나 로컬 멀티 플레이로 최대 5명이 모여서 플레이 해보세요. 풀 더빙을 지원하는 튜토리얼에서 이 마법같은 세계로의 첫 발걸음을 떼어보세요.\n\n데모를 확인하고 작은 드래곤들이 필요로하는 불꽃지기가 되어보세요.<style=oceania>마을에서 만나게 될 날을 기다리고 있겠습니다!</style>"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Птахолови!\n \n Крихітні дракончики несуть свою магію на нові платформи! Ми раді повідомити, що Flamecraft виходить на PlayStation 5, Xbox і Nintendo Switch! Якщо вам уже кортить зазирнути до казкового містечка Flamecraft, демоверсія вже доступна на консолях і в Steam.\n \n <style=oceania>Станьте хранителем полум'я</style>\n Візьміть на себе роль хранителя полум'я та допоможіть драконам-ремісникам знайти ідеальні крамниці для їхнього ремесла. Ретельно плануйте свої ходи, збирайте ресурси, накладайте зачарування та знаходьте друзів серед надзвичайних драконів. Поєднуйте їхні здібності, щоб здобути репутацію та стати майстром полум'я.\n \n <style=oceania>Спробуйте демоверсію вже сьогодні</style>\n Досліджуйте добірку чарівних крамниць, знайомтеся з драконами-ремісниками та надзвичайними драконами, грайте проти ботів на трьох рівнях складності або зберіть до п'яти гравців для локальної багатокористувацької гри. Навчання з повним голосовим супроводом допоможе вам зробити перші кроки в цьому чарівному світі.\n \n Ознайомтеся з демоверсією та приготуйтеся стати хранителем полум'я, якого так потребують крихітні дракони.<style=oceania>Нетерпляче чекаємо на першу зустріч із вами в містечку!</style>"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "PlatformsToShowOn": 32,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Birders! \n\nTiny dragons are spreading their magic to new platforms! We’re happy to announce that Flamecraft is coming to Nintendo Switch! In the meantime, if you're curious to see what awaits you in Flamecraft’s whimsical town, you can try out the demo right now!\n\n<style=oceania>Become a Flamekeeper </style>\nStep into the role of a Flamekeeper and help Artisan Dragons find the perfect shops to practice their craft. Plan your moves carefully as you gather resources, cast enchantments, and befriend Fancy Dragons, combining their abilities to earn Reputation and become the Master of Flamecraft.\n\n<style=oceania>Try the Demo Today</style>\nExplore a selection of charming shops, meet delightful Artisan and Fancy Dragons, play against bots across three difficulty levels, or gather up to five players for local multiplayer. A fully narrated tutorial will guide you through your first steps in this magical world.\n\nCheck out the demo and get ready to become the Flamekeeper tiny dragons need.<style=oceania>We can't wait to see you in town!</style>"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Ptasiarze!\n\nMagia małych smoczków już niebawem zapłonie na nowych platformach! Z radością ogłaszamy, że <style=oceania>Flamecraft zmierza na Nintendo Switch!</style> A jeśli nie możecie doczekać się wizyty w naszym uroczym miasteczku, już teraz możecie wypróbować demo!\n\n<style=oceania>Zostań Smokoustym</style>\n\nWciel się w rolę Smokoustego i pomóż Smokom Rzemieślnikom znaleźć idealne sklepy, w których będą mogły rozwijać swoje rzemiosło. Planuj każdy ruch, zbieraj zasoby, rzucaj zaklęcia i zaprzyjaźniaj się z Frymuśnymi Smokami, łącząc ich umiejętności, by zdobywać punkty reputacji i zostać Mistrzem Płomieniarstwa.\n\n<style=oceania>Wypróbuj Demo Już Dziś</style>\n\nOdwiedź wybrane sklepy, poznaj Smoki Rzemieślników i Smoki Frymuśne, zmierz się z SI na trzech poziomach trudności lub graj do pięciu graczy do we wspólnej rozgrywce lokalnej. Dzięki Samouczkowi z profesjonalnym lektorem Becci Scott poznasz pierwsze kroki w tym magicznym świecie.\n\nWypróbuj demo i przygotuj się, by zostać Smokoustym, którego potrzebują małe smoki. <style=oceania>Nie możemy się doczekać, aż zobaczymy Cię w miasteczku!</style>\""
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Vogelbeobachter! \n \nDie kleinen Drachen verbreiten ihre Magie schon bald auf neuen Plattformen! Wir freuen uns, bekannt geben zu können, dass Flamecraft für Nintendo Switch erscheint! Falls du in der Zwischenzeit neugierig bist, was dich in der zauberhaften Stadt von Flamecraft erwartet, kannst du die Demo schon jetzt ausprobieren!\n \n <style=oceania>Werde Flammenhüterin oder Flammenhüter </style>\n Schlüpfe in die Rolle einer Flammenhüterin oder eines Flammenhüters und hilf den Werkeldrachen, die perfekten Läden für ihr Handwerk zu finden. Plane deine Züge sorgfältig, sammle Ressourcen, wirke Verzauberungen und freunde dich mit Schmuckdrachen an. Mit ihren Fähigkeiten kombinierst du Ruhm und wirst Meisterin oder Meister der Flammenkunst.\n \n <style=oceania>Probiere die Demo noch heute aus</style>\n Erforsche eine Auswahl charmanter Läden, lerne liebenswerte Werkel- und Schmuckdrachen kennen, tritt gegen KI in drei Schwierigkeitsgraden an oder spiele im lokalen Mehrspielermodus mit bis zu fünf Spielern. Eine vollständig vertonte Anleitung begleitet dich bei deinen ersten Schritten in dieser magischen Welt.\n \n Probier die Demo aus und mach dich bereit, als Flammenhüterin oder Flammenhüter genau die Hilfe zu sein, die die kleinen Drachen brauchen.<style=oceania>Wir können es kaum erwarten, dich in der Stadt zu sehen!</style>\""
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Chers ornithologues ! \n \nLes petits dragons et leur magie s'invitent sur de nouvelles plateformes ! Nous avons l'honneur d'annoncer que Flamecraft arrive sur Nintendo Switch ! En attendant, si vous souhaitez découvrir ce qui vous attend dans la ville fantaisiste de Flamecraft, vous pouvez jouer à la démo dès maintenant !\n \n <style=oceania>Incarnez un Gardien des Flammes </style>\n Devenez Gardien des Flammes et aidez les Dragons Artisans à trouver les boutiques parfaites pour pratiquer leur métier. Planifiez vos actions avec soin en collectant des ressources, en lançant des enchantements et vous liant d'amitié avec des Dragons Fantaisie. Combinez leurs capacités pour renforcer votre réputation et devenir le Maître de Flamecraft.\n \n <style=oceania>Jouez à la démo dès aujourd'hui</style>\n Explorez un éventail de charmantes boutiques, rencontrez les ravissants Dragons Artisans et Fantaisie, jouez contre des adversaires contrôlés par l'IA via trois niveaux de difficulté ou rassemblez jusqu'à cinq joueurs pour du multijoueur en local. Un tutoriel entièrement narré vous aidera à faire vos premiers pas dans ce monde magique.\n \n Découvrez la démo et préparez-vous à devenir le Gardien des Flammes de vos petits dragons.<style=oceania>Nous avons hâte de vous voir en ville !</style>"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "¡Saludos, fans de las aves!\n \n ¡Los dragoncitos llevan su magia a nuevas plataformas! ¡Nos alegra anunciar que Flamecraft estará disponible muy pronto en Nintendo Switch! Mientras tanto, si sentís curiosidad por ver qué os espera en la pintoresca ciudad de Flamecraft, ¡ya podéis probar la demo!\n \n <style=oceania>Convertíos en Guardallamas</style>\n Asumid el papel de Guardallamas y ayudad a los Dragones Artesanos a encontrar los establecimientos ideales donde practicar su oficio. Planead vuestros movimientos con cuidado mientras reunís recursos, lanzáis encantamientos y entabláis amistad con Dragones Selectos, cuyas habilidades deberéis combinar para ganar Reputación y convertiros en Maestros de Llamas.\n \n <style=oceania>Demo ya disponible</style>\n Explorad una selección de tiendas encantadoras, conoced a adorables Dragones Artesanos y Selectos, jugad contra bots en tres niveles de dificultad distintos o juntaos hasta cinco jugadores en el modo multijugador local. Disponéis de un tutorial totalmente narrado que os guiará en vuestros primeros pasos por este mundo mágico.\n \n Echad un vistazo a la demo y preparaos para convertiros en los Guardallamas que necesitan estos dragoncitos. <style=oceania>¡Estamos deseando veros por la ciudad!</style>\""
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Observadores de pássaros!\n \n Os dragõezinhos vão espalhar sua magia em novas plataformas! Temos o prazer de anunciar que Flamecraft chegará ao Nintendo Switch™! Enquanto isso, se quiser ver o que espera por você na cidade fantástica de Flamecraft, experimente a demonstração agora mesmo!\n \n <style=oceania>Torne-se um Guardachamas </style>\n Assuma o papel de um Guardachamas e ajude os dragões-artesãos a encontrar as lojas perfeitas para praticar seu ofício. Planeje seus movimentos cuidadosamente enquanto coleta recursos, lança encantamentos e faz amizade com dragões extravagantes, combinando as habilidades deles para ganhar reputação e se tornar o Mestre do Fogo.\n \n <style=oceania>Jogue a demonstração hoje mesmo</style>\n Explore uma seleção de lojas encantadoras, conheça dragões-artesãos e dragões extravagantes adoráveis, jogue contra bots em três níveis de dificuldade ou reúna até cinco jogadores no modo multijogador local. Um tutorial totalmente narrado guiará você em seus primeiros passos neste mundo mágico.\n \n Confira a demonstração e prepare-se para se tornar o Guardachamas de que os dragõezinhos precisam.<style=oceania>Estamos ansiosos para ver você na cidade!</style>\""
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "鳥類愛好家のみなさん！\n \n小さなドラゴンたちが、新しいプラットフォームに魔法を振りまいています！Nintendo Switchに『Flamecraft』がまもなく登場！ Flamecraftの風変わりな町でどんなことが待っているのか気になる方は、今すぐデモ版をプレイしていただけます！\n \n <style=oceania>炎の理解者になろう</style>\n 炎の理解者の役割を引き受けて、働きドラゴンを手伝って、ドラゴンたちが職人の腕を振るうのにぴったりなお店を見つけよう。次の動きを慎重に計画して、リソースを集めて、魔法を唱えて、伝説ドラゴンと仲良くなって能力を組み合わせて評判を獲得し、真の炎の理解者になろう。\n \n <style=oceania>今すぐデモをプレイ</style>\n 数々の魅力的なお店を訪ねて、陽気な働きドラゴンや伝説ドラゴンに会って、異なる3つの難易度レベルでBOTと対戦したり。最大5人のプレイヤーを集めてローカルマルチプレイを楽しもう。フルボイスのチュートリアルで、この魔法の世界での第一歩を踏み出そう。\n \n デモをチェックして、小さなドラゴンたちから必要とされる炎の理解者になる準備をしよう。<style=oceania>町で会えるのを楽しみにしています！</style>"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Птицеловы!\n \n Дракончики переносят своё волшебство на новые платформы! Мы рады сообщить, что Flamecraft уже скоро выйдет на Nintendo Switch. Если хотите узнать, что вас ждёт в чудесном городке Flamecraft, сыграйте в демоверсию уже сейчас!\n \n <style=oceania>Станьте хранителем пламени</style>\n Займите должность хранителя пламени и помогите драконам-мастерам выбрать лавки, где можно заниматься ремеслом. Собирайте ресурсы и накладывайте чары, просчитывая каждый шаг. Дружите с драконами-кудесниками и объединяйте их способности, чтобы повысить свою репутацию и стать мастером пламени.\n \n <style=oceania>Сыграйте в демоверсию уже сейчас</style>\n Заглядывайте в городские лавки, знакомьтесь с очаровательными мастерами и кудесниками, соревнуйтесь с ботами на трёх уровнях сложности и проводите время с друзьями в локальной игре на пять человек. Озвученное внутриигровое обучение поможет вам сделать первые шаги в волшебном мире Flamecraft.\n \n Приготовьтесь стать хранителем пламени, в котором так нуждаются крошечные дракончики.<style=oceania>Ждём встречи с вами в городке Flamecraft!</style>"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "鸟友们！\n \n 那群小龙正在把他们的魔法施展到全新平台！我们很高兴地宣布，《龍焰魔法鎮》即将登陆 Nintendo Switch！ 在此之前，如果你想一窥《龍焰魔法鎮》奇幻小镇的风采，现在即可体验试玩版！\n \n <style=oceania>成为守焰人</style>\n 扮演守焰人，帮助工匠龙找到适合磨练技艺的商店。精心规划行动，收集资源，施展魔法，结识奇幻龙，借助他们的能力赢得声望，最终成为龙焰大师。\n \n <style=oceania>立即体验试玩版</style>\n 探索众多迷人的商店，结识可爱的工匠龙和奇幻龙；单枪匹马在三种不同的难度等级中对战 AI，或者与至多五位玩家共享本地多人游戏。配备完整的语音解说教程，一步步引导你深入这个魔法世界。\n \n 快来体验试玩版，为成为小龙们的守焰人打下坚实基础。<style=oceania>很期待在小镇与你再会！</style>"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "鳥友們！\n \n 小龍們正將魔法散播到全新平台！我們榮幸地宣布，《龍焰魔法鎮》即將登上 Nintendo Switch！ 如果你好奇《龍焰魔法鎮》的奇幻城鎮中有什麼驚喜等著你，立即試玩體驗版吧！！\n \n <style=oceania>成為守焰人</style>\n 化身守焰人，找到能讓工匠龍一展身手的商店。仔細規劃每一步，收集資源、施展魔法並與奇幻龍交朋友，結合牠們的能力來累積聲望，成為龍焰大師。\n \n <style=oceania>立即試玩體驗版</style>\n 探索各種迷人商店，邂逅可愛的工匠龍和奇幻龍。你可以挑戰三種難度的電腦玩家，也可以啟用本機多人模式，與最多五名玩家同樂。搭載全語音教學，引領你踏出探索這個魔法世界的第一步。\n \n 立即試玩體驗版，準備成為小龍們最需要的守焰人。<style=oceania>期待在城鎮與你相見！</style>\""
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Birdwatcher! \n \nLa magia dei draghetti è pronta a incantare nuove piattaforme! Siamo lieti di annunciare che Flamecraft sarà disponibile su Nintendo Switch! Nel frattempo, se volete scoprire cosa vi attende nella stravagante città di Flamecraft, potete provare subito la demo!\n \n <style=oceania>Diventate Custodi della Fiamma </style>\n Assumete il ruolo di Custodi della Fiamma e aiutate i draghi artigiani a trovare i negozi perfetti dove esercitare la loro professione. Pianificate le vostre mosse attentamente mentre raccogliete risorse, lanciate incantesimi e fate amicizia con i draghi eleganti, combinando le loro abilità per ottenere reputazione e diventare Signori della Fiamma.\n \n <style=oceania>Provate la demo oggi</style>\n Visitate una selezione di negozi incantevoli, fate la conoscenza dei draghi artigiani ed eleganti, giocate contro l'IA scegliendo tra tre livelli di difficoltà oppure radunate fino a cinque giocatori per divertirvi in modalità multigiocatore locale. Un tutorial completamente narrato vi aiuterà a muovere i primi passi in questo magico mondo.\n \n Provate la demo e preparatevi a diventare i Custodi della Fiamma di cui hanno bisogno questi draghetti.<style=oceania>Non vediamo l'ora di vedervi in città!</style>"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "탐조가 여러분!\n\n작은 드래곤들이 새로운 플랫폼으로 마법을 퍼뜨리고 있습니다! Nintendo Switch로 플레임크래프트의 출시를 공표하게 되어 기쁩니다! 그 동안 플레임크래프트의 엉뚱한 마을에서 무엇이 기다리는지 알고 싶으시다면 지금 바로 데모를 체험해보세요!\n\n<style=oceania>불꽃지기가 되자</style>\n불꽃지기가 되어 기예를 펼칠 완벽한 상점을 찾는 장인 드래곤들을 도와보세요. 여러분의 한 수를 신중히 계획해 자원을 모으고, 마법을 부리며 멋쟁이 드래곤들과 친구가 되어 이들의 능력을 조합해 명성을 얻고 최고의 불꽃지기 장인이 되어보세요.\n\n<style=oceania>지금 데모 플레이</style>\n매력적인 상점들을 알아보고, 사랑스러운 장인 및 멋쟁이 드래곤들을 만나며, 3가지 어려운 난이도에서 봇을 상대로 플레이하거나 로컬 멀티 플레이로 최대 5명이 모여서 플레이 해보세요. 풀 더빙을 지원하는 튜토리얼에서 이 마법같은 세계로의 첫 발걸음을 내딛어보세요.\n\n데모를 확인하고 작은 드래곤들이 필요로하는 불꽃지기가 되어보세요.<style=oceania>마을에서 만나게 될 날을 기다리고 있겠습니다!</style>"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Птахолови!\n \n Крихітні дракончики несуть свою магію на нові платформи! Ми раді повідомити, що Flamecraft виходить на Nintendo Switch! Якщо вам уже кортить зазирнути до казкового містечка Flamecraft, демоверсія вже доступна!.\n \n <style=oceania>Станьте хранителем полум'я</style>\n Візьміть на себе роль хранителя полум'я та допоможіть драконам-ремісникам знайти ідеальні крамниці для їхнього ремесла. Ретельно плануйте свої ходи, збирайте ресурси, накладайте зачарування та знаходьте друзів серед надзвичайних драконів. Поєднуйте їхні здібності, щоб здобути репутацію та стати майстром полум'я.\n \n <style=oceania>Спробуйте демоверсію вже сьогодні</style>\n Досліджуйте добірку чарівних крамниць, знайомтеся з драконами-ремісниками та надзвичайними драконами, грайте проти ботів на трьох рівнях складності або зберіть до п'яти гравців для локальної багатокористувацької гри. Навчання з повним голосовим супроводом допоможе вам зробити перші кроки в цьому чарівному світі.\n \n Ознайомтеся з демоверсією та приготуйтеся стати хранителем полум'я, якого так потребують крихітні дракони.<style=oceania>Нетерпляче чекаємо на першу зустріч із вами в містечку!</style>\""
-                            }
-                        ]
-                    }
-                },
-                {
-                    "PlatformsToShowOn": 192,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Birders! \n\nTiny dragons are spreading their magic to new platforms! We're happy to announce that Flamecraft is coming to PlayStation 5! In the meantime, if you're curious to see what awaits you in Flamecraft's whimsical town, you can try out the demo right now!\n\n<style=oceania>Become a Flamekeeper </style>\nStep into the role of a Flamekeeper and help Artisan Dragons find the perfect shops to practice their craft. Plan your moves carefully as you gather resources, cast enchantments, and befriend Fancy Dragons, combining their abilities to earn Reputation and become the Master of Flamecraft.\n\n<style=oceania>Try the Demo Today</style>\nExplore a selection of charming shops, meet delightful Artisan and Fancy Dragons, play against bots across three difficulty levels, or gather up to five players for local multiplayer. A fully narrated tutorial will guide you through your first steps in this magical world.\n\nCheck out the demo and get ready to become the Flamekeeper tiny dragons need.<style=oceania>We can't wait to see you in town!</style>"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Ptasiarze!\n\nMagia małych smoczków już niebawem zapłonie na nowych platformach! Z radością ogłaszamy, że <style=oceania>Flamecraft zmierza na PlayStation 5!</style> A jeśli nie możecie doczekać się wizyty w naszym uroczym miasteczku, już teraz możecie wypróbować demo!\n\n<style=oceania>Zostań Smokoustym</style>\n\nWciel się w rolę Smokoustego i pomóż Smokom Rzemieślnikom znaleźć idealne sklepy, w których będą mogły rozwijać swoje rzemiosło. Planuj każdy ruch, zbieraj zasoby, rzucaj zaklęcia i zaprzyjaźniaj się z Frymuśnymi Smokami, łącząc ich umiejętności, by zdobywać punkty reputacji i zostać Mistrzem Płomieniarstwa.\n\n<style=oceania>Wypróbuj Demo Już Dziś</style>\n\nOdwiedź wybrane sklepy, poznaj Smoki Rzemieślników i Smoki Frymuśne, zmierz się z SI na trzech poziomach trudności lub graj do pięciu graczy do we wspólnej rozgrywce lokalnej. Dzięki Samouczkowi z profesjonalnym lektorem Becci Scott poznasz pierwsze kroki w tym magicznym świecie.\n\nWypróbuj demo i przygotuj się, by zostać Smokoustym, którego potrzebują małe smoki. <style=oceania>Nie możemy się doczekać, aż zobaczymy Cię w miasteczku!</style>"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Vogelbeobachter! \n \nDie kleinen Drachen verbreiten ihre Magie schon bald auf neuen Plattformen! Wir freuen uns, bekannt geben zu können, dass Flamecraft für PlayStation 5 erscheint! Falls du in der Zwischenzeit neugierig bist, was dich in der zauberhaften Stadt von Flamecraft erwartet, kannst du die Demo schon jetzt ausprobieren!\n \n <style=oceania>Werde Flammenhüterin oder Flammenhüter </style>\n Schlüpfe in die Rolle einer Flammenhüterin oder eines Flammenhüters und hilf den Werkeldrachen, die perfekten Läden für ihr Handwerk zu finden. Plane deine Züge sorgfältig, sammle Ressourcen, wirke Verzauberungen und freunde dich mit Schmuckdrachen an. Mit ihren Fähigkeiten kombinierst du Ruhm und wirst Meisterin oder Meister der Flammenkunst.\n \n <style=oceania>Probiere die Demo noch heute aus</style>\n Erforsche eine Auswahl charmanter Läden, lerne liebenswerte Werkel- und Schmuckdrachen kennen, tritt gegen KI in drei Schwierigkeitsgraden an oder spiele im lokalen Mehrspielermodus mit bis zu fünf Spielern. Eine vollständig vertonte Anleitung begleitet dich bei deinen ersten Schritten in dieser magischen Welt.\n \n Probier die Demo aus und mach dich bereit, als Flammenhüterin oder Flammenhüter genau die Hilfe zu sein, die die kleinen Drachen brauchen.<style=oceania>Wir können es kaum erwarten, dich in der Stadt zu sehen!</style>"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Chers ornithologues ! \n \nLes petits dragons et leur magie s'invitent sur de nouvelles plateformes ! Nous avons l'honneur d'annoncer que Flamecraft arrive sur PlayStation 5 ! En attendant, si vous souhaitez découvrir ce qui vous attend dans la ville fantaisiste de Flamecraft, vous pouvez jouer à la démo dès maintenant !\n \n <style=oceania>Incarnez un Gardien des Flammes </style>\n Devenez Gardien des Flammes et aidez les Dragons Artisans à trouver les boutiques parfaites pour pratiquer leur métier. Planifiez vos actions avec soin en collectant des ressources, en lançant des enchantements et vous liant d'amitié avec des Dragons Fantaisie. Combinez leurs capacités pour renforcer votre réputation et devenir le Maître de Flamecraft.\n \n <style=oceania>Jouez à la démo dès aujourd'hui</style>\n Explorez un éventail de charmantes boutiques, rencontrez les ravissants Dragons Artisans et Fantaisie, jouez contre des adversaires contrôlés par l'IA via trois niveaux de difficulté ou rassemblez jusqu'à cinq joueurs pour du multijoueur en local. Un tutoriel entièrement narré vous aidera à faire vos premiers pas dans ce monde magique.\n \n Découvrez la démo et préparez-vous à devenir le Gardien des Flammes de vos petits dragons.<style=oceania>Nous avons hâte de vous voir en ville !</style>"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "¡Saludos, fans de las aves!\n \n ¡Los dragoncitos llevan su magia a nuevas plataformas! ¡Nos alegra anunciar que Flamecraft estará disponible muy pronto en PlayStation 5! Mientras tanto, si sentís curiosidad por ver qué os espera en la pintoresca ciudad de Flamecraft, ¡ya podéis probar la demo!\n \n <style=oceania>Convertíos en Guardallamas</style>\n Asumid el papel de Guardallamas y ayudad a los Dragones Artesanos a encontrar los establecimientos ideales donde practicar su oficio. Planead vuestros movimientos con cuidado mientras reunís recursos, lanzáis encantamientos y entabláis amistad con Dragones Selectos, cuyas habilidades deberéis combinar para ganar Reputación y convertiros en Maestros de Llamas.\n \n <style=oceania>Demo ya disponible</style>\n Explorad una selección de tiendas encantadoras, conoced a adorables Dragones Artesanos y Selectos, jugad contra bots en tres niveles de dificultad distintos o juntaos hasta cinco jugadores en el modo multijugador local. Disponéis de un tutorial totalmente narrado que os guiará en vuestros primeros pasos por este mundo mágico.\n \n Echad un vistazo a la demo y preparaos para convertiros en los Guardallamas que necesitan estos dragoncitos. <style=oceania>¡Estamos deseando veros por la ciudad!</style>"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Observadores de pássaros!\n \nOs dragõezinhos vão espalhar sua magia em novas plataformas! Temos o prazer de anunciar que Flamecraft chegará ao PlayStation 5®! Enquanto isso, se quiser ver o que espera por você na cidade fantástica de Flamecraft, experimente a demonstração agora mesmo!\n \n <style=oceania>Torne-se um Guardachamas </style>\n Assuma o papel de um Guardachamas e ajude os dragões-artesãos a encontrar as lojas perfeitas para praticar seu ofício. Planeje seus movimentos cuidadosamente enquanto coleta recursos, lança encantamentos e faz amizade com dragões extravagantes, combinando as habilidades deles para ganhar reputação e se tornar o Mestre do Fogo.\n \n <style=oceania>Jogue a demonstração hoje mesmo</style>\n Explore uma seleção de lojas encantadoras, conheça dragões-artesãos e dragões extravagantes adoráveis, jogue contra bots em três níveis de dificuldade ou reúna até cinco jogadores no modo multijogador local. Um tutorial totalmente narrado guiará você em seus primeiros passos neste mundo mágico.\n \n Confira a demonstração e prepare-se para se tornar o Guardachamas de que os dragõezinhos precisam.<style=oceania>Estamos ansiosos para ver você na cidade!</style>"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "鳥類愛好家のみなさん！\n \n 小さなドラゴンたちが、新しいプラットフォームに魔法を振りまいています！PlayStation 5に『Flamecraft』がまもなく登場！ Flamecraftの風変わりな町でどんなことが待っているのか気になる方は、今すぐデモ版をプレイしていただけます！\n \n <style=oceania>炎の理解者になろう</style>\n 炎の理解者の役割を引き受けて、働きドラゴンを手伝って、ドラゴンたちが職人の腕を振るうのにぴったりなお店を見つけよう。次の動きを慎重に計画して、リソースを集めて、魔法を唱えて、伝説ドラゴンと仲良くなって能力を組み合わせて評判を獲得し、真の炎の理解者になろう。\n \n <style=oceania>今すぐデモをプレイ</style>\n 数々の魅力的なお店を訪ねて、陽気な働きドラゴンや伝説ドラゴンに会って、異なる3つの難易度レベルでBOTと対戦したり。最大5人のプレイヤーを集めてローカルマルチプレイを楽しもう。フルボイスのチュートリアルで、この魔法の世界での第一歩を踏み出そう。\n \n デモをチェックして、小さなドラゴンたちから必要とされる炎の理解者になる準備をしよう。<style=oceania>町で会えるのを楽しみにしています！</style>"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Птицеловы!\n \nДракончики переносят своё волшебство на новые платформы! Мы рады сообщить, что Flamecraft уже скоро выйдет на PlayStation 5. Если хотите узнать, что вас ждёт в чудесном городке Flamecraft, сыграйте в демоверсию уже сейчас!\n \n <style=oceania>Станьте хранителем пламени</style>\n Займите должность хранителя пламени и помогите драконам-мастерам выбрать лавки, где можно заниматься ремеслом. Собирайте ресурсы и накладывайте чары, просчитывая каждый шаг. Дружите с драконами-кудесниками и объединяйте их способности, чтобы повысить свою репутацию и стать мастером пламени.\n \n <style=oceania>Сыграйте в демоверсию уже сейчас</style>\n Заглядывайте в городские лавки, знакомьтесь с очаровательными мастерами и кудесниками, соревнуйтесь с ботами на трёх уровнях сложности и проводите время с друзьями в локальной игре на пять человек. Озвученное внутриигровое обучение поможет вам сделать первые шаги в волшебном мире Flamecraft.\n \n Приготовьтесь стать хранителем пламени, в котором так нуждаются крошечные дракончики.<style=oceania>Ждём встречи с вами в городке Flamecraft!</style>"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "鸟友们！\n \n 那群小龙正在把他们的魔法施展到全新平台！我们很高兴地宣布，《龍焰魔法鎮》即将登陆 PlayStation 5！ 在此之前，如果你想一窥《龍焰魔法鎮》奇幻小镇的风采，现在即可体验试玩版！\n \n <style=oceania>成为守焰人</style>\n 扮演守焰人，帮助工匠龙找到适合磨练技艺的商店。精心规划行动，收集资源，施展魔法，结识奇幻龙，借助他们的能力赢得声望，最终成为龙焰大师。\n \n <style=oceania>立即体验试玩版</style>\n 探索众多迷人的商店，结识可爱的工匠龙和奇幻龙；单枪匹马在三种不同的难度等级中对战 AI，或者与至多五位玩家共享本地多人游戏。配备完整的语音解说教程，一步步引导你深入这个魔法世界。\n \n 快来体验试玩版，为成为小龙们的守焰人打下坚实基础。<style=oceania>很期待在小镇与你再会！</style>"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "鳥友們！\n \n 小龍們正將魔法散播到全新平台！我們榮幸地宣布，《龍焰魔法鎮》即將登上 PlayStation 5！ 如果你好奇《龍焰魔法鎮》的奇幻城鎮中有什麼驚喜等著你，立即試玩體驗版吧！\n \n <style=oceania>成為守焰人</style>\n 化身守焰人，找到能讓工匠龍一展身手的商店。仔細規劃每一步，收集資源、施展魔法並與奇幻龍交朋友，結合牠們的能力來累積聲望，成為龍焰大師。\n \n <style=oceania>立即試玩體驗版</style>\n 探索各種迷人商店，邂逅可愛的工匠龍和奇幻龍。你可以挑戰三種難度的電腦玩家，也可以啟用本機多人模式，與最多五名玩家同樂。搭載全語音教學，引領你踏出探索這個魔法世界的第一步。\n \n 立即試玩體驗版，準備成為小龍們最需要的守焰人。<style=oceania>期待在城鎮與你相見！</style>"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Birdwatcher! \n \n La magia dei draghetti è pronta a incantare nuove piattaforme! Siamo lieti di annunciare che Flamecraft sarà disponibile su PlayStation 5! Nel frattempo, se volete scoprire cosa vi attende nella stravagante città di Flamecraft, potete provare subito la demo!\n \n <style=oceania>Diventate Custodi della Fiamma </style>\n Assumete il ruolo di Custodi della Fiamma e aiutate i draghi artigiani a trovare i negozi perfetti dove esercitare la loro professione. Pianificate le vostre mosse attentamente mentre raccogliete risorse, lanciate incantesimi e fate amicizia con i draghi eleganti, combinando le loro abilità per ottenere reputazione e diventare Signori della Fiamma.\n \n <style=oceania>Provate la demo oggi</style>\n Visitate una selezione di negozi incantevoli, fate la conoscenza dei draghi artigiani ed eleganti, giocate contro l'IA scegliendo tra tre livelli di difficoltà oppure radunate fino a cinque giocatori per divertirvi in modalità multigiocatore locale. Un tutorial completamente narrato vi aiuterà a muovere i primi passi in questo magico mondo.\n \n Provate la demo e preparatevi a diventare i Custodi della Fiamma di cui hanno bisogno questi draghetti.<style=oceania>Non vediamo l'ora di vedervi in città!</style>"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "탐조가 여러분!\n\n작은 드래곤들이 새로운 플랫폼으로 마법을 퍼뜨리고 있습니다! PlayStation 5로 플레임크래프트의 출시를 공표하게 되어 기쁩니다! 그 동안 플레임크래프트의 엉뚱한 마을에서 무엇이 기다리는지 알고 싶으시다면 지금 바로 데모를 체험해보세요!\n\n<style=oceania>불꽃지기가 되자</style>\n불꽃지기가 되어 기예를 펼칠 완벽한 상점을 찾는 장인 드래곤들을 도와보세요. 여러분의 한 수를 신중히 계획해 자원을 모으고, 마법을 부리며 멋쟁이 드래곤들과 친구가 되어 이들의 능력을 조합해 명성을 얻고 최고의 불꽃지기 장인이 되어보세요.\n\n<style=oceania>지금 데모 플레이</style>\n매력적인 상점들을 알아보고, 사랑스러운 장인 및 멋쟁이 드래곤들을 만나며, 3가지 어려운 난이도에서 봇을 상대로 플레이하거나 로컬 멀티 플레이로 최대 5명이 모여서 플레이 해보세요. 풀 더빙을 지원하는 튜토리얼에서 이 마법같은 세계로의 첫 발걸음을 내딛어보세요.\n\n데모를 확인하고 작은 드래곤들이 필요로하는 불꽃지기가 되어보세요.<style=oceania>마을에서 만나게 될 날을 기다리고 있겠습니다!</style>"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Птахолови!\n \n Крихітні дракончики несуть свою магію на нові платформи! Ми раді повідомити, що Flamecraft виходить на PlayStation 5! Якщо вам уже кортить зазирнути до казкового містечка Flamecraft, демоверсія вже доступна!\n \n <style=oceania>Станьте хранителем полум'я</style>\n Візьміть на себе роль хранителя полум'я та допоможіть драконам-ремісникам знайти ідеальні крамниці для їхнього ремесла. Ретельно плануйте свої ходи, збирайте ресурси, накладайте зачарування та знаходьте друзів серед надзвичайних драконів. Поєднуйте їхні здібності, щоб здобути репутацію та стати майстром полум'я.\n \n <style=oceania>Спробуйте демоверсію вже сьогодні</style>\n Досліджуйте добірку чарівних крамниць, знайомтеся з драконами-ремісниками та надзвичайними драконами, грайте проти ботів на трьох рівнях складності або зберіть до п'яти гравців для локальної багатокористувацької гри. Навчання з повним голосовим супроводом допоможе вам зробити перші кроки в цьому чарівному світі.\n \n Ознайомтеся з демоверсією та приготуйтеся стати хранителем полум'я, якого так потребують крихітні дракони.<style=oceania>Нетерпляче чекаємо на першу зустріч із вами в містечку!</style>"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "PlatformsToShowOn": 528,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Birders! \n\nTiny dragons are spreading their magic to new platforms! We're happy to announce that Flamecraft is coming to Xbox! In the meantime, if you're curious to see what awaits you in Flamecraft's whimsical town, you can try out the demo right now!\n\n<style=oceania>Become a Flamekeeper </style>\nStep into the role of a Flamekeeper and help Artisan Dragons find the perfect shops to practice their craft. Plan your moves carefully as you gather resources, cast enchantments, and befriend Fancy Dragons, combining their abilities to earn Reputation and become the Master of Flamecraft.\n\n<style=oceania>Try the Demo Today</style>\nExplore a selection of charming shops, meet delightful Artisan and Fancy Dragons, play against bots across three difficulty levels, or gather up to five players for local multiplayer. A fully narrated tutorial will guide you through your first steps in this magical world.\n\nCheck out the demo and get ready to become the Flamekeeper tiny dragons need.<style=oceania>We can't wait to see you in town!</style>"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Ptasiarze!\n\nMagia małych smoczków już niebawem zapłonie na nowych platformach! Z radością ogłaszamy, że <style=oceania>Flamecraft zmierza na Xboxa!</style> A jeśli nie możecie doczekać się wizyty w naszym uroczym miasteczku, już teraz możecie wypróbować demo!\n\n<style=oceania>Zostań Smokoustym</style>\n\nWciel się w rolę Smokoustego i pomóż Smokom Rzemieślnikom znaleźć idealne sklepy, w których będą mogły rozwijać swoje rzemiosło. Planuj każdy ruch, zbieraj zasoby, rzucaj zaklęcia i zaprzyjaźniaj się z Frymuśnymi Smokami, łącząc ich umiejętności, by zdobywać punkty reputacji i zostać Mistrzem Płomieniarstwa.\n\n<style=oceania>Wypróbuj Demo Już Dziś</style>\n\nOdwiedź wybrane sklepy, poznaj Smoki Rzemieślników i Smoki Frymuśne, zmierz się z SI na trzech poziomach trudności lub graj do pięciu graczy do we wspólnej rozgrywce lokalnej. Dzięki Samouczkowi z profesjonalnym lektorem Becci Scott poznasz pierwsze kroki w tym magicznym świecie.\n\nWypróbuj demo i przygotuj się, by zostać Smokoustym, którego potrzebują małe smoki. <style=oceania>Nie możemy się doczekać, aż zobaczymy Cię w miasteczku!</style>"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Vogelbeobachter! \n \n Die kleinen Drachen verbreiten ihre Magie schon bald auf neuen Plattformen! Wir freuen uns, bekannt geben zu können, dass Flamecraft für Xbox erscheint! Falls du in der Zwischenzeit neugierig bist, was dich in der zauberhaften Stadt von Flamecraft erwartet, kannst du die Demo schon jetzt ausprobieren!\n \n <style=oceania>Werde Flammenhüterin oder Flammenhüter </style>\n Schlüpfe in die Rolle einer Flammenhüterin oder eines Flammenhüters und hilf den Werkeldrachen, die perfekten Läden für ihr Handwerk zu finden. Plane deine Züge sorgfältig, sammle Ressourcen, wirke Verzauberungen und freunde dich mit Schmuckdrachen an. Mit ihren Fähigkeiten kombinierst du Ruhm und wirst Meisterin oder Meister der Flammenkunst.\n \n <style=oceania>Probiere die Demo noch heute aus</style>\n Erforsche eine Auswahl charmanter Läden, lerne liebenswerte Werkel- und Schmuckdrachen kennen, tritt gegen KI in drei Schwierigkeitsgraden an oder spiele im lokalen Mehrspielermodus mit bis zu fünf Spielern. Eine vollständig vertonte Anleitung begleitet dich bei deinen ersten Schritten in dieser magischen Welt.\n \n Probier die Demo aus und mach dich bereit, als Flammenhüterin oder Flammenhüter genau die Hilfe zu sein, die die kleinen Drachen brauchen.<style=oceania>Wir können es kaum erwarten, dich in der Stadt zu sehen!</style>"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Chers ornithologues ! \n \nLes petits dragons et leur magie s'invitent sur de nouvelles plateformes ! Nous avons l'honneur d'annoncer que Flamecraft arrive sur Xbox ! En attendant, si vous souhaitez découvrir ce qui vous attend dans la ville fantaisiste de Flamecraft, vous pouvez jouer à la démo dès maintenant !\n \n <style=oceania>Incarnez un Gardien des Flammes </style>\n Devenez Gardien des Flammes et aidez les Dragons Artisans à trouver les boutiques parfaites pour pratiquer leur métier. Planifiez vos actions avec soin en collectant des ressources, en lançant des enchantements et vous liant d'amitié avec des Dragons Fantaisie. Combinez leurs capacités pour renforcer votre réputation et devenir le Maître de Flamecraft.\n \n <style=oceania>Jouez à la démo dès aujourd'hui</style>\n Explorez un éventail de charmantes boutiques, rencontrez les ravissants Dragons Artisans et Fantaisie, jouez contre des adversaires contrôlés par l'IA via trois niveaux de difficulté ou rassemblez jusqu'à cinq joueurs pour du multijoueur en local. Un tutoriel entièrement narré vous aidera à faire vos premiers pas dans ce monde magique.\n \n Découvrez la démo et préparez-vous à devenir le Gardien des Flammes de vos petits dragons.<style=oceania>Nous avons hâte de vous voir en ville !</style>"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "¡Saludos, fans de las aves!\n \n ¡Los dragoncitos llevan su magia a nuevas plataformas! ¡Nos alegra anunciar que Flamecraft estará disponible muy pronto en Xbox! Mientras tanto, si sentís curiosidad por ver qué os espera en la pintoresca ciudad de Flamecraft, ¡ya podéis probar la demo!\n \n <style=oceania>Convertíos en Guardallamas</style>\n Asumid el papel de Guardallamas y ayudad a los Dragones Artesanos a encontrar los establecimientos ideales donde practicar su oficio. Planead vuestros movimientos con cuidado mientras reunís recursos, lanzáis encantamientos y entabláis amistad con Dragones Selectos, cuyas habilidades deberéis combinar para ganar Reputación y convertiros en Maestros de Llamas.\n \n <style=oceania>Demo ya disponible</style>\n Explorad una selección de tiendas encantadoras, conoced a adorables Dragones Artesanos y Selectos, jugad contra bots en tres niveles de dificultad distintos o juntaos hasta cinco jugadores en el modo multijugador local. Disponéis de un tutorial totalmente narrado que os guiará en vuestros primeros pasos por este mundo mágico.\n \n Echad un vistazo a la demo y preparaos para convertiros en los Guardallamas que necesitan estos dragoncitos. <style=oceania>¡Estamos deseando veros por la ciudad!</style>"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Observadores de pássaros!\n \n Os dragõezinhos vão espalhar sua magia em novas plataformas! Temos o prazer de anunciar que Flamecraft chegará ao Xbox! Enquanto isso, se quiser ver o que espera por você na cidade fantástica de Flamecraft, experimente a demonstração agora mesmo!\n \n <style=oceania>Torne-se um Guardachamas </style>\n Assuma o papel de um Guardachamas e ajude os dragões-artesãos a encontrar as lojas perfeitas para praticar seu ofício. Planeje seus movimentos cuidadosamente enquanto coleta recursos, lança encantamentos e faz amizade com dragões extravagantes, combinando as habilidades deles para ganhar reputação e se tornar o Mestre do Fogo.\n \n <style=oceania>Jogue a demonstração hoje mesmo</style>\n Explore uma seleção de lojas encantadoras, conheça dragões-artesãos e dragões extravagantes adoráveis, jogue contra bots em três níveis de dificuldade ou reúna até cinco jogadores no modo multijogador local. Um tutorial totalmente narrado guiará você em seus primeiros passos neste mundo mágico.\n \n Confira a demonstração e prepare-se para se tornar o Guardachamas de que os dragõezinhos precisam.<style=oceania>Estamos ansiosos para ver você na cidade!</style>"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "鳥類愛好家のみなさん！\n \n 小さなドラゴンたちが、新しいプラットフォームに魔法を振りまいています！Xboxに『Flamecraft』がまもなく登場！ Flamecraftの風変わりな町でどんなことが待っているのか気になる方は、今すぐデモ版をプレイしていただけます！\n \n <style=oceania>炎の理解者になろう</style>\n 炎の理解者の役割を引き受けて、働きドラゴンを手伝って、ドラゴンたちが職人の腕を振るうのにぴったりなお店を見つけよう。次の動きを慎重に計画して、リソースを集めて、魔法を唱えて、伝説ドラゴンと仲良くなって能力を組み合わせて評判を獲得し、真の炎の理解者になろう。\n \n <style=oceania>今すぐデモをプレイ</style>\n 数々の魅力的なお店を訪ねて、陽気な働きドラゴンや伝説ドラゴンに会って、異なる3つの難易度レベルでBOTと対戦したり。最大5人のプレイヤーを集めてローカルマルチプレイを楽しもう。フルボイスのチュートリアルで、この魔法の世界での第一歩を踏み出そう。\n \n デモをチェックして、小さなドラゴンたちから必要とされる炎の理解者になる準備をしよう。<style=oceania>町で会えるのを楽しみにしています！</style>"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Птицеловы!\n \n Дракончики переносят своё волшебство на новые платформы! Мы рады сообщить, что Flamecraft уже скоро выйдет на Xbox. Если хотите узнать, что вас ждёт в чудесном городке Flamecraft, сыграйте в демоверсию уже сейчас!\n \n <style=oceania>Станьте хранителем пламени</style>\n Займите должность хранителя пламени и помогите драконам-мастерам выбрать лавки, где можно заниматься ремеслом. Собирайте ресурсы и накладывайте чары, просчитывая каждый шаг. Дружите с драконами-кудесниками и объединяйте их способности, чтобы повысить свою репутацию и стать мастером пламени.\n \n <style=oceania>Сыграйте в демоверсию уже сейчас</style>\n Заглядывайте в городские лавки, знакомьтесь с очаровательными мастерами и кудесниками, соревнуйтесь с ботами на трёх уровнях сложности и проводите время с друзьями в локальной игре на пять человек. Озвученное внутриигровое обучение поможет вам сделать первые шаги в волшебном мире Flamecraft.\n \n Приготовьтесь стать хранителем пламени, в котором так нуждаются крошечные дракончики.<style=oceania>Ждём встречи с вами в городке Flamecraft!</style>"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "鸟友们！\n \n那群小龙正在把他们的魔法施展到全新平台！我们很高兴地宣布，《龍焰魔法鎮》即将登陆 Xbox！ 在此之前，如果你想一窥《龍焰魔法鎮》奇幻小镇的风采，现在即可体验试玩版！\n \n <style=oceania>成为守焰人</style>\n 扮演守焰人，帮助工匠龙找到适合磨练技艺的商店。精心规划行动，收集资源，施展魔法，结识奇幻龙，借助他们的能力赢得声望，最终成为龙焰大师。\n \n <style=oceania>立即体验试玩版</style>\n 探索众多迷人的商店，结识可爱的工匠龙和奇幻龙；单枪匹马在三种不同的难度等级中对战 AI，或者与至多五位玩家共享本地多人游戏。配备完整的语音解说教程，一步步引导你深入这个魔法世界。\n \n 快来体验试玩版，为成为小龙们的守焰人打下坚实基础。<style=oceania>很期待在小镇与你再会！</style>"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "鳥友們！\n \n 小龍們正將魔法散播到全新平台！我們榮幸地宣布，《龍焰魔法鎮》即將登上 Xbox！ 如果你好奇《龍焰魔法鎮》的奇幻城鎮中有什麼驚喜等著你，立即試玩體驗版吧！\n \n <style=oceania>成為守焰人</style>\n 化身守焰人，找到能讓工匠龍一展身手的商店。仔細規劃每一步，收集資源、施展魔法並與奇幻龍交朋友，結合牠們的能力來累積聲望，成為龍焰大師。\n \n <style=oceania>立即試玩體驗版</style>\n 探索各種迷人商店，邂逅可愛的工匠龍和奇幻龍。你可以挑戰三種難度的電腦玩家，也可以啟用本機多人模式，與最多五名玩家同樂。搭載全語音教學，引領你踏出探索這個魔法世界的第一步。\n \n 立即試玩體驗版，準備成為小龍們最需要的守焰人。<style=oceania>期待在城鎮與你相見！</style>\""
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Birdwatcher! \n \n La magia dei draghetti è pronta a incantare nuove piattaforme! Siamo lieti di annunciare che Flamecraft sarà disponibile su Xbox! Nel frattempo, se volete scoprire cosa vi attende nella stravagante città di Flamecraft, potete provare subito la demo!\n \n <style=oceania>Diventate Custodi della Fiamma </style>\n Assumete il ruolo di Custodi della Fiamma e aiutate i draghi artigiani a trovare i negozi perfetti dove esercitare la loro professione. Pianificate le vostre mosse attentamente mentre raccogliete risorse, lanciate incantesimi e fate amicizia con i draghi eleganti, combinando le loro abilità per ottenere reputazione e diventare Signori della Fiamma.\n \n <style=oceania>Provate la demo oggi</style>\n Visitate una selezione di negozi incantevoli, fate la conoscenza dei draghi artigiani ed eleganti, giocate contro l'IA scegliendo tra tre livelli di difficoltà oppure radunate fino a cinque giocatori per divertirvi in modalità multigiocatore locale. Un tutorial completamente narrato vi aiuterà a muovere i primi passi in questo magico mondo.\n \n Provate la demo e preparatevi a diventare i Custodi della Fiamma di cui hanno bisogno questi draghetti.<style=oceania>Non vediamo l'ora di vedervi in città!</style>"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "탐조가 여러분!\n\n작은 드래곤들이 새로운 플랫폼으로 마법을 퍼뜨리고 있습니다! Xbox로 플레임크래프트의 출시를 공표하게 되어 기쁩니다! 그 동안 플레임크래프트의 엉뚱한 마을에서 무엇이 기다리는지 알고 싶으시다면 지금 바로 데모를 체험해보세요!\n\n<style=oceania>불꽃지기가 되자</style>\n불꽃지기가 되어 기예를 펼칠 완벽한 상점을 찾는 장인 드래곤들을 도와보세요. 여러분의 한 수를 신중히 계획해 자원을 모으고, 마법을 부리며 멋쟁이 드래곤들과 친구가 되어 이들의 능력을 조합해 명성을 얻고 최고의 불꽃지기 장인이 되어보세요.\n\n<style=oceania>지금 데모 플레이</style>\n매력적인 상점들을 알아보고, 사랑스러운 장인 및 멋쟁이 드래곤들을 만나며, 3가지 어려운 난이도에서 봇을 상대로 플레이하거나 로컬 멀티 플레이로 최대 5명이 모여서 플레이 해보세요. 풀 더빙을 지원하는 튜토리얼에서 이 마법같은 세계로의 첫 발걸음을 내딛어보세요.\n\n데모를 확인하고 작은 드래곤들이 필요로하는 불꽃지기가 되어보세요.<style=oceania>마을에서 만나게 될 날을 기다리고 있겠습니다!</style>"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Птахолови!\n \nКрихітні дракончики несуть свою магію на нові платформи! Ми раді повідомити, що Flamecraft виходить на Xbox! Якщо вам уже кортить зазирнути до казкового містечка Flamecraft, демоверсія вже доступна!\n \n <style=oceania>Станьте хранителем полум'я</style>\n Візьміть на себе роль хранителя полум'я та допоможіть драконам-ремісникам знайти ідеальні крамниці для їхнього ремесла. Ретельно плануйте свої ходи, збирайте ресурси, накладайте зачарування та знаходьте друзів серед надзвичайних драконів. Поєднуйте їхні здібності, щоб здобути репутацію та стати майстром полум'я.\n \n <style=oceania>Спробуйте демоверсію вже сьогодні</style>\n Досліджуйте добірку чарівних крамниць, знайомтеся з драконами-ремісниками та надзвичайними драконами, грайте проти ботів на трьох рівнях складності або зберіть до п'яти гравців для локальної багатокористувацької гри. Навчання з повним голосовим супроводом допоможе вам зробити перші кроки в цьому чарівному світі.\n \n Ознайомтеся з демоверсією та приготуйтеся стати хранителем полум'я, якого так потребують крихітні дракони.<style=oceania>Нетерпляче чекаємо на першу зустріч із вами в містечку!</style>"
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": []
-        },
-        {
             "ID": "bf0b01ff-034e-4cd7-a836-f21c19178f27",
             "Tags": [
                 "NewContent"
@@ -8436,70 +8072,70 @@
             "Actions": []
         },
         {
-            "ID": "02860bf0-1362-4958-862e-a9cc3e2a60dd",
+            "ID": "47ce26f8-e4a9-4d43-a7ea-3bf638bb2493",
             "Tags": [
                 "MonsterCouch"
             ],
-            "PlatformsToShowOn": 257,
-            "StartDateTicks": 639216576000000000,
-            "EndDateTicks": 639220032000000000,
+            "PlatformsToShowOn": 497,
+            "StartDateTicks": 639234720000000000,
+            "EndDateTicks": 946391904000000000,
             "Priority": 1,
             "IsPinned": false,
             "PresetImageName": "",
-            "RemoteImageName": "Flamecraft_Announcement_Newscenter.jpg",
+            "RemoteImageName": "FLC_NewsCenter_DateReveal.png",
             "Title": {
                 "LocalizedTexts": [
                     {
                         "Language": "en",
-                        "Text": "Flamecraft Online Beta is now live!"
+                        "Text": "Flamecraft Launches September 17!"
                     },
                     {
                         "Language": "pl",
-                        "Text": "Online Beta Flamecraft już wystartowała!"
+                        "Text": "Flamecraft nadchodzi 17 września!"
                     },
                     {
                         "Language": "de",
-                        "Text": "Die Flamecraft-Online-Beta ist jetzt live!"
+                        "Text": "Flamecraft erscheint am 17. September!"
                     },
                     {
                         "Language": "fr",
-                        "Text": "La bêta en ligne de Flamecraft est disponible dès maintenant !"
+                        "Text": "Flamecraft sortira le 17 septembre !"
                     },
                     {
                         "Language": "es",
-                        "Text": "¡La beta en línea de Flamecraft ya está disponible!"
+                        "Text": "¡Flamecraft sale a la venta el 17 de septiembre!"
                     },
                     {
                         "Language": "pt-BR",
-                        "Text": "O Beta Online de Flamecraft já está no ar!"
+                        "Text": "Flamecraft será lançado em 17 de setembro!"
                     },
                     {
                         "Language": "ja",
-                        "Text": "『Flamecraft』オンラインベータ配信中！"
+                        "Text": "『Flamecraft』が9月17日に配信開始！"
                     },
                     {
                         "Language": "ru",
-                        "Text": "Сетевая бета Flamecraft уже доступна!"
+                        "Text": "Flamecraft выйдет 17 сентября!"
                     },
                     {
                         "Language": "zh",
-                        "Text": "《龍焰魔法鎮》在线 Beta 测试现已开启！"
+                        "Text": "《龍焰魔法鎮》将于 9 月 17 日上线！"
                     },
                     {
                         "Language": "zh-Hant",
-                        "Text": "《龍焰魔法鎮》線上 Beta 測試現已開放！"
+                        "Text": "《龍焰魔法鎮》將於 9 月 17 推出！"
                     },
                     {
                         "Language": "it",
-                        "Text": "La beta online di Flamecraft è ora disponibile!"
+                        "Text": "Flamecraft esce il giorno 17 settembre!"
                     },
                     {
                         "Language": "ko",
-                        "Text": "플레임크래프트 온라인 베타 지금 플레이 가능!"
+                        "Text": "Flamecraft가 9월 17일 출시됩니다!"
                     },
                     {
                         "Language": "uk",
-                        "Text": "Онлайн-бета Flamecraft уже доступна!"
+                        "Text": "Flamecraft вийде 17 вересня!"
                     }
                 ]
             },
@@ -8507,55 +8143,55 @@
                 "LocalizedTexts": [
                     {
                         "Language": "en",
-                        "Text": "Sign up today and join <style=oceania>Flamekeepers</style> from around the world!"
+                        "Text": "Mark your calendars and be ready to enter the magical town of dragons!"
                     },
                     {
                         "Language": "pl",
-                        "Text": "Dołącz już dziś i zagraj ze <style=oceania>Smokoustymi</style> z całego świata!"
+                        "Text": "Już prawie czas! Przygotujcie się na wizytę w magicznym miasteczku smoków!"
                     },
                     {
                         "Language": "de",
-                        "Text": "Melde dich noch heute an und schließe dich <style=oceania>Flammenhüterinnen und Flammenhütern</style> aus aller Welt an!"
+                        "Text": "Zückt eure Kalender und macht euch bereit für die magische Stadt der Drachen!"
                     },
                     {
                         "Language": "fr",
-                        "Text": "Inscrivez-vous dès aujourd'hui et rejoignez les <style=oceania>Gardiens des Flammes</style> du monde entier !"
+                        "Text": "À vos agendas ! Préparez-vous à découvrir une ville magique remplie de dragons !"
                     },
                     {
                         "Language": "es",
-                        "Text": "¡Ya puedes inscribirte y sumarte a otros <style=oceania>Guardallamas</style> de todo el mundo!"
+                        "Text": "¡Apuntaos la fecha y preparaos para entrar en la Ciudad mágica de los Dragones!"
                     },
                     {
                         "Language": "pt-BR",
-                        "Text": "Inscreva-se hoje mesmo e junte-se aos <style=oceania>Guardachamas</style> de todo o mundo!"
+                        "Text": "Anote em seu calendário e prepare-se para adentrar a cidade mágica dos dragões!"
                     },
                     {
                         "Language": "ja",
-                        "Text": "今すぐサインアップして、世界中の<style=oceania>炎の理解者</style>の仲間になりましょう！"
+                        "Text": "カレンダーに印をつけて、ドラゴンたちの魔法の町に行く準備をしよう！"
                     },
                     {
                         "Language": "ru",
-                        "Text": "Зарегистрируйтесь и присоединитесь к <style=oceania>мастерам пламени</style> со всего света!"
+                        "Text": "Отмечайте дату в календарях — магический город драконов ждёт вас!"
                     },
                     {
                         "Language": "zh",
-                        "Text": "立即注册，加入来自世界各地的<style=oceania>守焰人</style>行列！"
+                        "Text": "请在日历上做好标记，准备好踏入这座充满魔力的龙之小镇！"
                     },
                     {
                         "Language": "zh-Hant",
-                        "Text": "今天立即註冊，與世界各地的<style=oceania>守焰人</style>一同加入！"
+                        "Text": "記好推出日期，準備進入遍地魔法的龍龍小鎮！"
                     },
                     {
                         "Language": "it",
-                        "Text": "Iscriviti oggi e unisciti ai <style=oceania>Custodi della Fiamma</style> di tutto il mondo!"
+                        "Text": "Segnatevi la data e preparatevi a entrare nella magica città dei draghi!"
                     },
                     {
                         "Language": "ko",
-                        "Text": "지금 등록하고 전 세계의 <style=oceania>불꽃지기</style>들과 함께하세요!"
+                        "Text": "달력에 표시해 두고, 마법 같은 드래곤의 마을에 들어갈 준비를 해주세요!"
                     },
                     {
                         "Language": "uk",
-                        "Text": "Зареєструйтеся вже сьогодні й приєднайтеся до <style=oceania>хранителів полум'я</style> з усього світу!"
+                        "Text": "Позначте дату в календарі — магічне місто драконів чекає на вас!"
                     }
                 ]
             },
@@ -8566,182 +8202,238 @@
                         "LocalizedTexts": [
                             {
                                 "Language": "en",
-                                "Text": "Birders! If you've been following the development of <style=oceania> Flamecraft</style> , we have exciting news!\n\n<style=oceania>Flamecraft Online Beta is now live!</style>  Soon, you'll be able to play online with Flamekeepers from around the world and help us test the Online mode before launch!\nThe beta is available on Steam, participation is free and open to everyone, and you can try out all three online multiplayer modes: Short Matchmaking, Long Matchmaking, and Custom Online Games with friends. The tutorial is also included, giving first-time Flamekeepers a chance to learn the basics before joining online matches.\n\nIf you'd like to join the Beta, you can do it through Flamecraft Steam store page! Your feedback will help us improve the multiplayer mode before release, and we can't wait to see you online for the first time, Flamekeepers! \n"
+                                "Text": "The shops are almost ready, the dragons are counting down the days, and the townsfolk can barely sit still. We’re excited to announce that <style=base>Flamecraft is coming to Steam on September 17!</style> We can’t wait to welcome you to the town!  "
                             },
                             {
                                 "Language": "pl",
-                                "Text": "Ptasiarze! Jeśli śledzicie rozwój <style=oceania>Flamecraft</style>, mamy dla was świetne wieści!\n\n<style=oceania>Beta online Flamecraft jest już dostępna!</style> Już teraz możecie grać ze Smokoustymi z całego świata i pomóc nam przetestować tryb wieloosobowy przed premierą!\n\nBeta jest dostępna na Steam, udział jest bezpłatny i otwarty dla wszystkich. Możecie wypróbować wszystkie trzy tryby online: szybkie gry, długie gry oraz własne gry online ze znajomymi. W becie znajduje się też samouczek, dzięki któremu nowi Smokouści poznają podstawy, zanim dołączą do pierwszych meczów online.\n\nJeśli chcecie dołączyć do bety, wystarczy odwiedzić stronę Flamecraft na Steam! Wasze opinie pomogą nam ulepszyć tryb wieloosobowy przed premierą - nie możemy się doczekać, aż wypróbujecie go po raz pierwszy, Smokouści!"
+                                "Text": "Sklepy są już prawie gotowe, smoki odliczają dni, a mieszkańcy miasteczka ledwo mogą usiedzieć w miejscu. Z radością ogłaszamy, że Flamecraft trafi na Steam 17 września! Już nie możemy się doczekać, aż powitamy Was w miasteczku!"
                             },
                             {
                                 "Language": "de",
-                                "Text": "Vogelbeobachter, aufgepasst! Wenn du die Entwicklung von <style=oceania>Flamecraft</style> mitverfolgt hast, haben wir großartige Neuigkeiten:\n\n <style=oceania>Die Anmeldung zur Online-Beta von Flamecraft ist offiziell eröffnet!\n</style>\nSchon bald kannst du gemeinsam mit Flammenhüterinnen und Flammenhütern aus aller Welt online spielen und uns dabei helfen, den Onlinemodus vor der Veröffentlichung ausgiebig zu testen!\n\n Die Beta wird auf Steam verfügbar sein. Die Teilnahme ist kostenlos und steht allen offen. Außerdem kannst du alle drei Online-Mehrspielermodi ausprobieren: Kurze Spielersuche, Lange Spielersuche und benutzerdefinierte Online-Partien mit Freunden. Das Tutorial ist natürlich auch dabei, damit neue Flammenhüterinnen und Flammenhüter die Grundlagen kennenlernen können, bevor sie sich in ihre ersten Online-Partien stürzen.\n \n Du möchtest bei der Beta dabei sein? Dann fülle einfach das untenstehende Anmeldeformular aus! Mit deinem Feedback hilfst du uns dabei, den Mehrspielermodus bis zur Veröffentlichung noch besser zu machen. Wir freuen uns darauf, euch bald zum ersten Mal online zu sehen. Bis bald!\""
+                                "Text": "Die Läden sind fast bereit, die Drachen zählen schon die Tage und die Stadtbewohner sind schon völlig aus dem Häuschen. Wir freuen uns anzukündigen, dass Flamecraft am 17. September auf Steam erscheint, und können es kaum erwarten, euch in der Stadt zu begrüßen!"
                             },
                             {
                                 "Language": "fr",
-                                "Text": "Chers ornithologues, nous avons des annonces passionnantes à faire sur <style=oceania>Flamecraft</style> pour vous qui suivez son développement !\n\n <style=oceania>Les inscriptions à la beta en ligne de Flamecraft sont ouvertes.</style> Vous pourrez bientôt jouer en ligne avec des Gardiens des Flammes du monde entier et nous aider à tester le mode en ligne avant son lancement !\n La beta sera disponible sur Steam, la participation est gratuite et ouverte à toutes et tous. Trois modes multijoueurs en ligne seront disponibles : parties rapides, parties longues ou parties personnalisées en ligne et entre amis. Le tutoriel sera également inclus pour permettre aux nouveaux Gardiens des Flammes d'apprendre les bases avant de se lancer dans des matchs en ligne.\n \n Si vous voulez participer à la beta, il suffit de remplir le formulaire d'inscription ci-dessous ! Vos retours nous aideront à améliorer le mode multijoueur avant sa sortie. Nous avons hâte de vous rencontrer en ligne pour la première fois, Gardiens des Flammes !"
+                                "Text": "Les boutiques sont presque prêtes, les dragons comptent les jours et les habitants ont hâte de vous rencontrer. Nous sommes ravis de vous annoncer que Flamecraft sortira sur Steam le 17 septembre ! Nous sommes impatients à l'idée de vous accueillir en ville !"
                             },
                             {
                                 "Language": "es",
-                                "Text": "¡Fans de las aves! Si habéis estado siguiendo el desarrollo de <style=oceania>Flamecraft</style>, ¡tenemos grandes noticias para vosotros!\n\n <style=oceania>Ya se ha abierto el periodo de inscripción para la beta en línea de Flamecraft</style>. \nDentro de poco, podréis jugar con otros Guardallamas de todo el mundo y ayudarnos a probar el modo en línea antes del lanzamiento.\n La beta estará disponible en Steam. Todo el que quiera podrá participar de manera gratuita y podrá probar los tres modos multijugador en línea: emparejamiento para partida corta, emparejamiento para partida larga y partidas en línea personalizadas con amigos. También se incluirá el tutorial, para que los Guardallamas primerizos tengan la oportunidad de aprender los fundamentos del juego antes de entrar en las partidas en línea.\n \n Si quieres participar en la beta, solo tienes que rellenar el formulario de inscripción que hay más abajo. Tus comentarios nos ayudarán a mejorar el modo multijugador antes de su lanzamiento. ¡Estamos deseando veros en línea por primera vez, Guardallamas!"
+                                "Text": "Las Tiendas están casi listas, los Dragones cuentan los días que quedan y los habitantes de la Ciudad no se aguantan de la impaciencia. Es un placer anunciar que Flamecraft llegará a Steam el 17 de septiembre. ¡Estamos deseando veros por la Ciudad!"
                             },
                             {
                                 "Language": "pt-BR",
-                                "Text": "Observadores de pássaros! Se vocês vêm acompanhando o desenvolvimento de <style=oceania>Flamecraft</style>, temos notícias incríveis!\n\n <style=oceania>As inscrições para o Beta Online de Flamecraft estão abertas.</style> \nEm breve, vocês poderão jogar online com Guardachamas do mundo todo e nos ajudar a testar o modo online antes do lançamento!\n O beta estará disponível no Steam, a participação é gratuita e aberta para quem quiser, e vocês poderão testar todos os três modos multijogador online: pareamento longo, pareamento curto e partidas online personalizadas com amigos. O tutorial também estará incluso, oferecendo aos Guardachamas de primeira viagem a chance de aprender o básico antes de entrar em partidas online.\n \n Se quiser se inscrever no Beta, basta preencher nosso formulário abaixo! Sua opinião nos ajudará a melhorar o modo multijogador antes do lançamento, e mal podemos esperar para ver vocês online pela primeira vez, Guardachamas!\""
+                                "Text": "As lojas estão quase prontas, os dragões estão contando os dias e os moradores da cidade mal conseguem se segurar. É um prazer anunciar que Flamecraft chegará ao Steam em 17 de setembro! Estamos ansiosos para receber vocês na cidade!"
                             },
                             {
                                 "Language": "ja",
-                                "Text": "鳥類愛好家の皆様、<style=oceania>『Flamecraft』</style>の開発が気になっているなら、わくわくするようなお知らせがあります！\n <style=oceania>『Flamecraft』オンラインベータのサインアップが開始しました。</style>まもなく、世界中の炎の理解者と一緒にオンラインプレイが可能になり、ローンチ前のオンラインモードのテストにご協力いただけます！\n ベータテストはSteamで利用可能となり、無料でどなたでもご参加いただけます。また、3つのオンラインマルチプレイヤーモード（ショートマッチメイキング、ロングマッチメイキング、フレンドとのカスタムオンラインゲーム）を試すことができます。チュートリアルも含まれていますので、駆け出しの炎の理解者でもゲームの基本を学んでからオンラインマッチにご参加いただけます。\n \n ベータテストに参加をご希望の場合は、以下のサインアップフォームにご記入いただくだけで参加可能です！リリース前のマルチプレイヤーモードの改善のために、皆様からのフィードバックをお待ちしております。炎の理解者の皆様とオンラインでお会いするのが楽しみです！"
+                                "Text": "お店の準備がもうすぐ完了し、ドラゴンたちはカウントダウンを始めて、町の人々は待ちきれずにいます。『Flamecraft』が9月17日にSteamに登場することをお知らせします！プレイヤーのみなさんを町で歓迎するのが楽しみです！"
                             },
                             {
                                 "Language": "ru",
-                                "Text": "Птицеловы! У нас отличные новости для тех из вас, кто интересовался разработкой игры <style=oceania>Flamecraft</style>!\n\n <style=oceania>Мы открываем регистрацию для участия в бета-тестировании сетевого режима Flamecraft.\n</style> Уже скоро вы сможете сыграть с другими мастерами пламени и помочь нам доработать игру перед официальным запуском!\n Бета-версия будет доступна в магазине Steam, участие в тестировании бесплатно для всех. Вы сможете опробовать все три сетевых режима: «Быстрый подбор игроков», «Долгий подбор игроков» и «Игру с друзьями». Бета-версия также включает в себя обучающий режим, чтобы начинающие мастера пламени могли изучить основы игры, прежде чем соревноваться в сети.\n \n Для участия в тестировании заполните форму ниже! Ваши отзывы помогут нам сделать многопользовательский режим ещё лучше. До встречи в игре, будущие мастера пламени!"
+                                "Text": "Лавки почти готовы к открытию, драконы отсчитывают дни, а горожанам едва удаётся усидеть на месте. Мы рады объявить, что Flamecraft выйдет на платформе Steam 17 сентября! С нетерпением ждём возможности распахнуть перед вами двери нашего города!"
                             },
                             {
                                 "Language": "zh",
-                                "Text": "鸟友们！如果你一直在关注<style=oceania>《龍焰魔法鎮》</style>的开发，那这次有个好消息呦！\n <style=oceania>《龍焰魔法鎮》在线版 Beta 测试已经开放注册啦！</style>很快，你就可以与来自世界各地的守焰人同场竞技，在我们正式推出在线模式前帮我们进行测试！\n Beta 测试将在 Steam 推出，面向所有玩家开放，而且完全免费。玩家可以体验全部三种在线多人游戏模式：短局匹配、长局匹配，以及可以与好友共同参与的自定义在线游戏。测试还包含教程，让新手守焰人能够在加入在线匹配前学会基本知识。\n \n 想加入 Beta 测试，只需填写下方的注册表格即可！如果有任何意见和建议，请不吝告知，玩家反馈能够帮助我们在多人模式推出前对其进行打磨。守焰人，很期待与你的首次线上相会！"
+                                "Text": "商店已准备就绪，小龙正摩拳擦掌，镇民们也都兴奋不已。我们很高兴地宣布，《龍焰魔法鎮》即将于 9 月 17 日登陆 Steam！欢迎各位光临小镇！"
                             },
                             {
                                 "Language": "zh-Hant",
-                                "Text": "龍友們，大家好！如果你有持續追蹤<style=oceania>《龍焰魔法鎮》</style>的開發進度，我們有好消息囉！\n <style=oceania>《龍焰魔法鎮》線上測試版現正開放註冊。</style>你很快就能與來自世界各地的守焰人一同線上遊玩，並協助我們在遊戲發行前先測試線上模式！\n 測試版將於 Steam 推出，人人皆可免費參加，還能試玩全部三種線上多人模式：短期配對、長期配對以及與朋友自訂線上遊戲。此版本也會包含教學手冊，讓首次遊玩的守焰人可以在參加線上對戰前先了解基本規則。\n \n 如果你想參加測試版，只需要在下方註冊即可！你的意見回饋將有助我們在正式發行前改善多人模式，我們也迫不及待與守焰人們在線上首次相見！"
+                                "Text": "商店就快準備好了，小龍們每天都在倒數，小鎮居民也興奮難耐。跟各位分享一件值得高興的事，《龍焰魔法鎮》將於 9 月 17 登上 Steam！我們都等不及想與您一起冒險了，我們小鎮見！"
                             },
                             {
                                 "Language": "it",
-                                "Text": "Birdwatcher! Se avete seguito lo sviluppo di <style=oceania>Flamecraft</style>, abbiamo grandi novità!\n\n <style=oceania>Le iscrizioni alla beta online di Flamecraft sono aperte.</style> Presto, potrete giocare online con i Custodi della Fiamma di tutto il mondo e aiutarci a collaudare la modalità Online prima del lancio!\n La beta sarà disponibile su Steam, la partecipazione è libera e aperta a tutti e potrete provare tutte e tre le modalità online: Matchmaking breve, Matchmaking lungo e Partite online personalizzate con gli amici. Sarà incluso anche un tutorial, che consentirà ai principianti di apprendere le basi del gioco prima di giocare online.\n \n Se volete partecipare alla beta, compilate il modulo sottostante! Il vostro feedback ci aiuterà a migliorare la modalità multigiocatore prima dell'uscita del gioco, e siamo impazienti di vedervi online per la prima volta, Custodi della Fiamma!\""
+                                "Text": "I negozi sono quasi pronti, i draghi stanno facendo il conto alla rovescia e i cittadini non stanno nella pelle. Siamo lieti di annunciare che Flamecraft arriverà su Steam il giorno 17 settembre! Non vediamo l'ora di darvi il benvenuto in città!"
                             },
                             {
                                 "Language": "ko",
-                                "Text": "탐조가 여러분! <style=oceania>플레임크래프트</style>의 개발을 팔로우 중이셨다면 좋은 소식이 있습니다!\n\n<style=oceania>플레임크래프트 온라인 베타 등록이 이제 시작되었습니다.</style> \n곧 전세계의 불꽃지기들과 온라인으로 플레이하며 발매 전 온라인 모드의 테스트를 도와주실 수 있습니다!\n베타는 Steam에서 진행 가능하고, 참여의 기회는 모두에게 열려있으며 세 가지 멀티플레이 모드인 '짧은 매치매이킹', '긴 매치메이킹', '친구와 커스텀 온라인 게임'을 즐길 수 있습니다. 튜토리얼 또한 포함될 예정이며, 불꽃지기들이 온라인 매치에 참여하기 전 기초를 배울 기회를 제공합니다.\n\n베타에 참여하고 싶으시다면 하단의 등록 절차만 따라주세요! 귀하의 피드백이 발매 전 멀티플레이 모드의 개선에 도움이 될 것이기에, 하루빨리 처음으로 불꽃지기 여러분들을 만나고 싶군요!"
+                                "Text": "상점은 거의 준비를 마쳤고, 드래곤들은 간절히 날짜를 기다리고 있으며, 마을 사람들도 설렘을 감추지 못하고 있습니다. Flamecraft가 9월 17일 Steam으로 출시된다는 소식을 기쁜 마음으로 전해드립니다! 여러분을 마을에서 맞이할 날이 정말 기다려집니다!"
                             },
                             {
                                 "Language": "uk",
-                                "Text": "Птахолови! Якщо ви стежили за розробкою <style=oceania>Flamecraft</style>, у нас чудові новини!\n <style=oceania>Реєстрацію на онлайн-бету Flamecraft уже відкрито.</style> Незабаром ви зможете грати онлайн разом із хранителями полум'я з усього світу та допомогти нам протестувати мережевий режим до його виходу!\n Бета-версія буде доступна в Steam, участь у ній безплатна та відкрита для всіх. Ви зможете випробувати всі три мережеві режими: короткі матчі, довгі матчі та власні онлайн-ігри з друзями. Також буде доступне навчання, щоб нові хранителі полум'я могли опанувати основи гри перед тим, як долучитися до онлайн-матчів.\n \n Хочете приєднатися до бета-тестування? Просто заповніть форму реєстрації нижче! Ваші відгуки допоможуть нам удосконалити мережевий режим до релізу. Нетерпляче чекаємо на першу зустріч із вами онлайн, хранителі полум'я!"
+                                "Text": "Крамниці майже готові відкритися, дракони рахують дні, а містяни ледве можуть всидіти на місці. Ми раді оголосити, що Flamecraft вийде на платформі Steam 17 вересня! З нетерпінням чекаємо на можливість відкрити перед вами браму нашого міста!"
                             }
                         ]
                     }
                 },
                 {
-                    "PlatformsToShowOn": 257,
+                    "PlatformsToShowOn": 16,
                     "Text": {
                         "LocalizedTexts": [
                             {
                                 "Language": "en",
-                                "Text": "<style=oceania> The Flamecraft Online Beta starts on August 6 and will run until August 11.</style> "
+                                "Text": "The shops are almost ready, the dragons are counting down the days, and the townsfolk can barely sit still. We’re excited to announce that Flamecraft is coming to XBOX on September 17! We can’t wait to welcome you to the town!  "
                             },
                             {
                                 "Language": "pl",
-                                "Text": "Beta online będzie trwać do 11 sierpnia."
+                                "Text": "Sklepy są już prawie gotowe, smoki odliczają dni, a mieszkańcy miasteczka ledwo mogą usiedzieć w miejscu. Z radością ogłaszamy, że Flamecraft trafi na XBOX 17 września! Już nie możemy się doczekać, aż powitamy Was w miasteczku!"
                             },
                             {
                                 "Language": "de",
-                                "Text": "<style=oceania>Die Online-Beta von Flamecraft läuft vom 6. bis 11. August.</style>"
+                                "Text": "Die Läden sind fast bereit, die Drachen zählen schon die Tage und die Stadtbewohner sind schon völlig aus dem Häuschen. Wir freuen uns anzukündigen, dass Flamecraft am 17. September auf XBOX erscheint, und können es kaum erwarten, euch in der Stadt zu begrüßen!"
                             },
                             {
                                 "Language": "fr",
-                                "Text": "<style=oceania>La beta en ligne de Flamecraft sera ouverte du 6 au 11 août.</style>"
+                                "Text": "Les boutiques sont presque prêtes, les dragons comptent les jours et les habitants ont hâte de vous rencontrer. Nous sommes ravis de vous annoncer que Flamecraft sortira sur XBOX le 17 septembre ! Nous sommes impatients à l'idée de vous accueillir en ville !"
                             },
                             {
                                 "Language": "es",
-                                "Text": "<style=oceania>La beta de Flamecraft en línea comienza el 6 de agosto y terminará el día 11 del mismo mes.</style>"
+                                "Text": "Las Tiendas están casi listas, los Dragones cuentan los días que quedan y los habitantes de la Ciudad no se aguantan de la impaciencia. Es un placer anunciar que Flamecraft llegará a XBOX el 17 de septiembre. ¡Estamos deseando veros por la Ciudad!"
                             },
                             {
                                 "Language": "pt-BR",
-                                "Text": "<style=oceania>O Beta de Flamecraft Online estará disponível de 6 a 11 de agosto.</style>"
+                                "Text": "As lojas estão quase prontas, os dragões estão contando os dias e os moradores da cidade mal conseguem se segurar. É um prazer anunciar que Flamecraft chegará ao XBOX em 17 de setembro! Estamos ansiosos para receber vocês na cidade!"
                             },
                             {
                                 "Language": "ja",
-                                "Text": "<style=oceania>『Flamecraft』オンラインベータは8月6日～8月11日の間で実施予定です。</style>"
+                                "Text": "お店の準備がもうすぐ完了し、ドラゴンたちはカウントダウンを始めて、町の人々は待ちきれずにいます。『Flamecraft』が9月17日にXBOXに登場することをお知らせします！プレイヤーのみなさんを町で歓迎するのが楽しみです！"
                             },
                             {
                                 "Language": "ru",
-                                "Text": "<style=oceania>Бета-тестирование сетевого режима Flamecraft пройдёт с 6 по 11 августа.</style>"
+                                "Text": "Лавки почти готовы к открытию, драконы отсчитывают дни, а горожанам едва удаётся усидеть на месте. Мы рады объявить, что Flamecraft выйдет на платформе XBOX 17 сентября! С нетерпением ждём возможности распахнуть перед вами двери нашего города!"
                             },
                             {
                                 "Language": "zh",
-                                "Text": "<style=oceania>《龍焰魔法鎮》在线版 Beta 测试将于 8 月 6 日开始，持续至 8 月 11 日。</style>"
+                                "Text": "商店已准备就绪，小龙正摩拳擦掌，镇民们也都兴奋不已。我们很高兴地宣布，《龍焰魔法鎮》即将于 9 月 17 日登陆XBOX！欢迎各位光临小镇！"
                             },
                             {
                                 "Language": "zh-Hant",
-                                "Text": "<style=oceania>《龍焰魔法鎮》線上測試期間為 8 月 6 日起至 8 月 11 日止。</style>"
+                                "Text": "商店就快準備好了，小龍們每天都在倒數，小鎮居民也興奮難耐。跟各位分享一件值得高興的事，《龍焰魔法鎮》將於 9 月 17 登上XBOX！我們都等不及想與您一起冒險了，我們小鎮見！"
                             },
                             {
                                 "Language": "it",
-                                "Text": "<style=oceania>La beta online di Flamecraft inizia il 6 agosto e termina l'11 agosto.</style>"
+                                "Text": "I negozi sono quasi pronti, i draghi stanno facendo il conto alla rovescia e i cittadini non stanno nella pelle. Siamo lieti di annunciare che Flamecraft arriverà su XBOX il giorno 17 settembre! Non vediamo l'ora di darvi il benvenuto in città!"
                             },
                             {
                                 "Language": "ko",
-                                "Text": "<style=oceania> 플레임크래프트 온라인 베타는 8월 6일부터 시작해 8월 11일까지 진행됩니다.</style>"
+                                "Text": "상점은 거의 준비를 마쳤고, 드래곤들은 간절히 날짜를 기다리고 있으며, 마을 사람들도 설렘을 감추지 못하고 있습니다. Flamecraft가 9월 17일 XBOX으로 출시된다는 소식을 기쁜 마음으로 전해드립니다! 여러분을 마을에서 맞이할 날이 정말 기다려집니다!"
                             },
                             {
                                 "Language": "uk",
-                                "Text": "<style=oceania>Онлайн-бета Flamecraft розпочнеться 6 серпня й триватиме до 11 серпня.</style>"
+                                "Text": "Крамниці майже готові відкритися, дракони рахують дні, а містяни ледве можуть всидіти на місці. Ми раді оголосити, що Flamecraft вийде на платформі XBOX 17 вересня! З нетерпінням чекаємо на можливість відкрити перед вами браму нашого міста!"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 192,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "The shops are almost ready, the dragons are counting down the days, and the townsfolk can barely sit still. We’re excited to announce that Flamecraft is coming to PlayStation 5 on September 17! We can’t wait to welcome you to the town!  "
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Sklepy są już prawie gotowe, smoki odliczają dni, a mieszkańcy miasteczka ledwo mogą usiedzieć w miejscu. Z radością ogłaszamy, że Flamecraft trafi na PlayStation 5 17 września! Już nie możemy się doczekać, aż powitamy Was w miasteczku!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Die Läden sind fast bereit, die Drachen zählen schon die Tage und die Stadtbewohner sind schon völlig aus dem Häuschen. Wir freuen uns anzukündigen, dass Flamecraft am 17. September auf PlayStation 5 erscheint, und können es kaum erwarten, euch in der Stadt zu begrüßen!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Les boutiques sont presque prêtes, les dragons comptent les jours et les habitants ont hâte de vous rencontrer. Nous sommes ravis de vous annoncer que Flamecraft sortira sur PlayStation 5 le 17 septembre ! Nous sommes impatients à l'idée de vous accueillir en ville !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Las Tiendas están casi listas, los Dragones cuentan los días que quedan y los habitantes de la Ciudad no se aguantan de la impaciencia. Es un placer anunciar que Flamecraft llegará a PlayStation 5 el 17 de septiembre. ¡Estamos deseando veros por la Ciudad!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "As lojas estão quase prontas, os dragões estão contando os dias e os moradores da cidade mal conseguem se segurar. É um prazer anunciar que Flamecraft chegará ao PlayStation 5 em 17 de setembro! Estamos ansiosos para receber vocês na cidade!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "お店の準備がもうすぐ完了し、ドラゴンたちはカウントダウンを始めて、町の人々は待ちきれずにいます。『Flamecraft』が9月17日にPlayStation 5に登場することをお知らせします！プレイヤーのみなさんを町で歓迎するのが楽しみです！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Лавки почти готовы к открытию, драконы отсчитывают дни, а горожанам едва удаётся усидеть на месте. Мы рады объявить, что Flamecraft выйдет на платформе PlayStation 5 17 сентября! С нетерпением ждём возможности распахнуть перед вами двери нашего города!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "商店已准备就绪，小龙正摩拳擦掌，镇民们也都兴奋不已。我们很高兴地宣布，《龍焰魔法鎮》即将于 9 月 17 日登陆 PlayStation 5！欢迎各位光临小镇！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "商店就快準備好了，小龍們每天都在倒數，小鎮居民也興奮難耐。跟各位分享一件值得高興的事，《龍焰魔法鎮》將於 9 月 17 登上 PlayStation 5！我們都等不及想與您一起冒險了，我們小鎮見！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "I negozi sono quasi pronti, i draghi stanno facendo il conto alla rovescia e i cittadini non stanno nella pelle. Siamo lieti di annunciare che Flamecraft arriverà su PlayStation 5 il giorno 17 settembre! Non vediamo l'ora di darvi il benvenuto in città!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "상점은 거의 준비를 마쳤고, 드래곤들은 간절히 날짜를 기다리고 있으며, 마을 사람들도 설렘을 감추지 못하고 있습니다. Flamecraft가 9월 17일 PlayStation 5으로 출시된다는 소식을 기쁜 마음으로 전해드립니다! 여러분을 마을에서 맞이할 날이 정말 기다려집니다!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Крамниці майже готові відкритися, дракони рахують дні, а містяни ледве можуть всидіти на місці. Ми раді оголосити, що Flamecraft вийде на платформі PlayStation 5 17 вересня! З нетерпінням чекаємо на можливість відкрити перед вами браму нашого міста!"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 32,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "The shops are almost ready, the dragons are counting down the days, and the townsfolk can barely sit still. We’re excited to announce that Flamecraft is coming to Nintendo Switch on September 17! We can’t wait to welcome you to the town!  "
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Sklepy są już prawie gotowe, smoki odliczają dni, a mieszkańcy miasteczka ledwo mogą usiedzieć w miejscu. Z radością ogłaszamy, że Flamecraft trafi na Nintendo Switch 17 września! Już nie możemy się doczekać, aż powitamy Was w miasteczku!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Die Läden sind fast bereit, die Drachen zählen schon die Tage und die Stadtbewohner sind schon völlig aus dem Häuschen. Wir freuen uns anzukündigen, dass Flamecraft am 17. September auf Nintendo Switch erscheint, und können es kaum erwarten, euch in der Stadt zu begrüßen!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Les boutiques sont presque prêtes, les dragons comptent les jours et les habitants ont hâte de vous rencontrer. Nous sommes ravis de vous annoncer que Flamecraft sortira sur Nintendo Switch le 17 septembre ! Nous sommes impatients à l'idée de vous accueillir en ville !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Las Tiendas están casi listas, los Dragones cuentan los días que quedan y los habitantes de la Ciudad no se aguantan de la impaciencia. Es un placer anunciar que Flamecraft llegará a Nintendo Switch el 17 de septiembre. ¡Estamos deseando veros por la Ciudad!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "As lojas estão quase prontas, os dragões estão contando os dias e os moradores da cidade mal conseguem se segurar. É um prazer anunciar que Flamecraft chegará ao Nintendo Switch em 17 de setembro! Estamos ansiosos para receber vocês na cidade!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "お店の準備がもうすぐ完了し、ドラゴンたちはカウントダウンを始めて、町の人々は待ちきれずにいます。『Flamecraft』が9月17日にNintendo Switchに登場することをお知らせします！プレイヤーのみなさんを町で歓迎するのが楽しみです！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Лавки почти готовы к открытию, драконы отсчитывают дни, а горожанам едва удаётся усидеть на месте. Мы рады объявить, что Flamecraft выйдет на платформе Nintendo Switch 17 сентября! С нетерпением ждём возможности распахнуть перед вами двери нашего города!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "商店已准备就绪，小龙正摩拳擦掌，镇民们也都兴奋不已。我们很高兴地宣布，《龍焰魔法鎮》即将于 9 月 17 日登陆 Nintendo Switch！欢迎各位光临小镇！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "商店就快準備好了，小龍們每天都在倒數，小鎮居民也興奮難耐。跟各位分享一件值得高興的事，《龍焰魔法鎮》將於 9 月 17 登上 Nintendo Switch！我們都等不及想與您一起冒險了，我們小鎮見！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "I negozi sono quasi pronti, i draghi stanno facendo il conto alla rovescia e i cittadini non stanno nella pelle. Siamo lieti di annunciare che Flamecraft arriverà su Nintendo Switch il giorno 17 settembre! Non vediamo l'ora di darvi il benvenuto in città!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "상점은 거의 준비를 마쳤고, 드래곤들은 간절히 날짜를 기다리고 있으며, 마을 사람들도 설렘을 감추지 못하고 있습니다. Flamecraft가 9월 17일 Nintendo Switch으로 출시된다는 소식을 기쁜 마음으로 전해드립니다! 여러분을 마을에서 맞이할 날이 정말 기다려집니다!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Крамниці майже готові відкритися, дракони рахують дні, а містяни ледве можуть всидіти на місці. Ми раді оголосити, що Flamecraft вийде на платформі Nintendo Switch 17 вересня! З нетерпінням чекаємо на можливість відкрити перед вами браму нашого міста!"
                             }
                         ]
                     }
                 }
             ],
-            "Actions": [
-                {
-                    "ActionType": 0,
-                    "PlatformsToShowOn": 257,
-                    "Value": "https://store.steampowered.com/app/3201730/Flamecraft/",
-                    "ButtonText": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "Sign Up for the Beta"
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Dołącz do bety!"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Jetzt für die Beta anmelden"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "S'inscrire à la beta"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Inscribirse en la beta"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "Inscreva-se para o teste Beta"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "ベータにサインアップ"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Регистрация для участия в бета-тесте"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "注册 Beta 测试"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "註冊測試版"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "Iscriviti alla beta"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "베타 참여 신청"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Зареєструватися на бета-тестування"
-                            }
-                        ]
-                    }
-                }
-            ]
+            "Actions": []
         }
     ]
 }
