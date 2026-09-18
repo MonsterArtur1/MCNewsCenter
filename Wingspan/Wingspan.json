@@ -8072,370 +8072,6 @@
             "Actions": []
         },
         {
-            "ID": "47ce26f8-e4a9-4d43-a7ea-3bf638bb2493",
-            "Tags": [
-                "MonsterCouch"
-            ],
-            "PlatformsToShowOn": 497,
-            "StartDateTicks": 639234720000000000,
-            "EndDateTicks": 946391904000000000,
-            "Priority": 1,
-            "IsPinned": false,
-            "PresetImageName": "",
-            "RemoteImageName": "FLC_NewsCenter_DateReveal.png",
-            "Title": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Flamecraft Launches September 17!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Flamecraft nadchodzi 17 września!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Flamecraft erscheint am 17. September!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "Flamecraft sortira le 17 septembre !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Flamecraft sale a la venta el 17 de septiembre!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Flamecraft será lançado em 17 de setembro!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "『Flamecraft』が9月17日に配信開始！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Flamecraft выйдет 17 сентября!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "《龍焰魔法鎮》将于 9 月 17 日上线！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "《龍焰魔法鎮》將於 9 月 17 推出！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Flamecraft esce il giorno 17 settembre!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "Flamecraft가 9월 17일 출시됩니다!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Flamecraft вийде 17 вересня!"
-                    }
-                ]
-            },
-            "Header": {
-                "LocalizedTexts": [
-                    {
-                        "Language": "en",
-                        "Text": "Mark your calendars and be ready to enter the magical town of dragons!"
-                    },
-                    {
-                        "Language": "pl",
-                        "Text": "Już prawie czas! Przygotujcie się na wizytę w magicznym miasteczku smoków!"
-                    },
-                    {
-                        "Language": "de",
-                        "Text": "Zückt eure Kalender und macht euch bereit für die magische Stadt der Drachen!"
-                    },
-                    {
-                        "Language": "fr",
-                        "Text": "À vos agendas ! Préparez-vous à découvrir une ville magique remplie de dragons !"
-                    },
-                    {
-                        "Language": "es",
-                        "Text": "¡Apuntaos la fecha y preparaos para entrar en la Ciudad mágica de los Dragones!"
-                    },
-                    {
-                        "Language": "pt-BR",
-                        "Text": "Anote em seu calendário e prepare-se para adentrar a cidade mágica dos dragões!"
-                    },
-                    {
-                        "Language": "ja",
-                        "Text": "カレンダーに印をつけて、ドラゴンたちの魔法の町に行く準備をしよう！"
-                    },
-                    {
-                        "Language": "ru",
-                        "Text": "Отмечайте дату в календарях — магический город драконов ждёт вас!"
-                    },
-                    {
-                        "Language": "zh",
-                        "Text": "请在日历上做好标记，准备好踏入这座充满魔力的龙之小镇！"
-                    },
-                    {
-                        "Language": "zh-Hant",
-                        "Text": "記好推出日期，準備進入遍地魔法的龍龍小鎮！"
-                    },
-                    {
-                        "Language": "it",
-                        "Text": "Segnatevi la data e preparatevi a entrare nella magica città dei draghi!"
-                    },
-                    {
-                        "Language": "ko",
-                        "Text": "달력에 표시해 두고, 마법 같은 드래곤의 마을에 들어갈 준비를 해주세요!"
-                    },
-                    {
-                        "Language": "uk",
-                        "Text": "Позначте дату в календарі — магічне місто драконів чекає на вас!"
-                    }
-                ]
-            },
-            "Content": [
-                {
-                    "PlatformsToShowOn": 257,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "The shops are almost ready, the dragons are counting down the days, and the townsfolk can barely sit still. We’re excited to announce that <style=base>Flamecraft is coming to Steam on September 17!</style> We can’t wait to welcome you to the town!  "
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Sklepy są już prawie gotowe, smoki odliczają dni, a mieszkańcy miasteczka ledwo mogą usiedzieć w miejscu. Z radością ogłaszamy, że Flamecraft trafi na Steam 17 września! Już nie możemy się doczekać, aż powitamy Was w miasteczku!"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Die Läden sind fast bereit, die Drachen zählen schon die Tage und die Stadtbewohner sind schon völlig aus dem Häuschen. Wir freuen uns anzukündigen, dass Flamecraft am 17. September auf Steam erscheint, und können es kaum erwarten, euch in der Stadt zu begrüßen!"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Les boutiques sont presque prêtes, les dragons comptent les jours et les habitants ont hâte de vous rencontrer. Nous sommes ravis de vous annoncer que Flamecraft sortira sur Steam le 17 septembre ! Nous sommes impatients à l'idée de vous accueillir en ville !"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Las Tiendas están casi listas, los Dragones cuentan los días que quedan y los habitantes de la Ciudad no se aguantan de la impaciencia. Es un placer anunciar que Flamecraft llegará a Steam el 17 de septiembre. ¡Estamos deseando veros por la Ciudad!"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "As lojas estão quase prontas, os dragões estão contando os dias e os moradores da cidade mal conseguem se segurar. É um prazer anunciar que Flamecraft chegará ao Steam em 17 de setembro! Estamos ansiosos para receber vocês na cidade!"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "お店の準備がもうすぐ完了し、ドラゴンたちはカウントダウンを始めて、町の人々は待ちきれずにいます。『Flamecraft』が9月17日にSteamに登場することをお知らせします！プレイヤーのみなさんを町で歓迎するのが楽しみです！"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Лавки почти готовы к открытию, драконы отсчитывают дни, а горожанам едва удаётся усидеть на месте. Мы рады объявить, что Flamecraft выйдет на платформе Steam 17 сентября! С нетерпением ждём возможности распахнуть перед вами двери нашего города!"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "商店已准备就绪，小龙正摩拳擦掌，镇民们也都兴奋不已。我们很高兴地宣布，《龍焰魔法鎮》即将于 9 月 17 日登陆 Steam！欢迎各位光临小镇！"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "商店就快準備好了，小龍們每天都在倒數，小鎮居民也興奮難耐。跟各位分享一件值得高興的事，《龍焰魔法鎮》將於 9 月 17 登上 Steam！我們都等不及想與您一起冒險了，我們小鎮見！"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "I negozi sono quasi pronti, i draghi stanno facendo il conto alla rovescia e i cittadini non stanno nella pelle. Siamo lieti di annunciare che Flamecraft arriverà su Steam il giorno 17 settembre! Non vediamo l'ora di darvi il benvenuto in città!"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "상점은 거의 준비를 마쳤고, 드래곤들은 간절히 날짜를 기다리고 있으며, 마을 사람들도 설렘을 감추지 못하고 있습니다. Flamecraft가 9월 17일 Steam으로 출시된다는 소식을 기쁜 마음으로 전해드립니다! 여러분을 마을에서 맞이할 날이 정말 기다려집니다!"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Крамниці майже готові відкритися, дракони рахують дні, а містяни ледве можуть всидіти на місці. Ми раді оголосити, що Flamecraft вийде на платформі Steam 17 вересня! З нетерпінням чекаємо на можливість відкрити перед вами браму нашого міста!"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "PlatformsToShowOn": 16,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "The shops are almost ready, the dragons are counting down the days, and the townsfolk can barely sit still. We’re excited to announce that Flamecraft is coming to XBOX on September 17! We can’t wait to welcome you to the town!  "
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Sklepy są już prawie gotowe, smoki odliczają dni, a mieszkańcy miasteczka ledwo mogą usiedzieć w miejscu. Z radością ogłaszamy, że Flamecraft trafi na XBOX 17 września! Już nie możemy się doczekać, aż powitamy Was w miasteczku!"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Die Läden sind fast bereit, die Drachen zählen schon die Tage und die Stadtbewohner sind schon völlig aus dem Häuschen. Wir freuen uns anzukündigen, dass Flamecraft am 17. September auf XBOX erscheint, und können es kaum erwarten, euch in der Stadt zu begrüßen!"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Les boutiques sont presque prêtes, les dragons comptent les jours et les habitants ont hâte de vous rencontrer. Nous sommes ravis de vous annoncer que Flamecraft sortira sur XBOX le 17 septembre ! Nous sommes impatients à l'idée de vous accueillir en ville !"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Las Tiendas están casi listas, los Dragones cuentan los días que quedan y los habitantes de la Ciudad no se aguantan de la impaciencia. Es un placer anunciar que Flamecraft llegará a XBOX el 17 de septiembre. ¡Estamos deseando veros por la Ciudad!"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "As lojas estão quase prontas, os dragões estão contando os dias e os moradores da cidade mal conseguem se segurar. É um prazer anunciar que Flamecraft chegará ao XBOX em 17 de setembro! Estamos ansiosos para receber vocês na cidade!"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "お店の準備がもうすぐ完了し、ドラゴンたちはカウントダウンを始めて、町の人々は待ちきれずにいます。『Flamecraft』が9月17日にXBOXに登場することをお知らせします！プレイヤーのみなさんを町で歓迎するのが楽しみです！"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Лавки почти готовы к открытию, драконы отсчитывают дни, а горожанам едва удаётся усидеть на месте. Мы рады объявить, что Flamecraft выйдет на платформе XBOX 17 сентября! С нетерпением ждём возможности распахнуть перед вами двери нашего города!"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "商店已准备就绪，小龙正摩拳擦掌，镇民们也都兴奋不已。我们很高兴地宣布，《龍焰魔法鎮》即将于 9 月 17 日登陆XBOX！欢迎各位光临小镇！"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "商店就快準備好了，小龍們每天都在倒數，小鎮居民也興奮難耐。跟各位分享一件值得高興的事，《龍焰魔法鎮》將於 9 月 17 登上XBOX！我們都等不及想與您一起冒險了，我們小鎮見！"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "I negozi sono quasi pronti, i draghi stanno facendo il conto alla rovescia e i cittadini non stanno nella pelle. Siamo lieti di annunciare che Flamecraft arriverà su XBOX il giorno 17 settembre! Non vediamo l'ora di darvi il benvenuto in città!"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "상점은 거의 준비를 마쳤고, 드래곤들은 간절히 날짜를 기다리고 있으며, 마을 사람들도 설렘을 감추지 못하고 있습니다. Flamecraft가 9월 17일 XBOX으로 출시된다는 소식을 기쁜 마음으로 전해드립니다! 여러분을 마을에서 맞이할 날이 정말 기다려집니다!"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Крамниці майже готові відкритися, дракони рахують дні, а містяни ледве можуть всидіти на місці. Ми раді оголосити, що Flamecraft вийде на платформі XBOX 17 вересня! З нетерпінням чекаємо на можливість відкрити перед вами браму нашого міста!"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "PlatformsToShowOn": 192,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "The shops are almost ready, the dragons are counting down the days, and the townsfolk can barely sit still. We’re excited to announce that Flamecraft is coming to PlayStation 5 on September 17! We can’t wait to welcome you to the town!  "
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Sklepy są już prawie gotowe, smoki odliczają dni, a mieszkańcy miasteczka ledwo mogą usiedzieć w miejscu. Z radością ogłaszamy, że Flamecraft trafi na PlayStation 5 17 września! Już nie możemy się doczekać, aż powitamy Was w miasteczku!"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Die Läden sind fast bereit, die Drachen zählen schon die Tage und die Stadtbewohner sind schon völlig aus dem Häuschen. Wir freuen uns anzukündigen, dass Flamecraft am 17. September auf PlayStation 5 erscheint, und können es kaum erwarten, euch in der Stadt zu begrüßen!"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Les boutiques sont presque prêtes, les dragons comptent les jours et les habitants ont hâte de vous rencontrer. Nous sommes ravis de vous annoncer que Flamecraft sortira sur PlayStation 5 le 17 septembre ! Nous sommes impatients à l'idée de vous accueillir en ville !"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Las Tiendas están casi listas, los Dragones cuentan los días que quedan y los habitantes de la Ciudad no se aguantan de la impaciencia. Es un placer anunciar que Flamecraft llegará a PlayStation 5 el 17 de septiembre. ¡Estamos deseando veros por la Ciudad!"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "As lojas estão quase prontas, os dragões estão contando os dias e os moradores da cidade mal conseguem se segurar. É um prazer anunciar que Flamecraft chegará ao PlayStation 5 em 17 de setembro! Estamos ansiosos para receber vocês na cidade!"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "お店の準備がもうすぐ完了し、ドラゴンたちはカウントダウンを始めて、町の人々は待ちきれずにいます。『Flamecraft』が9月17日にPlayStation 5に登場することをお知らせします！プレイヤーのみなさんを町で歓迎するのが楽しみです！"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Лавки почти готовы к открытию, драконы отсчитывают дни, а горожанам едва удаётся усидеть на месте. Мы рады объявить, что Flamecraft выйдет на платформе PlayStation 5 17 сентября! С нетерпением ждём возможности распахнуть перед вами двери нашего города!"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "商店已准备就绪，小龙正摩拳擦掌，镇民们也都兴奋不已。我们很高兴地宣布，《龍焰魔法鎮》即将于 9 月 17 日登陆 PlayStation 5！欢迎各位光临小镇！"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "商店就快準備好了，小龍們每天都在倒數，小鎮居民也興奮難耐。跟各位分享一件值得高興的事，《龍焰魔法鎮》將於 9 月 17 登上 PlayStation 5！我們都等不及想與您一起冒險了，我們小鎮見！"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "I negozi sono quasi pronti, i draghi stanno facendo il conto alla rovescia e i cittadini non stanno nella pelle. Siamo lieti di annunciare che Flamecraft arriverà su PlayStation 5 il giorno 17 settembre! Non vediamo l'ora di darvi il benvenuto in città!"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "상점은 거의 준비를 마쳤고, 드래곤들은 간절히 날짜를 기다리고 있으며, 마을 사람들도 설렘을 감추지 못하고 있습니다. Flamecraft가 9월 17일 PlayStation 5으로 출시된다는 소식을 기쁜 마음으로 전해드립니다! 여러분을 마을에서 맞이할 날이 정말 기다려집니다!"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Крамниці майже готові відкритися, дракони рахують дні, а містяни ледве можуть всидіти на місці. Ми раді оголосити, що Flamecraft вийде на платформі PlayStation 5 17 вересня! З нетерпінням чекаємо на можливість відкрити перед вами браму нашого міста!"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "PlatformsToShowOn": 32,
-                    "Text": {
-                        "LocalizedTexts": [
-                            {
-                                "Language": "en",
-                                "Text": "The shops are almost ready, the dragons are counting down the days, and the townsfolk can barely sit still. We’re excited to announce that Flamecraft is coming to Nintendo Switch on September 17! We can’t wait to welcome you to the town!  "
-                            },
-                            {
-                                "Language": "pl",
-                                "Text": "Sklepy są już prawie gotowe, smoki odliczają dni, a mieszkańcy miasteczka ledwo mogą usiedzieć w miejscu. Z radością ogłaszamy, że Flamecraft trafi na Nintendo Switch 17 września! Już nie możemy się doczekać, aż powitamy Was w miasteczku!"
-                            },
-                            {
-                                "Language": "de",
-                                "Text": "Die Läden sind fast bereit, die Drachen zählen schon die Tage und die Stadtbewohner sind schon völlig aus dem Häuschen. Wir freuen uns anzukündigen, dass Flamecraft am 17. September auf Nintendo Switch erscheint, und können es kaum erwarten, euch in der Stadt zu begrüßen!"
-                            },
-                            {
-                                "Language": "fr",
-                                "Text": "Les boutiques sont presque prêtes, les dragons comptent les jours et les habitants ont hâte de vous rencontrer. Nous sommes ravis de vous annoncer que Flamecraft sortira sur Nintendo Switch le 17 septembre ! Nous sommes impatients à l'idée de vous accueillir en ville !"
-                            },
-                            {
-                                "Language": "es",
-                                "Text": "Las Tiendas están casi listas, los Dragones cuentan los días que quedan y los habitantes de la Ciudad no se aguantan de la impaciencia. Es un placer anunciar que Flamecraft llegará a Nintendo Switch el 17 de septiembre. ¡Estamos deseando veros por la Ciudad!"
-                            },
-                            {
-                                "Language": "pt-BR",
-                                "Text": "As lojas estão quase prontas, os dragões estão contando os dias e os moradores da cidade mal conseguem se segurar. É um prazer anunciar que Flamecraft chegará ao Nintendo Switch em 17 de setembro! Estamos ansiosos para receber vocês na cidade!"
-                            },
-                            {
-                                "Language": "ja",
-                                "Text": "お店の準備がもうすぐ完了し、ドラゴンたちはカウントダウンを始めて、町の人々は待ちきれずにいます。『Flamecraft』が9月17日にNintendo Switchに登場することをお知らせします！プレイヤーのみなさんを町で歓迎するのが楽しみです！"
-                            },
-                            {
-                                "Language": "ru",
-                                "Text": "Лавки почти готовы к открытию, драконы отсчитывают дни, а горожанам едва удаётся усидеть на месте. Мы рады объявить, что Flamecraft выйдет на платформе Nintendo Switch 17 сентября! С нетерпением ждём возможности распахнуть перед вами двери нашего города!"
-                            },
-                            {
-                                "Language": "zh",
-                                "Text": "商店已准备就绪，小龙正摩拳擦掌，镇民们也都兴奋不已。我们很高兴地宣布，《龍焰魔法鎮》即将于 9 月 17 日登陆 Nintendo Switch！欢迎各位光临小镇！"
-                            },
-                            {
-                                "Language": "zh-Hant",
-                                "Text": "商店就快準備好了，小龍們每天都在倒數，小鎮居民也興奮難耐。跟各位分享一件值得高興的事，《龍焰魔法鎮》將於 9 月 17 登上 Nintendo Switch！我們都等不及想與您一起冒險了，我們小鎮見！"
-                            },
-                            {
-                                "Language": "it",
-                                "Text": "I negozi sono quasi pronti, i draghi stanno facendo il conto alla rovescia e i cittadini non stanno nella pelle. Siamo lieti di annunciare che Flamecraft arriverà su Nintendo Switch il giorno 17 settembre! Non vediamo l'ora di darvi il benvenuto in città!"
-                            },
-                            {
-                                "Language": "ko",
-                                "Text": "상점은 거의 준비를 마쳤고, 드래곤들은 간절히 날짜를 기다리고 있으며, 마을 사람들도 설렘을 감추지 못하고 있습니다. Flamecraft가 9월 17일 Nintendo Switch으로 출시된다는 소식을 기쁜 마음으로 전해드립니다! 여러분을 마을에서 맞이할 날이 정말 기다려집니다!"
-                            },
-                            {
-                                "Language": "uk",
-                                "Text": "Крамниці майже готові відкритися, дракони рахують дні, а містяни ледве можуть всидіти на місці. Ми раді оголосити, що Flamecraft вийде на платформі Nintendo Switch 17 вересня! З нетерпінням чекаємо на можливість відкрити перед вами браму нашого міста!"
-                            }
-                        ]
-                    }
-                }
-            ],
-            "Actions": []
-        },
-        {
             "ID": "6bf76054-5288-41ed-8d06-9ced19789e2b",
             "Tags": [
                 "Update"
@@ -8737,6 +8373,374 @@
                             {
                                 "Language": "uk",
                                 "Text": "ДЕТАЛІ ОНОВЛЕННЯ"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "ID": "c1bbc22b-679f-430c-a4ba-8141d6442ee2",
+            "Tags": [
+                "MonsterCouch",
+                "NewContent"
+            ],
+            "PlatformsToShowOn": 945,
+            "StartDateTicks": 639252864000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 2,
+            "IsPinned": false,
+            "PresetImageName": "",
+            "RemoteImageName": "FLC_CrossPromo_Wingspan.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Flamecraft Is Out Now With 3 Free Wingspan Portraits!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Flamecraft wylądował z 3 portretami do Na Skrzydłach!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Flamecraft ist da, mit 3 Wingspan-Profilbildern gratis!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Sortie de Flamecraft : 3 portraits Wingspan gratuits !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Llega Flamecraft con 3 retratos gratis para Wingspan!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Flamecraft disponível: 3 imagens de Wingspan grátis!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『Flamecraft』が3つの無料『Wingspan』ポートレイトと一緒に登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Flamecraft в продаже! Портреты для «Крыльев» в подарок!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《龙焰魔法镇》现已上线，3款《展翅翱翔》头像免费送！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《龍焰魔法鎮》現已上線，3款《展翅翱翔》頭像免費送！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Flamecraft disponibile + 3 ritratti di Wingspan gratis!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "플레임크래프트가 무료 Wingspan 초상화 3종과 함께 출시되었습니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Flamecraft вийшла! 3 портрети Wingspan у подарунок!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Birders! We're Celebrating Flamecraft's Release With 3 New Player Portraits, Free for Everyone!\n"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Ptasiarze! Z okazji premiery gry Flamecraft do Na Skrzydłach trafiają 3 nowe portrety graczy, dostępne za darmo dla wszystkich!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Vogelbeobachter! Wir feiern die Veröffentlichung von Flamecraft mit 3 neuen Spielerprofilbildern (für alle kostenlos)!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Chers ornithologues ! Pour fêter la sortie de Flamecraft, nous vous offrons 3 nouveaux portraits !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Fans de las aves! ¡Celebramos el lanzamiento de Flamecraft con 3 nuevos retratos de jugador gratis!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Passarinheiros! Estamos celebrando o lançamento de Flamecraft com 3 novas imagens de jogador, grátis para todos!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "鳥類愛好家のみなさん！『Flamecraft』が新しい3種類の無料プレイヤーポートレイトと一緒にリリースされました！一緒にお祝いしましょう！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Птицеловы! Мы решили отметить выход Flamecraft тремя новыми бесплатными портретами игрока!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "各位观鸟者们！为庆祝《龙焰魔法镇》发售，我们为所有人免费带来3款全新玩家头像！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "各位觀鳥者們！為慶祝《龍焰魔法鎮》發售，我們為所有人免費帶來3款全新玩家頭像！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Birdwatcher! Festeggiamo l'uscita di Flamecraft con 3 nuovi ritratti del giocatore, gratis per tutti!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "탐조가 여러분! 플레임크래프트의 출시를 기념해 모두에게 무료로 신규 플레이어 초상화 3종을 나눠드립니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Птахолови! Ми святкуємо вихід Flamecraft — для всіх доступні 3 нові безкоштовні портрети гравців!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 945,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "<style=oceania>Flamecraft</style>, our newest game about artisan dragons and magical shops, <style=oceania>is finally here</style>!\n\nTo celebrate, <style=oceania>we're adding three new player portraits to Wingspan</style>, free for everyone: a Bread Dragon in a Onesie, a Gryphon, and a Plant Dragon. \n\nYou will find them in your player profile settings right now!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "<style=oceania>Flamecraft</style>, nasza najnowsza gra o smokach rzemieślnikach i magicznych sklepach, <style=oceania>jest już dostępna</style>!\n\nZ tej okazji <style=oceania>dodajemy do Na Skrzydłach trzy nowe portrety graczy</style>: Chlebkowego Smoka w piżamie, gryfa oraz Smoka Roślinnego. \n\nWszystkie znajdziecie w ustawieniach swojego profilu gracza!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "<style=oceania>Flamecraft</style>, unser neues Spiel über Werkeldrachen und magische Läden, <style=oceania>ist endlich da</style>!\n \n Um das zu feiern, gibt es für alle kostenlos <style=oceania>drei neue Spielerprofilbilder in Wingspan</style>: einen Brotdrachen im Einteiler, einen Greifling und einen Pflanzendrachen. Du findest sie in deinen Spielerprofil-Einstellungen!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "<style=oceania>Flamecraft</style>, notre nouveau jeu rempli de Dragons Artisans et de boutiques magiques, <style=oceania>est enfin disponible</style> !\n \n Pour fêter ça, <style=oceania>nous ajoutons trois nouveaux portraits gratuits à Wingspan</style> mettant en scène un Dragon des Pains en combinaison, un Griffon et un Dragon des Plantes. Vous les trouverez dans les paramètres de votre profil de joueur !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡<style=oceania>Flamecraft</style>, nuestro nuevo juego sobre Dragones Artesanos y tiendas mágicas, <style=oceania>ha llegado al fin</style>!\n \n Para celebrarlo, <style=oceania>hemos añadido a Wingspan tres nuevos retratos de jugador</style> gratis para todos: un Dragón de Pan en pijama, un Grifo y un Dragón de Plantas. ¡Los encontraréis en los ajustes del perfil!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "<style=oceania>Flamecraft</style>, nosso mais novo jogo sobre dragões-artesãos e lojas mágicas, <style=oceania>finalmente chegou</style>!\n \n Para celebrar, <style=oceania>adicionamos três novas imagens de jogador em Wingspan</style>, grátis para todos. Um Dragão de Pão vestindo macacão, um Grifo e um Dragão de Planta. Você pode encontrá-las nas configurações do seu perfil do jogador!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "働きドラゴンと魔法のお店が登場する私たちの最新ゲーム<style=oceania>『Flamecraft』</style>が、<style=oceania>ついに登場します</style>！\n \n 発売を祝して、<style=oceania>新しい3種類の無料プレイヤーポートレイトを『Wingspan』に追加します。</style>着ぐるみを着たパンドラゴン、グリフォーン、プラントドラゴンの3種類です。プレイヤープロフィール設定から確認が可能です！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "<style=oceania>Flamecraft</style>, наша новая игра про драконов-мастеров и волшебные лавки, <style=oceania>уже в продаже</style>!\n \n В честь этого события <style=oceania>мы добавили в «Крылья» три новых портрета игрока</style>, доступных всем совершенно бесплатно: хлебного дракона в комбинезончике, грифона и растительного дракона. Ищите их в настройках профиля игрока!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "<style=oceania>《龙焰魔法镇》</style>是我们最新推出的游戏，讲述了工匠龙与魔法商店的故事，<style=oceania>如今终于与大家见面了</style>！\n \n为了庆祝上线，<style=oceania>我们为《展翅翱翔》新增了3款玩家头像</style>，所有玩家均可免费领取：穿着连体衣的面包龙、格里芬和植物龙。你可以在玩家个人资料设置中找到它们！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "<style=oceania>《龍焰魔法鎮》</style>是我們最新推出的遊戲，講述了工匠龍與魔法商店的故事，<style=oceania>如今終於與大家見面了</style>！\n \n 為了慶祝上線，<style=oceania>我們為《展翅翱翔》新增了3款玩家頭像</style>，所有玩家均可免費領取：穿著連體衣的吐司龍、格里芬和植物龍。你可以在玩家個人資料設置中找到它們！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "<style=oceania>Flamecraft</style>, il nostro nuovo gioco con Draghi Artigiani e negozi magici, <style=oceania>è finalmente qui</style>!\n \n Per festeggiare, <style=oceania>stiamo aggiungendo tre nuovi ritratti del giocatore su Wingspan</style>, gratis per tutti: un Drago di Pane in una tuta, un grifone e un Drago di Terra. Li troverai nelle impostazioni del tuo profilo giocatore!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "드래곤 장인들과 마법 상점이 나오는 저희의 최신작, <style=oceania>플레임크래프트</style>가 <style=oceania>드디어 출시했습니다</style>!\n\n출시를 기념하여, <style=oceania>Wingspan에 신규 플레이어 초상화 3종을 추가했습니다</style>. 일체형 잠옷을 입은 토스트 드래곤, 그리핀, 그리고 식물 드래곤이며 전부 무료입니다. 플레이어 프로필 설정에서 확인하실 수 있습니다!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "<style=oceania>Flamecraft</style>, наша нова гра про драконів-ремісників і магічні крамниці, <style=oceania>нарешті вийшла</style>!\n \n На честь цієї події <style=oceania>ми додаємо до Wingspan три нові портрети гравців</style>, безкоштовні для всіх: хлібного дракона в комбінезоні, грифуна та рослинного дракона. Ви знайдете їх у налаштуваннях профілю гравця!"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 817,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Check out Flamecraft today with <style=oceania>a special launch discount!</style> "
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Sprawdźcie Flamecraft już dziś i skorzystajcie ze <style=oceania>specjalnej zniżki z okazji premiery!</style>"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Sichere dir Flamecraft heute mit einem <style=oceania>besonderen Rabatt zur Veröffentlichung!</style>"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Découvrez Flamecraft dès aujourd'hui grâce à <style=oceania>une offre spéciale de lancement !</style>"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Haceos con Flamecraft hoy mismo con <style=oceania>un descuento especial de lanzamiento</style>!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Confira Flamecraft hoje com um <style=oceania>desconto especial de lançamento!</style>"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "<style=oceania>特別ローンチ割引中</style>の『Flamecraft』を今すぐチェックしましょう！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Попробуйте Flamecraft уже сегодня со <style=oceania>специальной скидкой при запуске</style>!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "现在就来看看《龙焰魔法镇》吧，<style=oceania>还可享受上线超值折扣！</style>"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "現在就來看看《龍焰魔法鎮》吧，<style=oceania>還可享受上線超值折扣！</style>"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Vieni a scoprire Flamecraft oggi stesso con uno <style=oceania>sconto speciale per il lancio!</style>"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "오늘 플레임크래프트를 확인하시고 <style=oceania>특별 출시 할인을 받으세요!</style>"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Зіграйте у Flamecraft вже сьогодні зі <style=oceania>спеціальною знижкою на честь релізу!</style>"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 128,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Check out Flamecraft today!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Zagraj w Flamecraft już teraz!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Sichere dir Flamecraft heute!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Découvrez Flamecraft dès aujourd'hui !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Haceos con Flamecraft hoy mismo!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Confira Flamecraft hoje!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "今すぐ『Flamecraft』をプレイしましょう！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Попробуйте Flamecraft уже сегодня!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "现在就来看看《龙焰魔法镇》吧！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "現在就來看看《龍焰魔法鎮》吧！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Vieni a scoprire Flamecraft oggi stesso!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "오늘 플레임크래프트를 확인하세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Зіграйте у Flamecraft вже сьогодні!"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 0,
+                    "PlatformsToShowOn": 257,
+                    "Value": "https://store.steampowered.com/app/3201730/Flamecraft/",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Play Flamecraft Now!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Zagraj w Flamecraft już teraz!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Jetzt Flamecraft spielen!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Jouez à Flamecraft !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Jugar a Flamecraft!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Jogue Flamecraft agora!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "今すぐ『Flamecraft』をプレイしましょう！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Играйте во Flamecraft!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "立即游玩《龙焰魔法镇》！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "立即遊玩《龍焰魔法鎮》！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Gioca ora a Flamecraft!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "지금 플레임크래프트를 플레이하세요!"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Грати у Flamecraft!"
                             }
                         ]
                     }
