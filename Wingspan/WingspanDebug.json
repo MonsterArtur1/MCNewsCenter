@@ -8942,8 +8942,8 @@
             "PlatformsToShowOn": 261,
             "StartDateTicks": 639262368000000000,
             "EndDateTicks": 639262368000000000,
-            "Priority": 1,
-            "IsPinned": false,
+            "Priority": 2,
+            "IsPinned": true,
             "PresetImageName": "Events3",
             "RemoteImageName": "",
             "Title": {
