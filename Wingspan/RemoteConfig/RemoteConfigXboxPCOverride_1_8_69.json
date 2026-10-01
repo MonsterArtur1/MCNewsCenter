@@ -1,21 +1,16 @@
 {
   "LocalDisabledBirds": [],
   "OnlineDisabledBirds": [],
-  "IsSeasonPassEnabled": true,
   "SaveAsLocal": true,
+  "IsSeasonPassEnabled": true,
   "LiveServerOverrides": [{
-      "PlatformName": "Gog_win",
-      "BuildVersion": 9999,
-      "ServerID": 1
-    },
-    {
-      "PlatformName": "Gog_mac",
+      "PlatformName": "Xbox_PC",
       "BuildVersion": 9999,
       "ServerID": 1
     }],
   "DLCs": [{
       "DlcKey": "FP_BoCE_DLC",
-      "IsPublished": false
+      "IsPublished": true
     }
   ]
 }

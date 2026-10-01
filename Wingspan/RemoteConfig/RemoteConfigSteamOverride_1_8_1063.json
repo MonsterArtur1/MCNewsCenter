@@ -2,9 +2,13 @@
   "LocalDisabledBirds": [],
   "OnlineDisabledBirds": [],
   "IsSeasonPassEnabled": true,
-  "SaveAsLocal": true,
   "LiveServerOverrides": [{
-      "PlatformName": "iOS",
+      "PlatformName": "Steam_win",
+      "BuildVersion": 9999,
+      "ServerID": 1
+    },
+    {
+      "PlatformName": "Steam_mac",
       "BuildVersion": 9999,
       "ServerID": 1
     }],
@@ -15,19 +19,19 @@
     },
 	  {
       "DlcKey": "MOBILE_BUNDLE_DLCS",
-      "IsPublished": true
+      "IsPublished": false
     },
 	  {
       "DlcKey": "MOBILE_BUNDLE_DELUXE",
-      "IsPublished": true
+      "IsPublished": false
     },
 	  {
       "DlcKey": "MOBILE_BUNDLE_DECORATIVES",
-      "IsPublished": true
+      "IsPublished": false
     },
     {
-      "DlcKey": "FP_BoCE_DLC",
-      "IsPublished": false
+    "DlcKey": "FP_BoCE_DLC",
+    "IsPublished": true
     }
   ]
 }
