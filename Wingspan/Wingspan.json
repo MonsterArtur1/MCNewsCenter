@@ -8748,70 +8748,70 @@
             ]
         },
         {
-            "ID": "c4c421a1-4157-45e6-8e38-313ed438a9ce",
+            "ID": "9a62461e-bb5a-4444-a0c3-690f89353392",
             "Tags": [
-                "Online"
+                "NewContent"
             ],
             "PlatformsToShowOn": 1023,
-            "StartDateTicks": 639254592000000000,
-            "EndDateTicks": 639257022000000000,
+            "StartDateTicks": 639264711000000000,
+            "EndDateTicks": 946391904000000000,
             "Priority": 2,
-            "IsPinned": false,
-            "PresetImageName": "Online",
-            "RemoteImageName": "",
+            "IsPinned": true,
+            "PresetImageName": "",
+            "RemoteImageName": "WS_NewsCenter_FAQ.png",
             "Title": {
                 "LocalizedTexts": [
                     {
                         "Language": "en",
-                        "Text": "Online Maintenance"
+                        "Text": "FAQ Bird powers & rules "
                     },
                     {
                         "Language": "pl",
-                        "Text": "Konserwacja trybu online"
+                        "Text": "FAQ Zdolności ptaków i i zasady gry"
                     },
                     {
                         "Language": "de",
-                        "Text": "Online-Wartungsarbeiten"
+                        "Text": "FAQ – Vogelfähigkeiten und Regeln"
                     },
                     {
                         "Language": "fr",
-                        "Text": "Maintenance en ligne"
+                        "Text": "FAQ : pouvoirs d'oiseau et règles "
                     },
                     {
                         "Language": "es",
-                        "Text": "Mantenimiento en línea"
+                        "Text": "Preguntas y respuestas: reglas y poderes de ave"
                     },
                     {
                         "Language": "pt-BR",
-                        "Text": "Manutenção online"
+                        "Text": "Perguntas Frequentes - Poderes das Aves e Regras"
                     },
                     {
                         "Language": "ja",
-                        "Text": "オンラインメンテナンス"
+                        "Text": "FAQ：鳥の能力&ルール"
                     },
                     {
                         "Language": "ru",
-                        "Text": "Технические работы над онлайн-режимом"
+                        "Text": "FAQ: свойства птиц и правила"
                     },
                     {
                         "Language": "zh",
-                        "Text": "在线维护"
+                        "Text": "FAQ：鸟类能力&规则"
                     },
                     {
                         "Language": "zh-Hant",
-                        "Text": "在線維護"
+                        "Text": "FAQ：鳥類能力&規則"
                     },
                     {
                         "Language": "it",
-                        "Text": "Manutenzione online"
+                        "Text": "Domande frequenti sulle abilità degli uccelli e sulle regole"
                     },
                     {
                         "Language": "ko",
-                        "Text": "온라인 점검"
+                        "Text": "새의 능력과 규칙에 대한 자주 묻는 질문"
                     },
                     {
                         "Language": "uk",
-                        "Text": "Технічні роботи на серверах"
+                        "Text": "Часті запитання: властивості птахів та правила "
                     }
                 ]
             },
@@ -8819,55 +8819,55 @@
                 "LocalizedTexts": [
                     {
                         "Language": "en",
-                        "Text": "Working on your online experience so you can fly with no struggles."
+                        "Text": "FAQ Bird powers & rules "
                     },
                     {
                         "Language": "pl",
-                        "Text": "Pracujemy nad Waszym doświadczeniem online, aby wasz lot przebiegał bez przeszkód."
+                        "Text": "FAQ Zdolności ptaków i i zasady gry"
                     },
                     {
                         "Language": "de",
-                        "Text": "Wir verbessern dein Online-Erlebnis, damit du problemlos durch die Lüfte schnellen kannst."
+                        "Text": "FAQ – Vogelfähigkeiten und Regeln"
                     },
                     {
                         "Language": "fr",
-                        "Text": "Nous améliorons votre expérience en ligne afin que vous puissiez voler sans accrocs."
+                        "Text": "FAQ : pouvoirs d'oiseau et règles "
                     },
                     {
                         "Language": "es",
-                        "Text": "Estamos trabajando en tu experiencia en línea para que puedas volar sin sobresaltos."
+                        "Text": "Preguntas y respuestas: reglas y poderes de ave"
                     },
                     {
                         "Language": "pt-BR",
-                        "Text": "Estamos trabalhando para melhorar sua experiência online, para que você possa voar suavemente."
+                        "Text": "Perguntas Frequentes - Poderes das Aves e Regras"
                     },
                     {
                         "Language": "ja",
-                        "Text": "快適にオンラインプレイがご利用いただけるよう、作業を行っています。"
+                        "Text": "FAQ：鳥の能力&ルール"
                     },
                     {
                         "Language": "ru",
-                        "Text": "Мы работаем над онлайн-режимом, чтобы вы могли летать без проблем."
+                        "Text": "FAQ: свойства птиц и правила"
                     },
                     {
                         "Language": "zh",
-                        "Text": "服务器正在维护，以确保各位之后能够享受正常的联机体验。"
+                        "Text": "FAQ：鸟类能力&规则"
                     },
                     {
                         "Language": "zh-Hant",
-                        "Text": "伺服器正在維護，以確保各位之後能夠享受正常的聯機體驗。"
+                        "Text": "FAQ：鳥類能力&規則"
                     },
                     {
                         "Language": "it",
-                        "Text": "Stiamo lavorando all’esperienza online affinché il tuo volo proceda senza intoppi."
+                        "Text": "Domande frequenti sulle abilità degli uccelli e sulle regole"
                     },
                     {
                         "Language": "ko",
-                        "Text": "어려움 없이 날개짓할 수 있도록 온라인 환경을 개선 중입니다."
+                        "Text": "새의 능력과 규칙에 대한 자주 묻는 질문"
                     },
                     {
                         "Language": "uk",
-                        "Text": "Працюємо над онлайн-грою, щоб ви літали без перешкод."
+                        "Text": "Часті запитання: властивості птахів та правила "
                     }
                 ]
             },
@@ -8878,55 +8878,950 @@
                         "LocalizedTexts": [
                             {
                                 "Language": "en",
-                                "Text": "On September 22 Wingspan servers will undergo maintenance works. During this time, entering online mode will be limited. Maintenance will begin at 11:00 UTC / 13:00CEST / 4:00 PDT and will last for around 8 hours. \n\r\nAs with every online maintenance, please end all your matches before the maintenance and do not start any new ones close to the maintenance hours. Otherwise, there's a risk of losing ongoing games and karma points.\n\r\nLet your fellow birders know about online maintenance, so the process can go smoothly. \n\r\nWe apologize for the inconvenience.\r\n"
+                                "Text": "Here you will find details about certain bird powers and rules that have caused some confusion and weren’t explained in our Tutorials. We will be updating this list with more rules frequently discussed among our players. "
                             },
                             {
                                 "Language": "pl",
-                                "Text": "W dniu 22 września serwery Na Skrzydłach zostaną poddane pracom konserwacyjnym. W tym czasie, wejście do trybu online będzie ograniczone. Prace rozpoczną się o 13:00 i będą trwały 8 godzin. \n\r\nJak przy wszystkich dotychczasowych pracach konserwacyjnych, prosimy, zakończcie swoje mecze przed rozpoczęciem konserwacji i nie zaczynajcie żadnych nowych rozgrywek w okolicy czasu rozpoczęcia prac. W przeciwnym razie, istnieje ryzyko utracenia trwających rozgrywek a wraz z nimi punktów karmy. \n\r\nDajcie znać znajomym Ptasiarzom o pracach konserwacyjnych trybu online, aby cały proces przebiegł sprawnie. \n\nPrzepraszamy za niedogodności.\r\n"
+                                "Text": "Tutaj znajdziesz wyjaśnienia do niektórych zdolności ptaków oraz zasad, które często budzą wątpliwości i nie znajdziesz ich w Samouczku. Będziemy aktualizować tę listę o kolejne zasady regularnie pojawiające się w dyskusjach naszych graczy."
                             },
                             {
                                 "Language": "de",
-                                "Text": "Am 22.09.2026 werden die Server von Wingspan (Flügelschlag) gewartet. Während der Wartungsarbeiten ist der Online-Modus nicht verfügbar. Die Wartungsarbeiten beginnen um 11:00 UTC / 13:00CEST / 4:00 PDT und dauern etwa 8 Stunden.\r\n\r\nWie bei jeder Serverwartung gilt: Bitte beende all deine Spiele vorher und beginne keine neuen kurz davor. Ansonsten können der Fortschritt laufender Spiele und Karmapunkte verloren gehen.\n\r\nInformiere andere Vogelfreunde über die Wartungsarbeiten, damit sie ohne Schwierigkeiten vonstattengehen.\r\n\r\nWir entschuldigen uns für die Unannehmlichkeiten.\r\n"
+                                "Text": "Hier findest du mehr Informationen über bestimmte Vogelfähigkeiten und Regeln, die für Verwirrung gesorgt haben und in unseren Anleitungen nicht erklärt werden. Wir werden diese Liste aktuell halten, indem wir weitere Regeln aufnehmen, die häufig in Spielerkreisen diskutiert werden. "
                             },
                             {
                                 "Language": "fr",
-                                "Text": "Le 22.09.2026, les serveurs de Wingspan subiront des opérations de maintenance. Le mode en ligne sera alors indisponible. La maintenance commencera à 11:00 UTC / 13:00CEST / 4:00 PDT et durera environ 8 heures. \r\n\r\nComme pour chaque maintenance, merci de mettre fin à tous vos matchs avant le début des opérations et n’en commencez aucun peu de temps avant l’heure de départ. Vous risquez sinon de perdre les parties en cours et vos points de karma.\n\r\nInformez vos proches ornithologues de ces opérations de maintenance afin que tout se passe correctement. \r\n\r\nVeuillez nous excuser de ce désagrément.\r\n"
+                                "Text": "Vous trouverez ici des informations détaillées concernant des pouvoirs d'oiseaux et des règles qui ont suscité une certaine confusion et qui n'ont pas été expliqués dans nos tutoriels. Nous mettrons à jour cette liste en y ajoutant d'autres règles fréquemment évoquées par nos joueurs. "
                             },
                             {
                                 "Language": "es",
-                                "Text": "El 22.09.2026, los servidores de Wingspan se someterá a trabajos de mantenimiento. Durante este periodo de tiempo será imposible acceder al modo en línea. Las labores de mantenimiento comenzarán a las 11:00 UTC / 13:00CEST / 4:00 PDT y durarán al menos 8 horas. \r\n\r\nComo siempre en casos de mantenimiento en línea, terminad vuestras partidas antes de que empiecen estas labores y no comencéis nuevas cerca de la hora a la que van a empezar. De lo contrario, es probable que perdáis las partidas y también puntos de karma.\n\r\nContad al resto de vuestros amigos amantes de los pájaros que tendrán lugar estas labores para que el proceso vaya sobre ruedas.\r\n\r\nNos disculpamos por las molestias.\r\n"
+                                "Text": "Aquí tienes información sobre algunos poderes de ave y reglas que han generado cierta confusión y que no se explicaban en los tutoriales. Actualizaremos la lista con aquellas reglas que más se debatan entre los jugadores. "
                             },
                             {
                                 "Language": "pt-BR",
-                                "Text": "Em 22.09.2026, os servidores Wingspan passarão por manutenção. Durante esse período não será possível acessar o modo online. A manutenção começará em 11:00 UTC / 13:00CEST / 4:00 PDT e durará cerca de 8 horas.\r\n\r\nComo em toda manutenção online, encerre todas as suas partidas antes da manutenção e não inicie nenhuma nova perto do horário de início. Caso contrário, há o risco de perder partidas em andamento e pontos de karma.\n\r\nInforme seus colegas observadores sobre a manutenção online, para que o processo ocorra sem problemas.\r\n\r\nPedimos desculpas pelo inconveniente.\r\n"
+                                "Text": "Aqui você encontrará detalhes sobre alguns poderes das aves e regras que causaram certa confusão e não foram explicados em nossos tutoriais. Atualizaremos esta lista com mais regras que são discutidas com frequência entre nossos jogadores."
                             },
                             {
                                 "Language": "ja",
-                                "Text": "『ウィングスパン』は22.09.2026にメンテナンスを予定しており、その間サーバーが停止となります。メンテナンス中はオンラインモードをご利用いただけませんので、予めご了承ください。メンテナンスは11:00 UTC / 13:00CEST / 4:00 PDTに開始いたします。また、作業時間は8時間を想定しております。\r\n\r\nメンテナンス直前に新たな試合を開始されると、進行中の試合状況やカルマポイントを失う可能性があるため、ご注意ください。\r\n仲間の野鳥観察家の皆様にもぜひお伝えください。\r\n\r\n大変ご迷惑おかけしますが、何卒よろしく申し上げます。\r\n"
+                                "Text": "混乱を引き起こしてきた、チュートリアルで説明がなかったいくつかの鳥の能力とルールの詳細について、こちらで説明します。プレイヤーの間で頻繁に議論されたその他のルールと一緒に、このリストをアップデートします。"
                             },
                             {
                                 "Language": "ru",
-                                "Text": "22.09.2026 на серверах Wingspan будут проводиться технические работы. В это время онлайн-режим будет недоступен. Работы начнутся 11:00 UTC / 13:00CEST / 4:00 PDT и продлятся 8 ч. \r\n\r\nКак обычно при любых технических работах, связанных с онлайн-режимом, завершите все игры до начала работ и не начинайте новые в их преддверии — иначе вы рискуете потерять текущие игры и очки кармы.\r\nПредупредите знакомых игроков о технических работах, чтобы все точно прошло гладко. \r\n\r\nПриносим извинения за доставленные неудобства.\r\n"
+                                "Text": "Здесь мы подробнее расскажем о некоторых свойствах птиц и правилах, которые не попали в обучение и вызвали вопросы у игроков. Список будет пополняться другими правилами, часто вызывающими обсуждение среди игроков. "
                             },
                             {
                                 "Language": "zh",
-                                "Text": "22.09.2026，《展翅翱翔》的服务器将进行维护。期间将无法进行联机游戏。维护于11:00 UTC / 13:00CEST / 4:00 PDT开始，并将持续8小时。 \r\n\r\n和往常的在线维护一样，请在维护开始前结束所有游戏，并避免在维护时间临近时开始新的游戏。否则，可能会丢失正在进行的游戏和缘分点。\r\n如果方便的话，也烦请告知其他鸟类爱好者在线维护的消息，以便维护能顺利进行。\r\n\r\n为您带来不便，深感歉意。\r\n"
+                                "Text": "在这里你可以了解到某些鸟类能力和规则的详细说明，这些内容曾让不少玩家感到困惑，且未在我们的教程中作出解释。我们会不断更新这份清单，加入更多玩家经常讨论的规则。"
                             },
                             {
                                 "Language": "zh-Hant",
-                                "Text": "22.09.2026，《展翅翱翔》的伺服器將進行維護。期間將無法進行聯機遊戲。維護於11:00 UTC / 13:00CEST / 4:00 PDT開始，並將持續8小時。 \r\n\r\n和往常的在線維護一樣，請在維護開始前結束所有遊戲，並避免在維護時間臨近時開始新的遊戲。否則，可能會丟失正在進行的遊戲和緣分點。\r\n如果方便的話，也煩請告知其他鳥類愛好者在線維護的消息，以便維護能順利進行。\r\n\r\n為您帶來不便，深感歉意。\r\n"
+                                "Text": "在這裡你可以了解到某些鳥類能力和規則的詳細說明，這些內容曾讓不少玩家感到困惑，且未在我們的教程中作出解釋。我們會不斷更新這份清單，加入更多玩家經常討論的規則。"
                             },
                             {
                                 "Language": "it",
-                                "Text": "Il giorno 22.09.2026 i server di Wingspan verranno sottoposti a dei lavori di manutenzione. Durante questo periodo, sarà impossibile accedere alla modalità online. La manutenzione avrà inizio alle 11:00 UTC / 13:00CEST / 4:00 PDT e durerà all’incirca 8 ore.\r\n\r\nCome da prassi, ti chiediamo di concludere tutte le partite in corso prima dell’inizio della manutenzione e di non iniziarne di nuove durante i lavori in corso, onde evitare di perdere progressi e punti di Karma.\r\nSpargi la voce con gli altri birdwatcher affinché l’intera procedura avvenga senza intoppi.\r\n\r\nCi scusiamo per l’inconveniente.\r\n"
+                                "Text": "Qui troverai i dettagli di alcune abilità degli uccelli e regole che hanno generato un po' di confusione, poiché non sono state spiegate nei nostri tutorial. Questo elenco verrà aggiornato con le regole discusse più di frequente tra i nostri giocatori."
                             },
                             {
                                 "Language": "ko",
-                                "Text": "22.09.2026에 윙스팬 서버가 점검을 진행합니다. 이 시간 동안 온라인 모드로 플레이할 수 없습니다. 점검은 11:00 UTC / 13:00CEST / 4:00 PDT에 시작되며 약 8시간 동안 지속됩니다.\r\n\r\n모든 온라인 점검과 마찬가지로, 점검 전에 모든 게임을 종료하고 점검 시간에 가까워지면 새로운 게임을 시작하지 마세요. 진행 중인 게임과 카르마 포인트를 잃을 위험이 있습니다.\r\n점검이 원활하게 진행될 수 있도록 동료 탐조가에게 온라인 점검에 대해 알려주세요.\r\n\r\n불편을 드려 죄송합니다.\r\n"
+                                "Text": "여기에서는 튜토리얼에서 설명되지 않아 플레이어에게 혼란을 유발하는 특정 새 능력과, 규칙에 대한 세부 정보를 다룹니다. 이 목록을 앞으로도 업데이트하여 플레이어들이 자주 이야기하는 규칙들을 추가할 예정입니다. "
                             },
                             {
                                 "Language": "uk",
-                                "Text": "22.09.2026 сервери «Крил» пройдуть технічне обслуговування. Поки воно не закінчиться, онлайн-режим буде недоступний. Ремонтні роботи почнуться о 11:00 UTC / 13:00CEST / 4:00 PDT і триватимуть 8 год. (приблизно). \r\n\r\nЯк і завжди в таких ситуаціях, будь ласка, завершіть усі свої матчі до початку робіт і не починайте нових, якщо до обслуговування залишилося мало часу. Інакше ви ризикуєте втратити поточні ігри й очки карми.\r\nПопередьте про техобслуговування своїх друзів, щоб усе минуло без завад. \r\n\r\nМи перепрошуємо за незручності.\r\n"
+                                "Text": "Тут ви знайдете детальну інформацію про деякі властивості та правила птахів, які викликали\r\nплутанину й не були пояснені в наших навчальних матеріалах. Ми доповнюватимемо цей\r\nсписок новими правилами, які часто обговорюють наші гравці."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "<style=card><size=120%><sprite name=\"birdcard\"> Birds</size></style>"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "<style=card><size=120%><sprite name=\"birdcard\">Ptaki</size></style>"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "<style=card><size=120%><sprite name=\"birdcard\"> Vögel</size></style>"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "<style=card><size=120%><sprite name=\"birdcard\"> Oiseaux</size></style>"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "<style=card><size=120%><sprite name=\"birdcard\"> Aves</size></style>"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "<style=card><size=120%><sprite name=\"birdcard\">Aves</size></style>"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "<style=card><size=120%><sprite name=\"birdcard\"> 鳥</size></style>"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "<style=card><size=120%><sprite name=\"birdcard\"> Birds</size></style>"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "<style=card><size=120%><sprite name=\"birdcard\"> 鸟类卡</size></style>"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "<style=card><size=120%><sprite name=\"birdcard\"> 鳥類卡</size></style>"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "<style=card><size=120%><sprite name=\"birdcard\"> Uccelli </size></style>"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "<style=card><size=120%><sprite name=\"birdcard\"> 새</size></style>"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "<style=card><size=120%><sprite name=\"birdcard\"> Птахи</size></style>"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "<style=card>California Scrub Jay</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bousa\">\n<size=130%><b>•</b></size> When another player discards <size=70%><sprite name=\"food_any\"></size>/<sprite name=\"egg\">/<size=70%><sprite name=\"card\"></size> to upgrade an action, cache 1 matching <size=70%><sprite name=\"food_any\"></size> from the supply on, lay that<sprite name=\"egg\"> on, or tuck that <size=70%><sprite name=\"card\"></size> behind this bird, respectively."
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "<style=card>Modrowronka kalifornijska</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bousa\">\n<size=130%><b>•</b></size> Gdy inny gracz odrzuca <size=70%><sprite name=\"food_any\"></size>/<sprite name=\"egg\">/<size=70%><sprite name=\"card\"></size>, żeby wzmocnić akcję siedliska, odpowiednio przechowaj 1 identyczne <size=70%><sprite name=\"food_any\"></size> z zasobów na tej karcie, złóż to<sprite name=\"egg\"> na tej karcie lub wsuń tę <size=70%><sprite name=\"card\"></size> pod tę kartę."
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "<style=card>Kalifornienhäher</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bousa\">\n<size=130%><b>•</b></size> Legt ein Mitspieler <size=70%><sprite name=\"food_any\"></size>/<sprite name=\"egg\">/<size=70%><sprite name=\"card\"></size> ab, um eine Aktion aufzuwerten, dann lagere entsprechend 1 entsprechendes <size=70%><sprite name=\"food_any\"></size> vom Vorrat auf diesem Vogel, lege jenes 1<sprite name=\"egg\"> auf diesen Vogel oder schiebe jene <size=70%><sprite name=\"card\"></size> unter diese Karte."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "<style=card>Geai buissonnier</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bousa\">\n<size=130%><b>•</b></size> Lorsqu'un autre joueur défausse <size=70%><sprite name=\"food_any\"></size>/<sprite name=\"egg\">/<size=70%><sprite name=\"card\"></size> pour améliorer une action, stockez 1 <size=70%><sprite name=\"food_any\"></size> correspondante de la réserve sur cet oiseau, ou pondez cet <sprite name=\"egg\"> sur cet oiseau, ou glissez cette <size=70%><sprite name=\"card\"></size> sous cet oiseau."
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "<style=card>Chara californiana</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bousa\">\n<size=130%><b>•</b></size> Cuando otro jugador descarte <size=70%><sprite name=\"food_any\"></size>/<sprite name=\"egg\">/<size=70%><sprite name=\"card\"></size> para mejorar una acción, almacena 1 <size=70%><sprite name=\"food_any\"></size> que coincida del suministro, pon ese<sprite name=\"egg\"> o solapa esa <size=70%><sprite name=\"card\"></size> bajo esta ave, respectivamente."
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "<style=card>California Scrub Jay</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bousa\">\n<size=130%><b>•</b></size> Quando outro jogador descartar <size=70%><sprite name=\"food_any\"></size>/<sprite name=\"egg\">/<size=70%><sprite name=\"card\"></size> para melhorar uma ação, estoque 1 <size=70%><sprite name=\"food_any\"></size> correspondente do estoque, bote este <sprite name=\"egg\"> ou guarde a <size=70%><sprite name=\"card\"></size> embaixo desta ave, respectivamente."
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "<style=card>アメリカカケス</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bousa\">\n<size=130%><b>•</b></size> 他のプレイヤーが<size=70%><sprite name=\"food_any\"></size>/<sprite name=\"egg\">/<size=70%><sprite name=\"card\"></size>を捨ててアクションをアップグレードした場合、この鳥の上に、共通在庫からそれと同じ<size=70%><sprite name=\"food_any\"></size>を1個蓄えるか、その<sprite name=\"egg\">を産卵するか、その<size=70%><sprite name=\"card\"></size>をそれぞれ差し込む。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "<style=card>Калифорнияская кустарниковая сойка</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bousa\">\n<size=130%><b>•</b></size> Когда другой игрок сбрасывает <size=70%><sprite name=\"food_any\"></size>/<sprite name=\"egg\">/<size=70%><sprite name=\"card\"></size> для улучшения действия, запасите на этой птице 1 фишку того же <size=70%><sprite name=\"food_any\"></size> из общего запаса, или положите на неё это<sprite name=\"egg\">, или подложите под неё эту <size=70%><sprite name=\"card\"></size> соответственно."
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "<style=card>西丛鸦</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bousa\">\n<size=130%><b>•</b></size> 当有另一位玩家弃除<size=70%><sprite name=\"food_any\"></size>/<sprite name=\"egg\">/<size=70%><sprite name=\"card\"></size>来升级行动时，按其弃除的内容，分别从供应堆将1个对应的<size=70%><sprite name=\"food_any\"></size>储存在这张鸟类卡上、在这张鸟类卡上产下该<sprite name=\"egg\">，或将该<size=70%><sprite name=\"card\"></size>塞到这张鸟类卡下方。"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "<style=card>西叢鴉</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bousa\">\n<size=130%><b>•</b></size> 當有另一位玩家棄除<size=70%><sprite name=\"food_any\"></size>/<sprite name=\"egg\">/<size=70%><sprite name=\"card\"></size>來升級行動時，按其棄除的內容，分別從供應堆將1個對應的<size=70%><sprite name=\"food_any\"></size>儲存在這張鳥類卡上、在這張鳥類卡上產下該<sprite name=\"egg\">，或將該<size=70%><sprite name=\"card\"></size>塞到這張鳥類卡下方。"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "<style=card>Ghiandaia occidentale</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bousa\">\n<size=130%><b>•</b></size> Quando un altro giocatore scarta <size=70%><sprite name=\"food_any\"></size>/<sprite name=\"egg\">/<size=70%><sprite name=\"card\"></size> per migliorare un'azione, accantona 1 <size=70%><sprite name=\"food_any\"></size> uguale dalla riserva su questo uccello, deponi quell'<sprite name=\"egg\"> su questo uccello o inserisci quella <size=70%><sprite name=\"card\"></size> sotto questo uccello."
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "<style=card>캘리포니아덤불어치</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bousa\">\n<size=130%><b>•</b></size> 다른 플레이어가 <size=70%><sprite name=\"food_any\"></size>/<sprite name=\"egg\">/<size=70%><sprite name=\"card\"></size>를 버려 행동을 업그레이드 했을 시, 그에 따라 공급처에서 해당 <size=70%><sprite name=\"food_any\"></size> 1개를 이 새 카드에 저장하거나, 해당 <sprite name=\"egg\">을 이 새 카드에 낳거나, 해당 <size=70%><sprite name=\"card\"></size>를 이 새 카드 뒤에 끼워넣는다."
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "<style=card>Сойка каліфорнійська</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bousa\">\n<size=130%><b>•</b></size> Коли інший гравець скидає <size=70%><sprite name=\"food_any\"></size>/<sprite name=\"egg\">/<size=70%><sprite name=\"card\"></size>, щоби зробити більше за свою дію, ви відповідно: запасаєте 1 той самий <size=70%><sprite name=\"food_any\"></size> із запасу на цього птаха, кладете на нього те саме<sprite name=\"egg\"> або підкладаєте ту саму <size=70%><sprite name=\"card\"></size> під цього птаха."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "“Upgrading an action” refers to bonus conversions that are available on some habitat slots. When a player activates a habitat and spends additional resources to gain extra benefits from that habitat (e.g., discards <size=70%><sprite name=\"card\"></size> to gain additional <sprite name=\"food_birdfeeder\"> from the birdfeeder), this bird’s power allows you to take that resource."
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "„Wzmocnienie akcji” odnosi się do dodatkowych akcji dostępnych na niektórych polach siedlisk. Gdy inny gracz aktywuje siedlisko i wydaje dodatkowe zasoby, aby uzyskać z niego więcej korzyści (np. odrzuca <size=70%><sprite name=\"card\"></size>, aby wziąć dodatkową <sprite name=\"food_birdfeeder\"> z karmnika), zdolność tego ptaka pozwala Ci zabrać ten zasób."
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "„Eine Aktion aufwerten“ bezieht sich auf Bonusaktionen, die für manche Lebensraum-Slots verfügbar sind. Wenn ein Spieler einen Lebensraum aktiviert und zusätzliche Ressourcen ausgibt, um weitere Vorteile aus diesem Lebensraum zu ziehen (z. B. wirft er <size=70%><sprite name=\"card\"></size> ab, um zusätzliches <sprite name=\"food_birdfeeder\"> aus dem Vogelhäuschen zu erhalten), erlauben dir die Fähigkeiten dieses Vogels, diese Ressource zu nehmen."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "« Améliorer une action » correspond aux échanges possibles grâce à certains emplacements d'habitat. Lorsqu'un joueur active un habitat et dépense des ressources supplémentaires pour bénéficier d'avantages supplémentaires liés à cet habitat (par exemple, il défausse <size=70%><sprite name=\"card\"></size> pour gagner de la <sprite name=\"food_birdfeeder\"> supplémentaire dans la mangeoire), la capacité de cet oiseau vous permet de récupérer cette ressource."
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Cuando hablamos de «mejorar una acción», nos referimos a las conversiones de bonificación que hay disponibles en algunos espacios de hábitat. Cuando un jugador activa un hábitat y gasta recursos adicionales para obtener beneficios de él (p. ej., descarta <size=70%><sprite name=\"card\"></size> para obtener más <sprite name=\"food_birdfeeder\"> del comedero), el poder del ave permite tomar dicho recurso."
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "“Aprimorar uma ação” refere-se a conversões de bônus disponíveis em alguns espaços de habitat. Quando um jogador ativa um habitat e gasta recursos adicionais para obter benefícios extras desse habitat (por exemplo, descarta <size=70%><sprite name=\"card\"></size> para ganhar <sprite name=\"food_birdfeeder\"> adicionais do comedouro), a habilidade desta ave permite que você pegue esse recurso."
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "「アクションのアップグレード」とは、いくつかの生息地スロットで利用可能なボーナス交換のことを意味しています。プレイヤーが生息地を起動し、追加のリソースを消費してその生息地から追加の利益を獲得する場合（例：<size=70%><sprite name=\"card\"></size>を捨てて、追加の<sprite name=\"food_birdfeeder\">を餌箱から獲得する）、この鳥の能力を使えばそのリソースを入手できます。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "«Улучшением действия» называется бонусный обмен, доступный для некоторых слотов ареалов. Когда игрок активирует ареал и тратит дополнительные ресурсы, чтобы получить больше пользы от этого ареала (например, сбрасывает <size=70%><sprite name=\"card\"></size>, чтобы получить больше <sprite name=\"food_birdfeeder\"> из кормушки), свойство этой птицы позволяет забрать потраченный ресурс."
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "“升级行动”指的是某些栖息地格位上提供的额外转换。当一名玩家激活某片栖息地并花费额外资源来从该栖息地获得额外收益时（例如弃掉 <size=70%><sprite name=\"card\"></size> 以从喂食器额外获得 <sprite name=\"food_birdfeeder\">），这只鸟的能力允许你拿走那份资源。"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "“升級行動”指的是某些棲息地格位上提供的額外轉換。當一名玩家激活某片棲息地並花費額外資源來從該棲息地獲得額外收益時（例如棄掉 <size=70%><sprite name=\"card\"></size> 以從餵食器額外獲得 <sprite name=\"food_birdfeeder\">），這隻鳥的能力允許你拿走那份資源。"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "\"Migliorare un'azione\" fa riferimento ai bonus di conversione disponibili negli slot di alcuni habitat. Quando un giocatore attiva un habitat e spende risorse aggiuntive per ottenere vantaggi extra da quell'habitat (per esempio, scartare <size=70%><sprite name=\"card\"></size> per ottenere <sprite name=\"food_birdfeeder\"> aggiuntivo dalla mangiatoia), l'abilità di questo uccello ti consente di prendere quella risorsa."
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "''행동 업그레이드'란 일부 서식지 칸에서 사용할 수 있는 보너스 전환을 의미합니다. 플레이어가 서식지를 활성화하면서 추가 자원을 소모해 해당 서식지에서 추가 이익을 얻을 때 (예를 들어, <size=70%><sprite name=\"card\"></size>을(를) 버리고 모이통에서 추가 <sprite name=\"food_birdfeeder\"> 획득), 이 새의 능력을 사용하면 그 자원을 가져올 수 있습니다. "
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "«Покращення дії» означає бонусний обмін, доступний на деяких слотах ареалу. Коли гравець активує ареал і витрачає додаткові ресурси, щоб отримати додаткові переваги від цього ареалу (наприклад, скидає <size=70%><sprite name=\"card\"></size>, щоб отримати додатковий <sprite name=\"food_birdfeeder\"> з годівниці), властивість цього птаха дає вам змогу узяти цей ресурс. "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "<style=card>Cetti’s Warbler</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>Eurasian Green Woodpecker</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>Greylag Goose</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<size=130%><b>•</b></size> This bird counts double toward the end-of-round goal if it qualifies for the goal."
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "<style=card>Wierzbówka zwyczajna</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>Dzięcioł zielony</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>Gęgawa</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<size=130%><b>•</b></size> Ten ptak liczy się podwójnie na potrzeby realizacji danego celu, jeśli spełnia jego warunki."
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "<style=card>Seidensänger</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>Grünspecht</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>Graugans</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<size=130%><b>•</b></size> Dieser Vogel zählt für das Rundenziel doppelt (sofern er die Bedingungen des Ziels erfüllt)."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "<style=card>Bouscarle de Cetti</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>Pic vert</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>Oie cendrée</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<size=130%><b>•</b></size> Cet oiseau compte double pour les objectifs de fin de manche, s’il se qualifie pour l’objectif."
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "<style=card>Cetia ruiseñor</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>Carpintero verde europeo</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>Ánsar común</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<size=130%><b>•</b></size> Si esta ave puntúa para los objetivos de final de ronda, cuenta el doble."
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "<style=card>Cetti’s Warbler</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>Eurasian Green Woodpecker</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>Greylag Goose</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<size=130%><b>•</b></size> Esta ave conta dobrado para objetivos de final de rodada, caso ela se qualifique para o objetivo"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "<style=card>ヨーロッパウグイス</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>ヨーロッパアオゲラ</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>ハイイロガン</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<size=130%><b>•</b></size> この鳥はラウンド終了時目的を 計算する際に２枚ぶんとみなす。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "<style=card>Широкохвостая камышовка</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>Зелёный дятел</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>Серый гусь</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<size=130%><b>•</b></size> при подсчёте очков за цели раундов эта птица считается дважды, если соответствует цели."
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "<style=card>宽尾树莺</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>绿啄木鸟</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>灰雁</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<size=130%><b>•</b></size> 如果这张鸟类卡参与到了轮末目标的计算，则在计数时它将被计算两次。"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "<style=card>寬尾樹鶯</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>綠啄木鳥</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>灰雁</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<size=130%><b>•</b></size> 如果這張鳥類卡參與到了輪末目標的計算，則在計數時它將被計算兩次。"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "<style=card>Usignolo di Fiume</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>Picchio Verde</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>Oca Selvatica</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<size=130%><b>•</b></size> Questo uccello conta doppio per gli obiettivi di fine round, se ha i requisiti per l’obiettivo."
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "<style=card>세티휘파람새</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>유라시아청딱따구리</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>회색기러기</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<size=130%><b>•</b></size> 라운드목표 조건에 해당될 경 우, 이 새는 라운드목표를 계산할 때 2배로 간 주된다."
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "<style=card>Очеретянка середземноморська</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>Жовна зелена</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<style=card>Гуска сіра</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"expansion_ee\">\n<size=130%><b>•</b></size> цей птах враховується двічі наприкінці раунду, якщо відповідає його цілі."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "These birds count double toward precisely the end-of-round bonuses that count birds, not\nthose that count other quantities.\nThat means they <style=warning>do not count</style> toward goals like:\n- <sprite name=\"egg\"> in <sprite name=\"habitat_forest\"> \n- <sprite name=\"egg\"> in <sprite name=\"nest_cavity\">\n- Filled columns \n- <size=70%><sprite name=\"food_invertebrate\"></size> in food cost of your birds \n- <sprite name=\"cube\"> on \"play a bird\" \nMeanwhile, they do count toward goals counting birds, provided they qualify, like:\n- Total <sprite name=\"birdcard\"> \n- <sprite name=\"birdcard\"> With no<sprite name=\"egg\">\n- <sprite name=\"nest_cavity\"><sprite name=\"birdcard\"> with<sprite name=\"egg\"> \n- Beak pointing left <sprite=\"FontSpriteAtlasAddOn\" name=\"beak_left\">"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Te ptaki liczą się podwójnie wyłącznie w przypadku celów końca rundy, które zliczają ptaki, a nie inne elementy.\nTo oznacza, że <style=warning>nie liczą się</style> w przypadku celów takich jak:\n- <sprite name=\"egg\"> w <sprite name=\"habitat_forest\"> \n- <sprite name=\"egg\"> w <sprite name=\"nest_cavity\">\n- Zapełnione kolumny \n- <size=70%><sprite name=\"food_invertebrate\"></size> w koszcie twoich ptaków \n- <sprite name=\"cube\"> na \"Zagraj ptaka\" \nNatomiast liczą się w przypadku celów zliczających ptaki (o ile spełniają ich warunki), takich jak:\n- Wszystkie <sprite name=\"birdcard\"> \n- <sprite name=\"birdcard\"> bez<sprite name=\"egg\">\n- <sprite name=\"nest_cavity\"><sprite name=\"birdcard\"> z<sprite name=\"egg\"> \n- Dzioby zwrócone w lewo <sprite=\"FontSpriteAtlasAddOn\" name=\"beak_left\">"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Diese Vögel zählen doppelt für genau jene Boni für Rundenziele, die Vögel zählen,\nnicht für jene, die etwas anderes zählen.\nDas heißt, sie <style=warning>zählen nicht</style> für Ziele wie:\n- <sprite name=\"egg\"> in <sprite name=\"habitat_forest\"> \n- <sprite name=\"egg\"> in <sprite name=\"nest_cavity\">\n- Gefüllte Spalten \n- <size=70%><sprite name=\"food_invertebrate\"></size> in den Futterkosten deiner Vögel \n- <sprite name=\"cube\"> auf „Vogel spielen“ \nSie zählen aber für Ziele, für die Vögel gezählt werden, sofern sie die Voraussetzungen erfüllen, wie:\n- Anzahl <sprite name=\"birdcard\"> \n- <sprite name=\"birdcard\"> Ohne <sprite name=\"egg\">\n- <sprite name=\"nest_cavity\"><sprite name=\"birdcard\"> mit <sprite name=\"egg\"> \n- Schnabel zeigt nach links <sprite=\"FontSpriteAtlasAddOn\" name=\"beak_left\">"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Ces oiseaux comptent double uniquement pour les bonus de fin de manche qui comptabilisent le nombre d'oiseaux, et non\npour ceux qui comptabilisent d'autres éléments.\nCela signifie qu'ils <style=warning>ne comptent pas</style> pour des objectifs tels que :\n- <sprite name=\"egg\"> dans <sprite name=\"habitat_forest\"> \n- <sprite name=\"egg\"> dans <sprite name=\"nest_cavity\">\n- Colonnes remplies \n- <size=70%><sprite name=\"food_invertebrate\"></size> dans le coût en nourriture de vos oiseaux \n- <sprite name=\"cube\"> sur « Jouer un oiseau » \nToutefois, ils comptent bien pour les objectifs liés au nombre d'oiseaux, à condition qu'ils répondent aux critères, par exemple :\n- Nombre total de <sprite name=\"birdcard\"> \n- <sprite name=\"birdcard\"> sans <sprite name=\"egg\">\n- <sprite name=\"nest_cavity\"><sprite name=\"birdcard\"> avec <sprite name=\"egg\"> \n- Bec tourné vers la gauche <sprite=\"FontSpriteAtlasAddOn\" name=\"beak_left\">"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Estas aves cuentan el doble para las bonificaciones de final de ronda que contabilizan las aves, pero no\npara las que contabilizan otras cosas.\nEso quiere decir que <style=warning>no cuentan</style> para objetivos como:\n- <sprite name=\"egg\"> en <sprite name=\"habitat_forest\">. \n- <sprite name=\"egg\"> en <sprite name=\"nest_cavity\">.\n- Columnas llenas. \n- <size=70%><sprite name=\"food_invertebrate\"></size> en el coste de alimento de tus aves. \n- <sprite name=\"cube\"> en «Jugar un ave». \nPero sí cuentan para los objetivos en los que hay que contabilizar aves (siempre que sean aptas), como, por ejemplo:\n- Total de <sprite name=\"birdcard\">. \n- <sprite name=\"birdcard\"> sin <sprite name=\"egg\">.\n- <sprite name=\"nest_cavity\"> de <sprite name=\"birdcard\"> con <sprite name=\"egg\"> \n- Pico apuntando a la izquierda <sprite=\"FontSpriteAtlasAddOn\" name=\"beak_left\">."
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Estas aves contam em dobro para os bônus de final de rodada que levam em conta as aves, e não\naqueles que levam em conta outras quantidades.\nIsso significa que elas <style=warning>não contam</style> para objetivos como:\n- <sprite name=\"egg\"> na <sprite name=\"habitat_forest\"> \n- <sprite name=\"egg\"> em <sprite name=\"nest_cavity\">\n- Colunas preenchidas \n- <size=70%><sprite name=\"food_invertebrate\"></size> no custo de comida das suas aves \n- <sprite name=\"cube\"> em \"jogar uma ave\" \nPor outro lado, elas contam para os objetivos de contagem de aves, desde que se enquadrem nos critérios, como:\n- Total de <sprite name=\"birdcard\"> \n- <sprite name=\"birdcard\"> sem <sprite name=\"egg\">\n- <sprite name=\"nest_cavity\"><sprite name=\"birdcard\"> com <sprite name=\"egg\"> \n- Bico para a esquerda <sprite=\"FontSpriteAtlasAddOn\" name=\"beak_left\">"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "これらの鳥は、鳥をカウントするラウンド終了時ボーナスに対して2回カウントされます。\n（その他の数をカウントするラウンド終了時ボーナスに対してではありません）\nつまり、以下のような目的に対しては<style=warning>カウントされません。</style>\n- <sprite name=\"habitat_forest\">の<sprite name=\"egg\"> \n- <sprite name=\"nest_cavity\">の<sprite name=\"egg\">\n- 埋まったタテ列 \n- あなたの鳥の餌コストの<size=70%><sprite name=\"food_invertebrate\"></size> \n- 「鳥をプレイ」にある<sprite name=\"cube\"> \nその一方で、鳥をカウントする目的に対してはカウントを行ないます（その目的が以下を満たす場合）。\n- <sprite name=\"birdcard\">の合計 \n- <sprite name=\"egg\">を持たない<sprite name=\"birdcard\">\n- <sprite name=\"egg\">を持つ<sprite name=\"nest_cavity\"><sprite name=\"birdcard\"> \n- クチバシが左向き<sprite=\"FontSpriteAtlasAddOn\" name=\"beak_left\">"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "При подсчёте бонусов раунда, для которых подсчитываются птицы, такие птицы считаются за две.\nБонусы, для которых подсчитываются другие параметры, их не учитывают.\nЭто означает, что они <style=warning>не учитываются</style> для подсчёта таких целей, как:\n- <sprite name=\"egg\"> в <sprite name=\"habitat_forest\"> \n- <sprite name=\"egg\"> в <sprite name=\"nest_cavity\">\n- Заполненные колонки \n- <size=70%><sprite name=\"food_invertebrate\"></size> в стоимости розыгрыша ваших птиц \n- <sprite name=\"cube\"> при действии «Сыграть птицу» \nОни учитываются для подсчёта целей, связанных с количеством птиц, если соответствуют их требованиям:\n- Всего <sprite name=\"birdcard\"> \n- <sprite name=\"birdcard\"> без<sprite name=\"egg\">\n- <sprite name=\"nest_cavity\"><sprite name=\"birdcard\"> с<sprite name=\"egg\"> \n- Клюв указывает влево <sprite=\"FontSpriteAtlasAddOn\" name=\"beak_left\">"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "这些鸟仅在统计鸟类数量的回合结束奖励上计为双倍，而不会对统计其他数量的奖励如此。\n也就是说，它们<style=warning>不计入</style>以下目标：\n- <sprite name=\"habitat_forest\"> 中的<sprite name=\"egg\"> \n- <sprite name=\"nest_cavity\"> 中的<sprite name=\"egg\"> \n- 已填满的列\n- 你的鸟的食物成本中的 <size=70%><sprite name=\"food_invertebrate\"></size>\n- 位于“打出鸟类”上的 <sprite name=\"cube\">\n与此同时，只要满足条件，它们会计入统计鸟类的目标，例如：\n- <sprite name=\"birdcard\">总数\n- 没有 <sprite name=\"egg\">的<sprite name=\"birdcard\">\n- 带有 <sprite name=\"egg\">的<sprite name=\"nest_cavity\"><sprite name=\"birdcard\">\n- 喙朝左 <sprite=\"FontSpriteAtlasAddOn\" name=\"beak_left\">"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "這些鳥僅在統計鳥類數量的回合結束獎勵上計為雙倍，而不會對統計其他數量的獎勵如此。\n也就是說，它們<style=warning>不計入</style>以下目標：\n- <sprite name=\"habitat_forest\"> 中的<sprite name=\"egg\"> \n- <sprite name=\"nest_cavity\"> 中的<sprite name=\"egg\"> \n- 已填滿的列\n- 你的鳥的食物成本中的 <size=70%><sprite name=\"food_invertebrate\"></size>\n- 位於“打出鳥類”上的 <sprite name=\"cube\">\n與此同時，只要滿足條件，它們會計入統計鳥類的目標，例如：\n- <sprite name=\"birdcard\">總數\n- 沒有 <sprite name=\"egg\">的<sprite name=\"birdcard\">\n- 帶有 <sprite name=\"egg\">的<sprite name=\"nest_cavity\"><sprite name=\"birdcard\">\n- 喙朝左 <sprite=\"FontSpriteAtlasAddOn\" name=\"beak_left\">"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Questi uccelli contano doppio solo per i bonus di fine round che contano gli uccelli, non\nper quelli che contano altre quantità.\nQuindi, <style=warning>non contano</style> per obiettivi come:\n- <sprite name=\"egg\"> in <sprite name=\"habitat_forest\"> \n- <sprite name=\"egg\"> in <sprite name=\"nest_cavity\">\n- Colonne riempite \n- <size=70%><sprite name=\"food_invertebrate\"></size> nel costo in cibo dei tuoi uccelli \n- <sprite name=\"cube\"> su \"giocare un uccello\" \nContano invece per gli obiettivi che contano gli uccelli, quali, per esempio:\n- <sprite name=\"birdcard\"> totali \n- <sprite name=\"birdcard\"> senza <sprite name=\"egg\">\n- <sprite name=\"birdcard\"><sprite name=\"nest_cavity\"> con <sprite name=\"egg\"> \n- Becco verso sinistra <sprite=\"FontSpriteAtlasAddOn\" name=\"beak_left\">"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "이 새들은 정확히 새의 수를 세는 라운드 종료 보너스에 대해서만 2배로 계산되며,\n다른 수량을 세는 보너스에는 해당하지 않습니다.\n즉 다음과 같은 목표에는 <style=warning>포함되지 않습니다</style>.\n- <sprite name=\"habitat_forest\"> 속의 <sprite name=\"egg\"> \n- <sprite name=\"nest_cavity\"> 속의 <sprite name=\"egg\">\n- 세로줄 채우기 \n- 새 먹이 비용의 <size=70%><sprite name=\"food_invertebrate\"></size> \n- “새 놓기”에 있는 <sprite name=\"cube\"> \n반면, 조건을 충족하는 경우 새의 수를 세는 목표에는 포함됩니다. 예를 들면:\n- 총 <sprite name=\"birdcard\"> \n- <sprite name=\"egg\">이 없는 <sprite name=\"birdcard\">\n- <sprite name=\"egg\">이 있는 <sprite name=\"nest_cavity\"><sprite name=\"birdcard\"> \n- 부리 방향 왼쪽 <sprite=\"FontSpriteAtlasAddOn\" name=\"beak_left\">"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Ці птахи зараховуються подвійно лише для тих бонусів наприкінці раунду, які враховують кількість птахів,\nа не інші показники.\nЦе означає, що вони <style=warning>не зараховуються</style> до цілей на кшталт:\n- <sprite name=\"egg\"> у <sprite name=\"habitat_forest\"> \n- <sprite name=\"egg\"> у <sprite name=\"nest_cavity\">\n- Заповнені стовпчики \n- <size=70%><sprite name=\"food_invertebrate\"></size> у вартості корму птахів \n- <sprite name=\"cube\"> на дію «Зіграти птаха» \nВодночас вони зараховуються для цілей, що враховують птахів (за умови, що вони відповідають вимогам), як-от:\n- Загальна кількість <sprite name=\"birdcard\"> \n- <sprite name=\"birdcard\"> без <sprite name=\"egg\">\n- <sprite name=\"nest_cavity\"><sprite name=\"birdcard\"> з <sprite name=\"egg\"> \n- Дзьоб дивиться ліворуч <sprite=\"FontSpriteAtlasAddOn\" name=\"beak_left\">"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "<style=card>Western Yellow Wagtail</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bb\">\n<size=130%><b>•</b></size> For each bonus card you score for which this bird qualifies, it counts double."
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "<style=card>Pliszka żółta</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bb\">\n<size=130%><b>•</b></size> Ten ptak liczy się podwójnie na potrzeby każdej karty bonusowej, jeśli spełnia jej warunki."
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "<style=card>Schafstelze</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bb\">\n<size=130%><b>•</b></size> Für jede gewertete Bonuskarte, für die dieser Vogel die Bedingungen erfüllt, zählt er doppelt."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "<style=card>Bergeronnette printanière</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bb\">\n<size=130%><b>•</b></size> Pour chaque carte bonus obtenue dont cet oiseau remplit les conditions, elle compte double."
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "<style=card>Lavandera boyera</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bb\">\n<size=130%><b>•</b></size> Esta ave contará el doble por cada carta de bonificación que le afecte con la que puntúes."
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "<style=card>Western Yellow Wagtail</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bb\">\n<size=130%><b>•</b></size> Para cada carta bônus que você pontuar e que se enquadre nos critérios desta ave, ela valerá o dobro."
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "<style=card>ツメナガセキレイ</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bb\">\n<size=130%><b>•</b></size> この鳥が対象の各ボーナスカードのスコアは倍になる。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "<style=card>Жёлтая трясогузка</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bb\">\n<size=130%><b>•</b></size> На каждой вашей карте бонуса, на которой она есть, эта птица считается за две."
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "<style=card>西黄鹡鸰</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bb\">\n<size=130%><b>•</b></size> 对于符合条件的每张奖励卡，此鸟按两次结算。"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "<style=card>西黃鶺鴒</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bb\">\n<size=130%><b>•</b></size> 對於符合條件的每張獎勵卡，此鳥按兩次結算。"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "<style=card>Cutrettola</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bb\">\n<size=130%><b>•</b></size> Questa carta uccello conta doppio per ogni carta bonus di cui soddisfa i requisiti e da cui ottieni punti."
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "<style=card>서양긴발톱할미새</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bb\">\n<size=130%><b>•</b></size> 보너스 카드 점수 조건에 이 새가 포함될 때, 점수를 2배로 간주한다."
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "<style=card>Плиска жовта</style> <sprite=\"FontSpriteAtlasAddOn\" name=\"birdpack_bb\">\n<size=130%><b>•</b></size> Цей птах враховується двічі за кожну карту бонусів, під яку він підходить."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "This bird is doubled only for bonus cards scored during or after the GAME END phase. \nIt counts only toward bonus cards that count birds, not other quantities.\nThis bird <style=warning>does not count</style> toward bonus cards like:\n- Mechanical Engineer: Sets of the 4 nest types.\n- Site Selection Expert: Columns with a matching pair or trio of nests.\n- <Habitat> Population Monitor: Different nest types in <Habitat>.\n- Pellet Dissector: <size=80%><sprite name=\"food_rodent\"></size> and <size=80%><sprite name=\"food_fish\"></size> tokens cached on birds.\n- Endangered Species Protector: Birds that allow you to score or draw bonus cards \n\nWhen you activate this bird’s power during the GAME END phase, you activate it for all of your bonus cards: both the ones you currently have and the ones you might draw later with other GAME END powers."
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Ten ptak liczy się podwójnie tylko w przypadku kart bonusowych punktowanych w trakcie lub po fazie KOŃCA GRY.\nLiczy się wyłącznie w przypadku kart bonusowych zliczających ptaki, a nie inne elementy.\nTen ptak <style=warning>nie liczy się</style> w przypadku kart bonusowych takich jak:\n- Inżynier mechanik: Zestawy 4 typów gniazd.\n- Specjalista od obserwacji: Kolumny z parą lub trójką pasujących gniazd.\n- Obserwator populacji w <siedlisko>: Różne typy gniazd w <siedlisku>.\n- Wnikliwy analityk: <size=80%><sprite name=\"food_rodent\"></size> i <size=80%><sprite name=\"food_fish\"></size> przechowywane na ptakach.\n- Obrońca zagrożonych gatunków: Ptaki, które umożliwiają dobieranie lub zapunktowanie kart bonusowych.\n\nGdy aktywujesz zdolność tego ptaka w fazie KOŃCA GRY, aktywujesz ją dla wszystkich swoich kart bonusowych: zarówno tych, które obecnie posiadasz, jak i tych, które dobierzesz potem dzięki innym zdolnościom KOŃCA GRY."
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Dieser Vogel wird nur für Bonuskarten verdoppelt, die während oder nach der „AM SPIELENDE“-Phase gewertet werden. \nEr zählt nur für Bonuskarten, die Vögel zählen, nicht für andere Anzahlen.\nDieser Vogel <style=warning>zählt nicht</style> für Bonuskarten wie:\n- Maschinenbauer: Sets aus allen 4 Nesttypen.\n- Nistplatz-Experte: Spalten mit 2 oder 3 Nestern des gleichen Typs.\n- <Habitat>-Populationsüberwacher: Verschiedene Nesttypen in <Habitat>.\n- Gewölleanalytiker: Auf Vögeln gelagerte <size=80%><sprite name=\"food_fish\"></size> und <size=80%><sprite name=\"food_fish\"></size> Marker.\n- Beschützer bedrohter Arten: Vögel, die es dir erlauben, Punkte zu sammeln oder Bonuskarten zu ziehen. \n\nWenn du die Fähigkeit dieses Vogels während der „AM SPIELENDE“-Phase aktivierst, aktivierst du sie für alle deine Bonuskarten: die, die du aktuell hast, und die, die du vielleicht später noch mithilfe anderer „AM SPIELENDE“-Fähigkeiten ziehst."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Cet oiseau ne compte double que pour les cartes bonus marquées pendant ou après la phase FIN DE LA PARTIE. \nIl ne compte que pour les cartes bonus qui comptabilisent des oiseaux, et non pour celles qui comptabilisent d'autres éléments.\nCet oiseau <style=warning>ne compte pas</style> pour les cartes bonus telles que :\n- Ingénieur mécanique : séries de nids de 4 types différents.\n- Expert en choix d'emplacement : colonnes avec deux ou trois nids du même type.\n- <Habitat> Suivi démographique : différents types de nids dans <Habitat>.\n- Dissection : jetons <size=80%><sprite name=\"food_fish\"></size> et <size=80%><sprite name=\"food_fish\"></size> stockés sur vos oiseaux.\n- Protecteur des espèces menacées : oiseaux qui vous permettent de marquer des points ou de piocher des cartes bonus \n\nLorsque vous activez le pouvoir de cet oiseau pendant la phase FIN DE LA PARTIE, vous l'activez pour toutes vos cartes bonus, aussi bien celles que vous possédez actuellement que celles que vous pourriez piocher plus tard grâce à d'autres pouvoirs de FIN DE PARTIE."
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Esta ave cuenta el doble solo para las cartas de bonificación puntuadas durante o después de la fase AL FINAL DE LA PARTIDA. \nCuenta solo de cara a las cartas de bonificación que contabilizan aves, no otras cosas.\nEsta ave <style=warning>no cuenta</style> para las cartas de bonificación como:\n- Ingeniero mecánico: conjuntos de los 4 tipos de nido.\n- Experto en ubicaciones: columnas con una pareja o trío de nidos iguales.\n- <Habitat> Experto en censo: diferentes tipos de nido en <Habitat>.\n- Examinador de deposiciones: fichas de <size=80%><sprite name=\"food_fish\"></size> y <size=80%><sprite name=\"food_rodent\"></size> almacenadas en aves.\n- Protector de especies en peligro: aves que permiten puntuar o robar cartas de bonificación. \n\nCuando activas el poder de esta ave AL FINAL DE LA PARTIDA, lo haces para todas tus cartas de bonificación: tanto las que tienes en ese momento como las que puedas robar después con otros poderes AL FINAL DE LA PARTIDA."
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Esta ave é duplicada apenas para cartas bônus pontuadas durante ou após a fase de FIM DE JOGO. \nConta apenas para cartas bônus que contabilizam aves, não outras quantidades.\nEsta ave <style=warning>não conta</style> para cartas bônus como:\n- Engenheiro Mecânico: grupos de 4 tipos de ninho.\n- Especialista em Seleção de Local: colunas com um par ou trio de ninhos iguais.\n- <Habitat>Monitor de População: tipos diferentes de ninhos em <Habitat>.\n- Dissecador de Pelotas: <size=80%><sprite name=\"food_fish\"></size> e <size=80%><sprite name=\"food_fish\"></size> estocados nas aves.\n- Protetor de Espécies Ameaçadas: aves que permitem pontuar ou comprar cartas bônus. \n\nAo ativar o poder desta ave durante a fase de FIM DE JOGO, você o ativa para todas as suas cartas bônus: tanto as que você já possui quanto as que vier a comprar posteriormente com outros poderes de FIM DE JOGO. "
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "この鳥は、ゲーム終了フェイズの間または後にスコアを獲得したボーナスカードに対してのみ2倍となります。 \nこれは鳥をカウントするボーナスカードに対してのみカウントされます。その他の数は参照しません。\nこの鳥は、以下のようなボーナスカードに対しては<style=warning>カウントされません</style>。\n- 機械技師：4種類の巣のセットの数。\n- 鳥の巣専門家：同じ種類の巣が2つ以上あるタテ列。\n- <Habitat> 鳥類生息数調査員：<Habitat>に住む鳥カードの巣の種類。\n- ペリット解剖者：鳥に蓄えた<size=80%><sprite name=\"food_fish\"></size>と<size=80%><sprite name=\"food_fish\"></size>トークンの個数。\n- 絶滅危惧種保護者：ボーナスカードのスコアを獲得できる、またはボーナスカードを引ける鳥 \n\nこの鳥の能力をゲーム終了フェイズの間に起動すると、全てのボーナスカードに対してその能力を起動します：現在所持中のものと、その他のゲーム終了時能力で引く可能性があるものの両方です。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Эта птица считается за две только для карт бонусов, которые подсчитываются во время или после фазы «В конце игры». \nОна учитывается только для тех карт бонусов, для которых подсчитываются птицы, а не другие параметры.\nЭта птица <style=warning>не учитывается</style> для таких карт бонусов, как:\n- Инженер-механик: наборы из 4 типов гнёзд.\n- Эксперт по размещению: колонки с 2 или 3 гнёздами одного типа.\n- Наблюдатель за <Habitat> популяцией: разные типы гнёзд в <Habitat>.\n- Исследователь погадок: <size=80%><sprite name=\"food_fish\"></size> и жетоны <size=80%><sprite name=\"food_fish\"></size>, запасённые на птицах.\n- Защитник исчезающих видов: птицы, которые приносят очки или позволяют брать карты бонусов. \n\nЕсли активировать свойство этой птицы в фазе «В конце игры», оно будет действовать для всех ваших карт бонусов — как тех, которые у вас уже есть, так и тех, которые вы можете взять позже с помощью других свойств «Конец игры»."
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "这只鸟仅在“游戏结束”阶段或其后计分的奖励卡上计为双倍。\n它只计入统计鸟类的奖励卡，而不计入统计其他数量的奖励卡。\n这只鸟<style=warning>不计入</style>以下奖励卡：\n- 机械工程师：4 种巢类型的成套组合。\n- 选址专家：包含一对或三张相同巢的列。\n- <Habitat>种群监测员：<Habitat>中不同类型的巢。\n- 食茧解剖师：储存在鸟身上的 <size=80%><sprite name=\"food_fish\"></size> 和 <size=80%><sprite name=\"food_fish\"></size> 标记。\n- 濒危物种保卫者：让你能够结算或抽取奖励卡的鸟类\n\n当你在“游戏结束”阶段激活这只鸟的能力时，你会为你的所有奖励卡激活该能力：既包括你当前拥有的奖励卡，也包括你之后可能通过其他游戏结束阶段能力抽到的奖励卡。"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "這隻鳥僅在“遊戲結束”階段或其後計分的獎勵卡上計為雙倍。\n它只計入統計鳥類的獎勵卡，而不計入統計其他數量的獎勵卡。\n這隻鳥<style=warning>不計入</style>以下獎勵卡：\n- 機械工程師：4 種巢類型的成套組合。\n- 選址專家：包含一對或三張相同巢的列。\n- <Habitat>種群監測員：<Habitat>中不同類型的巢。\n- 食繭解剖師：儲存在鳥身上的 <size=80%><sprite name=\"food_fish\"></size> 和 <size=80%><sprite name=\"food_fish\"></size> 標記。\n- 瀕危物種保衛者：讓你能夠結算或抽取獎勵卡的鳥類\n\n當你在“遊戲結束”階段激活這隻鳥的能力時，你會為你的所有獎勵卡激活該能力：既包括你當前擁有的獎勵卡，也包括你之後可能通過其他遊戲結束階段能力抽到的獎勵卡。"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Questo uccello conta doppio solo per le carte bonus conteggiate durante o dopo la fase di FINE PARTITA. \nConta solo per le carte bonus che contano gli uccelli, non altre quantità.\nQuesto uccello <style=warning>non conta</style> per le carte bonus come:\n- Ingegnere meccanico: set di 4 tipi di nido.\n- Esperto di selezione del sito: colonne con una coppia o una terna di nidi dello stesso tipo.\n- Osservatore di popolazione nell'habitat <Habitat>: diversi tipi di nido nell'habitat <Habitat>.\n- Analizzatore di mangime: segnalini <size=80%><sprite name=\"food_fish\"></size> e <size=80%><sprite name=\"food_fish\"></size> accantonati sugli uccelli.\n- Protettore di specie in pericolo: uccelli che ti permettono di pescare carte bonus o conteggiare carte bonus per i punti. \n\nQuando attivi l'abilità di questo uccello durante la fase di FINE PARTITA, l'attivi per tutte le tue carte bonus: sia per quelle che possiedi attualmente che per quelle che potresti pescare in seguito con altre abilità di FINE PARTITA."
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "이 새는 게임 종료 단계 중에 또는 그 이후에 점수를 매기는 보너스 카드에 대해서만 2배가 적용됩니다. \n이는 새의 숫자를 세는 보너스 카드에만 해당하며, 다른 수량을 세는 카드에는 해당하지 않습니다.\n이 새는 <style=warning>다음의 보너스 카드</style>에는 포함되지 않습니다.\n- 기계공학자: 둥지 4종류 각각 1개씩.\n- 위치 선정 전문가: 동일한 둥지가 2개/3개 중복되는 세로줄.\n- <Habitat> 개체 모니터: <Habitat>의 다른 둥지 유형.\n- 펠릿 분석가: 새가 저장한 <size=80%><sprite name=\"food_fish\"></size> 및 <size=80%><sprite name=\"food_fish\"></size> 토큰.\n- 멸종위기종 수호자: 득점 또는 보너스 카드를 뽑게 해주는 새들 \n\n게임 종료 단계에서 이 새의 능력을 발동하면, 보너스 카드를 전부 발동합니다. 이때, 현재 보유 중인 카드들과 다른 게임 종료 능력으로 나중에 뽑을 수 있는 카드까지 발동합니다. "
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Цей птах зараховується подвійно лише для карт бонусів, які підраховуються під час або після етапу «Наприкінці гри». \nВін зараховується лише до карт бонусів, які враховують птахів, а не інші показники.\nЦей птах <style=warning>не зараховується</style> для таких карт бонусів, як:\n- Інженер-механік: набори з 4 типів гнізд.\n- Експерт із забудови: колонки, в яких два чи три гнізда — однакового типу.\n- Контроль популяції ареалу <Habitat>: різні типи гнізд в ареалі <Habitat>.\n- Подрібнювач: жетони <size=80%><sprite name=\"food_fish\"></size> і <size=80%><sprite name=\"food_rodent\"></size>, запасені на птахах.\n- Захисник зникаючих видів: птахи, що дозволяють отримувати очки за карти бонусів або брати карти бонусів. \n\nКоли ви активуєте властивість цього птаха наприкінці гри, вона застосовується до всіх ваших карт бонусів: як до тих, які у вас уже є, так і до тих, які ви можете взяти пізніше завдяки іншим властивостям «Наприкінці гри»."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "<style=highlight><size=120%><sprite=\"FontSpriteAtlasAddOn\" name=\"rulebook\"> Rules:</size></style>"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "<style=highlight><size=120%><sprite=\"FontSpriteAtlasAddOn\" name=\"rulebook\"> Zasady:</size></style>"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "<style=highlight><size=120%><sprite=\"FontSpriteAtlasAddOn\" name=\"rulebook\"> Regeln:</size></style>"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "<style=highlight><size=120%><sprite=\"FontSpriteAtlasAddOn\" name=\"rulebook\"> Règles :</size></style>"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "<style=highlight><size=120%><sprite=\"FontSpriteAtlasAddOn\" name=\"rulebook\"> Reglas:</size></style>"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "<style=highlight><size=120%>Regras de <sprite=\"FontSpriteAtlasAddOn\" name=\"rulebook\">:</size></style>"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "<style=highlight><size=120%><sprite=\"FontSpriteAtlasAddOn\" name=\"rulebook\"> ルール：</size></style>"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "<style=highlight><size=120%><sprite=\"FontSpriteAtlasAddOn\" name=\"rulebook\"> Правила:</size></style>"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "<style=highlight><size=120%><sprite=\"FontSpriteAtlasAddOn\" name=\"rulebook\"> 规则：</size></style>"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "<style=highlight><size=120%><sprite=\"FontSpriteAtlasAddOn\" name=\"rulebook\"> 規則：</size></style>"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "<style=highlight><size=120%>Regole <sprite=\"FontSpriteAtlasAddOn\" name=\"rulebook\">:</size></style>"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "<style=highlight><size=120%><sprite=\"FontSpriteAtlasAddOn\" name=\"rulebook\"> 규칙:</size></style>"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "<style=highlight><size=120%>Правила <sprite=\"FontSpriteAtlasAddOn\" name=\"rulebook\">:</size></style>"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>Are some bonus cards missing in online games?</style>\nThree bonus cards are turned off in the matchmaking and custom online games: \n- Anatomist\n- Photographer\n- Cartographer\nThese bonus cards count different birds in different languages. Since the online games often match players from different countries, these bonus cards are excluded to avoid unbalanced play."
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>Czy w grach online brakuje niektórych kart bonusowych?</style>\nTrzy karty bonusowe są wyłączone w grach online - w czasie rzeczywistym i grach własnych:\n- Anatom\n- Fotograf\n- Kartograf\nTe karty bonusowe liczą różne ptaki w zależności od języka gry. Ponieważ gry online często łączą graczy z różnych krajów, karty te zostały wykluczone, aby zapobiec nierównej rozgrywce."
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>Fehlen manche Bonuskarten in Online-Spielen?</style>\nDrei Bonuskarten werden in Spielersuche- und individuellen Online-Spielen deaktiviert: \n– Morphologe\n– Fotograf\n– Geograf\nDiese Bonuskarten zählen in den verschiedenen Sprachen unterschiedliche Vögel. Da bei Online-Spielen häufig Spieler aus verschiedenen Ländern gegeneinander antreten, werden diese Bonuskarten ausgeschlossen, um unausgewogene Spiele zu vermeiden."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>Il semble manquer certaines cartes bonus lors des parties en ligne.</style>\nTrois cartes bonus sont désactivées dans les parties en ligne et les parties personnalisées : \n- Anatomiste\n- Photographe\n- Cartographe\nCes cartes bonus comptabilisent des oiseaux différents selon les langues. Comme les parties en ligne mettent souvent en relation des joueurs de différents pays, ces cartes bonus sont exclues afin d'éviter que les parties soient déséquilibrées."
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>¿Faltan algunas cartas de bonificación en las partidas en línea?</style>\nHay tres cartas de bonificación que están desactivadas en el sistema de emparejamiento y las partidas personalizadas en línea: \n- Anatomista.\n- Fotógrafo.\n- Cartógrafo.\nEstas cartas de bonificación cuentan distintas aves en cada idioma. Como las partidas en línea suelen reunir a jugadores de distintos países, hemos decidido excluirlas para evitar desequilibrios en las partidas."
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>Estão faltando algumas cartas bônus nas partidas online?</style>\nTrês cartas bônus estão desativadas no pareamento e em partidas online personalizadas: \n- Anatomista\n- Fotógrafo\n- Cartógrafo\nEstas cartas bônus contabilizam diferentes aves em diferentes idiomas. Como as partidas online frequentemente reúnem jogadores de vários países, essas cartas bônus são excluídas para evitar desequilíbrios nas partidas."
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>オンラインゲームには存在しないボーナスカードはありますか？</style>\nこれら3種のボーナスカードは、マッチメイキングとカスタムオンラインゲームには登場しません。 \n- 命名者\n- 写真家\n- 地図製作者\nこれらのボーナスカードは、異なる言語では異なる鳥をカウントします。オンラインゲームでは、しばしば異なる国のプレイヤー同士がマッチするため、これらのボーナスカードはゲームバランスが崩れるのを避けるために除外されています。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>В сетевой игре отсутствуют некоторые карты бонусов?</style>\nТри карты бонусов исключены из игры для рейтинговых матчей и пользовательских сетевых игр: \n— Анатом\n— Художник\n— Картограф\nЭти карты бонусов подсчитывают разных птиц на разных языках. Так как в сетевой игре нередко участвуют игроки из разных стран, эти карты бонусов исключаются, чтобы сохранить игровой баланс."
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>在线游戏中是不是缺少了一些奖励卡？</style>\n在匹配对战和自定义在线游戏中，有三张奖励卡被停用：\n- 解剖学家\n- 摄影师\n- 制图师\n这些奖励卡在不同语言中统计的鸟类不同。由于在线游戏经常会把来自不同国家的玩家匹配到一起，为避免影响游戏平衡，这些奖励卡被排除在外。"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>在線遊戲中是不是缺少了一些獎勵卡？</style>\n\n在匹配對戰和自定義在線遊戲中，有三張獎勵卡被停用：\n- 解剖學家\n- 攝影師\n- 製圖師\n這些獎勵卡在不同語言中統計的鳥類不同。由於在線遊戲經常會把來自不同國家的玩家匹配到一起，為避免影響遊戲平衡，這些獎勵卡被排除在外。"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>Ci sono carte bonus assenti nelle partite online?</style>\nNelle partite matchmaking od online personalizzate, sono assenti queste tre carte bonus: \n- Anatomista\n- Fotografo\n- Cartografo\nQueste carte bonus contano uccelli diversi in lingue diverse. Poiché le partite online spesso abbinano giocatori di Paesi diversi, queste carte bonus sono state escluse per bilanciare meglio le partite."
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>보너스 카드 중에 온라인 게임에 안 나오는 카드도 있나요?</style>\n다음의 보너스 카드 3종은 매치메이킹과 커스텀 온라인 게임에서 비활성화 되어 있습니다. \n- 해부학자\n- 사진작가\n- 지도 제작자\n이 보너스 카드들은 언어에 따라 다른 새를 취급합니다. 온라인 게임에서 서로 다른 국가의 플레이어들이 만나는 경우가 많다 보니, 밸런스가 맞지 않는 상황을 피하기 위해 이 보너스 카드들을 제외하고 있습니다."
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>Чи відсутні деякі карти бонусів в онлайн-іграх?</style>\nТри карти бонусів вимкнено в іграх із підбором гравців і власних онлайн-іграх: \n- Анатом\n- Фотограф\n- Картограф\nЦі карти бонусів враховують різних птахів у різних мовах. Оскільки в онлайн-іграх часто грають користувачі з різних країн, ці карти бонусів вилучено, щоб уникнути дисбалансу в грі."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"><style=highlight> I scored the same number of points as another player, but only one of us is titled the winner. Why?</style>\nWhen two players tie in points, the player with more food left in their supply wins."
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"><style=highlight> Zdobyłem tyle samo punktów co inny gracz, ale tylko jeden z nas został zwycięzcą. Dlaczego?</style>\nGdy dwóch graczy remisuje pod względem liczby punktów, wygrywa gracz, któremu zostało więcej pożywienia w zasobach własnych."
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>Ich habe genauso viele Punkte wie ein Mitspieler, aber nur einer von uns wird zum Sieger erklärt. Warum?</style>\nWenn zwei Spieler dieselbe Punktzahl haben, gewinnt der Spieler, der mehr Futter in seinem Vorrat hat."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>J'ai marqué le même nombre de points qu'un autre joueur, mais un seul d'entre nous est déclaré vainqueur. Pourquoi ?</style>\nLorsque deux joueurs ont le même nombre de points, celui qui a le plus de nourriture dans sa réserve l'emporte."
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>He conseguido la misma cantidad de puntos que otro jugador, pero la victoria se le ha atribuido solo a uno de los dos. ¿Por qué?</style>\nCuando empatan dos jugadores en puntos, gana quien tiene más alimento en el suministro."
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>Eu e outro jogador empatamos em número de pontos, mas apenas um de nós foi considerado vencedor. Por quê?</style>\nQuando dois jogadores empatam em pontos, vence o jogador que tiver mais comida restante em seu estoque."
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>他のプレイヤーと同じ数のポイントを獲得しましたが、うち一人だけが勝者の称号を得ました。何故ですか？</style>\n同点のプレイヤーが二人いた場合、手元の在庫により多くの餌が残っていたプレイヤーが勝利します。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>У меня столько же очков, сколько и у другого игрока, но только один из нас считается победителем. Почему?</style>\nЕсли у двух игроков одинаковое количество очков, победителем считается игрок, имеющий больше корма в запасе."
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>我和另一名玩家得分相同，但只有其中一人被评为获胜者。为什么？</style>\n当两名玩家得分相同时，供应区中剩余食物较多的一方获胜。"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>我和另一名玩家得分相同，但只有其中一人被評為獲勝者。為什麼？</style>\n當兩名玩家得分相同時，供應區中剩餘食物較多的一方獲勝。"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>Ho ottenuto lo stesso numero di punti di un altro giocatore, ma solo uno di noi ha vinto. Perché?</style>\nQuando due giocatori ottengono lo stesso numero di punti, vince quello con la maggior quantità di cibo nella propria riserva."
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>다른 플레이어와 동점을 기록했는데, 한 쪽만 승리한 것으로 나왔습니다. 이유가 뭔가요?</style>\n두 플레이어가 동점일 때는 공급처에 음식이 더 많은 플레이어가 승리합니다."
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "<sprite=\"FontSpriteAtlasAddOn\" name=\"tutorial_duet_mark_finished\"> <style=highlight>У мене стільки ж очок, скільки в іншого гравця, але перемогу присудили лише одному з нас. Чому?</style>\nЯкщо двоє гравців набрали однакову кількість очок, перемагає гравець, у якого залишилося більше корму в запасі."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": []
+        },
+        {
+            "ID": "69fe714c-03b7-466a-846d-67879a2e3100",
+            "Tags": [
+                "NewContent"
+            ],
+            "PlatformsToShowOn": 1023,
+            "StartDateTicks": 639264096000000000,
+            "EndDateTicks": 946391904000000000,
+            "Priority": 2,
+            "IsPinned": false,
+            "PresetImageName": "",
+            "RemoteImageName": "Wingspan_BPBOCE.png",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Introducing Wingspan Bird Pack: Birds of Continental Europe!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Przedstawiamy Na Skrzydłach: Ptasia Paczka - Ptaki Europy Kontynentalnej!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Jetzt erhältlich: „Wingspan-Vogelpaket: Vögel aus Kontinentaleuropa“!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Découvrez le Pack Oiseaux d'Europe continentale de Wingspan !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Presentamos el paquete Aves de Europa continental de Wingspan!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Apresentando o Pacote de Aves de Wingspan: Aves da Europa Continental!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『ウイングスパン』バードパック「大陸ヨーロッパの鳥類」が登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Встречайте набор «Птицы континентальной Европы» для «Крыльев»!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "《展翅翱翔》鸟类牌包：欧洲大陆鸟类 正式登场！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "《展翅翱翔》鳥類牌包：歐洲大陸鳥類 正式登場！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Vi presentiamo il Pacchetto di uccelli di Wingspan: Uccelli dell'Europa continentale!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "윙스팬 조류 팩: 유럽 대륙의 새를 소개합니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "До вашої уваги — набір «Крила: Птахи континентальної Європи»!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Wingspan Bird Pack: Birds of Continental Europe is Available Now!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Na Skrzydłach: Ptasia Paczka – Ptaki Europy Kontynentalnej już dostępna!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Das „Wingspan-Vogelpaket: Vögel aus Kontinentaleuropa“ ist jetzt verfügbar!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Le Pack Oiseaux d'Europe continentale de Wingspan est désormais disponible !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Ya está disponible el paquete Aves de Europa continental de Wingspan!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "O Pacote de Aves de Wingspan: Aves da Europa Continental já está disponível!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "『ウイングスパン』バードパック「大陸ヨーロッパの鳥類」が登場！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Набор «Птицы континентальной Европы» для «Крыльев» уже доступен!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "“《展翅翱翔》鸟类牌包：欧洲大陆鸟类”现已上架！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "「《展翅翱翔》鳥類牌包：歐洲大陸鳥類」現已推出！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Il Pacchetto di uccelli di Wingspan: Uccelli dell'Europa continentale è ora disponibile!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "윙스팬 조류 팩: 유럽 대륙의 새를 지금 이용 가능합니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Набір «Крила: Птахи континентальної Європи» вже доступний!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe!\n\nEnhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack.\n\nAdd new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital, and unlock an exclusive player portrait - a stylish Red Fox!\n\nEnjoy the variety of familiar and lesser-known species, each with its own call and charm."
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Rozwiń swoje ptasie sanktuarium dzięki Na Skrzydłach: Ptasia Paczka – Ptaki Europy Kontynentalnej, zawierającej gatunki z całej kontynentalnej Europy!\n\nWraz z pakietem wzbogać swój rezerwat o 25 zaprojektowanych przez fanów kart europejskich ptaków z unikalnymi zdolnościami i wsłuchaj się w ich śpiew.\n\nDodaj do swojej kolekcji nowe ulubione gatunki z różnorodnych europejskich siedlisk, pojawiające się po raz pierwszy w cyfrowej wersji Na Skrzydłach, i odblokuj ekskluzywny portret gracza - stylowego Lisa!\n\nCiesz się różnorodnością zarówno dobrze znanych, jak i mniej popularnych gatunków - każdy z nich wyróżnia się własnym śpiewem i urokiem."
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Erweitere dein Vogelreservat mit dem „Wingspan-Vogelpaket: Vögel aus Kontinentaleuropa“, das Vogelarten vom europäischen Festland umfasst!\n\nErgänze dein Wildtierreservat um 25 von Fans gestaltete Karten typisch europäischer Vögel mit einzigartigen Fähigkeiten, und lausche ihren Gesängen in diesem digitalen Vogelpaket.\n\nBereichere deine Sammlung mit neuen Lieblingen – Vogelarten aus den verschiedensten europäischen Lebensräumen, die es in Wingspan Digital bisher nicht zu sehen gab – und schalte ein besonderes Spielerprofilbild frei.\n\nErfreue dich an der Vielfalt bekannter und weniger bekannter Vogelarten, von denen jede ihren eigenen Gesang und ihren eigenen Charme hat."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Élargissez votre sanctuaire aviaire avec le Pack Oiseaux d'Europe continentale de Wingspan, qui met à l'honneur des espèces provenant de toute l'Europe continentale !\n\nEnrichissez votre volière avec 25 cartes d'oiseaux européens originales, conçues par les fans et dotées de pouvoirs uniques, et écoutez leurs chants dans ce pack d'oiseaux numérique.\n\nAgrémentez votre collection de nouvelles espèces d'oiseaux issues de divers habitats européens jamais vues auparavant dans l'édition numérique de Wingspan et débloquez un portrait exclusif.\n\nDécouvrez toute une variété d'espèces plus ou moins connues et émerveillez-vous face à leurs chants et à leur charme."
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "¡Amplía tu santuario de aves con el paquete Aves de Europa continental de Wingspan, repleto de especies de todo el continente europeo!\n\nMejora tu aviario con 25 cartas de aves de Europa con poderes únicos diseñadas por fans y disfruta de su canto con este paquete de aves digital.\n\nAñade tus nuevas aves favoritas a tu colección con estas especies de diversos hábitats europeos nunca vistas en Wingspan Digital y desbloquea un retrato de jugador exclusivo.\n\nDisfruta de esta mezcla de especies familiares y no tan familiares, cada una de las cuales con su propio canto y encanto."
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Expanda seu santuário de aves com o Pacote de Aves de Wingspan: Aves da Europa Continental, trazendo espécies do continente europeu!\n\nAprimore sua reserva natural com 25 cartas de aves europeias criadas por fãs, cada uma com poderes exclusivos, e ouça seus cantos neste Pacote de Aves digital.\n\nAdicione novas espécies favoritas à sua coleção com aves de vários habitats europeus nunca vistos antes em Wingspan Digital e desbloqueie uma imagem de jogador exclusiva.\n\nAproveite essa mistura de aves familiares e menos conhecidas, cada uma com seu charme."
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "欧州本土の鳥類種をフィーチャーした『ウイングスパン』バードパック「大陸ヨーロッパの鳥類」で、鳥たちの楽園を拡張しましょう！\n\nファンのデザインによるユニークな能力を持つ25種類の特徴的なヨーロッパの鳥カードで、野生動物の保護区を充実させ、デジタルバードパックで新しい鳥たちの歌声を聞きましょう。\n\n『ウイングスパン』デジタル版で初登場の様々なヨーロッパの生息地の鳥の種類をあなたの新しいお気に入りコレクションに加えて、限定プレイヤーポートレイトをアンロックしましょう。\n\nそれぞれが独自の鳴き声や魅力を持つ、様々なお馴染みの種や、あまり知られていない種を観察して楽しみましょう。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Пополните свой заповедник видами с материковой Европы с помощью набора «Птицы континентальной Европы» для «Крыльев»!\n\nС этим созданным фанатами цифровым набором пернатых вы получите 25 карт европейских птиц и сможете насладиться их пением. У всех птиц уникальные свойства.\n\nНайдите новых любимцев из числа птиц европейских ареалов, прежде не летавших по просторам цифровой версии «Крыльев», и откройте эксклюзивный портрет игрока.\n\nПолюбуйтесь на знакомых и малоизвестных пернатых, обладающих своим особым шармом!"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "通过《展翅翱翔》鸟类牌包：欧洲大陆鸟类 中欧洲大陆各地的多种鸟儿们，扩展你的鸟类保护区吧！\n\n通过这款由玩家设计的数字版鸟类牌包，为你的自然保护区加入25张拥有独特能力、风格鲜明的欧洲鸟类卡牌，并聆听它们动人的歌声。\n\n将此前从未在《展翅翱翔》数字版中登场、来自欧洲多样栖息地的新鸟种加入收藏，并解锁专属玩家头像。\n\n欣赏这些耳熟能详或鲜为人知的鸟类吧，每一种都拥有独特的鸣叫与魅力。"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "通過《展翅翱翔》鳥類牌包：歐洲大陸鳥類 中歐洲大陸各地的多種鳥兒們，擴展你的鳥類保護區吧！\n\n通過這款由玩家設計的數位版鳥類牌包，為你的自然保護區加入25張擁有獨特能力、風格鮮明的歐洲鳥類卡牌，並聆聽它們動人的歌聲。\n\n將此前從未在《展翅翱翔》數位版中登場、來自歐洲多樣棲息地的新鳥種加入收藏，並解鎖專屬玩家頭像。\n\n欣賞這些耳熟能詳或鮮為人知的鳥類吧，每一種都擁有獨特的鳴叫與魅力。"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Amplia la tua riserva con il Pacchetto di uccelli di Wingspan: Uccelli dell'Europa continentale, che comprende specie dell'Europa!\n\nMigliora la tua voliera con 25 carte uccello europee inconfondibili con abilità uniche ideate dai fan, e ascolta il loro canto in questo pacchetto di uccelli digitale.\n\nAggiungi nuovi preferiti alla tua raccolta con specie di uccelli provenienti dai diversi habitat europei, mai viste prima nella versione digitale di Wingspan, e sblocca un ritratto del giocatore esclusivo.\n\nGoditi una varietà di specie familiari e meno note, ognuna con il proprio richiamo e fascino."
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "윙스팬 조류 팩: 유럽 대륙의 새'와 함께 유럽 본토에 있는 새들로 여러분의 새 안식처를 확장해보세요!\n\n팬들이 디자인한 25종의 독특한 유럽 새들은 각자 고유한 능력을 가지고 있습니다. 디지털 조류 팩에서 이들의 노랫소리를 들어보세요.\n\n윙스팬 디지털에서 보여준 적 없는 다양한 유럽의 서식지에서 여러분의 컬렉션에 새로운 새들을 추가하고, 고유 플레이어 초상화를 획득하세요.\n\n친숙하면서도 덜 알려진, 각자의 매력을 가진 다양한 새들을 만나보세요."
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Не проґавте дивовижний набір «Крила: Птахи континентальної Європи», у якому міститься розмаїте птаство з усієї материкової Європи!\n\nУрізноманітніть заповідник створеними шанувальниками 25 картами європейських птахів з унікальними властивостями та насолоджуйтеся співом пернатих у цьому цифровому наборі птахів.\n\nДоповніть колекцію новими улюбленцями — птахами з різноманітних регіонів Європи, яких раніше не було в цифровій версії «Крил», а також отримайте ексклюзивний портрет гравця.\n\nПрикрасьте заповідник різноманіттям як знайомих, так і маловідомих видів, кожен із яких вирізняється неповторним співом і шармом."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Pick up the Wingspan: Bird Packs Season Pass to instantly unlock Wingspan: Bird Pack – Birds of Continental Europe and all other available Bird Packs."
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Kup Na Skrzydłach: Ptasie Paczki – Przepustkę Sezonową, aby natychmiast odblokować Na Skrzydłach: Ptasią Paczkę – Ptaki Europy Kontynentalnej oraz wszystkie pozostałe dostępne Ptasie Paczki."
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Schnapp dir den Vogelpaket-Saisonpass für Wingspan und erhalte sofortigen Zugriff auf das „Wingspan-Vogelpaket: Vögel aus Kontinentaleuropa“ sowie alle weiteren verfügbaren Vogelpakete."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Avec le Passe de saison « Packs d'oiseaux » de Wingspan, débloquez instantanément le Pack Oiseaux d'Europe continentale de Wingspan ainsi que tous les autres Packs d'oiseaux disponibles."
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Hazte con el Pase de temporada de paquetes de aves de Wingspan para desbloquear al instante el paquete Aves de Europa continental y el resto de paquetes de aves disponibles."
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Adquira o Wingspan: Passe de Temporada de Pacotes de Aves para desbloquear instantaneamente o Pacote de Aves de Wingspan: Aves da Europa Continental e todos os outros Pacotes de Aves disponíveis."
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "『ウイングスパン』バードパックシーズンパスを入手して、『ウイングスパン』バードパック「大陸ヨーロッパの鳥類」と、現在配信中のその他すべてのバードパックを即座にアンロックしましょう。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Купите сезонный абонемент на наборы птиц для «Крыльев», чтобы сразу получить набор «Птицы континентальной Европы» и все остальные доступные наборы птиц."
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "入手“《展翅翱翔》鸟类牌包季票”，即可立即解锁“《展翅翱翔》鸟类牌包：欧洲大陆鸟类”以及其他所有已上架的鸟类牌包。"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "購買「《展翅翱翔》鳥類牌包賽季通行證」，立即解鎖「《展翅翱翔》鳥類牌包：歐洲大陸鳥類」與其他所有已推出的鳥類牌包。"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Acquista il Pass stagionale dei pacchetti di uccelli di Wingspan per sbloccare immediatamente il Pacchetto di uccelli di Wingspan: Uccelli dell'Europa continentale e tutti gli altri pacchetti di uccelli disponibili."
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "윙스팬: 조류 팩 시즌 패스를 구매해 '윙스팬 조류 팩: 유럽 대륙의 새'와 현재 이용 가능한 다른 모든 조류 팩을 즉시 해제해보세요."
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Придбайте сезонну перепустку «Крила: Набори птахів», щоб миттєво розблокувати набір «Крила: Птахи континентальної Європи» та всі інші доступні набори птахів."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PlatformsToShowOn": 1023,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "You'll also secure all remaining upcoming Bird Packs as they release, growing your collection over time."
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "We ten sposób zagwarantujesz sobie również dostęp do wszystkich pozostałych Ptasich Paczek od razu po ich premierze, poszerzając z czasem swoją kolekcję."
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "So sicherst du dir außerdem alle weiteren Vogelpakete direkt bei ihrer Veröffentlichung und baust deine Sammlung nach und nach aus."
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Cela vous permettra d'obtenir avec certitude tous les Packs d'oiseaux à leur sortie, afin d'accroître votre collection au fil du temps."
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Además, conseguirás todos los paquetes de aves futuros cuando salgan para poder seguir aumentando tu colección con el paso del tiempo."
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Você também garantirá todos os próximos Pacotes de Aves conforme forem lançados, aumentando sua coleção ao longo do tempo."
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "また、今後リリースされる全てのバードパックをリリース時に確実に入手して、徐々にコレクションを拡大できます。"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "С выходом новых наборов ваша коллекция будет пополняться."
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "还将确保能获得即将推出的所有鸟类牌包，随着游戏内容的丰富不断扩展你的收藏。"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "你也會獲得所有後續即將推出的鳥類牌包，讓收藏越來越豐富。"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Riceverai anche tutti i restanti Pacchetti di uccelli in arrivo non appena saranno disponibili, così da arricchire progressivamente la tua raccolta."
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "또한 앞으로 출시 될 나머지 조류팩도 출시되는 대로 모두 받아 컬렉션을 점점 키워갈 수 있습니다."
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Крім того, ви автоматично отримуватимете всі наступні набори птахів одразу після їх виходу, поступово поповнюючи свою колекцію."
                             }
                         ]
                     }
