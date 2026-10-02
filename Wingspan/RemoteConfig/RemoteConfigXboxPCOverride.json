@@ -2,7 +2,6 @@
   "LocalDisabledBirds": [],
   "OnlineDisabledBirds": [],
   "SaveAsLocal": true,
-  "IsSeasonPassEnabled": true,
   "LiveServerOverrides": [{
       "PlatformName": "Xbox_PC",
       "BuildVersion": 9999,
