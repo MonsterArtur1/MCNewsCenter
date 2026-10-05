@@ -3986,7 +3986,7 @@
             "Tags": [
                 "NewContent"
             ],
-            "PlatformsToShowOn": 1023,
+            "PlatformsToShowOn": 2047,
             "StartDateTicks": 638856720000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 1,
@@ -4107,7 +4107,7 @@
             },
             "Content": [
                 {
-                    "PlatformsToShowOn": 1023,
+                    "PlatformsToShowOn": 2047,
                     "Text": {
                         "LocalizedTexts": [
                             {
@@ -6276,7 +6276,7 @@
             "Tags": [
                 "Events"
             ],
-            "PlatformsToShowOn": 1023,
+            "PlatformsToShowOn": 2047,
             "StartDateTicks": 639175104000000000,
             "EndDateTicks": 639187200000000000,
             "Priority": 2,
@@ -6397,7 +6397,7 @@
             },
             "Content": [
                 {
-                    "PlatformsToShowOn": 1023,
+                    "PlatformsToShowOn": 2047,
                     "Text": {
                         "LocalizedTexts": [
                             {
@@ -7273,7 +7273,7 @@
             "Tags": [
                 "NewContent"
             ],
-            "PlatformsToShowOn": 752,
+            "PlatformsToShowOn": 1776,
             "StartDateTicks": 639201024000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 2,
@@ -7459,7 +7459,7 @@
                     }
                 },
                 {
-                    "PlatformsToShowOn": 32,
+                    "PlatformsToShowOn": 1056,
                     "Text": {
                         "LocalizedTexts": [
                             {
@@ -7584,7 +7584,7 @@
             "Tags": [
                 "NewContent"
             ],
-            "PlatformsToShowOn": 1023,
+            "PlatformsToShowOn": 2047,
             "StartDateTicks": 639214848000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 1,
@@ -7705,7 +7705,7 @@
             },
             "Content": [
                 {
-                    "PlatformsToShowOn": 1023,
+                    "PlatformsToShowOn": 2047,
                     "Text": {
                         "LocalizedTexts": [
                             {
@@ -7764,7 +7764,7 @@
                     }
                 },
                 {
-                    "PlatformsToShowOn": 1009,
+                    "PlatformsToShowOn": 2033,
                     "Text": {
                         "LocalizedTexts": [
                             {
@@ -7823,7 +7823,7 @@
                     }
                 },
                 {
-                    "PlatformsToShowOn": 1009,
+                    "PlatformsToShowOn": 2033,
                     "Text": {
                         "LocalizedTexts": [
                             {
@@ -8385,7 +8385,7 @@
                 "MonsterCouch",
                 "NewContent"
             ],
-            "PlatformsToShowOn": 945,
+            "PlatformsToShowOn": 1969,
             "StartDateTicks": 639252864000000000,
             "EndDateTicks": 946391904000000000,
             "Priority": 2,
@@ -8506,7 +8506,7 @@
             },
             "Content": [
                 {
-                    "PlatformsToShowOn": 945,
+                    "PlatformsToShowOn": 1969,
                     "Text": {
                         "LocalizedTexts": [
                             {
@@ -8565,7 +8565,7 @@
                     }
                 },
                 {
-                    "PlatformsToShowOn": 817,
+                    "PlatformsToShowOn": 1841,
                     "Text": {
                         "LocalizedTexts": [
                             {
