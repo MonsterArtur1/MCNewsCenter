@@ -231,6 +231,10 @@
 	{
       "DlcKey": "FP_BoCE_DLC",
       "IsPublished": true
+    },
+	{
+      "DlcKey": "FP_BoUSA_DLC",
+      "IsPublished": false
     }
   ],
   "Portraits": [
