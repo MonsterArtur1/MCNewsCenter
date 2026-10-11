@@ -9291,55 +9291,55 @@
                         "LocalizedTexts": [
                             {
                                 "Language": "en",
-                                "Text": "This bird is doubled only for bonus cards scored during or after the GAME END phase. \nIt counts only toward bonus cards that count birds, not other quantities.\nThis bird <style=warning>does not count</style> toward bonus cards like:\n- Mechanical Engineer: Sets of the 4 nest types.\n- Site Selection Expert: Columns with a matching pair or trio of nests.\n- <Habitat> Population Monitor: Different nest types in <Habitat>.\n- Pellet Dissector: <size=80%><sprite name=\"food_rodent\"></size> and <size=80%><sprite name=\"food_fish\"></size> tokens cached on birds.\n- Endangered Species Protector: Birds that allow you to score or draw bonus cards \n\nWhen you activate this bird’s power during the GAME END phase, you activate it for all of your bonus cards: both the ones you currently have and the ones you might draw later with other GAME END powers."
+                                "Text": "This bird is doubled only for bonus cards scored during or after the GAME END phase. \nIt counts only toward bonus cards that count birds, not other quantities.\nThis bird <style=warning>does not count</style> toward bonus cards like:\n- Mechanical Engineer: Sets of the 4 nest types.\n- Site Selection Expert: Columns with a matching pair or trio of nests.\n- <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\"> Population Monitor: Different nest types in <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">.\n- Pellet Dissector: <size=80%><sprite name=\"food_rodent\"></size> and <size=80%><sprite name=\"food_fish\"></size> tokens cached on birds.\n- Endangered Species Protector: Birds that allow you to score or draw bonus cards \n\nWhen you activate this bird’s power during the GAME END phase, you activate it for all of your bonus cards: both the ones you currently have and the ones you might draw later with other GAME END powers."
                             },
                             {
                                 "Language": "pl",
-                                "Text": "Ten ptak liczy się podwójnie tylko w przypadku kart bonusowych punktowanych w trakcie lub po fazie KOŃCA GRY.\nLiczy się wyłącznie w przypadku kart bonusowych zliczających ptaki, a nie inne elementy.\nTen ptak <style=warning>nie liczy się</style> w przypadku kart bonusowych takich jak:\n- Inżynier mechanik: Zestawy 4 typów gniazd.\n- Specjalista od obserwacji: Kolumny z parą lub trójką pasujących gniazd.\n- Obserwator populacji w <siedlisko>: Różne typy gniazd w <siedlisku>.\n- Wnikliwy analityk: <size=80%><sprite name=\"food_rodent\"></size> i <size=80%><sprite name=\"food_fish\"></size> przechowywane na ptakach.\n- Obrońca zagrożonych gatunków: Ptaki, które umożliwiają dobieranie lub zapunktowanie kart bonusowych.\n\nGdy aktywujesz zdolność tego ptaka w fazie KOŃCA GRY, aktywujesz ją dla wszystkich swoich kart bonusowych: zarówno tych, które obecnie posiadasz, jak i tych, które dobierzesz potem dzięki innym zdolnościom KOŃCA GRY."
+                                "Text": "Ten ptak liczy się podwójnie tylko w przypadku kart bonusowych punktowanych w trakcie lub po fazie KOŃCA GRY.\nLiczy się wyłącznie w przypadku kart bonusowych zliczających ptaki, a nie inne elementy.\nTen ptak <style=warning>nie liczy się</style> w przypadku kart bonusowych takich jak:\n- Inżynier mechanik: Zestawy 4 typów gniazd.\n- Specjalista od obserwacji: Kolumny z parą lub trójką pasujących gniazd.\n- Obserwator populacji w <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">: Różne typy gniazd w <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">.\n- Wnikliwy analityk: <size=80%><sprite name=\"food_rodent\"></size> i <size=80%><sprite name=\"food_fish\"></size> przechowywane na ptakach.\n- Obrońca zagrożonych gatunków: Ptaki, które umożliwiają dobieranie lub zapunktowanie kart bonusowych.\n\nGdy aktywujesz zdolność tego ptaka w fazie KOŃCA GRY, aktywujesz ją dla wszystkich swoich kart bonusowych: zarówno tych, które obecnie posiadasz, jak i tych, które dobierzesz potem dzięki innym zdolnościom KOŃCA GRY."
                             },
                             {
                                 "Language": "de",
-                                "Text": "Dieser Vogel wird nur für Bonuskarten verdoppelt, die während oder nach der „AM SPIELENDE“-Phase gewertet werden. \nEr zählt nur für Bonuskarten, die Vögel zählen, nicht für andere Anzahlen.\nDieser Vogel <style=warning>zählt nicht</style> für Bonuskarten wie:\n- Maschinenbauer: Sets aus allen 4 Nesttypen.\n- Nistplatz-Experte: Spalten mit 2 oder 3 Nestern des gleichen Typs.\n- <Habitat>-Populationsüberwacher: Verschiedene Nesttypen in <Habitat>.\n- Gewölleanalytiker: Auf Vögeln gelagerte <size=80%><sprite name=\"food_fish\"></size> und <size=80%><sprite name=\"food_fish\"></size> Marker.\n- Beschützer bedrohter Arten: Vögel, die es dir erlauben, Punkte zu sammeln oder Bonuskarten zu ziehen. \n\nWenn du die Fähigkeit dieses Vogels während der „AM SPIELENDE“-Phase aktivierst, aktivierst du sie für alle deine Bonuskarten: die, die du aktuell hast, und die, die du vielleicht später noch mithilfe anderer „AM SPIELENDE“-Fähigkeiten ziehst."
+                                "Text": "Dieser Vogel wird nur für Bonuskarten verdoppelt, die während oder nach der „AM SPIELENDE“-Phase gewertet werden. \nEr zählt nur für Bonuskarten, die Vögel zählen, nicht für andere Anzahlen.\nDieser Vogel <style=warning>zählt nicht</style> für Bonuskarten wie:\n- Maschinenbauer: Sets aus allen 4 Nesttypen.\n- Nistplatz-Experte: Spalten mit 2 oder 3 Nestern des gleichen Typs.\n- <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">-bestandswächter: Verschiedene Nesttypen in <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">.\n- Gewölleanalytiker: Auf Vögeln gelagerte <size=80%><sprite name=\"food_fish\"></size> und <size=80%><sprite name=\"food_fish\"></size> Marker.\n- Beschützer bedrohter Arten: Vögel, die es dir erlauben, Punkte zu sammeln oder Bonuskarten zu ziehen. \n\nWenn du die Fähigkeit dieses Vogels während der „AM SPIELENDE“-Phase aktivierst, aktivierst du sie für alle deine Bonuskarten: die, die du aktuell hast, und die, die du vielleicht später noch mithilfe anderer „AM SPIELENDE“-Fähigkeiten ziehst."
                             },
                             {
                                 "Language": "fr",
-                                "Text": "Cet oiseau ne compte double que pour les cartes bonus marquées pendant ou après la phase FIN DE LA PARTIE. \nIl ne compte que pour les cartes bonus qui comptabilisent des oiseaux, et non pour celles qui comptabilisent d'autres éléments.\nCet oiseau <style=warning>ne compte pas</style> pour les cartes bonus telles que :\n- Ingénieur mécanique : séries de nids de 4 types différents.\n- Expert en choix d'emplacement : colonnes avec deux ou trois nids du même type.\n- <Habitat> Suivi démographique : différents types de nids dans <Habitat>.\n- Dissection : jetons <size=80%><sprite name=\"food_fish\"></size> et <size=80%><sprite name=\"food_fish\"></size> stockés sur vos oiseaux.\n- Protecteur des espèces menacées : oiseaux qui vous permettent de marquer des points ou de piocher des cartes bonus \n\nLorsque vous activez le pouvoir de cet oiseau pendant la phase FIN DE LA PARTIE, vous l'activez pour toutes vos cartes bonus, aussi bien celles que vous possédez actuellement que celles que vous pourriez piocher plus tard grâce à d'autres pouvoirs de FIN DE PARTIE."
+                                "Text": "Cet oiseau ne compte double que pour les cartes bonus marquées pendant ou après la phase FIN DE LA PARTIE. \nIl ne compte que pour les cartes bonus qui comptabilisent des oiseaux, et non pour celles qui comptabilisent d'autres éléments.\nCet oiseau <style=warning>ne compte pas</style> pour les cartes bonus telles que :\n- Ingénieur mécanique : séries de nids de 4 types différents.\n- Expert en choix d'emplacement : colonnes avec deux ou trois nids du même type.\n- Suivi des populations d’oiseaux de <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\"> : différents types de nids dans <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">.\n- Dissection : jetons <size=80%><sprite name=\"food_fish\"></size> et <size=80%><sprite name=\"food_fish\"></size> stockés sur vos oiseaux.\n- Protecteur des espèces menacées : oiseaux qui vous permettent de marquer des points ou de piocher des cartes bonus \n\nLorsque vous activez le pouvoir de cet oiseau pendant la phase FIN DE LA PARTIE, vous l'activez pour toutes vos cartes bonus, aussi bien celles que vous possédez actuellement que celles que vous pourriez piocher plus tard grâce à d'autres pouvoirs de FIN DE PARTIE."
                             },
                             {
                                 "Language": "es",
-                                "Text": "Esta ave cuenta el doble solo para las cartas de bonificación puntuadas durante o después de la fase AL FINAL DE LA PARTIDA. \nCuenta solo de cara a las cartas de bonificación que contabilizan aves, no otras cosas.\nEsta ave <style=warning>no cuenta</style> para las cartas de bonificación como:\n- Ingeniero mecánico: conjuntos de los 4 tipos de nido.\n- Experto en ubicaciones: columnas con una pareja o trío de nidos iguales.\n- <Habitat> Experto en censo: diferentes tipos de nido en <Habitat>.\n- Examinador de deposiciones: fichas de <size=80%><sprite name=\"food_fish\"></size> y <size=80%><sprite name=\"food_rodent\"></size> almacenadas en aves.\n- Protector de especies en peligro: aves que permiten puntuar o robar cartas de bonificación. \n\nCuando activas el poder de esta ave AL FINAL DE LA PARTIDA, lo haces para todas tus cartas de bonificación: tanto las que tienes en ese momento como las que puedas robar después con otros poderes AL FINAL DE LA PARTIDA."
+                                "Text": "Esta ave cuenta el doble solo para las cartas de bonificación puntuadas durante o después de la fase AL FINAL DE LA PARTIDA. \nCuenta solo de cara a las cartas de bonificación que contabilizan aves, no otras cosas.\nEsta ave <style=warning>no cuenta</style> para las cartas de bonificación como:\n- Ingeniero mecánico: conjuntos de los 4 tipos de nido.\n- Experto en ubicaciones: columnas con una pareja o trío de nidos iguales.\n- Experto en censo <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">: diferentes tipos de nido en <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">.\n- Examinador de deposiciones: fichas de <size=80%><sprite name=\"food_fish\"></size> y <size=80%><sprite name=\"food_rodent\"></size> almacenadas en aves.\n- Protector de especies en peligro: aves que permiten puntuar o robar cartas de bonificación. \n\nCuando activas el poder de esta ave AL FINAL DE LA PARTIDA, lo haces para todas tus cartas de bonificación: tanto las que tienes en ese momento como las que puedas robar después con otros poderes AL FINAL DE LA PARTIDA."
                             },
                             {
                                 "Language": "pt-BR",
-                                "Text": "Esta ave é duplicada apenas para cartas bônus pontuadas durante ou após a fase de FIM DE JOGO. \nConta apenas para cartas bônus que contabilizam aves, não outras quantidades.\nEsta ave <style=warning>não conta</style> para cartas bônus como:\n- Engenheiro Mecânico: grupos de 4 tipos de ninho.\n- Especialista em Seleção de Local: colunas com um par ou trio de ninhos iguais.\n- <Habitat>Monitor de População: tipos diferentes de ninhos em <Habitat>.\n- Dissecador de Pelotas: <size=80%><sprite name=\"food_fish\"></size> e <size=80%><sprite name=\"food_fish\"></size> estocados nas aves.\n- Protetor de Espécies Ameaçadas: aves que permitem pontuar ou comprar cartas bônus. \n\nAo ativar o poder desta ave durante a fase de FIM DE JOGO, você o ativa para todas as suas cartas bônus: tanto as que você já possui quanto as que vier a comprar posteriormente com outros poderes de FIM DE JOGO. "
+                                "Text": "Esta ave é duplicada apenas para cartas bônus pontuadas durante ou após a fase de FIM DE JOGO. \nConta apenas para cartas bônus que contabilizam aves, não outras quantidades.\nEsta ave <style=warning>não conta</style> para cartas bônus como:\n- Engenheiro Mecânico: grupos de 4 tipos de ninho.\n- Especialista em Seleção de Local: colunas com um par ou trio de ninhos iguais.\n- Monitor da população <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">: tipos diferentes de ninhos em <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">.\n- Dissecador de Pelotas: <size=80%><sprite name=\"food_fish\"></size> e <size=80%><sprite name=\"food_fish\"></size> estocados nas aves.\n- Protetor de Espécies Ameaçadas: aves que permitem pontuar ou comprar cartas bônus. \n\nAo ativar o poder desta ave durante a fase de FIM DE JOGO, você o ativa para todas as suas cartas bônus: tanto as que você já possui quanto as que vier a comprar posteriormente com outros poderes de FIM DE JOGO. "
                             },
                             {
                                 "Language": "ja",
-                                "Text": "この鳥は、ゲーム終了フェイズの間または後にスコアを獲得したボーナスカードに対してのみ2倍となります。 \nこれは鳥をカウントするボーナスカードに対してのみカウントされます。その他の数は参照しません。\nこの鳥は、以下のようなボーナスカードに対しては<style=warning>カウントされません</style>。\n- 機械技師：4種類の巣のセットの数。\n- 鳥の巣専門家：同じ種類の巣が2つ以上あるタテ列。\n- <Habitat> 鳥類生息数調査員：<Habitat>に住む鳥カードの巣の種類。\n- ペリット解剖者：鳥に蓄えた<size=80%><sprite name=\"food_fish\"></size>と<size=80%><sprite name=\"food_fish\"></size>トークンの個数。\n- 絶滅危惧種保護者：ボーナスカードのスコアを獲得できる、またはボーナスカードを引ける鳥 \n\nこの鳥の能力をゲーム終了フェイズの間に起動すると、全てのボーナスカードに対してその能力を起動します：現在所持中のものと、その他のゲーム終了時能力で引く可能性があるものの両方です。"
+                                "Text": "この鳥は、ゲーム終了フェイズの間または後にスコアを獲得したボーナスカードに対してのみ2倍となります。 \nこれは鳥をカウントするボーナスカードに対してのみカウントされます。その他の数は参照しません。\nこの鳥は、以下のようなボーナスカードに対しては<style=warning>カウントされません</style>。\n- 機械技師：4種類の巣のセットの数。\n- 鳥の巣専門家：同じ種類の巣が2つ以上あるタテ列。\n- <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">鳥類生息数 調査員：<sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">に住む鳥カードの巣の種類。\n- ペリット解剖者：鳥に蓄えた<size=80%><sprite name=\"food_fish\"></size>と<size=80%><sprite name=\"food_fish\"></size>トークンの個数。\n- 絶滅危惧種保護者：ボーナスカードのスコアを獲得できる、またはボーナスカードを引ける鳥 \n\nこの鳥の能力をゲーム終了フェイズの間に起動すると、全てのボーナスカードに対してその能力を起動します：現在所持中のものと、その他のゲーム終了時能力で引く可能性があるものの両方です。"
                             },
                             {
                                 "Language": "ru",
-                                "Text": "Эта птица считается за две только для карт бонусов, которые подсчитываются во время или после фазы «В конце игры». \nОна учитывается только для тех карт бонусов, для которых подсчитываются птицы, а не другие параметры.\nЭта птица <style=warning>не учитывается</style> для таких карт бонусов, как:\n- Инженер-механик: наборы из 4 типов гнёзд.\n- Эксперт по размещению: колонки с 2 или 3 гнёздами одного типа.\n- Наблюдатель за <Habitat> популяцией: разные типы гнёзд в <Habitat>.\n- Исследователь погадок: <size=80%><sprite name=\"food_fish\"></size> и жетоны <size=80%><sprite name=\"food_fish\"></size>, запасённые на птицах.\n- Защитник исчезающих видов: птицы, которые приносят очки или позволяют брать карты бонусов. \n\nЕсли активировать свойство этой птицы в фазе «В конце игры», оно будет действовать для всех ваших карт бонусов — как тех, которые у вас уже есть, так и тех, которые вы можете взять позже с помощью других свойств «Конец игры»."
+                                "Text": "Эта птица считается за две только для карт бонусов, которые подсчитываются во время или после фазы «В конце игры». \nОна учитывается только для тех карт бонусов, для которых подсчитываются птицы, а не другие параметры.\nЭта птица <style=warning>не учитывается</style> для таких карт бонусов, как:\n- Инженер-механик: наборы из 4 типов гнёзд.\n- Эксперт по размещению: колонки с 2 или 3 гнёздами одного типа.\n- Наблюдатель за <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\"> популяцией: разные типы гнёзд в <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">.\n- Исследователь погадок: <size=80%><sprite name=\"food_fish\"></size> и жетоны <size=80%><sprite name=\"food_fish\"></size>, запасённые на птицах.\n- Защитник исчезающих видов: птицы, которые приносят очки или позволяют брать карты бонусов. \n\nЕсли активировать свойство этой птицы в фазе «В конце игры», оно будет действовать для всех ваших карт бонусов — как тех, которые у вас уже есть, так и тех, которые вы можете взять позже с помощью других свойств «Конец игры»."
                             },
                             {
                                 "Language": "zh",
-                                "Text": "这只鸟仅在“游戏结束”阶段或其后计分的奖励卡上计为双倍。\n它只计入统计鸟类的奖励卡，而不计入统计其他数量的奖励卡。\n这只鸟<style=warning>不计入</style>以下奖励卡：\n- 机械工程师：4 种巢类型的成套组合。\n- 选址专家：包含一对或三张相同巢的列。\n- <Habitat>种群监测员： <Habitat>中不同类型的巢。\n- 食茧解剖师：储存在鸟身上的 <size=80%><sprite name=\"food_fish\"></size> 和 <size=80%><sprite name=\"food_fish\"></size> 标记。\n- 濒危物种保卫者：让你能够结算或抽取奖励卡的鸟类\n\n当你在“游戏结束”阶段激活这只鸟的能力时，你会为你的所有奖励卡激活该能力：既包括你当前拥有的奖励卡，也包括你之后可能通过其他游戏结束阶段能力抽到的奖励卡。"
+                                "Text": "这只鸟仅在“游戏结束”阶段或其后计分的奖励卡上计为双倍。\n它只计入统计鸟类的奖励卡，而不计入统计其他数量的奖励卡。\n这只鸟<style=warning>不计入</style>以下奖励卡：\n- 机械工程师：4 种巢类型的成套组合。\n- 选址专家：包含一对或三张相同巢的列。\n- <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">种群监测员：<sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">中不同类型的巢。\n- 食茧解剖师：储存在鸟身上的 <size=80%><sprite name=\"food_fish\"></size> 和 <size=80%><sprite name=\"food_fish\"></size> 标记。\n- 濒危物种保卫者：让你能够结算或抽取奖励卡的鸟类\n\n当你在“游戏结束”阶段激活这只鸟的能力时，你会为你的所有奖励卡激活该能力：既包括你当前拥有的奖励卡，也包括你之后可能通过其他游戏结束阶段能力抽到的奖励卡。"
                             },
                             {
                                 "Language": "zh-Hant",
-                                "Text": "這隻鳥僅在“遊戲結束”階段或其後計分的獎勵卡上計為雙倍。\n它只計入統計鳥類的獎勵卡，而不計入統計其他數量的獎勵卡。\n這隻鳥<style=warning>不計入</style>以下獎勵卡：\n- 機械工程師：4 種巢類型的成套組合。\n- 選址專家：包含一對或三張相同巢的列。\n- <Habitat>種群監測員： <Habitat>中不同類型的巢。\n- 食繭解剖師：儲存在鳥身上的 <size=80%><sprite name=\"food_fish\"></size> 和 <size=80%><sprite name=\"food_fish\"></size> 標記。\n- 瀕危物種保衛者：讓你能夠結算或抽取獎勵卡的鳥類\n\n當你在“遊戲結束”階段激活這隻鳥的能力時，你會為你的所有獎勵卡激活該能力：既包括你當前擁有的獎勵卡，也包括你之後可能通過其他遊戲結束階段能力抽到的獎勵卡。"
+                                "Text": "這隻鳥僅在“遊戲結束”階段或其後計分的獎勵卡上計為雙倍。\n它只計入統計鳥類的獎勵卡，而不計入統計其他數量的獎勵卡。\n這隻鳥<style=warning>不計入</style>以下獎勵卡：\n- 機械工程師：4 種巢類型的成套組合。\n- 選址專家：包含一對或三張相同巢的列。\n- <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">種群監測員：<sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">中不同類型的巢。\n- 食繭解剖師：儲存在鳥身上的 <size=80%><sprite name=\"food_fish\"></size> 和 <size=80%><sprite name=\"food_fish\"></size> 標記。\n- 瀕危物種保衛者：讓你能夠結算或抽取獎勵卡的鳥類\n\n當你在“遊戲結束”階段激活這隻鳥的能力時，你會為你的所有獎勵卡激活該能力：既包括你當前擁有的獎勵卡，也包括你之後可能通過其他遊戲結束階段能力抽到的獎勵卡。"
                             },
                             {
                                 "Language": "it",
-                                "Text": "Questo uccello conta doppio solo per le carte bonus conteggiate durante o dopo la fase di FINE PARTITA. \nConta solo per le carte bonus che contano gli uccelli, non altre quantità.\nQuesto uccello <style=warning>non conta</style> per le carte bonus come:\n- Ingegnere meccanico: set di 4 tipi di nido.\n- Esperto di selezione del sito: colonne con una coppia o una terna di nidi dello stesso tipo.\n- Osservatore di popolazione nell'habitat <Habitat>: diversi tipi di nido nell'habitat <Habitat>.\n- Analizzatore di mangime: segnalini <size=80%><sprite name=\"food_fish\"></size> e <size=80%><sprite name=\"food_fish\"></size> accantonati sugli uccelli.\n- Protettore di specie in pericolo: uccelli che ti permettono di pescare carte bonus o conteggiare carte bonus per i punti. \n\nQuando attivi l'abilità di questo uccello durante la fase di FINE PARTITA, l'attivi per tutte le tue carte bonus: sia per quelle che possiedi attualmente che per quelle che potresti pescare in seguito con altre abilità di FINE PARTITA."
+                                "Text": "Questo uccello conta doppio solo per le carte bonus conteggiate durante o dopo la fase di FINE PARTITA. \nConta solo per le carte bonus che contano gli uccelli, non altre quantità.\nQuesto uccello <style=warning>non conta</style> per le carte bonus come:\n- Ingegnere meccanico: set di 4 tipi di nido.\n- Esperto di selezione del sito: colonne con una coppia o una terna di nidi dello stesso tipo.\n- Osservatore di popolazione nelle <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">: diversi tipi di nido nell'habitat <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">.\n- Analizzatore di mangime: segnalini <size=80%><sprite name=\"food_fish\"></size> e <size=80%><sprite name=\"food_fish\"></size> accantonati sugli uccelli.\n- Protettore di specie in pericolo: uccelli che ti permettono di pescare carte bonus o conteggiare carte bonus per i punti. \n\nQuando attivi l'abilità di questo uccello durante la fase di FINE PARTITA, l'attivi per tutte le tue carte bonus: sia per quelle che possiedi attualmente che per quelle che potresti pescare in seguito con altre abilità di FINE PARTITA."
                             },
                             {
                                 "Language": "ko",
-                                "Text": "이 새는 게임 종료 단계 중에 또는 그 이후에 점수를 매기는 보너스 카드에 대해서만 2배가 적용됩니다. \n이는 새의 숫자를 세는 보너스 카드에만 해당하며, 다른 수량을 세는 카드에는 해당하지 않습니다.\n이 새는 <style=warning>다음의 보너스 카드</style>에는 포함되지 않습니다.\n- 기계공학자: 둥지 4종류 각각 1개씩.\n- 위치 선정 전문가: 동일한 둥지가 2개/3개 중복되는 세로줄.\n- <Habitat> 개체 모니터: <Habitat>의 다른 둥지 유형.\n- 펠릿 분석가: 새가 저장한 <size=80%><sprite name=\"food_fish\"></size> 및 <size=80%><sprite name=\"food_fish\"></size> 토큰.\n- 멸종위기종 수호자: 득점 또는 보너스 카드를 뽑게 해주는 새들 \n\n게임 종료 단계에서 이 새의 능력을 발동하면, 보너스 카드를 전부 발동합니다. 이때, 현재 보유 중인 카드들과 다른 게임 종료 능력으로 나중에 뽑을 수 있는 카드까지 발동합니다. "
+                                "Text": "이 새는 게임 종료 단계 중에 또는 그 이후에 점수를 매기는 보너스 카드에 대해서만 2배가 적용됩니다. \n이는 새의 숫자를 세는 보너스 카드에만 해당하며, 다른 수량을 세는 카드에는 해당하지 않습니다.\n이 새는 <style=warning>다음의 보너스 카드</style>에는 포함되지 않습니다.\n- 기계공학자: 둥지 4종류 각각 1개씩.\n- 위치 선정 전문가: 동일한 둥지가 2개/3개 중복되는 세로줄.\n- <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\"> 생태 관찰요원: <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">의 다른 둥지 유형.\n- 펠릿 분석가: 새가 저장한 <size=80%><sprite name=\"food_fish\"></size> 및 <size=80%><sprite name=\"food_fish\"></size> 토큰.\n- 멸종위기종 수호자: 득점 또는 보너스 카드를 뽑게 해주는 새들 \n\n게임 종료 단계에서 이 새의 능력을 발동하면, 보너스 카드를 전부 발동합니다. 이때, 현재 보유 중인 카드들과 다른 게임 종료 능력으로 나중에 뽑을 수 있는 카드까지 발동합니다. "
                             },
                             {
                                 "Language": "uk",
-                                "Text": "Цей птах зараховується подвійно лише для карт бонусів, які підраховуються під час або після етапу «Наприкінці гри». \nВін зараховується лише до карт бонусів, які враховують птахів, а не інші показники.\nЦей птах <style=warning>не зараховується</style> для таких карт бонусів, як:\n- Інженер-механік: набори з 4 типів гнізд.\n- Експерт із забудови: колонки, в яких два чи три гнізда — однакового типу.\n- Контроль популяції ареалу <Habitat>: різні типи гнізд в ареалі <Habitat>.\n- Подрібнювач: жетони <size=80%><sprite name=\"food_fish\"></size> і <size=80%><sprite name=\"food_rodent\"></size>, запасені на птахах.\n- Захисник зникаючих видів: птахи, що дозволяють отримувати очки за карти бонусів або брати карти бонусів. \n\nКоли ви активуєте властивість цього птаха наприкінці гри, вона застосовується до всіх ваших карт бонусів: як до тих, які у вас уже є, так і до тих, які ви можете взяти пізніше завдяки іншим властивостям «Наприкінці гри»."
+                                "Text": "Цей птах зараховується подвійно лише для карт бонусів, які підраховуються під час або після етапу «Наприкінці гри». \nВін зараховується лише до карт бонусів, які враховують птахів, а не інші показники.\nЦей птах <style=warning>не зараховується</style> для таких карт бонусів, як:\n- Інженер-механік: набори з 4 типів гнізд.\n- Експерт із забудови: колонки, в яких два чи три гнізда — однакового типу.\n- СПОГЛЯДАЧ  <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\"> ПОПУЛЯЦІЇ: різні типи гнізд в ареалі <sprite name=\"habitat_forest\"><sprite name=\"habitat_grassland\"><sprite name=\"habitat_wetland\">.\n- Подрібнювач: жетони <size=80%><sprite name=\"food_fish\"></size> і <size=80%><sprite name=\"food_rodent\"></size>, запасені на птахах.\n- Захисник зникаючих видів: птахи, що дозволяють отримувати очки за карти бонусів або брати карти бонусів. \n\nКоли ви активуєте властивість цього птаха наприкінці гри, вона застосовується до всіх ваших карт бонусів: як до тих, які у вас уже є, так і до тих, які ви можете взяти пізніше завдяки іншим властивостям «Наприкінці гри». "
                             }
                         ]
                     }
@@ -9828,6 +9828,255 @@
                 }
             ],
             "Actions": []
+        },
+        {
+            "ID": "10b49e75-82fc-40ef-9103-48ec0ba6163f",
+            "Tags": [
+                "Events"
+            ],
+            "PlatformsToShowOn": 2047,
+            "StartDateTicks": 639272736000000000,
+            "EndDateTicks": 639292608000000000,
+            "Priority": 2,
+            "IsPinned": false,
+            "PresetImageName": "",
+            "RemoteImageName": "WS_Halloween.jpg",
+            "Title": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Happy Halloween!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Wesołego Halloween!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Ein fröhliches Halloween-Fest!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "Joyeux Halloween !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡Feliz Halloween!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "Feliz Dia das Bruxas!\n"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "ハッピーハロウィン！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Счастливого Хэллоуина!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "万圣节快乐！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "萬聖節快樂！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Buon Halloween!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "해피 핼러윈!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Веселого Гелловіну!"
+                    }
+                ]
+            },
+            "Header": {
+                "LocalizedTexts": [
+                    {
+                        "Language": "en",
+                        "Text": "Halloween background is back!"
+                    },
+                    {
+                        "Language": "pl",
+                        "Text": "Tło halloweenowe wróciło!"
+                    },
+                    {
+                        "Language": "de",
+                        "Text": "Der Halloween-Hintergrund ist zurück!"
+                    },
+                    {
+                        "Language": "fr",
+                        "Text": "L’arrière-plan d’Halloween fait son retour !"
+                    },
+                    {
+                        "Language": "es",
+                        "Text": "¡El fondo de Halloween ha vuelto!"
+                    },
+                    {
+                        "Language": "pt-BR",
+                        "Text": "O Fundo de Dia das Bruxas voltou!"
+                    },
+                    {
+                        "Language": "ja",
+                        "Text": "ハロウィン背景が帰ってきた！"
+                    },
+                    {
+                        "Language": "ru",
+                        "Text": "Хэллоуинский фон возвращается!"
+                    },
+                    {
+                        "Language": "zh",
+                        "Text": "万圣节主题装饰背景又回来啦！"
+                    },
+                    {
+                        "Language": "zh-Hant",
+                        "Text": "萬聖節主題裝飾背景又回來啦！"
+                    },
+                    {
+                        "Language": "it",
+                        "Text": "Lo sfondo di Halloween è tornato!"
+                    },
+                    {
+                        "Language": "ko",
+                        "Text": "핼러윈 배경이 돌아왔습니다!"
+                    },
+                    {
+                        "Language": "uk",
+                        "Text": "Гелловінське тло повертається!"
+                    }
+                ]
+            },
+            "Content": [
+                {
+                    "PlatformsToShowOn": 2047,
+                    "Text": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Spooky season is here and to celebrate we’re bringing back our seasonal Halloween background for everyone! \nEmbrace the Halloween spirit and feel the cozy mood of Wingspan but remember - look out for the Scarecrow! \nEnjoy this special seasonal background from October 1 to November 3 - or unlimitedly with Seasonal Decorative Pack!"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Sezon straszydeł powrócił, a my świętujemy ten czas udostępniając nasze sezonowe tło halloweenowe wszystkim Ptasiarzom! Wprowadź się w halloweenowy nastrój i poczuj przytulność Na Skrzydłach, ale pamiętaj - uważaj na Stracha na Wróble! Ciesz się specjalnym tłem sezonowym od 1 października do 3 listopada, lub bez ograniczeń dzięki Sezonowemu Pakietowi Dekoracyjnemu!"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Die gruseligste Zeit des Jahres steht vor der Tür und wir feiern sie mit der Rückkehr unseres saisonalen Hintergrunds für alle!\nKomm in Halloween-Laune, während du die entspannende Atmosphäre von Wingspan (Flügelschlag) genießt. Aber hüte dich vor der Vogelscheuche!\nNutze diesen besonderen Jahreszeiten-Hintergrund vom 1. Oktober bis zum 3. November – oder mit dem Jahreszeiten-Dekopaket auch das ganze Jahr!"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "C’est la saison des frissons ! Pour fêter ça, l’arrière-plan d’Halloween fait son retour pour tout le monde ! \nEntrez dans l’esprit d’Halloween tout en profitant de l’ambiance chaleureuse de Wingspan, mais faites quand même attention à l’épouvantail ! \nProfitez de cet arrière-plan de saison du 1 octobre au 3 novembre, ou toute l’année grâce au pack décoratif saisonnier !"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Ya está aquí la época más aterradora, ¡y para celebrarlo os traemos de vuelta nuestro característico fondo de temporada de Halloween!\nSiente el espíritu de Halloween y acomódate para jugar a Wingspan, pero recuerda: ¡cuidado con el espantapájaros!\nDisfruta de este fondo de temporada desde el 1 de octubre al 3 de noviembre; ¡o de forma ilimitada con el paquete de decoraciones festivas!"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "A temporada assustadora chegou, e para comemorar estamos trazendo de volta nosso fundo sazonal de Dia das Bruxas para todos!\nAbrace o espírito do Dia das Bruxas e sinta o clima aconchegante de Wingspan, mas lembre-se: fique de olho no Espantalho!\nAproveite este fundo sazonal especial de 1 de outubro a 3 de novembro, ou para sempre com o Pacote Decorativo Sazonal!"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "今年も不気味な季節がやってきました！これを記念して、期間限定のハロウィン背景が復活！\nハロウィン気分でウィングスパンの居心地の良いムードを楽しもう！ただし、カカシには気を付けるように！\n期間限定特別背景は10月1日から11月3日まで。「季節の装飾パック」を買うとずっと使える！"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Наступает время ужасов, и в честь этого мы снова дарим всем сезонный хэллоуинский фон! \nПроникнитесь духом Хэллоуина и уютной атмосферой «Крыльев» — но опасайтесь Пугала! \nЭтот особый сезонный фон будет доступен с 1 октября по 3 ноября (или без ограничений с декоративным набором «Времена года»)."
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "万圣节来了，为庆祝这一时刻，我们为大家带回了万圣节主题限定背景！\n感受《展翅翱翔》的温馨氛围，尽情享受万圣节的欢乐，但千万别忘了——小心稻草人！\n这个特别的节日背景将在10月1日到11月3日之间限时开放，或者您可以通过购买季节装饰包无限期使用！"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "萬聖節來了，為慶祝這一時刻，我們為大家帶回了萬聖節主題限定背景！\n感受《展翅翱翔》的溫馨氛圍，盡情享受萬聖節的歡樂，但千萬別忘了——小心稻草人！\n這個特別的節日背景將在10月1日到11月3日之間限時開放，或者您可以通過購買季節裝飾包無限期使用！"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "La stagione del brivido è qui e per l’occasione abbiamo reso nuovamente disponibile per tutti il nostro sfondo stagionale a tema Halloween!\nEntra nello spirito di Halloween e divertiti con la spensieratezza di Wingspan, ma ricorda: fa’ attenzione allo spaventapasseri!\nPotrai goderti lo speciale sfondo stagionale dal 1 ottobre al 3 novembre, oppure a tempo illimitato con il pacchetto decorativo stagionale!"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "오싹오싹 시즌이 돌아왔습니다. 이를 기념하고자 모든 분들을 위해 핼러윈 시즌 배경을 다시 선보입니다!\n핼러윈 분위기를 만끽하며 윙스팬의 아늑한 분위기를 느껴보세요. 그리고 허수아비를 조심하세요!\n이 특별한 시즌 배경을 10월 1일부터 11월 3일까지 한정 기간동안 즐기거나, 시즌 장식 팩으로 무제한으로 즐겨보세요! "
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Моторошна пора насуває! До Гелловіну ми повернули для всіх наше сезонне тло! \nПройміться духом пустощів і затишком «Крил», однак пам'ятайте: десь уже чигає Опудало! \nНасолоджуйтеся спеціальним сезонним тлом із 1 жовтня до 3 листопада — або ж скільки завгодно з декоративним набором «Пори року»!"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "ActionType": 1,
+                    "PlatformsToShowOn": 257,
+                    "Value": "SB_DLC",
+                    "ButtonText": {
+                        "LocalizedTexts": [
+                            {
+                                "Language": "en",
+                                "Text": "Check out Decorative DLC"
+                            },
+                            {
+                                "Language": "pl",
+                                "Text": "Sprawdź Dodatek Dekoracyjny"
+                            },
+                            {
+                                "Language": "de",
+                                "Text": "Deko-DLC ansehen"
+                            },
+                            {
+                                "Language": "fr",
+                                "Text": "Découvrez le DLC décoratif"
+                            },
+                            {
+                                "Language": "es",
+                                "Text": "Echa un ojo al DLC de decoración"
+                            },
+                            {
+                                "Language": "pt-BR",
+                                "Text": "Confira o DLC Decorativo"
+                            },
+                            {
+                                "Language": "ja",
+                                "Text": "装飾DLCをチェックしよう"
+                            },
+                            {
+                                "Language": "ru",
+                                "Text": "Взгляните на дополнение с украшениями"
+                            },
+                            {
+                                "Language": "zh",
+                                "Text": "查看装饰包DLC"
+                            },
+                            {
+                                "Language": "zh-Hant",
+                                "Text": "查看裝飾包DLC"
+                            },
+                            {
+                                "Language": "it",
+                                "Text": "Scopri il DLC decorativo"
+                            },
+                            {
+                                "Language": "ko",
+                                "Text": "장식 DLC 확인"
+                            },
+                            {
+                                "Language": "uk",
+                                "Text": "Декоративний DLC тут"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
