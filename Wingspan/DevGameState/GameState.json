@@ -1,0 +1,1580 @@
+{
+	"Players": [
+		{
+			"ID": "1",
+			"SteamID": "",
+			"TokensLeft": 5,
+			"PlayerType": 9,
+			"ProfilePicture": "BeltedKingfisher",
+			"Username": "",
+			"Color": 0,
+			"Background": "Background1",
+			"ForfeitTimeoutState": 0,
+			"Host": "",
+			"_ps": 0,
+			"_rf": false,
+			"_rer": false,
+			"_srepna": false,
+			"_frs": -1,
+			"_ger": false,
+			"_dl": 0,
+			"_cfbid": -1,
+			"_dctec": 0,
+			"_ms": 0,
+			"_dstu": false,
+			"BirdCards": [
+				12,
+				132,
+				371
+			],
+			"BonusCards": [
+				10
+			],
+			"CopiedBonusCards": [],
+			"AutomaCopiedBonusCards": [],
+			"_psnu": false,
+			"_psnaid": "",
+			"_psnoid": "",
+			"_m": [
+				{
+					"t": 1,
+					"a": 8,
+					"o": [
+						{
+							"td": {
+								"fa": {
+									"i": 0,
+									"s": 0,
+									"f": 1,
+									"fi": 0,
+									"r": 0,
+									"si": 0,
+									"n": 0,
+									"nf": 0,
+									"ns": 0
+								},
+								"fr": {
+									"i": 0,
+									"s": 0,
+									"f": -1,
+									"fi": 0,
+									"r": 0,
+									"si": 0,
+									"n": 0,
+									"nf": 0,
+									"ns": 0
+								},
+								"fb": {
+									"i": 0,
+									"s": 0,
+									"f": 0,
+									"fi": 0,
+									"r": 0,
+									"si": 0,
+									"n": 0,
+									"nf": 0,
+									"ns": 0
+								},
+								"fop": [],
+								"tc": [],
+								"crfh": [],
+								"bcrfh": [],
+								"ca": [],
+								"bca": [],
+								"crv": [],
+								"cafd": [],
+								"ctdko": [],
+								"ctd": 0,
+								"pbd": [],
+								"ecd": [],
+								"fcd": [],
+								"fpd": [],
+								"bhcd": [],
+								"bohcd": [],
+								"ape": [],
+								"apf": [],
+								"apef": [],
+								"apc": [],
+								"opc": [],
+								"bbab": [],
+								"sn": {
+									"_fs": 0,
+									"_gs": 0,
+									"_ws": 0
+								},
+								"avcd": [],
+								"dtcd": []
+							},
+							"u": false,
+							"up": true,
+							"n": "bird 0",
+							"nr": true,
+							"bid": 222,
+							"aex": true,
+							"fpop": true,
+							"sr": []
+						}
+					]
+				}
+			],
+			"_hf": {
+				"Birds": []
+			},
+			"_hg": {
+				"Birds": []
+			},
+			"_hw": {
+				"Birds": [
+					{
+						"id": 222,
+						"e": 0,
+						"eol": 0,
+						"tc": [],
+						"sh": 0,
+						"cf": {
+							"i": 0,
+							"s": 0,
+							"f": 0,
+							"fi": 0,
+							"r": 0,
+							"si": 0,
+							"n": 0,
+							"nf": 0,
+							"ns": 0
+						},
+						"bp": false,
+						"bpu": false,
+						"bps": false,
+						"wpoab": false
+					}
+				]
+			},
+			"_pf": {
+				"i": 0,
+				"s": 0,
+				"f": 1,
+				"fi": 1,
+				"r": 1,
+				"si": 0,
+				"n": 0,
+				"nf": 0,
+				"ns": 0
+			},
+			"_fgtt": {
+				"i": 0,
+				"s": 0,
+				"f": 0,
+				"fi": 0,
+				"r": 0,
+				"si": 0,
+				"n": 0,
+				"nf": 0,
+				"ns": 0
+			},
+			"_ecd": [],
+			"_snc": {
+				"f": 0,
+				"g": 0,
+				"w": 2
+			},
+			"_aps": {
+				"_init": false,
+				"_fubl": [],
+				"_fubp": 0,
+				"_fdbc": 0,
+				"_ce": 0,
+				"_gtac": 0,
+				"_htc": 0,
+				"_ads": {
+					"Deck": [],
+					"Discard": [],
+					"LastRound": 0
+				},
+				"_rad": [],
+				"_lmt": 0,
+				"_atd": {
+					"_ms": true,
+					"_ad": 0,
+					"_cptg": [],
+					"_cc": [],
+					"_dvc": false,
+					"_fdc": 0,
+					"_rf": 0,
+					"_fb": {
+						"i": 0,
+						"s": 0,
+						"f": 0,
+						"fi": 0,
+						"r": 0,
+						"si": 0,
+						"n": 0,
+						"nf": 0,
+						"ns": 0
+					},
+					"_el": 0,
+					"_gp": 0,
+					"_dsc": 0,
+					"_dst": 0,
+					"_dh": 0,
+					"_dsid": -1
+				},
+				"_nud": {
+					"_ms": true,
+					"_nac": [],
+					"_ingr": false,
+					"_fnc": 0,
+					"_gnc": 0,
+					"_wnc": 0
+				}
+			},
+			"_ads": {
+				"_fdcp": 0,
+				"_uac": false,
+				"_ukc": false,
+				"_uaec": false,
+				"_ssnc": 0,
+				"_upbc": false,
+				"_uabc": false,
+				"_ubgbc": false,
+				"_ueebc": false,
+				"_uaebc": false,
+				"_acv": false,
+				"_ahv": false,
+				"_ahav": false,
+				"_htec": 0,
+				"_arsv": false
+			},
+			"_ais": {
+				"p": 1,
+				"f": 1,
+				"g": 0,
+				"w": 1
+			},
+			"_nrsh": {
+				"statesList": [],
+				"a": 0
+			},
+			"_bchc": [],
+			"_dckote": [],
+			"_statt": 0,
+			"_acd": {
+				"_elupp": 0,
+				"_tpgfto": 0,
+				"_pbtc": 1,
+				"_fcupp": 0,
+				"_fs": 0,
+				"_fgotc": 0,
+				"_fbp": 0,
+				"_bmtapp": 0,
+				"_fcwb437p": 0,
+				"_fcwb438p": 0,
+				"_fcwb439p": 0,
+				"_fcwb440p": 0,
+				"_sbc": []
+			}
+		},
+		{
+			"ID": "2",
+			"SteamID": "",
+			"TokensLeft": 6,
+			"PlayerType": 0,
+			"ProfilePicture": "AtlanticPuffin",
+			"Username": "",
+			"Color": 1,
+			"Background": "Background2",
+			"ForfeitTimeoutState": 0,
+			"Host": "",
+			"_ps": 1,
+			"_rf": false,
+			"_rer": false,
+			"_srepna": false,
+			"_frs": -1,
+			"_ger": false,
+			"_dl": 1,
+			"_cfbid": -1,
+			"_dctec": 0,
+			"_ms": 6,
+			"_dstu": false,
+			"BirdCards": [
+				470,
+				1
+			],
+			"BonusCards": [
+				28
+			],
+			"CopiedBonusCards": [],
+			"AutomaCopiedBonusCards": [],
+			"_psnu": false,
+			"_psnaid": "",
+			"_psnoid": "",
+			"_m": [
+				{
+					"t": 1,
+					"a": 8,
+					"o": [
+						{
+							"td": {
+								"fa": {
+									"i": 0,
+									"s": 0,
+									"f": 0,
+									"fi": 0,
+									"r": 0,
+									"si": 0,
+									"n": 0,
+									"nf": 0,
+									"ns": 0
+								},
+								"fr": {
+									"i": 0,
+									"s": 0,
+									"f": 0,
+									"fi": 0,
+									"r": 0,
+									"si": 0,
+									"n": 0,
+									"nf": 0,
+									"ns": 0
+								},
+								"fb": {
+									"i": 0,
+									"s": 0,
+									"f": 0,
+									"fi": 0,
+									"r": 0,
+									"si": 0,
+									"n": 0,
+									"nf": 0,
+									"ns": 0
+								},
+								"fop": [],
+								"tc": [],
+								"crfh": [],
+								"bcrfh": [],
+								"ca": [
+									339
+								],
+								"bca": [],
+								"crv": [
+									339
+								],
+								"cafd": [],
+								"ctdko": [],
+								"ctd": 0,
+								"pbd": [],
+								"ecd": [],
+								"fcd": [],
+								"fpd": [],
+								"bhcd": [],
+								"bohcd": [],
+								"ape": [],
+								"apf": [],
+								"apef": [],
+								"apc": [],
+								"opc": [],
+								"bbab": [],
+								"sn": {
+									"_fs": 0,
+									"_gs": 0,
+									"_ws": 0
+								},
+								"avcd": [],
+								"dtcd": []
+							},
+							"u": false,
+							"up": true,
+							"n": "ProcessAction - NormalTurnOrder",
+							"nr": false,
+							"bid": 0,
+							"aex": true,
+							"fpop": true,
+							"sr": []
+						}
+					]
+				},
+				{
+					"t": 1,
+					"a": 1,
+					"o": [
+						{
+							"td": {
+								"fa": {
+									"i": 0,
+									"s": 0,
+									"f": 0,
+									"fi": 0,
+									"r": 0,
+									"si": 0,
+									"n": 0,
+									"nf": 0,
+									"ns": 0
+								},
+								"fr": {
+									"i": -1,
+									"s": 0,
+									"f": 0,
+									"fi": 0,
+									"r": 0,
+									"si": 0,
+									"n": -1,
+									"nf": 0,
+									"ns": 0
+								},
+								"fb": {
+									"i": 0,
+									"s": 0,
+									"f": 0,
+									"fi": 0,
+									"r": 0,
+									"si": 0,
+									"n": 0,
+									"nf": 0,
+									"ns": 0
+								},
+								"fop": [],
+								"tc": [],
+								"crfh": [
+									339
+								],
+								"bcrfh": [],
+								"ca": [],
+								"bca": [],
+								"crv": [],
+								"cafd": [],
+								"ctdko": [],
+								"ctd": 0,
+								"pbd": [
+									{
+										"b": 339,
+										"h": 8,
+										"sbid": 0,
+										"scp": false
+									}
+								],
+								"ecd": [],
+								"fcd": [],
+								"fpd": [],
+								"bhcd": [],
+								"bohcd": [],
+								"ape": [],
+								"apf": [],
+								"apef": [],
+								"apc": [],
+								"opc": [],
+								"bbab": [],
+								"sn": {
+									"_fs": 0,
+									"_gs": 0,
+									"_ws": 1
+								},
+								"avcd": [],
+								"dtcd": []
+							},
+							"u": false,
+							"up": true,
+							"n": "ChooseActionDecision - PlayBirdDecision",
+							"nr": false,
+							"bid": 0,
+							"aex": false,
+							"fpop": true,
+							"sr": []
+						}
+					]
+				}
+			],
+			"_hf": {
+				"Birds": []
+			},
+			"_hg": {
+				"Birds": []
+			},
+			"_hw": {
+				"Birds": [
+					{
+						"id": 339,
+						"e": 0,
+						"eol": 0,
+						"tc": [],
+						"sh": 0,
+						"cf": {
+							"i": 0,
+							"s": 0,
+							"f": 0,
+							"fi": 0,
+							"r": 0,
+							"si": 0,
+							"n": 0,
+							"nf": 0,
+							"ns": 0
+						},
+						"bp": false,
+						"bpu": false,
+						"bps": false,
+						"wpoab": false
+					}
+				]
+			},
+			"_pf": {
+				"i": 1,
+				"s": 1,
+				"f": 0,
+				"fi": 1,
+				"r": 1,
+				"si": 0,
+				"n": 0,
+				"nf": 0,
+				"ns": 0
+			},
+			"_fgtt": {
+				"i": 0,
+				"s": 0,
+				"f": 0,
+				"fi": 0,
+				"r": 0,
+				"si": 0,
+				"n": 0,
+				"nf": 0,
+				"ns": 0
+			},
+			"_ecd": [],
+			"_snc": {
+				"f": 0,
+				"g": 0,
+				"w": 1
+			},
+			"_aps": {
+				"_init": false,
+				"_fubl": [],
+				"_fubp": 0,
+				"_fdbc": 0,
+				"_ce": 0,
+				"_gtac": 0,
+				"_htc": 0,
+				"_ads": {
+					"Deck": [],
+					"Discard": [],
+					"LastRound": 0
+				},
+				"_rad": [],
+				"_lmt": 0,
+				"_atd": {
+					"_ms": true,
+					"_ad": 0,
+					"_cptg": [],
+					"_cc": [],
+					"_dvc": false,
+					"_fdc": 0,
+					"_rf": 0,
+					"_fb": {
+						"i": 0,
+						"s": 0,
+						"f": 0,
+						"fi": 0,
+						"r": 0,
+						"si": 0,
+						"n": 0,
+						"nf": 0,
+						"ns": 0
+					},
+					"_el": 0,
+					"_gp": 0,
+					"_dsc": 0,
+					"_dst": 0,
+					"_dh": 0,
+					"_dsid": -1
+				},
+				"_nud": {
+					"_ms": true,
+					"_nac": [],
+					"_ingr": false,
+					"_fnc": 0,
+					"_gnc": 0,
+					"_wnc": 0
+				}
+			},
+			"_ads": {
+				"_fdcp": 0,
+				"_uac": false,
+				"_ukc": false,
+				"_uaec": false,
+				"_ssnc": 0,
+				"_upbc": false,
+				"_uabc": false,
+				"_ubgbc": false,
+				"_ueebc": false,
+				"_uaebc": false,
+				"_acv": false,
+				"_ahv": false,
+				"_ahav": false,
+				"_htec": 0,
+				"_arsv": false
+			},
+			"_ais": {
+				"p": 1,
+				"f": 0,
+				"g": 0,
+				"w": 1
+			},
+			"_nrsh": {
+				"statesList": [],
+				"a": 0
+			},
+			"_bchc": [],
+			"_dckote": [],
+			"_statt": 0,
+			"_acd": {
+				"_elupp": 0,
+				"_tpgfto": 0,
+				"_pbtc": 1,
+				"_fcupp": 0,
+				"_fs": 0,
+				"_fgotc": 0,
+				"_fbp": 0,
+				"_bmtapp": 0,
+				"_fcwb437p": 0,
+				"_fcwb438p": 0,
+				"_fcwb439p": 0,
+				"_fcwb440p": 0,
+				"_sbc": []
+			}
+		}
+	],
+	"BirdFeederState": {
+		"i": 1,
+		"s": 0,
+		"f": 0,
+		"fi": 0,
+		"r": 1,
+		"si": 1,
+		"n": 0,
+		"nf": 0,
+		"ns": 0
+	},
+	"GoalBoardState": {
+		"GoalBoardMode": 0,
+		"Goals": [
+			{
+				"_gn": 32,
+				"_p": [
+					{
+						"_pid": "1",
+						"_s": 0,
+						"_c": 0,
+						"_p": 3
+					},
+					{
+						"_pid": "2",
+						"_s": 0,
+						"_c": 0,
+						"_p": 3
+					}
+				]
+			},
+			{
+				"_gn": 28,
+				"_p": [
+					{
+						"_pid": "1",
+						"_s": 0,
+						"_c": 0,
+						"_p": 3
+					},
+					{
+						"_pid": "2",
+						"_s": 0,
+						"_c": 0,
+						"_p": 3
+					}
+				]
+			},
+			{
+				"_gn": 27,
+				"_p": [
+					{
+						"_pid": "2",
+						"_s": 4,
+						"_c": 1,
+						"_p": 0
+					},
+					{
+						"_pid": "1",
+						"_s": 4,
+						"_c": 1,
+						"_p": 0
+					}
+				]
+			},
+			{
+				"_gn": 24,
+				"_p": [
+					{
+						"_pid": "1",
+						"_s": 7,
+						"_c": 3,
+						"_p": 0
+					},
+					{
+						"_pid": "2",
+						"_s": 4,
+						"_c": 2,
+						"_p": 1
+					}
+				]
+			}
+		]
+	},
+	"BonusesDeckState": {
+		"Deck": [
+			35,
+			24,
+			19,
+			33,
+			15,
+			44,
+			18,
+			2,
+			8,
+			36,
+			12,
+			5,
+			7,
+			13,
+			4,
+			45,
+			38,
+			23,
+			21,
+			42,
+			29,
+			31,
+			20,
+			27,
+			16,
+			47,
+			40,
+			3,
+			37,
+			39,
+			22,
+			14,
+			25,
+			34,
+			11,
+			32,
+			41,
+			6,
+			26,
+			17,
+			46,
+			1
+		],
+		"Discard": [
+			43,
+			30
+		]
+	},
+	"BirdsDeckState": {
+		"IncludeRavens": true,
+		"Deck": [
+			246,
+			192,
+			161,
+			61,
+			324,
+			223,
+			287,
+			304,
+			276,
+			80,
+			182,
+			435,
+			90,
+			354,
+			218,
+			212,
+			259,
+			104,
+			142,
+			433,
+			320,
+			402,
+			418,
+			166,
+			349,
+			185,
+			119,
+			442,
+			238,
+			269,
+			347,
+			100,
+			273,
+			22,
+			408,
+			392,
+			403,
+			245,
+			73,
+			81,
+			138,
+			25,
+			278,
+			44,
+			178,
+			235,
+			109,
+			391,
+			146,
+			96,
+			264,
+			248,
+			280,
+			281,
+			69,
+			230,
+			87,
+			407,
+			217,
+			59,
+			98,
+			351,
+			394,
+			383,
+			143,
+			316,
+			83,
+			286,
+			152,
+			115,
+			378,
+			93,
+			416,
+			52,
+			219,
+			397,
+			225,
+			114,
+			242,
+			17,
+			203,
+			168,
+			308,
+			231,
+			401,
+			86,
+			173,
+			420,
+			325,
+			267,
+			410,
+			74,
+			172,
+			406,
+			409,
+			390,
+			423,
+			136,
+			381,
+			39,
+			116,
+			399,
+			263,
+			147,
+			206,
+			309,
+			106,
+			360,
+			180,
+			72,
+			194,
+			32,
+			163,
+			202,
+			350,
+			322,
+			48,
+			426,
+			16,
+			19,
+			249,
+			260,
+			50,
+			211,
+			330,
+			118,
+			205,
+			112,
+			82,
+			364,
+			24,
+			62,
+			67,
+			140,
+			436,
+			279,
+			294,
+			272,
+			85,
+			169,
+			419,
+			365,
+			226,
+			153,
+			190,
+			131,
+			284,
+			89,
+			289,
+			215,
+			431,
+			29,
+			302,
+			63,
+			277,
+			216,
+			300,
+			321,
+			421,
+			385,
+			234,
+			197,
+			210,
+			162,
+			94,
+			78,
+			10,
+			439,
+			386,
+			145,
+			297,
+			30,
+			331,
+			250,
+			311,
+			70,
+			47,
+			77,
+			301,
+			358,
+			150,
+			427,
+			313,
+			375,
+			357,
+			411,
+			171,
+			255,
+			283,
+			193,
+			130,
+			341,
+			270,
+			28,
+			71,
+			239,
+			113,
+			158,
+			233,
+			345,
+			282,
+			60,
+			327,
+			220,
+			366,
+			265,
+			337,
+			376,
+			195,
+			291,
+			46,
+			254,
+			34,
+			21,
+			295,
+			446,
+			75,
+			160,
+			149,
+			412,
+			151,
+			124,
+			319,
+			336,
+			361,
+			214,
+			200,
+			262,
+			440,
+			92,
+			176,
+			111,
+			15,
+			133,
+			187,
+			395,
+			438,
+			237,
+			359,
+			128,
+			139,
+			285,
+			393,
+			307,
+			41,
+			105,
+			40,
+			91,
+			396,
+			434,
+			415,
+			65,
+			425,
+			298,
+			201,
+			57,
+			26,
+			227,
+			344,
+			157,
+			45,
+			428,
+			305,
+			247,
+			299,
+			356,
+			18,
+			422,
+			123,
+			177,
+			198,
+			51,
+			268,
+			236,
+			79,
+			110,
+			213,
+			362,
+			372,
+			389,
+			432,
+			292,
+			244,
+			404,
+			76,
+			328,
+			243,
+			36,
+			252,
+			400,
+			135,
+			293,
+			317,
+			101,
+			384,
+			253,
+			323,
+			232,
+			14,
+			64,
+			33,
+			191,
+			398,
+			120,
+			154,
+			35,
+			266,
+			445,
+			170,
+			184,
+			125,
+			175,
+			340,
+			13,
+			296,
+			156,
+			66,
+			251,
+			208,
+			380,
+			189,
+			56,
+			303,
+			256,
+			429,
+			58,
+			97,
+			257,
+			346,
+			274,
+			326,
+			370,
+			20,
+			374,
+			261,
+			414,
+			159,
+			5,
+			275,
+			413,
+			174,
+			379,
+			102,
+			258,
+			417,
+			155,
+			43,
+			141,
+			27,
+			38,
+			387,
+			405,
+			312,
+			37,
+			9,
+			315,
+			352,
+			288,
+			144,
+			95,
+			369,
+			382,
+			129,
+			306,
+			424,
+			117,
+			368,
+			343,
+			164,
+			373,
+			221,
+			310,
+			209,
+			181,
+			3,
+			228,
+			4,
+			437,
+			207,
+			148,
+			167,
+			103,
+			23,
+			53,
+			444,
+			88,
+			165,
+			7,
+			290,
+			68,
+			126,
+			8,
+			332,
+			127,
+			137,
+			204,
+			388,
+			121,
+			229,
+			186,
+			334,
+			224,
+			271,
+			54,
+			99,
+			430,
+			2,
+			107,
+			49,
+			314,
+			6,
+			108,
+			338,
+			84,
+			241,
+			134,
+			348,
+			122,
+			443,
+			363,
+			329,
+			333,
+			188,
+			31,
+			42,
+			355,
+			441,
+			240,
+			318,
+			55
+		],
+		"Visible": [
+			11,
+			342,
+			183
+		],
+		"Discard": [
+			199,
+			179,
+			367,
+			353,
+			335,
+			377,
+			196
+		]
+	},
+	"DuetMapState": {
+		"slots": [
+			{
+				"id": 0,
+				"playerId": ""
+			},
+			{
+				"id": 1,
+				"playerId": ""
+			},
+			{
+				"id": 2,
+				"playerId": ""
+			},
+			{
+				"id": 3,
+				"playerId": ""
+			},
+			{
+				"id": 4,
+				"playerId": ""
+			},
+			{
+				"id": 5,
+				"playerId": ""
+			},
+			{
+				"id": 6,
+				"playerId": ""
+			},
+			{
+				"id": 7,
+				"playerId": ""
+			},
+			{
+				"id": 8,
+				"playerId": ""
+			},
+			{
+				"id": 9,
+				"playerId": ""
+			},
+			{
+				"id": 10,
+				"playerId": ""
+			},
+			{
+				"id": 11,
+				"playerId": ""
+			},
+			{
+				"id": 12,
+				"playerId": ""
+			},
+			{
+				"id": 13,
+				"playerId": ""
+			},
+			{
+				"id": 14,
+				"playerId": ""
+			},
+			{
+				"id": 15,
+				"playerId": ""
+			},
+			{
+				"id": 16,
+				"playerId": ""
+			},
+			{
+				"id": 17,
+				"playerId": ""
+			},
+			{
+				"id": 18,
+				"playerId": ""
+			},
+			{
+				"id": 19,
+				"playerId": ""
+			},
+			{
+				"id": 20,
+				"playerId": ""
+			},
+			{
+				"id": 21,
+				"playerId": ""
+			},
+			{
+				"id": 22,
+				"playerId": ""
+			},
+			{
+				"id": 23,
+				"playerId": ""
+			},
+			{
+				"id": 24,
+				"playerId": ""
+			},
+			{
+				"id": 25,
+				"playerId": ""
+			},
+			{
+				"id": 26,
+				"playerId": ""
+			},
+			{
+				"id": 27,
+				"playerId": ""
+			},
+			{
+				"id": 28,
+				"playerId": ""
+			},
+			{
+				"id": 29,
+				"playerId": ""
+			},
+			{
+				"id": 30,
+				"playerId": ""
+			},
+			{
+				"id": 31,
+				"playerId": ""
+			},
+			{
+				"id": 32,
+				"playerId": ""
+			},
+			{
+				"id": 33,
+				"playerId": ""
+			},
+			{
+				"id": 34,
+				"playerId": ""
+			},
+			{
+				"id": 35,
+				"playerId": ""
+			}
+		],
+		"rerollSlots": [
+			{
+				"playerId": "1",
+				"tokensCounter": 0
+			},
+			{
+				"playerId": "2",
+				"tokensCounter": 0
+			}
+		]
+	},
+	"SpentNectarScoring": {
+		"forestScoring": [
+			{
+				"ID": "1",
+				"Score": 0,
+				"Place": 0
+			},
+			{
+				"ID": "2",
+				"Score": 0,
+				"Place": 0
+			}
+		],
+		"grasslandScoring": [
+			{
+				"ID": "1",
+				"Score": 0,
+				"Place": 0
+			},
+			{
+				"ID": "2",
+				"Score": 0,
+				"Place": 0
+			}
+		],
+		"wetlandScoring": [
+			{
+				"ID": "1",
+				"Score": 5,
+				"Place": 1
+			},
+			{
+				"ID": "2",
+				"Score": 2,
+				"Place": 2
+			}
+		]
+	},
+	"Scores": [
+		{
+			"_pid": "1",
+			"_ts": 8,
+			"_bp": 3,
+			"_bcp": 0,
+			"_gp": 0,
+			"_ep": 0,
+			"_cfp": 0,
+			"_tcp": 0,
+			"_snp": 5,
+			"_dlgp": 0,
+			"_ft": 3,
+			"_ahp": 0
+		},
+		{
+			"_pid": "2",
+			"_ts": 6,
+			"_bp": 4,
+			"_bcp": 0,
+			"_gp": 0,
+			"_ep": 0,
+			"_cfp": 0,
+			"_tcp": 0,
+			"_snp": 2,
+			"_dlgp": 0,
+			"_ft": 4,
+			"_ahp": 0
+		}
+	],
+	"InterjectionTurnData": {
+		"_je": false,
+		"_wat": false,
+		"_sca": 15,
+		"_sto": [],
+		"_rct": "",
+		"_rbi": -1,
+		"_rer": false,
+		"_ger": false,
+		"_cr": {
+			"_spid": "",
+			"_tpid": "",
+			"_bid": 0,
+			"_ubid": 0,
+			"_tt": 0,
+			"_it": 0,
+			"_hc": {
+				"HuntingType": 0,
+				"FoodArgs": [],
+				"WingspanArg": 0,
+				"HabitatArgs": []
+			},
+			"_parb": false,
+			"_abcid": [],
+			"_aft": [],
+			"_aa": 0,
+			"_aa2": 0,
+			"_ah": 0,
+			"_ant": 0,
+			"_af": {
+				"i": 0,
+				"s": 0,
+				"f": 0,
+				"fi": 0,
+				"r": 0,
+				"si": 0,
+				"n": 0,
+				"nf": 0,
+				"ns": 0
+			},
+			"_iliq": false,
+			"_mrtp": false
+		},
+		"_cai": {
+			"Action": 0,
+			"MainDecisions": {
+				"count": 0,
+				"array": {
+					"bitField": 0
+				}
+			},
+			"Bird0": {
+				"bitField0": 0
+			},
+			"Bird1": {
+				"bitField0": 0
+			},
+			"Bird2": {
+				"bitField0": 0
+			},
+			"Bird3": {
+				"bitField0": 0
+			},
+			"Bird4": {
+				"bitField0": 0
+			},
+			"HabitatType": 0,
+			"FoodPayment": {
+				"bitField0": 0,
+				"bitField1": 0
+			},
+			"EggsPayment": {
+				"count": 0,
+				"array": {
+					"bitField": 0
+				}
+			},
+			"PlayBirdInTwoSlots": false,
+			"DuetSlotId": 0
+		},
+		"_mrtp": false
+	},
+	"InterjectionsQueue": {
+		"interjectionRequests": []
+	},
+	"AcceptedInvites": {
+		"PlayerIDs": [],
+		"MessageIDs": [],
+		"PlayerSlots": [],
+		"Usernames": [],
+		"Portraits": [],
+		"Backgrounds": [],
+		"Colors": []
+	},
+	"SentInvites": {
+		"PlayerIDs": [],
+		"PlayerSlots": []
+	},
+	"mga": true,
+	"ssa": true,
+	"eea": true,
+	"oea": true,
+	"aee": true,
+	"fpbba": false,
+	"fpaaaa": false,
+	"gameMode": 0,
+	"CurrentPlayerID": "2",
+	"TurnType": 1,
+	"MovesCounter": 9,
+	"TurnNumber": 5,
+	"ProgressNumber": 0,
+	"RoundsCounter": 0,
+	"SavedBirdIndex": -1,
+	"DebugLogging": false,
+	"IsFinished": false,
+	"WasTimeoutOrForfeitLastTurn": false,
+	"MatchId": "local_134193338083546178",
+	"ParentMatchID": "",
+	"MatchType": "CUSTOMGAME",
+	"CustomHost": "",
+	"MatchState": "",
+	"MatchVersion": 0,
+	"SettingUp": false,
+	"CurrentPlayerSlot": 1,
+	"ChallengeFoodQueueIndex": 0,
+	"ChallengeFoodQueue": [],
+	"GameStateVersion": 4,
+	"TimeoutSecondsRemaining": 0,
+	"GameTimeoutMode": 0
+}
